@@ -68967,9 +68967,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+    oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+    proposed_oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
     inferred:
       kind: null
       package_size: null
@@ -70076,9 +70076,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+    oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+    proposed_oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
     inferred:
       kind: null
       package_size: null
@@ -74222,9 +74222,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+    oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+    proposed_oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
     inferred:
       kind: connector
       package_size: null

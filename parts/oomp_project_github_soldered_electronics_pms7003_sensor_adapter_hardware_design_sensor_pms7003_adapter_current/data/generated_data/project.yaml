@@ -18968,9 +18968,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a
+    oomp_id: electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a
+    proposed_oomp_id: electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a
     inferred:
       kind: null
       package_size: null

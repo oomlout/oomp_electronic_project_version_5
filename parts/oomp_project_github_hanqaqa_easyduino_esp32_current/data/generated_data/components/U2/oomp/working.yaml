@@ -1,40 +1,38 @@
 bip_39_2_word_array:
-- friend
-- express
-bip_39_2_word_no_space: friendexpress
-bip_39_2_word_space: friend express
-bip_39_2_word_underscore: friend_express
+- panic
+- panic
+bip_39_2_word_no_space: panicpanic
+bip_39_2_word_space: panic panic
+bip_39_2_word_underscore: panic_panic
 bip_39_3_word_array:
-- friend
-- express
-- naive
-bip_39_3_word_no_space: friendexpressnaive
-bip_39_3_word_space: friend express naive
-bip_39_3_word_underscore: friend_express_naive
+- panic
+- panic
+- car
+bip_39_3_word_no_space: panicpaniccar
+bip_39_3_word_space: panic panic car
+bip_39_3_word_underscore: panic_panic_car
 bip_39_full_array:
-- friend
-- express
-- naive
-- exist
-- ceiling
-- turkey
-- erase
-- question
-- deny
-- what
-- behind
-- someone
-bip_39_full_no_space: friendexpressnaiveexistceilingturkeyerasequestiondenywhatbehindsomeone
-bip_39_full_space: friend express naive exist ceiling turkey erase question deny what
-  behind someone
-bip_39_full_underscore: friend_express_naive_exist_ceiling_turkey_erase_question_deny_what_behind_someone
+- panic
+- panic
+- car
+- timber
+- brown
+- walk
+- sort
+- magic
+- angle
+- race
+- about
+- sell
+bip_39_full_no_space: panicpaniccartimberbrownwalksortmagicangleraceaboutsell
+bip_39_full_space: panic panic car timber brown walk sort magic angle race about sell
+bip_39_full_underscore: panic_panic_car_timber_brown_walk_sort_magic_angle_race_about_sell
 category: mcu
 category_name: MCU
 datasheet_url: https://www.lcsc.com/datasheet/C701342.pdf
 dimension_reference:
   document: ESP32-WROOM-32E/32UE v1.6
-  notes: 'Top view: 0.45x0.9mm castellations on 1.27mm pitch. Exposed underside GND
-    pad is not shown through the shield.'
+  notes: 'Top view: 0.45x0.9mm castellations on 1.27mm pitch. Exposed underside GND pad is not shown through the shield.'
   pages:
   - 3
   - 10
@@ -45,7 +43,7 @@ dimensions_mm:
   height: 3.1
   length: 18.0
   width: 25.5
-directory: parts/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+directory: parts/electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
 distributors:
 - key: lcsc
   part_number: C701342
@@ -57,52 +55,45 @@ electrical:
   supply: 3.0 to 3.6 V
 file_copy:
 - file_destination: datasheet.pdf
-  file_source: parts_source/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8/datasheet.pdf
-id: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
-id_no_class: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
-id_no_size: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
-id_no_type: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+  file_source: parts_source/electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8/datasheet.pdf
+id: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
+id_no_class: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
+id_no_size: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
+id_no_type: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
 kicad:
   hand_solder: ''
   machine_solder: RF_Module:ESP32-WROOM-32E
   symbol: RF_Module:ESP32-WROOM-32E
 lcsc_search: ESP32-WROOM-32E-N8
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
 manufacturer: Espressif
 manufacturers:
 - manufacturer: Espressif
   part_number: ESP32-WROOM-32E-N8
-md5: 5cea1a4aa7e24fd5531d7c3abf385267
-md5_10: 5cea1a4aa7
-md5_10_upper: 5CEA1A4AA7
-md5_5: 5cea1
-md5_5_upper: 5CEA1
-md5_6: 5cea1a
-md5_6_alpha: 3mihm
-md5_6_alpha_upper: 3MIHM
-md5_6_upper: 5CEA1A
-name: Electronic Ic Esp32 Wroom 32E Microcontroller Wifi Bluetooth 8 Mb Flash Espressif
-  Esp32 Wroom 32E N8
-name_no_class: Electronic Ic Esp32 Wroom 32E Microcontroller Wifi Bluetooth 8 Mb Flash
-  Espressif Esp32 Wroom 32E N8
-name_no_size: Electronic Ic Esp32 Wroom 32E Microcontroller Wifi Bluetooth 8 Mb Flash
-  Espressif Esp32 Wroom 32E N8
-name_no_type: Electronic Ic Esp32 Wroom 32E Microcontroller Wifi Bluetooth 8 Mb Flash
-  Espressif Esp32 Wroom 32E N8
+md5: 9fb3f4897111d1ed33e42e08d60c01e1
+md5_10: 9fb3f48971
+md5_10_upper: 9FB3F48971
+md5_5: 9fb3f
+md5_5_upper: 9FB3F
+md5_6: 9fb3f4
+md5_6_alpha: 68buc
+md5_6_alpha_upper: 68BUC
+md5_6_upper: 9FB3F4
+name: Electronic Ic Microcontroller Wifi Bluetooth 8 Mb Flash Esp32 Wroom 32E Espressif Esp32 Wroom 32E N8
+name_no_class: Electronic Ic Microcontroller Wifi Bluetooth 8 Mb Flash Esp32 Wroom 32E Espressif Esp32 Wroom 32E N8
+name_no_size: Electronic Ic Microcontroller Wifi Bluetooth 8 Mb Flash Esp32 Wroom 32E Espressif Esp32 Wroom 32E N8
+name_no_type: Electronic Ic Microcontroller Wifi Bluetooth 8 Mb Flash Esp32 Wroom 32E Espressif Esp32 Wroom 32E N8
 name_proper: IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E
 name_readable: IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E
 name_short: IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E
-name_space: electronic ic esp32 wroom 32e microcontroller wifi bluetooth 8 mb flash
-  espressif esp32 wroom 32e n8
-name_upper: ELECTRONIC IC ESP32 WROOM 32E MICROCONTROLLER WIFI BLUETOOTH 8 MB FLASH
-  ESPRESSIF ESP32 WROOM 32E N8
+name_space: electronic ic microcontroller wifi bluetooth 8 mb flash esp32 wroom 32e espressif esp32 wroom 32e n8
+name_upper: ELECTRONIC IC ESP32 WROOM 32E MICROCONTROLLER WIFI BLUETOOTH 8 MB FLASH ESPRESSIF ESP32 WROOM 32E N8
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -115,7 +106,7 @@ oomlout_ai_roboclick_2:
     delete_before_copy: true
     exit_on_missing: true
     file_destination: data/datasheet.pdf
-    file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8/datasheet.pdf
+    file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8/datasheet.pdf
   description: Copy part-specific source files into the working data directory.
   file_test: data/datasheet.pdf
   retries_until_complete: 0
@@ -125,7 +116,7 @@ oomlout_ai_roboclick_3:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+    part_id: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -205,8 +196,7 @@ oomlout_ai_roboclick_3:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_4:
@@ -220,8 +210,7 @@ oomlout_ai_roboclick_4:
       datasheet_url: https://www.lcsc.com/datasheet/C701342.pdf
       dimension_reference:
         document: ESP32-WROOM-32E/32UE v1.6
-        notes: 'Top view: 0.45x0.9mm castellations on 1.27mm pitch. Exposed underside
-          GND pad is not shown through the shield.'
+        notes: 'Top view: 0.45x0.9mm castellations on 1.27mm pitch. Exposed underside GND pad is not shown through the shield.'
         pages:
         - 3
         - 10
@@ -232,7 +221,7 @@ oomlout_ai_roboclick_4:
         height: 3.1
         length: 18.0
         width: 25.5
-      directory: parts\electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+      directory: parts\electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
       distributors:
       - key: lcsc
         part_number: C701342
@@ -244,7 +233,7 @@ oomlout_ai_roboclick_4:
         supply: 3.0 to 3.6 V
       file_copy:
       - file_destination: datasheet.pdf
-        file_source: parts_source/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8/datasheet.pdf
+        file_source: parts_source/electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8/datasheet.pdf
       kicad:
         hand_solder: ''
         machine_solder: RF_Module:ESP32-WROOM-32E
@@ -254,19 +243,16 @@ oomlout_ai_roboclick_4:
       manufacturers:
       - manufacturer: Espressif
         part_number: ESP32-WROOM-32E-N8
-      name: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+      name: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
       name_proper: IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E
       name_readable: IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E
       name_short: IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E
-      name_space: electronic ic esp32 wroom 32e microcontroller wifi bluetooth 8 mb
-        flash espressif esp32 wroom 32e n8
-      name_upper: ELECTRONIC IC ESP32 WROOM 32E MICROCONTROLLER WIFI BLUETOOTH 8 MB
-        FLASH ESPRESSIF ESP32 WROOM 32E N8
+      name_space: electronic ic microcontroller wifi bluetooth 8 mb flash esp32 wroom 32e espressif esp32 wroom 32e n8
+      name_upper: ELECTRONIC IC ESP32 WROOM 32E MICROCONTROLLER WIFI BLUETOOTH 8 MB FLASH ESPRESSIF ESP32 WROOM 32E N8
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -279,18 +265,17 @@ oomlout_ai_roboclick_4:
           delete_before_copy: true
           exit_on_missing: true
           file_destination: data/datasheet.pdf
-          file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8/datasheet.pdf
+          file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8/datasheet.pdf
         description: Copy part-specific source files into the working data directory.
         file_test: data/datasheet.pdf
         retries_until_complete: 0
       oomlout_ai_roboclick_3:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+          part_id: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -370,8 +355,7 @@ oomlout_ai_roboclick_4:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -701,8 +685,8 @@ oomlout_ai_roboclick_4:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/esp32_wroom_32e/microcontroller/wifi_bluetooth_8_mb_flash/espressif/README.md
-        oomp_id: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+        navigation_link: ../../navigation/electronic/ic/microcontroller/wifi_bluetooth_8_mb_flash/esp32_wroom_32e/espressif/README.md
+        oomp_id: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
         pins:
         - name: gnd
           number: '1'
@@ -823,7 +807,7 @@ oomlout_ai_roboclick_4:
           type: gnd
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+          value: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
         - title: Type
           value: Ic
         - title: Package / style
@@ -832,21 +816,19 @@ oomlout_ai_roboclick_4:
           value: 18.0 × 25.5 mm
         - title: Documented pins
           value: 39
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
-        summary: IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E is an OOMP electronic ic definition.
-          It uses the esp32 wroom 32e package or form factor. Its nominal drawing
-          size is 18.0 × 25.5 mm. The definition includes 39 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
+        summary: IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E is an OOMP electronic ic definition. It uses the esp32 wroom 32e package or form factor. Its nominal drawing size is 18.0 × 25.5 mm. The definition includes 39 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: esp32_wroom_32e
-        - level: 4
           value: microcontroller
-        - level: 5
+        - level: 4
           value: wifi_bluetooth_8_mb_flash
+        - level: 5
+          value: esp32_wroom_32e
         - level: 14
           value: espressif
         - level: 15
@@ -1171,9 +1153,6 @@ oomlout_ai_roboclick_4:
       taxonomy_14: espressif
       taxonomy_15: esp32_wroom_32e_n8
       taxonomy_2: ic
-      taxonomy_3: esp32_wroom_32e
-      taxonomy_4: microcontroller
-      taxonomy_5: wifi_bluetooth_8_mb_flash
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -1190,6 +1169,9 @@ oomlout_ai_roboclick_4:
         references:
         - U2
         version: current
+      taxonomy_5: esp32_wroom_32e
+      taxonomy_3: microcontroller
+      taxonomy_4: wifi_bluetooth_8_mb_flash
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -1197,7 +1179,7 @@ oomlout_ai_roboclick_4:
     search_and_replace: []
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+oomp_key: oomp_electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
 package_drawing:
   body:
   - 18
@@ -1525,8 +1507,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/esp32_wroom_32e/microcontroller/wifi_bluetooth_8_mb_flash/espressif/README.md
-  oomp_id: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+  navigation_link: ../../navigation/electronic/ic/microcontroller/wifi_bluetooth_8_mb_flash/esp32_wroom_32e/espressif/README.md
+  oomp_id: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
   pins:
   - name: gnd
     number: '1'
@@ -1647,7 +1629,7 @@ part_page:
     type: gnd
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
+    value: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
   - title: Type
     value: Ic
   - title: Package / style
@@ -1656,21 +1638,19 @@ part_page:
     value: 18.0 × 25.5 mm
   - title: Documented pins
     value: 39
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8
-  summary: IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E is an OOMP electronic ic definition.
-    It uses the esp32 wroom 32e package or form factor. Its nominal drawing size is
-    18.0 × 25.5 mm. The definition includes 39 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8
+  summary: IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E is an OOMP electronic ic definition. It uses the esp32 wroom 32e package or form factor. Its nominal drawing size is 18.0 × 25.5 mm. The definition includes 39 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: esp32_wroom_32e
-  - level: 4
     value: microcontroller
-  - level: 5
+  - level: 4
     value: wifi_bluetooth_8_mb_flash
+  - level: 5
+    value: esp32_wroom_32e
   - level: 14
     value: espressif
   - level: 15
@@ -2051,51 +2031,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: esp32_wroom_32e
-taxonomy_3_capital: Esp32 Wroom 32E
-taxonomy_3_first_letter: e
-taxonomy_3_first_letter_upper: E
-taxonomy_3_length_1: e
-taxonomy_3_length_2: es
-taxonomy_3_length_3: esp
-taxonomy_3_length_4: esp3
-taxonomy_3_length_5: esp32
-taxonomy_3_upper: ESP32_WROOM_32E
-taxonomy_3_upper_length_1: E
-taxonomy_3_upper_length_2: ES
-taxonomy_3_upper_length_3: ESP
-taxonomy_3_upper_length_4: ESP3
-taxonomy_3_upper_length_5: ESP32
-taxonomy_4: microcontroller
-taxonomy_4_capital: Microcontroller
-taxonomy_4_first_letter: m
-taxonomy_4_first_letter_upper: M
-taxonomy_4_length_1: m
-taxonomy_4_length_2: mi
-taxonomy_4_length_3: mic
-taxonomy_4_length_4: micr
-taxonomy_4_length_5: micro
-taxonomy_4_upper: MICROCONTROLLER
-taxonomy_4_upper_length_1: M
-taxonomy_4_upper_length_2: MI
-taxonomy_4_upper_length_3: MIC
-taxonomy_4_upper_length_4: MICR
-taxonomy_4_upper_length_5: MICRO
-taxonomy_5: wifi_bluetooth_8_mb_flash
-taxonomy_5_capital: Wifi Bluetooth 8 Mb Flash
-taxonomy_5_first_letter: w
-taxonomy_5_first_letter_upper: W
-taxonomy_5_length_1: w
-taxonomy_5_length_2: wi
-taxonomy_5_length_3: wif
-taxonomy_5_length_4: wifi
-taxonomy_5_length_5: wifi_
-taxonomy_5_upper: WIFI_BLUETOOTH_8_MB_FLASH
-taxonomy_5_upper_length_1: W
-taxonomy_5_upper_length_2: WI
-taxonomy_5_upper_length_3: WIF
-taxonomy_5_upper_length_4: WIFI
-taxonomy_5_upper_length_5: WIFI_
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -2112,3 +2047,48 @@ used_in_projects:
   references:
   - U2
   version: current
+taxonomy_5: esp32_wroom_32e
+taxonomy_5_capital: Esp32 Wroom 32E
+taxonomy_5_first_letter: e
+taxonomy_5_first_letter_upper: E
+taxonomy_5_length_1: e
+taxonomy_5_length_2: es
+taxonomy_5_length_3: esp
+taxonomy_5_length_4: esp3
+taxonomy_5_length_5: esp32
+taxonomy_5_upper: ESP32_WROOM_32E
+taxonomy_5_upper_length_1: E
+taxonomy_5_upper_length_2: ES
+taxonomy_5_upper_length_3: ESP
+taxonomy_5_upper_length_4: ESP3
+taxonomy_5_upper_length_5: ESP32
+taxonomy_3: microcontroller
+taxonomy_3_capital: Microcontroller
+taxonomy_3_first_letter: m
+taxonomy_3_first_letter_upper: M
+taxonomy_3_length_1: m
+taxonomy_3_length_2: mi
+taxonomy_3_length_3: mic
+taxonomy_3_length_4: micr
+taxonomy_3_length_5: micro
+taxonomy_3_upper: MICROCONTROLLER
+taxonomy_3_upper_length_1: M
+taxonomy_3_upper_length_2: MI
+taxonomy_3_upper_length_3: MIC
+taxonomy_3_upper_length_4: MICR
+taxonomy_3_upper_length_5: MICRO
+taxonomy_4: wifi_bluetooth_8_mb_flash
+taxonomy_4_capital: Wifi Bluetooth 8 Mb Flash
+taxonomy_4_first_letter: w
+taxonomy_4_first_letter_upper: W
+taxonomy_4_length_1: w
+taxonomy_4_length_2: wi
+taxonomy_4_length_3: wif
+taxonomy_4_length_4: wifi
+taxonomy_4_length_5: wifi_
+taxonomy_4_upper: WIFI_BLUETOOTH_8_MB_FLASH
+taxonomy_4_upper_length_1: W
+taxonomy_4_upper_length_2: WI
+taxonomy_4_upper_length_3: WIF
+taxonomy_4_upper_length_4: WIFI
+taxonomy_4_upper_length_5: WIFI_

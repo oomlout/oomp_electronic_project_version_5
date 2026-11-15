@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 BATT0,3-6VDC,Adafruit Circuit Playground Express-import-fps:JSTPH2,,No verified LCSC part number
 C4,10uF,Adafruit Circuit Playground Express-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C8,10uF,Adafruit Circuit Playground Express-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -35,7 +35,7 @@ TP5,,Adafruit Circuit Playground Express-import-fps:TESTPOINT_ROUND_1.5MM,,No ve
 TP6,,Adafruit Circuit Playground Express-import-fps:TESTPOINT_ROUND_1.5MM,,No verified LCSC part number
 U1,VSOP383,Adafruit Circuit Playground Express-import-fps:VSOP383,,No verified LCSC part number
 U2,ALS-PT19-315C,Adafruit Circuit Playground Express-import-fps:ALS-PT19-315C,,No verified LCSC part number
-U3,AP2112K-3.3,Adafruit Circuit Playground Express-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U3,AP2112K-3.3,Adafruit Circuit Playground Express-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U4,SPI FLASH,Adafruit Circuit Playground Express-import-fps:SOIC8_150MIL,,No verified LCSC part number
 U$1,,Adafruit Circuit Playground Express-import-fps:SYMBOL_MINUS,,No verified LCSC part number
 U$2,FIDUCIAL_1MM,Adafruit Circuit Playground Express-import-fps:FIDUCIAL_1MM,,No verified LCSC part number

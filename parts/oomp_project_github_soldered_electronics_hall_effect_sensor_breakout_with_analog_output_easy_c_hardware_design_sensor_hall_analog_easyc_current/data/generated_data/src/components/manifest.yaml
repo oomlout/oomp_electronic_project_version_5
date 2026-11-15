@@ -43,7 +43,7 @@ parts:
   - working_svg_assembly.svg
   - working_svg_assembly_pins.svg
   - working_svg_square_pins.svg
-- oomp_id: electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr
+- oomp_id: electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr
   project_source_files:
   - working.yaml
   - working_svg_assembly.svg
@@ -54,7 +54,7 @@ parts:
   - working_svg_assembly.svg
   - working_svg_assembly_pins.svg
   - working_svg_square_pins.svg
-- oomp_id: electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv
+- oomp_id: electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv
   project_source_files:
   - working.yaml
   - working_svg_assembly.svg

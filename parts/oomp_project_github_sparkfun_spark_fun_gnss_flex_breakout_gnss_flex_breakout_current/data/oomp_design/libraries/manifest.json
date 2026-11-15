@@ -136,34 +136,34 @@
       "file": "OOMP_HandSolder.pretty/electronic_diode_tvs_array_sot_26_diodes_incorporated_dt1042_04so.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v",
       "kind": "machine_solder",
-      "file": "OOMP_MachineSolder.pretty/electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v.kicad_mod"
+      "file": "OOMP_MachineSolder.pretty/electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v",
       "kind": "hand_solder",
-      "file": "OOMP_HandSolder.pretty/electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v.kicad_mod"
+      "file": "OOMP_HandSolder.pretty/electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f",
       "kind": "machine_solder",
-      "file": "OOMP_MachineSolder.pretty/electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f.kicad_mod"
+      "file": "OOMP_MachineSolder.pretty/electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f",
       "kind": "hand_solder",
-      "file": "OOMP_HandSolder.pretty/electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f.kicad_mod"
+      "file": "OOMP_HandSolder.pretty/electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33",
       "kind": "machine_solder",
-      "file": "OOMP_MachineSolder.pretty/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33.kicad_mod"
+      "file": "OOMP_MachineSolder.pretty/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33",
       "kind": "hand_solder",
-      "file": "OOMP_HandSolder.pretty/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33.kicad_mod"
+      "file": "OOMP_HandSolder.pretty/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33.kicad_mod"
     },
     {
       "oomp_id": "electronic_led_0603_blue",
@@ -438,14 +438,14 @@
       ]
     },
     {
-      "oomp_id": "electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected"
       ]
     },
     {
-      "oomp_id": "electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq",
+      "oomp_id": "electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected",
@@ -454,14 +454,14 @@
       ]
     },
     {
-      "oomp_id": "electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected"
       ]
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected"

@@ -23,7 +23,7 @@
 <polyline class="edge-cut" points="165.0000,93.5000 164.9786,93.8263 164.9148,94.1470 164.8097,94.4567 164.6651,94.7500 164.4834,95.0219 164.2678,95.2678 164.0219,95.4834 163.7500,95.6651 163.4567,95.8097 163.1470,95.9148 162.8263,95.9786 162.5000,96.0000" />
 <polyline class="edge-cut" points="129.5000,96.0000 129.1737,95.9786 128.8530,95.9148 128.5433,95.8097 128.2500,95.6651 127.9781,95.4834 127.7322,95.2678 127.5166,95.0219 127.3349,94.7500 127.1903,94.4567 127.0852,94.1470 127.0214,93.8263 127.0000,93.5000" />
 <polyline class="edge-cut" points="127.0000,76.5000 127.0214,76.1737 127.0852,75.8530 127.1903,75.5433 127.3349,75.2500 127.5166,74.9781 127.7322,74.7322 127.9781,74.5166 128.2500,74.3349 128.5433,74.1903 128.8530,74.0852 129.1737,74.0214 129.5000,74.0000" />
-<g class="board-component" data-reference="U3" data-oomp-id="electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr" tabindex="0" transform="translate(151.5000 81.3000) rotate(0.0000)">
+<g class="board-component" data-reference="U3" data-oomp-id="electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr" tabindex="0" transform="translate(151.5000 81.3000) rotate(0.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-2.9950" y="-4.3450" width="5.9900" height="8.6900" viewBox="0 0 5.9900 8.6900" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="5.9900" height="8.6900"  fill="none" stroke="none" />
   <rect x="1.0450" y="0.0000" width="3.9000" height="8.6900"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.4107" width="1.0450" height="0.4200"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />

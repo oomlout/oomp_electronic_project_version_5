@@ -1655,9 +1655,9 @@
   "oomp": {
     "status": "matched",
     "accepted": true,
-    "oomp_id": "electronic_ic_soic_8_logic_comparator_lm393",
+    "oomp_id": "electronic_ic_logic_comparator_soic_8_lm393",
     "confidence": 1.0,
-    "proposed_oomp_id": "electronic_ic_soic_8_logic_comparator_lm393",
+    "proposed_oomp_id": "electronic_ic_logic_comparator_soic_8_lm393",
     "inferred": {
       "kind": null,
       "package_size": null,

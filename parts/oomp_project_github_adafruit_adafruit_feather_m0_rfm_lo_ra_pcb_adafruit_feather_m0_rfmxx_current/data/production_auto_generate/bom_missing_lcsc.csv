@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C3,10µF,Adafruit Feather M0 RFMxx-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C5,10uF,Adafruit Feather M0 RFMxx-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C6,10µF,Adafruit Feather M0 RFMxx-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -10,7 +10,7 @@ L0,RED,Adafruit Feather M0 RFMxx-import-fps:CHIPLED_0805_NOOUTLINE,electronic_le
 SW1,SPST_TACT-KMR2,Adafruit Feather M0 RFMxx-import-fps:KMR2,,No verified LCSC part number
 TP1,,Adafruit Feather M0 RFMxx-import-fps:TESTPOINT_ROUND_1.5MM,,No verified LCSC part number
 TP2,,Adafruit Feather M0 RFMxx-import-fps:TESTPOINT_ROUND_1.5MM,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit Feather M0 RFMxx-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit Feather M0 RFMxx-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U3,MCP73831T-2ACI/OT,Adafruit Feather M0 RFMxx-import-fps:SOT23-5,,No verified LCSC part number
 U4,RFM69HCW,Adafruit Feather M0 RFMxx-import-fps:RFMHCW_SMT,,No verified LCSC part number
 U$4,ATSAMD21G18_QFN,Adafruit Feather M0 RFMxx-import-fps:TQFN48_7MM,,No verified LCSC part number

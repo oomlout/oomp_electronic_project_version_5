@@ -281,7 +281,7 @@ components:
 - reference: U1
   value: SI7201-B-06-IV
   footprint: e-radionica.com footprinti:SOT-23-3
-  oomp_id: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+  oomp_id: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null
@@ -310,7 +310,7 @@ components:
 - reference: U2
   value: ATTINY404-SSNR
   footprint: e-radionica.com footprinti:SOIC-14
-  oomp_id: electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr
+  oomp_id: electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null

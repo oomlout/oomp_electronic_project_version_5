@@ -1,86 +1,78 @@
 bip_39_2_word_array:
-- recycle
-- unknown
-bip_39_2_word_no_space: recycleunknown
-bip_39_2_word_space: recycle unknown
-bip_39_2_word_underscore: recycle_unknown
+- execute
+- dignity
+bip_39_2_word_no_space: executedignity
+bip_39_2_word_space: execute dignity
+bip_39_2_word_underscore: execute_dignity
 bip_39_3_word_array:
-- recycle
-- unknown
-- congress
-bip_39_3_word_no_space: recycleunknowncongress
-bip_39_3_word_space: recycle unknown congress
-bip_39_3_word_underscore: recycle_unknown_congress
+- execute
+- dignity
+- jewel
+bip_39_3_word_no_space: executedignityjewel
+bip_39_3_word_space: execute dignity jewel
+bip_39_3_word_underscore: execute_dignity_jewel
 bip_39_full_array:
-- recycle
-- unknown
-- congress
-- good
-- supply
-- wide
-- skirt
-- wasp
-- finish
-- pride
-- ketchup
-- ceiling
-bip_39_full_no_space: recycleunknowncongressgoodsupplywideskirtwaspfinishprideketchupceiling
-bip_39_full_space: recycle unknown congress good supply wide skirt wasp finish pride
-  ketchup ceiling
-bip_39_full_underscore: recycle_unknown_congress_good_supply_wide_skirt_wasp_finish_pride_ketchup_ceiling
+- execute
+- dignity
+- jewel
+- violin
+- under
+- feed
+- birth
+- boy
+- siege
+- web
+- noise
+- spawn
+bip_39_full_no_space: executedignityjewelviolinunderfeedbirthboysiegewebnoisespawn
+bip_39_full_space: execute dignity jewel violin under feed birth boy siege web noise spawn
+bip_39_full_underscore: execute_dignity_jewel_violin_under_feed_birth_boy_siege_web_noise_spawn
 category: mcu
 category_name: MCU
 dimension_reference:
   document: Ai-Thinker ESP-12S module mechanical drawing
-  notes: ESP-12S Wi-Fi module, 16 castellated contacts on the two long edges and an
-    onboard antenna keepout.
+  notes: ESP-12S Wi-Fi module, 16 castellated contacts on the two long edges and an onboard antenna keepout.
 dimensions_mm:
   height: 3.0
   length: 24.0
   width: 16.0
-directory: parts/electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+directory: parts/electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
 distributors: []
-id: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
-id_no_class: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
-id_no_size: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
-id_no_type: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+id: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
+id_no_class: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
+id_no_size: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
+id_no_type: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
 lcsc_search: module esp 12s microcontroller wifi bluetooth espressif esp 12s ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
 manufacturers: []
-md5: b3fdbcbc323d9df572afbc571551e792
-md5_10: b3fdbcbc32
-md5_10_upper: B3FDBCBC32
-md5_5: b3fdb
-md5_5_upper: B3FDB
-md5_6: b3fdbc
-md5_6_alpha: 70trw
-md5_6_alpha_upper: 70TRW
-md5_6_upper: B3FDBC
-name: Electronic Ic Module Esp 12S Microcontroller Wifi Bluetooth Espressif Esp 12S
-name_no_class: Electronic Ic Module Esp 12S Microcontroller Wifi Bluetooth Espressif
-  Esp 12S
-name_no_size: Electronic Ic Module Esp 12S Microcontroller Wifi Bluetooth Espressif
-  Esp 12S
-name_no_type: Electronic Ic Module Esp 12S Microcontroller Wifi Bluetooth Espressif
-  Esp 12S
+md5: 4f27c1dffa2ecca945a8d5c81f1a5768
+md5_10: 4f27c1dffa
+md5_10_upper: 4F27C1DFFA
+md5_5: 4f27c
+md5_5_upper: 4F27C
+md5_6: 4f27c1
+md5_6_alpha: 336pt
+md5_6_alpha_upper: 336PT
+md5_6_upper: 4F27C1
+name: Electronic Ic Microcontroller Wifi Bluetooth Module Esp 12S Espressif Esp 12S
+name_no_class: Electronic Ic Microcontroller Wifi Bluetooth Module Esp 12S Espressif Esp 12S
+name_no_size: Electronic Ic Microcontroller Wifi Bluetooth Module Esp 12S Espressif Esp 12S
+name_no_type: Electronic Ic Microcontroller Wifi Bluetooth Module Esp 12S Espressif Esp 12S
 name_proper: IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S
 name_readable: IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S
 name_short: IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S
-name_space: electronic ic module esp 12s microcontroller wifi bluetooth espressif
-  esp 12s
-name_upper: ELECTRONIC IC MODULE ESP 12S MICROCONTROLLER WIFI BLUETOOTH ESPRESSIF
-  ESP 12S
+name_space: electronic ic microcontroller wifi bluetooth module esp 12s espressif esp 12s
+name_upper: ELECTRONIC IC MODULE ESP 12S MICROCONTROLLER WIFI BLUETOOTH ESPRESSIF ESP 12S
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -93,7 +85,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+    part_id: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -173,8 +165,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -187,34 +178,29 @@ oomlout_ai_roboclick_3:
       category_name: MCU
       dimension_reference:
         document: Ai-Thinker ESP-12S module mechanical drawing
-        notes: ESP-12S Wi-Fi module, 16 castellated contacts on the two long edges
-          and an onboard antenna keepout.
+        notes: ESP-12S Wi-Fi module, 16 castellated contacts on the two long edges and an onboard antenna keepout.
       dimensions_mm:
         height: 3.0
         length: 24.0
         width: 16.0
-      directory: parts\electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+      directory: parts\electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
       distributors: []
       kicad:
         hand_solder: ''
         machine_solder: ''
         symbol: ''
-      lcsc_search: module esp 12s microcontroller wifi bluetooth espressif esp 12s
-        ic
+      lcsc_search: module esp 12s microcontroller wifi bluetooth espressif esp 12s ic
       manufacturers: []
-      name: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+      name: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
       name_proper: IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S
       name_readable: IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S
       name_short: IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S
-      name_space: electronic ic module esp 12s microcontroller wifi bluetooth espressif
-        esp 12s
-      name_upper: ELECTRONIC IC MODULE ESP 12S MICROCONTROLLER WIFI BLUETOOTH ESPRESSIF
-        ESP 12S
+      name_space: electronic ic microcontroller wifi bluetooth module esp 12s espressif esp 12s
+      name_upper: ELECTRONIC IC MODULE ESP 12S MICROCONTROLLER WIFI BLUETOOTH ESPRESSIF ESP 12S
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -224,11 +210,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+          part_id: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -308,8 +293,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -498,8 +482,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/module_esp_12s/microcontroller/wifi_bluetooth/espressif/README.md
-        oomp_id: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+        navigation_link: ../../navigation/electronic/ic/microcontroller/wifi_bluetooth/module_esp_12s/espressif/README.md
+        oomp_id: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
         pins:
         - name: '1'
           number: '1'
@@ -551,7 +535,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+          value: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
         - title: Type
           value: Ic
         - title: Package / style
@@ -560,22 +544,19 @@ oomlout_ai_roboclick_3:
           value: 24.0 × 16.0 mm
         - title: Documented pins
           value: 16
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
-        summary: IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S is an
-          OOMP electronic ic definition. It uses the module esp 12s package or form
-          factor. Its nominal drawing size is 24.0 × 16.0 mm. The definition includes
-          16 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
+        summary: IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S is an OOMP electronic ic definition. It uses the module esp 12s package or form factor. Its nominal drawing size is 24.0 × 16.0 mm. The definition includes 16 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: module_esp_12s
-        - level: 4
           value: microcontroller
-        - level: 5
+        - level: 4
           value: wifi_bluetooth
+        - level: 5
+          value: module_esp_12s
         - level: 14
           value: espressif
         - level: 15
@@ -807,9 +788,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: espressif
       taxonomy_15: esp_12s
       taxonomy_2: ic
-      taxonomy_3: module_esp_12s
-      taxonomy_4: microcontroller
-      taxonomy_5: wifi_bluetooth
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -827,6 +805,9 @@ oomlout_ai_roboclick_3:
         - MOD1
         - MOD2
         version: current
+      taxonomy_5: module_esp_12s
+      taxonomy_3: microcontroller
+      taxonomy_4: wifi_bluetooth
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -837,8 +818,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -847,7 +827,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+oomp_key: oomp_electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
 package_drawing:
   body:
   - 18.0
@@ -1034,8 +1014,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/module_esp_12s/microcontroller/wifi_bluetooth/espressif/README.md
-  oomp_id: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+  navigation_link: ../../navigation/electronic/ic/microcontroller/wifi_bluetooth/module_esp_12s/espressif/README.md
+  oomp_id: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
   pins:
   - name: '1'
     number: '1'
@@ -1087,7 +1067,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+    value: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
   - title: Type
     value: Ic
   - title: Package / style
@@ -1096,21 +1076,19 @@ part_page:
     value: 24.0 × 16.0 mm
   - title: Documented pins
     value: 16
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
-  summary: IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S is an OOMP electronic
-    ic definition. It uses the module esp 12s package or form factor. Its nominal
-    drawing size is 24.0 × 16.0 mm. The definition includes 16 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
+  summary: IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S is an OOMP electronic ic definition. It uses the module esp 12s package or form factor. Its nominal drawing size is 24.0 × 16.0 mm. The definition includes 16 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: module_esp_12s
-  - level: 4
     value: microcontroller
-  - level: 5
+  - level: 4
     value: wifi_bluetooth
+  - level: 5
+    value: module_esp_12s
   - level: 14
     value: espressif
   - level: 15
@@ -1398,51 +1376,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: module_esp_12s
-taxonomy_3_capital: Module Esp 12S
-taxonomy_3_first_letter: m
-taxonomy_3_first_letter_upper: M
-taxonomy_3_length_1: m
-taxonomy_3_length_2: mo
-taxonomy_3_length_3: mod
-taxonomy_3_length_4: modu
-taxonomy_3_length_5: modul
-taxonomy_3_upper: MODULE_ESP_12S
-taxonomy_3_upper_length_1: M
-taxonomy_3_upper_length_2: MO
-taxonomy_3_upper_length_3: MOD
-taxonomy_3_upper_length_4: MODU
-taxonomy_3_upper_length_5: MODUL
-taxonomy_4: microcontroller
-taxonomy_4_capital: Microcontroller
-taxonomy_4_first_letter: m
-taxonomy_4_first_letter_upper: M
-taxonomy_4_length_1: m
-taxonomy_4_length_2: mi
-taxonomy_4_length_3: mic
-taxonomy_4_length_4: micr
-taxonomy_4_length_5: micro
-taxonomy_4_upper: MICROCONTROLLER
-taxonomy_4_upper_length_1: M
-taxonomy_4_upper_length_2: MI
-taxonomy_4_upper_length_3: MIC
-taxonomy_4_upper_length_4: MICR
-taxonomy_4_upper_length_5: MICRO
-taxonomy_5: wifi_bluetooth
-taxonomy_5_capital: Wifi Bluetooth
-taxonomy_5_first_letter: w
-taxonomy_5_first_letter_upper: W
-taxonomy_5_length_1: w
-taxonomy_5_length_2: wi
-taxonomy_5_length_3: wif
-taxonomy_5_length_4: wifi
-taxonomy_5_length_5: wifi_
-taxonomy_5_upper: WIFI_BLUETOOTH
-taxonomy_5_upper_length_1: W
-taxonomy_5_upper_length_2: WI
-taxonomy_5_upper_length_3: WIF
-taxonomy_5_upper_length_4: WIFI
-taxonomy_5_upper_length_5: WIFI_
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1461,3 +1394,48 @@ used_in_projects:
   - MOD1
   - MOD2
   version: current
+taxonomy_5: module_esp_12s
+taxonomy_5_capital: Module Esp 12S
+taxonomy_5_first_letter: m
+taxonomy_5_first_letter_upper: M
+taxonomy_5_length_1: m
+taxonomy_5_length_2: mo
+taxonomy_5_length_3: mod
+taxonomy_5_length_4: modu
+taxonomy_5_length_5: modul
+taxonomy_5_upper: MODULE_ESP_12S
+taxonomy_5_upper_length_1: M
+taxonomy_5_upper_length_2: MO
+taxonomy_5_upper_length_3: MOD
+taxonomy_5_upper_length_4: MODU
+taxonomy_5_upper_length_5: MODUL
+taxonomy_3: microcontroller
+taxonomy_3_capital: Microcontroller
+taxonomy_3_first_letter: m
+taxonomy_3_first_letter_upper: M
+taxonomy_3_length_1: m
+taxonomy_3_length_2: mi
+taxonomy_3_length_3: mic
+taxonomy_3_length_4: micr
+taxonomy_3_length_5: micro
+taxonomy_3_upper: MICROCONTROLLER
+taxonomy_3_upper_length_1: M
+taxonomy_3_upper_length_2: MI
+taxonomy_3_upper_length_3: MIC
+taxonomy_3_upper_length_4: MICR
+taxonomy_3_upper_length_5: MICRO
+taxonomy_4: wifi_bluetooth
+taxonomy_4_capital: Wifi Bluetooth
+taxonomy_4_first_letter: w
+taxonomy_4_first_letter_upper: W
+taxonomy_4_length_1: w
+taxonomy_4_length_2: wi
+taxonomy_4_length_3: wif
+taxonomy_4_length_4: wifi
+taxonomy_4_length_5: wifi_
+taxonomy_4_upper: WIFI_BLUETOOTH
+taxonomy_4_upper_length_1: W
+taxonomy_4_upper_length_2: WI
+taxonomy_4_upper_length_3: WIF
+taxonomy_4_upper_length_4: WIFI
+taxonomy_4_upper_length_5: WIFI_

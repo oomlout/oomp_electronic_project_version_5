@@ -1,40 +1,39 @@
 bip_39_2_word_array:
-- female
-- clip
-bip_39_2_word_no_space: femaleclip
-bip_39_2_word_space: female clip
-bip_39_2_word_underscore: female_clip
+- system
+- fitness
+bip_39_2_word_no_space: systemfitness
+bip_39_2_word_space: system fitness
+bip_39_2_word_underscore: system_fitness
 bip_39_3_word_array:
-- female
-- clip
-- ocean
-bip_39_3_word_no_space: femaleclipocean
-bip_39_3_word_space: female clip ocean
-bip_39_3_word_underscore: female_clip_ocean
+- system
+- fitness
+- grant
+bip_39_3_word_no_space: systemfitnessgrant
+bip_39_3_word_space: system fitness grant
+bip_39_3_word_underscore: system_fitness_grant
 bip_39_full_array:
-- female
-- clip
-- ocean
-- museum
-- wife
-- belt
-- wait
-- cherry
-- elbow
-- juice
-- define
-- float
-bip_39_full_no_space: femaleclipoceanmuseumwifebeltwaitcherryelbowjuicedefinefloat
-bip_39_full_space: female clip ocean museum wife belt wait cherry elbow juice define
-  float
-bip_39_full_underscore: female_clip_ocean_museum_wife_belt_wait_cherry_elbow_juice_define_float
+- system
+- fitness
+- grant
+- machine
+- nose
+- portion
+- pattern
+- soup
+- topple
+- fiscal
+- stamp
+- sudden
+bip_39_full_no_space: systemfitnessgrantmachinenoseportionpatternsouptopplefiscalstampsudden
+bip_39_full_space: system fitness grant machine nose portion pattern soup topple fiscal stamp sudden
+bip_39_full_underscore: system_fitness_grant_machine_nose_portion_pattern_soup_topple_fiscal_stamp_sudden
 category: ic
 category_name: IC
 dimensions_mm:
   height: 1.75
   length: 4.9
   width: 3.9
-directory: parts/electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+directory: parts/electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
 distributors: []
 ic_dimensions_mm:
   body_length: 4.9
@@ -42,42 +41,41 @@ ic_dimensions_mm:
   overall_width: 6.0
   pin_pitch: 1.27
   pin_width: 0.42
-id: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
-id_no_class: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
-id_no_size: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
-id_no_type: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+id: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
+id_no_class: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
+id_no_size: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
+id_no_type: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
 kicad:
   hand_solder: Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
   machine_solder: Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
   symbol: ''
 lcsc_search: soic 8 timer 555 timer texas instruments tlc555cd ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
 manufacturers: []
-md5: 54e56a63c8dfae29fd993b472f18e62c
-md5_10: 54e56a63c8
-md5_10_upper: 54E56A63C8
-md5_5: 54e56
-md5_5_upper: 54E56
-md5_6: 54e56a
-md5_6_alpha: 3b90q
-md5_6_alpha_upper: 3B90Q
-md5_6_upper: 54E56A
-name: Electronic Ic Soic 8 Timer 555 Timer Texas Instruments Tlc555Cd
-name_no_class: Electronic Ic Soic 8 Timer 555 Timer Texas Instruments Tlc555Cd
-name_no_size: Electronic Ic Soic 8 Timer 555 Timer Texas Instruments Tlc555Cd
-name_no_type: Electronic Ic Soic 8 Timer 555 Timer Texas Instruments Tlc555Cd
+md5: dccafd96c2c96750a8567fe52af351ec
+md5_10: dccafd96c2
+md5_10_upper: DCCAFD96C2
+md5_5: dccaf
+md5_5_upper: DCCAF
+md5_6: dccafd
+md5_6_alpha: 8m519
+md5_6_alpha_upper: 8M519
+md5_6_upper: DCCAFD
+name: Electronic Ic Timer 555 Timer Soic 8 Texas Instruments Tlc555Cd
+name_no_class: Electronic Ic Timer 555 Timer Soic 8 Texas Instruments Tlc555Cd
+name_no_size: Electronic Ic Timer 555 Timer Soic 8 Texas Instruments Tlc555Cd
+name_no_type: Electronic Ic Timer 555 Timer Soic 8 Texas Instruments Tlc555Cd
 name_proper: IC Timer 555 Timer Texas Instruments SOIC_8
 name_readable: IC Timer 555 Timer Texas Instruments SOIC_8
 name_short: IC Timer 555 Timer Texas Instruments SOIC_8
-name_space: electronic ic soic 8 timer 555 timer texas instruments tlc555cd
+name_space: electronic ic timer 555 timer soic 8 texas instruments tlc555cd
 name_upper: ELECTRONIC IC SOIC 8 TIMER 555 TIMER TEXAS INSTRUMENTS TLC555CD
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -90,7 +88,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+    part_id: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -170,8 +168,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -186,7 +183,7 @@ oomlout_ai_roboclick_3:
         height: 1.75
         length: 4.9
         width: 3.9
-      directory: parts\electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+      directory: parts\electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
       distributors: []
       ic_dimensions_mm:
         body_length: 4.9
@@ -200,17 +197,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: soic 8 timer 555 timer texas instruments tlc555cd ic
       manufacturers: []
-      name: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+      name: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
       name_proper: IC Timer 555 Timer Texas Instruments SOIC_8
       name_readable: IC Timer 555 Timer Texas Instruments SOIC_8
       name_short: IC Timer 555 Timer Texas Instruments SOIC_8
-      name_space: electronic ic soic 8 timer 555 timer texas instruments tlc555cd
+      name_space: electronic ic timer 555 timer soic 8 texas instruments tlc555cd
       name_upper: ELECTRONIC IC SOIC 8 TIMER 555 TIMER TEXAS INSTRUMENTS TLC555CD
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -220,11 +216,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+          part_id: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -304,8 +299,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -441,8 +435,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/soic_8/timer/555_timer/texas_instruments/README.md
-        oomp_id: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+        navigation_link: ../../navigation/electronic/ic/timer/555_timer/soic_8/texas_instruments/README.md
+        oomp_id: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
         pins:
         - name: GND
           number: '1'
@@ -470,7 +464,7 @@ oomlout_ai_roboclick_3:
           type: power
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+          value: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
         - title: Type
           value: Ic
         - title: Package / style
@@ -479,21 +473,19 @@ oomlout_ai_roboclick_3:
           value: 4.9 × 3.9 mm
         - title: Documented pins
           value: 8
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
-        summary: IC Timer 555 Timer Texas Instruments SOIC_8 is an OOMP electronic
-          ic definition. It uses the soic 8 package or form factor. Its nominal drawing
-          size is 4.9 × 3.9 mm. The definition includes 8 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
+        summary: IC Timer 555 Timer Texas Instruments SOIC_8 is an OOMP electronic ic definition. It uses the soic 8 package or form factor. Its nominal drawing size is 4.9 × 3.9 mm. The definition includes 8 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: soic_8
-        - level: 4
           value: timer
-        - level: 5
+        - level: 4
           value: 555_timer
+        - level: 5
+          value: soic_8
         - level: 14
           value: texas_instruments
         - level: 15
@@ -693,9 +685,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: texas_instruments
       taxonomy_15: tlc555cd
       taxonomy_2: ic
-      taxonomy_3: soic_8
-      taxonomy_4: timer
-      taxonomy_5: 555_timer
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -705,14 +694,16 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Capacitive-soil-sensor-hardware-design
         github_url: https://github.com/SolderedElectronics/Capacitive-soil-sensor-hardware-design
-        name: Project soldered_electronics/Capacitive-soil-sensor-hardware-design
-          Capacitive Soil Sensor current
+        name: Project soldered_electronics/Capacitive-soil-sensor-hardware-design Capacitive Soil Sensor current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current
         project_id: oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current
         quantity: 1
         references:
         - U1
         version: current
+      taxonomy_5: soic_8
+      taxonomy_3: timer
+      taxonomy_4: 555_timer
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -723,8 +714,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -733,7 +723,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+oomp_key: oomp_electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
 package_drawing:
   body:
   - 3.9
@@ -867,8 +857,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/soic_8/timer/555_timer/texas_instruments/README.md
-  oomp_id: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+  navigation_link: ../../navigation/electronic/ic/timer/555_timer/soic_8/texas_instruments/README.md
+  oomp_id: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
   pins:
   - name: GND
     number: '1'
@@ -896,7 +886,7 @@ part_page:
     type: power
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+    value: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
   - title: Type
     value: Ic
   - title: Package / style
@@ -905,21 +895,19 @@ part_page:
     value: 4.9 × 3.9 mm
   - title: Documented pins
     value: 8
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
-  summary: IC Timer 555 Timer Texas Instruments SOIC_8 is an OOMP electronic ic definition.
-    It uses the soic 8 package or form factor. Its nominal drawing size is 4.9 × 3.9
-    mm. The definition includes 8 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
+  summary: IC Timer 555 Timer Texas Instruments SOIC_8 is an OOMP electronic ic definition. It uses the soic 8 package or form factor. Its nominal drawing size is 4.9 × 3.9 mm. The definition includes 8 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: soic_8
-  - level: 4
     value: timer
-  - level: 5
+  - level: 4
     value: 555_timer
+  - level: 5
+    value: soic_8
   - level: 14
     value: texas_instruments
   - level: 15
@@ -1175,51 +1163,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: soic_8
-taxonomy_3_capital: Soic 8
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: soi
-taxonomy_3_length_4: soic
-taxonomy_3_length_5: soic_
-taxonomy_3_upper: SOIC_8
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOI
-taxonomy_3_upper_length_4: SOIC
-taxonomy_3_upper_length_5: SOIC_
-taxonomy_4: timer
-taxonomy_4_capital: Timer
-taxonomy_4_first_letter: t
-taxonomy_4_first_letter_upper: T
-taxonomy_4_length_1: t
-taxonomy_4_length_2: ti
-taxonomy_4_length_3: tim
-taxonomy_4_length_4: time
-taxonomy_4_length_5: timer
-taxonomy_4_upper: TIMER
-taxonomy_4_upper_length_1: T
-taxonomy_4_upper_length_2: TI
-taxonomy_4_upper_length_3: TIM
-taxonomy_4_upper_length_4: TIME
-taxonomy_4_upper_length_5: TIMER
-taxonomy_5: 555_timer
-taxonomy_5_capital: 555 Timer
-taxonomy_5_first_letter: '5'
-taxonomy_5_first_letter_upper: '5'
-taxonomy_5_length_1: '5'
-taxonomy_5_length_2: '55'
-taxonomy_5_length_3: '555'
-taxonomy_5_length_4: '555_'
-taxonomy_5_length_5: 555_t
-taxonomy_5_upper: 555_TIMER
-taxonomy_5_upper_length_1: '5'
-taxonomy_5_upper_length_2: '55'
-taxonomy_5_upper_length_3: '555'
-taxonomy_5_upper_length_4: '555_'
-taxonomy_5_upper_length_5: 555_T
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1230,11 +1173,55 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Capacitive-soil-sensor-hardware-design
   github_url: https://github.com/SolderedElectronics/Capacitive-soil-sensor-hardware-design
-  name: Project soldered_electronics/Capacitive-soil-sensor-hardware-design Capacitive
-    Soil Sensor current
+  name: Project soldered_electronics/Capacitive-soil-sensor-hardware-design Capacitive Soil Sensor current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current
   project_id: oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current
   quantity: 1
   references:
   - U1
   version: current
+taxonomy_5: soic_8
+taxonomy_5_capital: Soic 8
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: soi
+taxonomy_5_length_4: soic
+taxonomy_5_length_5: soic_
+taxonomy_5_upper: SOIC_8
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOI
+taxonomy_5_upper_length_4: SOIC
+taxonomy_5_upper_length_5: SOIC_
+taxonomy_3: timer
+taxonomy_3_capital: Timer
+taxonomy_3_first_letter: t
+taxonomy_3_first_letter_upper: T
+taxonomy_3_length_1: t
+taxonomy_3_length_2: ti
+taxonomy_3_length_3: tim
+taxonomy_3_length_4: time
+taxonomy_3_length_5: timer
+taxonomy_3_upper: TIMER
+taxonomy_3_upper_length_1: T
+taxonomy_3_upper_length_2: TI
+taxonomy_3_upper_length_3: TIM
+taxonomy_3_upper_length_4: TIME
+taxonomy_3_upper_length_5: TIMER
+taxonomy_4: 555_timer
+taxonomy_4_capital: 555 Timer
+taxonomy_4_first_letter: '5'
+taxonomy_4_first_letter_upper: '5'
+taxonomy_4_length_1: '5'
+taxonomy_4_length_2: '55'
+taxonomy_4_length_3: '555'
+taxonomy_4_length_4: '555_'
+taxonomy_4_length_5: 555_t
+taxonomy_4_upper: 555_TIMER
+taxonomy_4_upper_length_1: '5'
+taxonomy_4_upper_length_2: '55'
+taxonomy_4_upper_length_3: '555'
+taxonomy_4_upper_length_4: '555_'
+taxonomy_4_upper_length_5: 555_T

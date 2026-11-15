@@ -118,7 +118,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | U2 | 1 | MAX17048 | MAX17048 | `RP2040_Thing_Plus-import-fps:DFN-8` | unmatched |
 | U3 | 1 | MCP73831 | MCP73831 | `RP2040_Thing_Plus-import-fps:SOT23-5` | unmatched |
 | U4 | 1 | W25QXX128MBIT | W25QXX128MBIT | `RP2040_Thing_Plus-import-fps:WSON-8-6X5-SKINNY_CENTERPAD` | unmatched |
-| U5 | 1 | IC RP2040 QFN 56 7 MM X 7 MM | RP2040 | `RP2040_Thing_Plus-import-fps:QFN-56` | [`electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040) |
+| U5 | 1 | IC RP2040 QFN 56 7 MM X 7 MM | RP2040 | `RP2040_Thing_Plus-import-fps:QFN-56` | [`electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040) |
 | U6 | 1 | WS2812-2020 | WS2812-2020 | `RP2040_Thing_Plus-import-fps:WS2812-2020` | unmatched |
 | U7 | 1 | 3.3V | 3.3V | `RP2040_Thing_Plus-import-fps:SOT23-5` | unmatched |
 | Y2 | 1 | 12MHz | 12MHz | `RP2040_Thing_Plus-import-fps:CRYSTAL-SMD-2X2.5MM` | unmatched |

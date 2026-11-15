@@ -1,82 +1,79 @@
 bip_39_2_word_array:
-- skate
-- fork
-bip_39_2_word_no_space: skatefork
-bip_39_2_word_space: skate fork
-bip_39_2_word_underscore: skate_fork
-bip_39_3_word_array:
-- skate
-- fork
-- seed
-bip_39_3_word_no_space: skateforkseed
-bip_39_3_word_space: skate fork seed
-bip_39_3_word_underscore: skate_fork_seed
-bip_39_full_array:
-- skate
-- fork
-- seed
-- pyramid
-- 'false'
-- promote
 - size
-- speed
-- cake
-- actual
-- library
-- slot
-bip_39_full_no_space: skateforkseedpyramidfalsepromotesizespeedcakeactuallibraryslot
-bip_39_full_space: skate fork seed pyramid false promote size speed cake actual library
-  slot
-bip_39_full_underscore: skate_fork_seed_pyramid_false_promote_size_speed_cake_actual_library_slot
+- adapt
+bip_39_2_word_no_space: sizeadapt
+bip_39_2_word_space: size adapt
+bip_39_2_word_underscore: size_adapt
+bip_39_3_word_array:
+- size
+- adapt
+- kiwi
+bip_39_3_word_no_space: sizeadaptkiwi
+bip_39_3_word_space: size adapt kiwi
+bip_39_3_word_underscore: size_adapt_kiwi
+bip_39_full_array:
+- size
+- adapt
+- kiwi
+- apart
+- memory
+- hungry
+- oil
+- shift
+- convince
+- liquid
+- tilt
+- hurt
+bip_39_full_no_space: sizeadaptkiwiapartmemoryhungryoilshiftconvinceliquidtilthurt
+bip_39_full_space: size adapt kiwi apart memory hungry oil shift convince liquid tilt hurt
+bip_39_full_underscore: size_adapt_kiwi_apart_memory_hungry_oil_shift_convince_liquid_tilt_hurt
 category: memory
 category_name: Memory
 datasheet_url: https://www.winbond.com/export/sites/winbond/product-selection-guide/file/2025-Product-Selection-Guide-Winbond-Code-Storage-Flash-Memory.pdf
 dimension_reference:
   document: Winbond W25Q16JV product selection guide
-  notes: USON-8 2 x 3 mm option; the local taxonomy uses the rotated 3 x 2 mm drawing
-    convention.
+  notes: USON-8 2 x 3 mm option; the local taxonomy uses the rotated 3 x 2 mm drawing convention.
 dimensions_mm:
   height: 0.55
   length: 3.0
   width: 2.0
-directory: parts/electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+directory: parts/electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
 distributors: []
-id: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
-id_no_class: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
-id_no_size: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
-id_no_type: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+id: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
+id_no_class: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
+id_no_size: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
+id_no_type: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
 kicad:
   hand_solder: Package_DFN_QFN:USON-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm
   machine_solder: Package_DFN_QFN:USON-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm
   symbol: ''
 lcsc_search: uson 8 memory spi nor flash winbond w25q16jvuxiq ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
 manufacturers: []
-md5: ca0b6f0bd7852558727e8820405e0466
-md5_10: ca0b6f0bd7
-md5_10_upper: CA0B6F0BD7
-md5_5: ca0b6
-md5_5_upper: CA0B6
-md5_6: ca0b6f
-md5_6_alpha: 7vsz3
-md5_6_alpha_upper: 7VSZ3
-md5_6_upper: CA0B6F
-name: Electronic Ic Uson 8 Memory Spi Nor Flash Winbond W25Q16Jvuxiq
-name_no_class: Electronic Ic Uson 8 Memory Spi Nor Flash Winbond W25Q16Jvuxiq
-name_no_size: Electronic Ic Uson 8 Memory Spi Nor Flash Winbond W25Q16Jvuxiq
-name_no_type: Electronic Ic Uson 8 Memory Spi Nor Flash Winbond W25Q16Jvuxiq
+md5: c9e061ed8528aedea6762e2f904b8837
+md5_10: c9e061ed85
+md5_10_upper: C9E061ED85
+md5_5: c9e06
+md5_5_upper: C9E06
+md5_6: c9e061
+md5_6_alpha: 7vkgx
+md5_6_alpha_upper: 7VKGX
+md5_6_upper: C9E061
+name: Electronic Ic Memory Spi Nor Flash Uson 8 Winbond W25Q16Jvuxiq
+name_no_class: Electronic Ic Memory Spi Nor Flash Uson 8 Winbond W25Q16Jvuxiq
+name_no_size: Electronic Ic Memory Spi Nor Flash Uson 8 Winbond W25Q16Jvuxiq
+name_no_type: Electronic Ic Memory Spi Nor Flash Uson 8 Winbond W25Q16Jvuxiq
 name_proper: IC Memory SPI Nor Flash Winbond USON_8
 name_readable: IC Memory SPI Nor Flash Winbond USON_8
 name_short: IC Memory SPI Nor Flash Winbond USON_8
-name_space: electronic ic uson 8 memory spi nor flash winbond w25q16jvuxiq
+name_space: electronic ic memory spi nor flash uson 8 winbond w25q16jvuxiq
 name_upper: ELECTRONIC IC USON 8 MEMORY SPI NOR FLASH WINBOND W25Q16JVUXIQ
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -89,7 +86,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+    part_id: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -169,8 +166,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -184,13 +180,12 @@ oomlout_ai_roboclick_3:
       datasheet_url: https://www.winbond.com/export/sites/winbond/product-selection-guide/file/2025-Product-Selection-Guide-Winbond-Code-Storage-Flash-Memory.pdf
       dimension_reference:
         document: Winbond W25Q16JV product selection guide
-        notes: USON-8 2 x 3 mm option; the local taxonomy uses the rotated 3 x 2 mm
-          drawing convention.
+        notes: USON-8 2 x 3 mm option; the local taxonomy uses the rotated 3 x 2 mm drawing convention.
       dimensions_mm:
         height: 0.55
         length: 3.0
         width: 2.0
-      directory: parts\electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+      directory: parts\electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
       distributors: []
       kicad:
         hand_solder: Package_DFN_QFN:USON-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm
@@ -198,17 +193,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: uson 8 memory spi nor flash winbond w25q16jvuxiq ic
       manufacturers: []
-      name: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+      name: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
       name_proper: IC Memory SPI Nor Flash Winbond USON_8
       name_readable: IC Memory SPI Nor Flash Winbond USON_8
       name_short: IC Memory SPI Nor Flash Winbond USON_8
-      name_space: electronic ic uson 8 memory spi nor flash winbond w25q16jvuxiq
+      name_space: electronic ic memory spi nor flash uson 8 winbond w25q16jvuxiq
       name_upper: ELECTRONIC IC USON 8 MEMORY SPI NOR FLASH WINBOND W25Q16JVUXIQ
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -218,11 +212,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+          part_id: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -302,8 +295,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -439,8 +431,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/uson_8/memory/spi_nor_flash/winbond/README.md
-        oomp_id: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+        navigation_link: ../../navigation/electronic/ic/memory/spi_nor_flash/uson_8/winbond/README.md
+        oomp_id: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
         pins:
         - name: CS
           number: '1'
@@ -468,7 +460,7 @@ oomlout_ai_roboclick_3:
           type: power
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+          value: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
         - title: Type
           value: Ic
         - title: Package / style
@@ -477,21 +469,19 @@ oomlout_ai_roboclick_3:
           value: 3.0 × 2.0 mm
         - title: Documented pins
           value: 8
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
-        summary: IC Memory SPI Nor Flash Winbond USON_8 is an OOMP electronic ic definition.
-          It uses the uson 8 package or form factor. Its nominal drawing size is 3.0
-          × 2.0 mm. The definition includes 8 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
+        summary: IC Memory SPI Nor Flash Winbond USON_8 is an OOMP electronic ic definition. It uses the uson 8 package or form factor. Its nominal drawing size is 3.0 × 2.0 mm. The definition includes 8 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: uson_8
-        - level: 4
           value: memory
-        - level: 5
+        - level: 4
           value: spi_nor_flash
+        - level: 5
+          value: uson_8
         - level: 14
           value: winbond
         - level: 15
@@ -691,9 +681,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: winbond
       taxonomy_15: w25q16jvuxiq
       taxonomy_2: ic
-      taxonomy_3: uson_8
-      taxonomy_4: memory
-      taxonomy_5: spi_nor_flash
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -710,6 +697,9 @@ oomlout_ai_roboclick_3:
         references:
         - U3
         version: current
+      taxonomy_5: uson_8
+      taxonomy_3: memory
+      taxonomy_4: spi_nor_flash
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -717,7 +707,7 @@ oomlout_ai_roboclick_3:
     search_and_replace: []
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+oomp_key: oomp_electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
 package_drawing:
   body:
   - 2.4
@@ -851,8 +841,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/uson_8/memory/spi_nor_flash/winbond/README.md
-  oomp_id: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+  navigation_link: ../../navigation/electronic/ic/memory/spi_nor_flash/uson_8/winbond/README.md
+  oomp_id: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
   pins:
   - name: CS
     number: '1'
@@ -880,7 +870,7 @@ part_page:
     type: power
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
+    value: electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
   - title: Type
     value: Ic
   - title: Package / style
@@ -889,21 +879,19 @@ part_page:
     value: 3.0 × 2.0 mm
   - title: Documented pins
     value: 8
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq
-  summary: IC Memory SPI Nor Flash Winbond USON_8 is an OOMP electronic ic definition.
-    It uses the uson 8 package or form factor. Its nominal drawing size is 3.0 × 2.0
-    mm. The definition includes 8 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq
+  summary: IC Memory SPI Nor Flash Winbond USON_8 is an OOMP electronic ic definition. It uses the uson 8 package or form factor. Its nominal drawing size is 3.0 × 2.0 mm. The definition includes 8 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: uson_8
-  - level: 4
     value: memory
-  - level: 5
+  - level: 4
     value: spi_nor_flash
+  - level: 5
+    value: uson_8
   - level: 14
     value: winbond
   - level: 15
@@ -1159,51 +1147,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: uson_8
-taxonomy_3_capital: Uson 8
-taxonomy_3_first_letter: u
-taxonomy_3_first_letter_upper: U
-taxonomy_3_length_1: u
-taxonomy_3_length_2: us
-taxonomy_3_length_3: uso
-taxonomy_3_length_4: uson
-taxonomy_3_length_5: uson_
-taxonomy_3_upper: USON_8
-taxonomy_3_upper_length_1: U
-taxonomy_3_upper_length_2: US
-taxonomy_3_upper_length_3: USO
-taxonomy_3_upper_length_4: USON
-taxonomy_3_upper_length_5: USON_
-taxonomy_4: memory
-taxonomy_4_capital: Memory
-taxonomy_4_first_letter: m
-taxonomy_4_first_letter_upper: M
-taxonomy_4_length_1: m
-taxonomy_4_length_2: me
-taxonomy_4_length_3: mem
-taxonomy_4_length_4: memo
-taxonomy_4_length_5: memor
-taxonomy_4_upper: MEMORY
-taxonomy_4_upper_length_1: M
-taxonomy_4_upper_length_2: ME
-taxonomy_4_upper_length_3: MEM
-taxonomy_4_upper_length_4: MEMO
-taxonomy_4_upper_length_5: MEMOR
-taxonomy_5: spi_nor_flash
-taxonomy_5_capital: Spi Nor Flash
-taxonomy_5_first_letter: s
-taxonomy_5_first_letter_upper: S
-taxonomy_5_length_1: s
-taxonomy_5_length_2: sp
-taxonomy_5_length_3: spi
-taxonomy_5_length_4: spi_
-taxonomy_5_length_5: spi_n
-taxonomy_5_upper: SPI_NOR_FLASH
-taxonomy_5_upper_length_1: S
-taxonomy_5_upper_length_2: SP
-taxonomy_5_upper_length_3: SPI
-taxonomy_5_upper_length_4: SPI_
-taxonomy_5_upper_length_5: SPI_N
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1220,3 +1163,48 @@ used_in_projects:
   references:
   - U3
   version: current
+taxonomy_5: uson_8
+taxonomy_5_capital: Uson 8
+taxonomy_5_first_letter: u
+taxonomy_5_first_letter_upper: U
+taxonomy_5_length_1: u
+taxonomy_5_length_2: us
+taxonomy_5_length_3: uso
+taxonomy_5_length_4: uson
+taxonomy_5_length_5: uson_
+taxonomy_5_upper: USON_8
+taxonomy_5_upper_length_1: U
+taxonomy_5_upper_length_2: US
+taxonomy_5_upper_length_3: USO
+taxonomy_5_upper_length_4: USON
+taxonomy_5_upper_length_5: USON_
+taxonomy_3: memory
+taxonomy_3_capital: Memory
+taxonomy_3_first_letter: m
+taxonomy_3_first_letter_upper: M
+taxonomy_3_length_1: m
+taxonomy_3_length_2: me
+taxonomy_3_length_3: mem
+taxonomy_3_length_4: memo
+taxonomy_3_length_5: memor
+taxonomy_3_upper: MEMORY
+taxonomy_3_upper_length_1: M
+taxonomy_3_upper_length_2: ME
+taxonomy_3_upper_length_3: MEM
+taxonomy_3_upper_length_4: MEMO
+taxonomy_3_upper_length_5: MEMOR
+taxonomy_4: spi_nor_flash
+taxonomy_4_capital: Spi Nor Flash
+taxonomy_4_first_letter: s
+taxonomy_4_first_letter_upper: S
+taxonomy_4_length_1: s
+taxonomy_4_length_2: sp
+taxonomy_4_length_3: spi
+taxonomy_4_length_4: spi_
+taxonomy_4_length_5: spi_n
+taxonomy_4_upper: SPI_NOR_FLASH
+taxonomy_4_upper_length_1: S
+taxonomy_4_upper_length_2: SP
+taxonomy_4_upper_length_3: SPI
+taxonomy_4_upper_length_4: SPI_
+taxonomy_4_upper_length_5: SPI_N

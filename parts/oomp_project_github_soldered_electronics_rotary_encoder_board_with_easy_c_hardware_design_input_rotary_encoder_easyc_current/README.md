@@ -90,7 +90,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R3, R4 | 2 | Resistor 1000 Ohm 0603 | 1k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_1000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_1000_ohm) |
 | R5, R6, R7, R8 | 4 | electronic resistor 0603 10000 ohm | 10k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
 | U1 | 1 | ROTARY_ENCODER | ROTARY_ENCODER | `e-radionica.com footprinti:ROTARY_ENCODER` | unmatched |
-| U2 | 1 | IC Microcontroller 8 Bit Avr Microchip SOIC_14 | ATTINY404-SSNR | `e-radionica.com footprinti:SOIC-14` | [`electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr) |
+| U2 | 1 | IC Microcontroller 8 Bit Avr Microchip SOIC_14 | ATTINY404-SSNR | `e-radionica.com footprinti:SOIC-14` | [`electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr) |
 
 ## Main nets
 

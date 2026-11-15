@@ -575,7 +575,7 @@ placement:
     x: 114.25
     y: 69.5
     rotation: 90.0
-    oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670
+    oomp_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670
     bounds:
       min_x: 111.105
       min_y: 66.355
@@ -4856,8 +4856,8 @@ bom:
 - description: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM
   value: Infineon-SLB9670
   footprint: Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm
-  oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670
+  oomp_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670
   references:
   - IC1
   quantity: 1
@@ -5044,7 +5044,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670
+  - oomp_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg

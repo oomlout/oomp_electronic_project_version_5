@@ -40,7 +40,7 @@
       "reference": "IC3",
       "source": "SOT95P280X145-6N",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_6_logic_configurable_multi_function_gate_texas_instruments_sn74lvc1g57dbvr",
+      "oomp_id": "electronic_ic_logic_configurable_multi_function_gate_sot_23_6_texas_instruments_sn74lvc1g57dbvr",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -145,7 +145,7 @@
       "reference": "IC4",
       "source": "_PKG_SOT23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5",
+      "oomp_id": "electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -173,7 +173,7 @@
       "reference": "IC1",
       "source": "QFN16_L3.0-W3.0-P0.50-EP1.7",
       "status": "skipped",
-      "oomp_id": "electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -250,7 +250,7 @@
       "reference": "IC2",
       "source": "SOIC127P604X185-16N",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sop_16_controller_usb_hub_controller_4_port_corechips_sl21a",
+      "oomp_id": "electronic_ic_controller_usb_hub_controller_4_port_sop_16_corechips_sl21a",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -390,7 +390,7 @@
       ],
       "source": "project-tool-mini-RevA2-eagle-import:LOGIC-MULTI-SN74LVC1G57DBV",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_6_logic_configurable_multi_function_gate_texas_instruments_sn74lvc1g57dbvr",
+      "oomp_id": "electronic_ic_logic_configurable_multi_function_gate_sot_23_6_texas_instruments_sn74lvc1g57dbvr",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },
@@ -427,7 +427,7 @@
       ],
       "source": "project-tool-mini-RevA2-eagle-import:INTERFACE-CH343P",
       "status": "skipped",
-      "oomp_id": "electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },
@@ -572,7 +572,7 @@
       ],
       "source": "project-tool-mini-RevA2-eagle-import:POWER-SWITCH-RT9742_EN-ACTIVE_HIGH",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5",
+      "oomp_id": "electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },
@@ -810,7 +810,7 @@
       ],
       "source": "project-tool-mini-RevA2-eagle-import:USB-HUB-SL2.1A",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sop_16_controller_usb_hub_controller_4_port_corechips_sl21a",
+      "oomp_id": "electronic_ic_controller_usb_hub_controller_4_port_sop_16_corechips_sl21a",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },

@@ -4647,7 +4647,7 @@
         "x": 97.2,
         "y": 69.1,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd",
+        "oomp_id": "electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd",
         "bounds": {
           "min_x": 94.52,
           "min_y": 66.2,
@@ -5469,7 +5469,7 @@
         "x": 99.55,
         "y": 61.25,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr",
+        "oomp_id": "electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr",
         "bounds": {
           "min_x": 95.979922,
           "min_y": 59.69,
@@ -6909,8 +6909,8 @@
       "description": "IC Timer 555 Timer Texas Instruments SOIC_8",
       "value": "TLC555CD",
       "footprint": "e-radionica.com footprinti:SOIC−8",
-      "oomp_id": "electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd",
+      "oomp_id": "electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd",
       "references": [
         "U1"
       ],
@@ -6920,8 +6920,8 @@
       "description": "IC Amplifier Operational Amplifier Sg Micro MSOP_8",
       "value": "SGM358YMS/TR",
       "footprint": "e-radionica.com footprinti:MSOP-8",
-      "oomp_id": "electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr",
       "references": [
         "U2"
       ],
@@ -7226,7 +7226,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr",
+        "oomp_id": "electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -7241,7 +7241,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd",
+        "oomp_id": "electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

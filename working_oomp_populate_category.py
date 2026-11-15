@@ -25,7 +25,7 @@ FAMILY_CATEGORIES = [
     ['ic', 'ic'],
 ]
 
-# IC taxonomy_4, category. Function matters more than the physical package.
+# IC taxonomy_3, category. Function matters more than the physical package.
 IC_CATEGORIES = [
     ['microcontroller', 'mcu'],
     ['memory', 'memory'],
@@ -59,7 +59,7 @@ def add_category(part):
                 category = default
         if part.get('taxonomy_2') == 'ic':
             for function, default in IC_CATEGORIES:
-                if part.get('taxonomy_4') == function:
+                if part.get('taxonomy_3') == function:
                     category = default
     part['category'] = category
     part['category_name'] = category_name(category)

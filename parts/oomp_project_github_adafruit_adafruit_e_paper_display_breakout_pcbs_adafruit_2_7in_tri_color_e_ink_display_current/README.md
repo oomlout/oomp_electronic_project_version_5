@@ -95,7 +95,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | Q5 | 1 | IRLML0100 | IRLML0100 | `Adafruit 2.7in Tri-Color eInk Display-import-fps:SOT23-3` | unmatched |
 | R1, R2, R3, R5, R6 | 5 | Resistor 100000 Ohm 0805 | 100K | `Adafruit 2.7in Tri-Color eInk Display-import-fps:0805-NO` | [`electronic_resistor_0805_100000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0805_100000_ohm) |
 | R4 | 1 | 0.47ohm | 0.47ohm | `Adafruit 2.7in Tri-Color eInk Display-import-fps:0805_10MGAP` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit 2.7in Tri-Color eInk Display-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit 2.7in Tri-Color eInk Display-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U4 | 1 | 23K256-I/SN | 23K256-I/SN | `Adafruit 2.7in Tri-Color eInk Display-import-fps:SOIC8_150MIL` | unmatched |
 | X1 | 1 | MICROSD | MICROSD | `Adafruit 2.7in Tri-Color eInk Display-import-fps:MICROSD` | unmatched |
 

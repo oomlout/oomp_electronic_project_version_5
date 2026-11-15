@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C1,10uF,Adafruit MagTag 2.9in-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C3,10µF,Adafruit MagTag 2.9in-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C4,10µF,Adafruit MagTag 2.9in-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -65,7 +65,7 @@ TP8,,Adafruit MagTag 2.9in-import-fps:TESTPOINT_ROUND_1.5MM_NO,,No verified LCSC
 U1,,Adafruit MagTag 2.9in-import-fps:ALS-PT19-315C,,No verified LCSC part number
 U2,MCP73831T-2ACI/OT,Adafruit MagTag 2.9in-import-fps:SOT23-5,,No verified LCSC part number
 U3,ESP32-S2-WROVER,Adafruit MagTag 2.9in-import-fps:MODULE_ESP32-S2-WROVER,,No verified LCSC part number
-U4,AP2112K-3.3,Adafruit MagTag 2.9in-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U4,AP2112K-3.3,Adafruit MagTag 2.9in-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U$15,,Adafruit MagTag 2.9in-import-fps:PCBFEAT-REV-040,,No verified LCSC part number
 U$69,,Adafruit MagTag 2.9in-import-fps:MAGTAG_BOTTOM,,No verified LCSC part number
 U$70,,Adafruit MagTag 2.9in-import-fps:MAGTAG_FRONT,,No verified LCSC part number

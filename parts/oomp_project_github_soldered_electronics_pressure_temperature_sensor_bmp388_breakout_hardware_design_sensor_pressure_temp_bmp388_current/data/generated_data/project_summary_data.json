@@ -6556,7 +6556,7 @@
         "x": 119.0,
         "y": 145.5,
         "rotation": -90.0,
-        "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg",
         "bounds": {
           "min_x": 117.49,
           "min_y": 143.14,
@@ -7963,8 +7963,8 @@
       "description": "IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5",
       "value": "SE5218ALG",
       "footprint": "e-radionica.com footprinti:SOT-23-5",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg",
       "references": [
         "U3"
       ],
@@ -8260,7 +8260,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

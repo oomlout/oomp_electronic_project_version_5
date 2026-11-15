@@ -238,7 +238,7 @@
       "reference": "U8",
       "source": "SparkFun-Semiconductor-Standard:SO-16",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -298,7 +298,7 @@
       "reference": "U2",
       "source": "SparkFun-Semiconductor-Standard:SOT23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -855,7 +855,7 @@
       ],
       "source": "SparkFun-IC-Comm:CH340C",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
       "reason": "Source is not a known official KiCad symbol.",
       "file": "kicad_file.kicad_sch"
     },
@@ -939,7 +939,7 @@
       ],
       "source": "SparkFun-Regulator:AP2112K-3.3",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },

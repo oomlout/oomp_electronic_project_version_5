@@ -1,77 +1,75 @@
 bip_39_2_word_array:
-- use
-- half
-bip_39_2_word_no_space: usehalf
-bip_39_2_word_space: use half
-bip_39_2_word_underscore: use_half
+- income
+- mother
+bip_39_2_word_no_space: incomemother
+bip_39_2_word_space: income mother
+bip_39_2_word_underscore: income_mother
 bip_39_3_word_array:
-- use
-- half
-- phrase
-bip_39_3_word_no_space: usehalfphrase
-bip_39_3_word_space: use half phrase
-bip_39_3_word_underscore: use_half_phrase
+- income
+- mother
+- buzz
+bip_39_3_word_no_space: incomemotherbuzz
+bip_39_3_word_space: income mother buzz
+bip_39_3_word_underscore: income_mother_buzz
 bip_39_full_array:
-- use
-- half
-- phrase
-- where
-- because
-- arctic
-- you
-- edge
-- season
-- female
-- light
-- purchase
-bip_39_full_no_space: usehalfphrasewherebecausearcticyouedgeseasonfemalelightpurchase
-bip_39_full_space: use half phrase where because arctic you edge season female light
-  purchase
-bip_39_full_underscore: use_half_phrase_where_because_arctic_you_edge_season_female_light_purchase
+- income
+- mother
+- buzz
+- flash
+- answer
+- festival
+- argue
+- hybrid
+- fatal
+- eight
+- remove
+- exist
+bip_39_full_no_space: incomemotherbuzzflashanswerfestivalarguehybridfataleightremoveexist
+bip_39_full_space: income mother buzz flash answer festival argue hybrid fatal eight remove exist
+bip_39_full_underscore: income_mother_buzz_flash_answer_festival_argue_hybrid_fatal_eight_remove_exist
 category: logic
 category_name: Logic
 dimensions_mm:
   height: 0.9
   length: 3.0
   width: 3.0
-directory: parts/electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+directory: parts/electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
 distributors: []
-id: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
-id_no_class: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
-id_no_size: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
-id_no_type: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+id: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
+id_no_class: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
+id_no_size: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
+id_no_type: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
 kicad:
   hand_solder: Package_DFN_QFN:QFN-14-1EP_3x3mm_P0.5mm_EP1.65x1.65mm
   machine_solder: Package_DFN_QFN:QFN-14-1EP_3x3mm_P0.5mm_EP1.65x1.65mm
   symbol: ''
 lcsc_search: qfn 14 logic analog switch nexperia 74hc4066bq ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
 manufacturers: []
-md5: efad0e8f7d213c167fca32c22a9e0657
-md5_10: efad0e8f7d
-md5_10_upper: EFAD0E8F7D
-md5_5: efad0
-md5_5_upper: EFAD0
-md5_6: efad0e
-md5_6_alpha: 9cnwu
-md5_6_alpha_upper: 9CNWU
-md5_6_upper: EFAD0E
-name: Electronic Ic Qfn 14 Logic Analog Switch Nexperia 74Hc4066Bq
-name_no_class: Electronic Ic Qfn 14 Logic Analog Switch Nexperia 74Hc4066Bq
-name_no_size: Electronic Ic Qfn 14 Logic Analog Switch Nexperia 74Hc4066Bq
-name_no_type: Electronic Ic Qfn 14 Logic Analog Switch Nexperia 74Hc4066Bq
+md5: 7292047e2c309aaa42e3805388ded7a7
+md5_10: 7292047e2c
+md5_10_upper: 7292047E2C
+md5_5: '72920'
+md5_5_upper: '72920'
+md5_6: '729204'
+md5_6_alpha: 4gxl0
+md5_6_alpha_upper: 4GXL0
+md5_6_upper: '729204'
+name: Electronic Ic Logic Analog Switch Qfn 14 Nexperia 74Hc4066Bq
+name_no_class: Electronic Ic Logic Analog Switch Qfn 14 Nexperia 74Hc4066Bq
+name_no_size: Electronic Ic Logic Analog Switch Qfn 14 Nexperia 74Hc4066Bq
+name_no_type: Electronic Ic Logic Analog Switch Qfn 14 Nexperia 74Hc4066Bq
 name_proper: IC Logic Analog Switch Nexperia QFN_14
 name_readable: IC Logic Analog Switch Nexperia QFN_14
 name_short: IC Logic Analog Switch Nexperia QFN_14
-name_space: electronic ic qfn 14 logic analog switch nexperia 74hc4066bq
+name_space: electronic ic logic analog switch qfn 14 nexperia 74hc4066bq
 name_upper: ELECTRONIC IC QFN 14 LOGIC ANALOG SWITCH NEXPERIA 74HC4066BQ
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -84,7 +82,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+    part_id: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -164,8 +162,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -180,7 +177,7 @@ oomlout_ai_roboclick_3:
         height: 0.9
         length: 3.0
         width: 3.0
-      directory: parts\electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+      directory: parts\electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
       distributors: []
       kicad:
         hand_solder: Package_DFN_QFN:QFN-14-1EP_3x3mm_P0.5mm_EP1.65x1.65mm
@@ -188,17 +185,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: qfn 14 logic analog switch nexperia 74hc4066bq ic
       manufacturers: []
-      name: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+      name: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
       name_proper: IC Logic Analog Switch Nexperia QFN_14
       name_readable: IC Logic Analog Switch Nexperia QFN_14
       name_short: IC Logic Analog Switch Nexperia QFN_14
-      name_space: electronic ic qfn 14 logic analog switch nexperia 74hc4066bq
+      name_space: electronic ic logic analog switch qfn 14 nexperia 74hc4066bq
       name_upper: ELECTRONIC IC QFN 14 LOGIC ANALOG SWITCH NEXPERIA 74HC4066BQ
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -208,11 +204,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+          part_id: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -292,8 +287,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -465,8 +459,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/qfn_14/logic/analog_switch/nexperia/README.md
-        oomp_id: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+        navigation_link: ../../navigation/electronic/ic/logic/analog_switch/qfn_14/nexperia/README.md
+        oomp_id: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
         pins:
         - name: '1'
           number: '1'
@@ -512,7 +506,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+          value: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
         - title: Type
           value: Ic
         - title: Package / style
@@ -521,21 +515,19 @@ oomlout_ai_roboclick_3:
           value: 3.0 × 3.0 mm
         - title: Documented pins
           value: 14
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
-        summary: IC Logic Analog Switch Nexperia QFN_14 is an OOMP electronic ic definition.
-          It uses the qfn 14 package or form factor. Its nominal drawing size is 3.0
-          × 3.0 mm. The definition includes 14 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
+        summary: IC Logic Analog Switch Nexperia QFN_14 is an OOMP electronic ic definition. It uses the qfn 14 package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 14 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: qfn_14
-        - level: 4
           value: logic
-        - level: 5
+        - level: 4
           value: analog_switch
+        - level: 5
+          value: qfn_14
         - level: 14
           value: nexperia
         - level: 15
@@ -759,9 +751,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: nexperia
       taxonomy_15: 74hc4066bq
       taxonomy_2: ic
-      taxonomy_3: qfn_14
-      taxonomy_4: logic
-      taxonomy_5: analog_switch
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -779,6 +768,9 @@ oomlout_ai_roboclick_3:
         - U3
         - U5
         version: current
+      taxonomy_5: qfn_14
+      taxonomy_3: logic
+      taxonomy_4: analog_switch
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -786,7 +778,7 @@ oomlout_ai_roboclick_3:
     search_and_replace: []
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+oomp_key: oomp_electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
 package_drawing:
   body:
   - 3.0
@@ -956,8 +948,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/qfn_14/logic/analog_switch/nexperia/README.md
-  oomp_id: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+  navigation_link: ../../navigation/electronic/ic/logic/analog_switch/qfn_14/nexperia/README.md
+  oomp_id: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
   pins:
   - name: '1'
     number: '1'
@@ -1003,7 +995,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+    value: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
   - title: Type
     value: Ic
   - title: Package / style
@@ -1012,21 +1004,19 @@ part_page:
     value: 3.0 × 3.0 mm
   - title: Documented pins
     value: 14
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
-  summary: IC Logic Analog Switch Nexperia QFN_14 is an OOMP electronic ic definition.
-    It uses the qfn 14 package or form factor. Its nominal drawing size is 3.0 × 3.0
-    mm. The definition includes 14 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
+  summary: IC Logic Analog Switch Nexperia QFN_14 is an OOMP electronic ic definition. It uses the qfn 14 package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 14 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: qfn_14
-  - level: 4
     value: logic
-  - level: 5
+  - level: 4
     value: analog_switch
+  - level: 5
+    value: qfn_14
   - level: 14
     value: nexperia
   - level: 15
@@ -1306,51 +1296,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: qfn_14
-taxonomy_3_capital: Qfn 14
-taxonomy_3_first_letter: q
-taxonomy_3_first_letter_upper: Q
-taxonomy_3_length_1: q
-taxonomy_3_length_2: qf
-taxonomy_3_length_3: qfn
-taxonomy_3_length_4: qfn_
-taxonomy_3_length_5: qfn_1
-taxonomy_3_upper: QFN_14
-taxonomy_3_upper_length_1: Q
-taxonomy_3_upper_length_2: QF
-taxonomy_3_upper_length_3: QFN
-taxonomy_3_upper_length_4: QFN_
-taxonomy_3_upper_length_5: QFN_1
-taxonomy_4: logic
-taxonomy_4_capital: Logic
-taxonomy_4_first_letter: l
-taxonomy_4_first_letter_upper: L
-taxonomy_4_length_1: l
-taxonomy_4_length_2: lo
-taxonomy_4_length_3: log
-taxonomy_4_length_4: logi
-taxonomy_4_length_5: logic
-taxonomy_4_upper: LOGIC
-taxonomy_4_upper_length_1: L
-taxonomy_4_upper_length_2: LO
-taxonomy_4_upper_length_3: LOG
-taxonomy_4_upper_length_4: LOGI
-taxonomy_4_upper_length_5: LOGIC
-taxonomy_5: analog_switch
-taxonomy_5_capital: Analog Switch
-taxonomy_5_first_letter: a
-taxonomy_5_first_letter_upper: A
-taxonomy_5_length_1: a
-taxonomy_5_length_2: an
-taxonomy_5_length_3: ana
-taxonomy_5_length_4: anal
-taxonomy_5_length_5: analo
-taxonomy_5_upper: ANALOG_SWITCH
-taxonomy_5_upper_length_1: A
-taxonomy_5_upper_length_2: AN
-taxonomy_5_upper_length_3: ANA
-taxonomy_5_upper_length_4: ANAL
-taxonomy_5_upper_length_5: ANALO
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1368,3 +1313,48 @@ used_in_projects:
   - U3
   - U5
   version: current
+taxonomy_5: qfn_14
+taxonomy_5_capital: Qfn 14
+taxonomy_5_first_letter: q
+taxonomy_5_first_letter_upper: Q
+taxonomy_5_length_1: q
+taxonomy_5_length_2: qf
+taxonomy_5_length_3: qfn
+taxonomy_5_length_4: qfn_
+taxonomy_5_length_5: qfn_1
+taxonomy_5_upper: QFN_14
+taxonomy_5_upper_length_1: Q
+taxonomy_5_upper_length_2: QF
+taxonomy_5_upper_length_3: QFN
+taxonomy_5_upper_length_4: QFN_
+taxonomy_5_upper_length_5: QFN_1
+taxonomy_3: logic
+taxonomy_3_capital: Logic
+taxonomy_3_first_letter: l
+taxonomy_3_first_letter_upper: L
+taxonomy_3_length_1: l
+taxonomy_3_length_2: lo
+taxonomy_3_length_3: log
+taxonomy_3_length_4: logi
+taxonomy_3_length_5: logic
+taxonomy_3_upper: LOGIC
+taxonomy_3_upper_length_1: L
+taxonomy_3_upper_length_2: LO
+taxonomy_3_upper_length_3: LOG
+taxonomy_3_upper_length_4: LOGI
+taxonomy_3_upper_length_5: LOGIC
+taxonomy_4: analog_switch
+taxonomy_4_capital: Analog Switch
+taxonomy_4_first_letter: a
+taxonomy_4_first_letter_upper: A
+taxonomy_4_length_1: a
+taxonomy_4_length_2: an
+taxonomy_4_length_3: ana
+taxonomy_4_length_4: anal
+taxonomy_4_length_5: analo
+taxonomy_4_upper: ANALOG_SWITCH
+taxonomy_4_upper_length_1: A
+taxonomy_4_upper_length_2: AN
+taxonomy_4_upper_length_3: ANA
+taxonomy_4_upper_length_4: ANAL
+taxonomy_4_upper_length_5: ANALO

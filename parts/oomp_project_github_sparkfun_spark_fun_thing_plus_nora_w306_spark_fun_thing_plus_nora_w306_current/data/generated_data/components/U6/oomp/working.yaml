@@ -1,33 +1,32 @@
 bip_39_2_word_array:
-- charge
-- endless
-bip_39_2_word_no_space: chargeendless
-bip_39_2_word_space: charge endless
-bip_39_2_word_underscore: charge_endless
+- pitch
+- spare
+bip_39_2_word_no_space: pitchspare
+bip_39_2_word_space: pitch spare
+bip_39_2_word_underscore: pitch_spare
 bip_39_3_word_array:
-- charge
-- endless
-- obscure
-bip_39_3_word_no_space: chargeendlessobscure
-bip_39_3_word_space: charge endless obscure
-bip_39_3_word_underscore: charge_endless_obscure
+- pitch
+- spare
+- viable
+bip_39_3_word_no_space: pitchspareviable
+bip_39_3_word_space: pitch spare viable
+bip_39_3_word_underscore: pitch_spare_viable
 bip_39_full_array:
-- charge
-- endless
-- obscure
-- shell
-- help
-- broccoli
-- comic
-- dish
-- pulse
-- corn
-- method
-- wonder
-bip_39_full_no_space: chargeendlessobscureshellhelpbroccolicomicdishpulsecornmethodwonder
-bip_39_full_space: charge endless obscure shell help broccoli comic dish pulse corn
-  method wonder
-bip_39_full_underscore: charge_endless_obscure_shell_help_broccoli_comic_dish_pulse_corn_method_wonder
+- pitch
+- spare
+- viable
+- trouble
+- hamster
+- gap
+- topple
+- maid
+- cheap
+- salmon
+- humble
+- plug
+bip_39_full_no_space: pitchspareviabletroublehamstergaptopplemaidcheapsalmonhumbleplug
+bip_39_full_space: pitch spare viable trouble hamster gap topple maid cheap salmon humble plug
+bip_39_full_underscore: pitch_spare_viable_trouble_hamster_gap_topple_maid_cheap_salmon_humble_plug
 category: interface
 category_name: Interface
 datasheet_url: https://www.lcsc.com/datasheet/C105167.pdf
@@ -40,58 +39,51 @@ dimension_reference:
 dimensions_mm:
   length: 5.0
   width: 5.0
-directory: parts/electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+directory: parts/electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
 distributors:
 - key: lcsc
   part_number: C105167
   title: LCSC
   url: https://www.lcsc.com/product-detail/C105167.html
-id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
-id_no_class: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
-id_no_size: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
-id_no_type: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
+id_no_class: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
+id_no_size: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
+id_no_type: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
 kicad:
   hand_solder: ''
   machine_solder: Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm
   symbol: Interface_USB:CP2102N-Axx-xQFN28
 lcsc_search: CP2102N-A01-GQFN28R
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
 manufacturer: Silicon Labs
 manufacturers:
 - manufacturer: Silicon Labs
   part_number: CP2102N-A01-GQFN28R
-md5: 2689366162b6b038cb91f9ad860e30fe
-md5_10: '2689366162'
-md5_10_upper: '2689366162'
-md5_5: '26893'
-md5_5_upper: '26893'
-md5_6: '268936'
-md5_6_alpha: 1i4om
-md5_6_alpha_upper: 1I4OM
-md5_6_upper: '268936'
-name: Electronic Ic Qfn 28 5 Mm X 5 Mm Converter Usb To Serial Converter Silicon Labs
-  Cp2102N A01 Gqfn28R
-name_no_class: Electronic Ic Qfn 28 5 Mm X 5 Mm Converter Usb To Serial Converter
-  Silicon Labs Cp2102N A01 Gqfn28R
-name_no_size: Electronic Ic Qfn 28 5 Mm X 5 Mm Converter Usb To Serial Converter Silicon
-  Labs Cp2102N A01 Gqfn28R
-name_no_type: Electronic Ic Qfn 28 5 Mm X 5 Mm Converter Usb To Serial Converter Silicon
-  Labs Cp2102N A01 Gqfn28R
+md5: a59a0fcd74868abeb94c3026f7cdbbd3
+md5_10: a59a0fcd74
+md5_10_upper: A59A0FCD74
+md5_5: a59a0
+md5_5_upper: A59A0
+md5_6: a59a0f
+md5_6_alpha: 6gm4v
+md5_6_alpha_upper: 6GM4V
+md5_6_upper: A59A0F
+name: Electronic Ic Converter Usb To Serial Converter Qfn 28 5 Mm X 5 Mm Silicon Labs Cp2102N A01 Gqfn28R
+name_no_class: Electronic Ic Converter Usb To Serial Converter Qfn 28 5 Mm X 5 Mm Silicon Labs Cp2102N A01 Gqfn28R
+name_no_size: Electronic Ic Converter Usb To Serial Converter Qfn 28 5 Mm X 5 Mm Silicon Labs Cp2102N A01 Gqfn28R
+name_no_type: Electronic Ic Converter Usb To Serial Converter Qfn 28 5 Mm X 5 Mm Silicon Labs Cp2102N A01 Gqfn28R
 name_proper: USB-Serial CP2102N-A01-GQFN28R
 name_readable: USB-Serial CP2102N-A01-GQFN28R
 name_readable_override: USB-Serial CP2102N-A01-GQFN28R
 name_short: USB-Serial CP2102N-A01-GQFN28R
-name_space: electronic ic qfn 28 5 mm x 5 mm converter usb to serial converter silicon
-  labs cp2102n a01 gqfn28r
-name_upper: ELECTRONIC IC QFN 28 5 MM X 5 MM CONVERTER USB TO SERIAL CONVERTER SILICON
-  LABS CP2102N A01 GQFN28R
+name_space: electronic ic converter usb to serial converter qfn 28 5 mm x 5 mm silicon labs cp2102n a01 gqfn28r
+name_upper: ELECTRONIC IC QFN 28 5 MM X 5 MM CONVERTER USB TO SERIAL CONVERTER SILICON LABS CP2102N A01 GQFN28R
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -104,7 +96,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+    part_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -184,8 +176,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -206,7 +197,7 @@ oomlout_ai_roboclick_3:
       dimensions_mm:
         length: 5.0
         width: 5.0
-      directory: parts\electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+      directory: parts\electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
       distributors:
       - key: lcsc
         part_number: C105167
@@ -221,20 +212,17 @@ oomlout_ai_roboclick_3:
       manufacturers:
       - manufacturer: Silicon Labs
         part_number: CP2102N-A01-GQFN28R
-      name: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+      name: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
       name_proper: USB-Serial CP2102N-A01-GQFN28R
       name_readable: USB-Serial CP2102N-A01-GQFN28R
       name_readable_override: USB-Serial CP2102N-A01-GQFN28R
       name_short: USB-Serial CP2102N-A01-GQFN28R
-      name_space: electronic ic qfn 28 5 mm x 5 mm converter usb to serial converter
-        silicon labs cp2102n a01 gqfn28r
-      name_upper: ELECTRONIC IC QFN 28 5 MM X 5 MM CONVERTER USB TO SERIAL CONVERTER
-        SILICON LABS CP2102N A01 GQFN28R
+      name_space: electronic ic converter usb to serial converter qfn 28 5 mm x 5 mm silicon labs cp2102n a01 gqfn28r
+      name_upper: ELECTRONIC IC QFN 28 5 MM X 5 MM CONVERTER USB TO SERIAL CONVERTER SILICON LABS CP2102N A01 GQFN28R
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -244,11 +232,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+          part_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -328,8 +315,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       part_id: U1
@@ -414,33 +400,31 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/qfn_28_5_mm_x_5_mm/converter/usb_to_serial_converter/silicon_labs/README.md
-        oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+        navigation_link: ../../navigation/electronic/ic/converter/usb_to_serial_converter/qfn_28_5_mm_x_5_mm/silicon_labs/README.md
+        oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
         pins: []
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+          value: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
         - title: Type
           value: Ic
         - title: Package / style
           value: qfn 28 5 mm x 5 mm
         - title: Nominal size
           value: 5.0 × 5.0 mm
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
-        summary: USB-Serial CP2102N-A01-GQFN28R is an OOMP electronic ic definition.
-          It uses the qfn 28 5 mm x 5 mm package or form factor. Its nominal drawing
-          size is 5.0 × 5.0 mm.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
+        summary: USB-Serial CP2102N-A01-GQFN28R is an OOMP electronic ic definition. It uses the qfn 28 5 mm x 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: qfn_28_5_mm_x_5_mm
-        - level: 4
           value: converter
-        - level: 5
+        - level: 4
           value: usb_to_serial_converter
+        - level: 5
+          value: qfn_28_5_mm_x_5_mm
         - level: 14
           value: silicon_labs
         - level: 15
@@ -608,9 +592,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: silicon_labs
       taxonomy_15: cp2102n_a01_gqfn28r
       taxonomy_2: ic
-      taxonomy_3: qfn_28_5_mm_x_5_mm
-      taxonomy_4: converter
-      taxonomy_5: usb_to_serial_converter
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -647,6 +628,9 @@ oomlout_ai_roboclick_3:
         references:
         - U3
         version: current
+      taxonomy_5: qfn_28_5_mm_x_5_mm
+      taxonomy_3: converter
+      taxonomy_4: usb_to_serial_converter
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -657,8 +641,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -667,7 +650,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+oomp_key: oomp_electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
 part_id: U1
 part_number_lcsc: C105167
 part_number_manufacturer: CP2102N-A01-GQFN28R
@@ -750,33 +733,31 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/qfn_28_5_mm_x_5_mm/converter/usb_to_serial_converter/silicon_labs/README.md
-  oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+  navigation_link: ../../navigation/electronic/ic/converter/usb_to_serial_converter/qfn_28_5_mm_x_5_mm/silicon_labs/README.md
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
   pins: []
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+    value: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
   - title: Type
     value: Ic
   - title: Package / style
     value: qfn 28 5 mm x 5 mm
   - title: Nominal size
     value: 5.0 × 5.0 mm
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
-  summary: USB-Serial CP2102N-A01-GQFN28R is an OOMP electronic ic definition. It
-    uses the qfn 28 5 mm x 5 mm package or form factor. Its nominal drawing size is
-    5.0 × 5.0 mm.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
+  summary: USB-Serial CP2102N-A01-GQFN28R is an OOMP electronic ic definition. It uses the qfn 28 5 mm x 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: qfn_28_5_mm_x_5_mm
-  - level: 4
     value: converter
-  - level: 5
+  - level: 4
     value: usb_to_serial_converter
+  - level: 5
+    value: qfn_28_5_mm_x_5_mm
   - level: 14
     value: silicon_labs
   - level: 15
@@ -1000,51 +981,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: qfn_28_5_mm_x_5_mm
-taxonomy_3_capital: Qfn 28.5 mm x 5 mm
-taxonomy_3_first_letter: q
-taxonomy_3_first_letter_upper: Q
-taxonomy_3_length_1: q
-taxonomy_3_length_2: qf
-taxonomy_3_length_3: qfn
-taxonomy_3_length_4: qfn_
-taxonomy_3_length_5: qfn_2
-taxonomy_3_upper: QFN_28_5_MM_X_5_MM
-taxonomy_3_upper_length_1: Q
-taxonomy_3_upper_length_2: QF
-taxonomy_3_upper_length_3: QFN
-taxonomy_3_upper_length_4: QFN_
-taxonomy_3_upper_length_5: QFN_2
-taxonomy_4: converter
-taxonomy_4_capital: Converter
-taxonomy_4_first_letter: c
-taxonomy_4_first_letter_upper: C
-taxonomy_4_length_1: c
-taxonomy_4_length_2: co
-taxonomy_4_length_3: con
-taxonomy_4_length_4: conv
-taxonomy_4_length_5: conve
-taxonomy_4_upper: CONVERTER
-taxonomy_4_upper_length_1: C
-taxonomy_4_upper_length_2: CO
-taxonomy_4_upper_length_3: CON
-taxonomy_4_upper_length_4: CONV
-taxonomy_4_upper_length_5: CONVE
-taxonomy_5: usb_to_serial_converter
-taxonomy_5_capital: Usb To Serial Converter
-taxonomy_5_first_letter: u
-taxonomy_5_first_letter_upper: U
-taxonomy_5_length_1: u
-taxonomy_5_length_2: us
-taxonomy_5_length_3: usb
-taxonomy_5_length_4: usb_
-taxonomy_5_length_5: usb_t
-taxonomy_5_upper: USB_TO_SERIAL_CONVERTER
-taxonomy_5_upper_length_1: U
-taxonomy_5_upper_length_2: US
-taxonomy_5_upper_length_3: USB
-taxonomy_5_upper_length_4: USB_
-taxonomy_5_upper_length_5: USB_T
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1082,3 +1018,48 @@ used_in_projects:
   references:
   - U3
   version: current
+taxonomy_5: qfn_28_5_mm_x_5_mm
+taxonomy_5_capital: Qfn 28.5 mm x 5 mm
+taxonomy_5_first_letter: q
+taxonomy_5_first_letter_upper: Q
+taxonomy_5_length_1: q
+taxonomy_5_length_2: qf
+taxonomy_5_length_3: qfn
+taxonomy_5_length_4: qfn_
+taxonomy_5_length_5: qfn_2
+taxonomy_5_upper: QFN_28_5_MM_X_5_MM
+taxonomy_5_upper_length_1: Q
+taxonomy_5_upper_length_2: QF
+taxonomy_5_upper_length_3: QFN
+taxonomy_5_upper_length_4: QFN_
+taxonomy_5_upper_length_5: QFN_2
+taxonomy_3: converter
+taxonomy_3_capital: Converter
+taxonomy_3_first_letter: c
+taxonomy_3_first_letter_upper: C
+taxonomy_3_length_1: c
+taxonomy_3_length_2: co
+taxonomy_3_length_3: con
+taxonomy_3_length_4: conv
+taxonomy_3_length_5: conve
+taxonomy_3_upper: CONVERTER
+taxonomy_3_upper_length_1: C
+taxonomy_3_upper_length_2: CO
+taxonomy_3_upper_length_3: CON
+taxonomy_3_upper_length_4: CONV
+taxonomy_3_upper_length_5: CONVE
+taxonomy_4: usb_to_serial_converter
+taxonomy_4_capital: Usb To Serial Converter
+taxonomy_4_first_letter: u
+taxonomy_4_first_letter_upper: U
+taxonomy_4_length_1: u
+taxonomy_4_length_2: us
+taxonomy_4_length_3: usb
+taxonomy_4_length_4: usb_
+taxonomy_4_length_5: usb_t
+taxonomy_4_upper: USB_TO_SERIAL_CONVERTER
+taxonomy_4_upper_length_1: U
+taxonomy_4_upper_length_2: US
+taxonomy_4_upper_length_3: USB
+taxonomy_4_upper_length_4: USB_
+taxonomy_4_upper_length_5: USB_T

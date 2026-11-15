@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C1,22uF,Adafruit QT Py ESP32-C3-import-fps:0805-NO,electronic_capacitor_0805_22_micro_farad,No verified LCSC part number
 C6,22uF,Adafruit QT Py ESP32-C3-import-fps:0805-NO,electronic_capacitor_0805_22_micro_farad,No verified LCSC part number
 C7,TBD,Adafruit QT Py ESP32-C3-import-fps:_0402NO,,No verified LCSC part number
@@ -17,7 +17,7 @@ Q1,BOOT0,Adafruit QT Py ESP32-C3-import-fps:BTN_KMR2_4.6X2.8,,No verified LCSC p
 Q2,reset,Adafruit QT Py ESP32-C3-import-fps:BTN_KMR2_SLIM,,No verified LCSC part number
 SWC1,"TPB1,27","Adafruit QT Py ESP32-C3-import-fps:B1,27",,No verified LCSC part number
 SWC2,"TPB1,27","Adafruit QT Py ESP32-C3-import-fps:B1,27",,No verified LCSC part number
-U1,AP2112K-3.3,Adafruit QT Py ESP32-C3-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U1,AP2112K-3.3,Adafruit QT Py ESP32-C3-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U2,ESP32-C3FH4,Adafruit QT Py ESP32-C3-import-fps:QFN32_5MM,,No verified LCSC part number
 U$3,,Adafruit QT Py ESP32-C3-import-fps:QTPYC3_TOP,,No verified LCSC part number
 U$6,FIDUCIAL_1MM,Adafruit QT Py ESP32-C3-import-fps:FIDUCIAL_1MM,,No verified LCSC part number

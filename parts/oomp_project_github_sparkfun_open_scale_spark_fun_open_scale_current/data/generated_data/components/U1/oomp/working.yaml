@@ -1,39 +1,38 @@
 bip_39_2_word_array:
-- lunar
-- state
-bip_39_2_word_no_space: lunarstate
-bip_39_2_word_space: lunar state
-bip_39_2_word_underscore: lunar_state
+- hold
+- butter
+bip_39_2_word_no_space: holdbutter
+bip_39_2_word_space: hold butter
+bip_39_2_word_underscore: hold_butter
 bip_39_3_word_array:
-- lunar
-- state
-- foil
-bip_39_3_word_no_space: lunarstatefoil
-bip_39_3_word_space: lunar state foil
-bip_39_3_word_underscore: lunar_state_foil
+- hold
+- butter
+- permit
+bip_39_3_word_no_space: holdbutterpermit
+bip_39_3_word_space: hold butter permit
+bip_39_3_word_underscore: hold_butter_permit
 bip_39_full_array:
-- lunar
-- state
-- foil
-- smooth
-- very
-- ring
-- sunny
-- forget
-- regular
-- disease
-- frequent
-- rule
-bip_39_full_no_space: lunarstatefoilsmoothveryringsunnyforgetregulardiseasefrequentrule
-bip_39_full_space: lunar state foil smooth very ring sunny forget regular disease
-  frequent rule
-bip_39_full_underscore: lunar_state_foil_smooth_very_ring_sunny_forget_regular_disease_frequent_rule
+- hold
+- butter
+- permit
+- chalk
+- bicycle
+- drive
+- piano
+- want
+- because
+- pause
+- tide
+- position
+bip_39_full_no_space: holdbutterpermitchalkbicycledrivepianowantbecausepausetideposition
+bip_39_full_space: hold butter permit chalk bicycle drive piano want because pause tide position
+bip_39_full_underscore: hold_butter_permit_chalk_bicycle_drive_piano_want_because_pause_tide_position
 category: interface
 category_name: Interface
 dimensions_mm:
   length: 9.9
   width: 3.9
-directory: parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+directory: parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
 distributors: []
 ic_dimensions_mm:
   body_length: 9.9
@@ -48,47 +47,41 @@ ic_dimensions_mm:
   pin_length: 1.07
   pin_pitch: 1.27
   pin_width: 0.406
-id: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
-id_no_class: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
-id_no_size: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
-id_no_type: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+id: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
+id_no_class: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
+id_no_size: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
+id_no_type: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
 lcsc_search: sop 16 converter load cell amplifier avia semiconductor hx711 ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
 manufacturers: []
-md5: 851a9969e67f2f74365adab4c7e172de
-md5_10: 851a9969e6
-md5_10_upper: 851A9969E6
-md5_5: 851a9
-md5_5_upper: 851A9
-md5_6: 851a99
-md5_6_alpha: 56ys9
-md5_6_alpha_upper: 56YS9
-md5_6_upper: 851A99
-name: Electronic Ic Sop 16 Converter Load Cell Amplifier Avia Semiconductor Hx711
-name_no_class: Electronic Ic Sop 16 Converter Load Cell Amplifier Avia Semiconductor
-  Hx711
-name_no_size: Electronic Ic Sop 16 Converter Load Cell Amplifier Avia Semiconductor
-  Hx711
-name_no_type: Electronic Ic Sop 16 Converter Load Cell Amplifier Avia Semiconductor
-  Hx711
+md5: 6c83ea8c92f15e86a907b713d42f8754
+md5_10: 6c83ea8c92
+md5_10_upper: 6C83EA8C92
+md5_5: 6c83e
+md5_5_upper: 6C83E
+md5_6: 6c83ea
+md5_6_alpha: 48fe2
+md5_6_alpha_upper: 48FE2
+md5_6_upper: 6C83EA
+name: Electronic Ic Converter Load Cell Amplifier Sop 16 Avia Semiconductor Hx711
+name_no_class: Electronic Ic Converter Load Cell Amplifier Sop 16 Avia Semiconductor Hx711
+name_no_size: Electronic Ic Converter Load Cell Amplifier Sop 16 Avia Semiconductor Hx711
+name_no_type: Electronic Ic Converter Load Cell Amplifier Sop 16 Avia Semiconductor Hx711
 name_proper: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16
 name_readable: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16
 name_short: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16
-name_space: electronic ic sop 16 converter load cell amplifier avia semiconductor
-  hx711
-name_upper: ELECTRONIC IC SOP 16 CONVERTER LOAD CELL AMPLIFIER AVIA SEMICONDUCTOR
-  HX711
+name_space: electronic ic converter load cell amplifier sop 16 avia semiconductor hx711
+name_upper: ELECTRONIC IC SOP 16 CONVERTER LOAD CELL AMPLIFIER AVIA SEMICONDUCTOR HX711
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -101,7 +94,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+    part_id: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -181,8 +174,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -196,7 +188,7 @@ oomlout_ai_roboclick_3:
       dimensions_mm:
         length: 9.9
         width: 3.9
-      directory: parts\electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+      directory: parts\electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
       distributors: []
       ic_dimensions_mm:
         body_length: 9.9
@@ -217,19 +209,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: sop 16 converter load cell amplifier avia semiconductor hx711 ic
       manufacturers: []
-      name: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+      name: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
       name_proper: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16
       name_readable: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16
       name_short: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16
-      name_space: electronic ic sop 16 converter load cell amplifier avia semiconductor
-        hx711
-      name_upper: ELECTRONIC IC SOP 16 CONVERTER LOAD CELL AMPLIFIER AVIA SEMICONDUCTOR
-        HX711
+      name_space: electronic ic converter load cell amplifier sop 16 avia semiconductor hx711
+      name_upper: ELECTRONIC IC SOP 16 CONVERTER LOAD CELL AMPLIFIER AVIA SEMICONDUCTOR HX711
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -239,11 +228,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+          part_id: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -323,8 +311,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       part_id: U1
@@ -401,33 +388,31 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sop_16/converter/load_cell_amplifier/avia_semiconductor/README.md
-        oomp_id: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+        navigation_link: ../../navigation/electronic/ic/converter/load_cell_amplifier/sop_16/avia_semiconductor/README.md
+        oomp_id: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
         pins: []
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+          value: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
         - title: Type
           value: Ic
         - title: Package / style
           value: sop 16
         - title: Nominal size
           value: 9.9 × 3.9 mm
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
-        summary: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16 is an
-          OOMP electronic ic definition. It uses the sop 16 package or form factor.
-          Its nominal drawing size is 9.9 × 3.9 mm.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
+        summary: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16 is an OOMP electronic ic definition. It uses the sop 16 package or form factor. Its nominal drawing size is 9.9 × 3.9 mm.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sop_16
-        - level: 4
           value: converter
-        - level: 5
+        - level: 4
           value: load_cell_amplifier
+        - level: 5
+          value: sop_16
         - level: 14
           value: avia_semiconductor
         - level: 15
@@ -594,9 +579,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: avia_semiconductor
       taxonomy_15: hx711
       taxonomy_2: ic
-      taxonomy_3: sop_16
-      taxonomy_4: converter
-      taxonomy_5: load_cell_amplifier
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -606,8 +588,7 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_hardware_design_sensor_load_cell_hx711_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-hardware-design
         github_url: https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-hardware-design
-        name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-hardware-design
-          HX711 Load Cell current
+        name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-hardware-design HX711 Load Cell current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_hardware_design_sensor_load_cell_hx711_current
         project_id: oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_hardware_design_sensor_load_cell_hx711_current
         quantity: 1
@@ -617,8 +598,7 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_qwiic_hardware_design_sensor_load_cell_hx711_qwiic_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Load-cell-amplifier-HX711-board-qwiic-hardware-design
         github_url: https://github.com/SolderedElectronics/Load-cell-amplifier-HX711-board-qwiic-hardware-design
-        name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-qwiic-hardware-design
-          HX711 Load Cell qwiic current
+        name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-qwiic-hardware-design HX711 Load Cell qwiic current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_qwiic_hardware_design_sensor_load_cell_hx711_qwiic_current
         project_id: oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_qwiic_hardware_design_sensor_load_cell_hx711_qwiic_current
         quantity: 1
@@ -628,8 +608,7 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_with_easy_c_hardware_design_sensor_load_cell_hx711_easyc_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design
         github_url: https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design
-        name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design
-          HX711 Load Cell easyC current
+        name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design HX711 Load Cell easyC current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_with_easy_c_hardware_design_sensor_load_cell_hx711_easyc_current
         project_id: oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_with_easy_c_hardware_design_sensor_load_cell_hx711_easyc_current
         quantity: 1
@@ -639,14 +618,16 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_sparkfun_hx711_load_cell_amplifier_spark_fun_hx711_load_cell_current/board_explorer.html
         board_url: https://github.com/sparkfun/HX711-Load-Cell-Amplifier/blob/master/hardware/SparkFun_HX711_Load_Cell.brd
         github_url: https://github.com/sparkfun/HX711-Load-Cell-Amplifier
-        name: Project sparkfun/HX711-Load-Cell-Amplifier Spark Fun HX711 Load Cell
-          current
+        name: Project sparkfun/HX711-Load-Cell-Amplifier Spark Fun HX711 Load Cell current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_hx711_load_cell_amplifier_spark_fun_hx711_load_cell_current
         project_id: oomp_project_github_sparkfun_hx711_load_cell_amplifier_spark_fun_hx711_load_cell_current
         quantity: 1
         references:
         - U1
         version: current
+      taxonomy_5: sop_16
+      taxonomy_3: converter
+      taxonomy_4: load_cell_amplifier
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -657,8 +638,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -667,7 +647,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+oomp_key: oomp_electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
 part_id: U1
 part_page:
   datasheet_path: data/datasheet.pdf
@@ -742,33 +722,31 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sop_16/converter/load_cell_amplifier/avia_semiconductor/README.md
-  oomp_id: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+  navigation_link: ../../navigation/electronic/ic/converter/load_cell_amplifier/sop_16/avia_semiconductor/README.md
+  oomp_id: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
   pins: []
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+    value: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
   - title: Type
     value: Ic
   - title: Package / style
     value: sop 16
   - title: Nominal size
     value: 9.9 × 3.9 mm
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
-  summary: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16 is an OOMP electronic
-    ic definition. It uses the sop 16 package or form factor. Its nominal drawing
-    size is 9.9 × 3.9 mm.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
+  summary: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16 is an OOMP electronic ic definition. It uses the sop 16 package or form factor. Its nominal drawing size is 9.9 × 3.9 mm.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sop_16
-  - level: 4
     value: converter
-  - level: 5
+  - level: 4
     value: load_cell_amplifier
+  - level: 5
+    value: sop_16
   - level: 14
     value: avia_semiconductor
   - level: 15
@@ -991,51 +969,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sop_16
-taxonomy_3_capital: Sop 16
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sop
-taxonomy_3_length_4: sop_
-taxonomy_3_length_5: sop_1
-taxonomy_3_upper: SOP_16
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOP
-taxonomy_3_upper_length_4: SOP_
-taxonomy_3_upper_length_5: SOP_1
-taxonomy_4: converter
-taxonomy_4_capital: Converter
-taxonomy_4_first_letter: c
-taxonomy_4_first_letter_upper: C
-taxonomy_4_length_1: c
-taxonomy_4_length_2: co
-taxonomy_4_length_3: con
-taxonomy_4_length_4: conv
-taxonomy_4_length_5: conve
-taxonomy_4_upper: CONVERTER
-taxonomy_4_upper_length_1: C
-taxonomy_4_upper_length_2: CO
-taxonomy_4_upper_length_3: CON
-taxonomy_4_upper_length_4: CONV
-taxonomy_4_upper_length_5: CONVE
-taxonomy_5: load_cell_amplifier
-taxonomy_5_capital: Load Cell Amplifier
-taxonomy_5_first_letter: l
-taxonomy_5_first_letter_upper: L
-taxonomy_5_length_1: l
-taxonomy_5_length_2: lo
-taxonomy_5_length_3: loa
-taxonomy_5_length_4: load
-taxonomy_5_length_5: load_
-taxonomy_5_upper: LOAD_CELL_AMPLIFIER
-taxonomy_5_upper_length_1: L
-taxonomy_5_upper_length_2: LO
-taxonomy_5_upper_length_3: LOA
-taxonomy_5_upper_length_4: LOAD
-taxonomy_5_upper_length_5: LOAD_
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1046,8 +979,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_hardware_design_sensor_load_cell_hx711_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-hardware-design
   github_url: https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-hardware-design
-  name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-hardware-design
-    HX711 Load Cell current
+  name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-hardware-design HX711 Load Cell current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_hardware_design_sensor_load_cell_hx711_current
   project_id: oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_hardware_design_sensor_load_cell_hx711_current
   quantity: 1
@@ -1057,8 +989,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_qwiic_hardware_design_sensor_load_cell_hx711_qwiic_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Load-cell-amplifier-HX711-board-qwiic-hardware-design
   github_url: https://github.com/SolderedElectronics/Load-cell-amplifier-HX711-board-qwiic-hardware-design
-  name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-qwiic-hardware-design
-    HX711 Load Cell qwiic current
+  name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-qwiic-hardware-design HX711 Load Cell qwiic current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_qwiic_hardware_design_sensor_load_cell_hx711_qwiic_current
   project_id: oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_qwiic_hardware_design_sensor_load_cell_hx711_qwiic_current
   quantity: 1
@@ -1068,8 +999,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_with_easy_c_hardware_design_sensor_load_cell_hx711_easyc_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design
   github_url: https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design
-  name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design
-    HX711 Load Cell easyC current
+  name: Project soldered_electronics/Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design HX711 Load Cell easyC current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_with_easy_c_hardware_design_sensor_load_cell_hx711_easyc_current
   project_id: oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_with_easy_c_hardware_design_sensor_load_cell_hx711_easyc_current
   quantity: 1
@@ -1086,3 +1016,48 @@ used_in_projects:
   references:
   - U1
   version: current
+taxonomy_5: sop_16
+taxonomy_5_capital: Sop 16
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sop
+taxonomy_5_length_4: sop_
+taxonomy_5_length_5: sop_1
+taxonomy_5_upper: SOP_16
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOP
+taxonomy_5_upper_length_4: SOP_
+taxonomy_5_upper_length_5: SOP_1
+taxonomy_3: converter
+taxonomy_3_capital: Converter
+taxonomy_3_first_letter: c
+taxonomy_3_first_letter_upper: C
+taxonomy_3_length_1: c
+taxonomy_3_length_2: co
+taxonomy_3_length_3: con
+taxonomy_3_length_4: conv
+taxonomy_3_length_5: conve
+taxonomy_3_upper: CONVERTER
+taxonomy_3_upper_length_1: C
+taxonomy_3_upper_length_2: CO
+taxonomy_3_upper_length_3: CON
+taxonomy_3_upper_length_4: CONV
+taxonomy_3_upper_length_5: CONVE
+taxonomy_4: load_cell_amplifier
+taxonomy_4_capital: Load Cell Amplifier
+taxonomy_4_first_letter: l
+taxonomy_4_first_letter_upper: L
+taxonomy_4_length_1: l
+taxonomy_4_length_2: lo
+taxonomy_4_length_3: loa
+taxonomy_4_length_4: load
+taxonomy_4_length_5: load_
+taxonomy_4_upper: LOAD_CELL_AMPLIFIER
+taxonomy_4_upper_length_1: L
+taxonomy_4_upper_length_2: LO
+taxonomy_4_upper_length_3: LOA
+taxonomy_4_upper_length_4: LOAD
+taxonomy_4_upper_length_5: LOAD_

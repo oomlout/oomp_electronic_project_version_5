@@ -21,7 +21,7 @@ originals:
     source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_hanqaqa_easyduino_esp32s3_current\data\fp-lib-table
 output_sha256:
   Easyduino_ESP32S3.kicad_pcb: a8070024edc703204f98a20282022962df71db4199d72a0eb500fdc26978442c
-  Easyduino_ESP32S3.kicad_sch: 6f3471de704eeb3506821e42e827ec061d54cc9b38bc416e4e0dee5eaecbf184
+  Easyduino_ESP32S3.kicad_sch: b2ea147982be3d06b6106e92716cbf6605b542ede38f398df604f0ffc3f3c5d3
   Easyduino_ESP32S3.kicad_pro: 013dc3400769f6fcefdc0f6d1ea8515dca9b9a15eee4c9386e0a22190aa4d9b7
   References.kicad_sch: 8806959db409d638a434d44a76c134d74ef676ae1532101da8058db177629cc9
   sym-lib-table: 23a7026c3531971c1b7dfd9d5d31683548283847e292c2d7f04438b6cf951861
@@ -106,7 +106,7 @@ footprints:
 - reference: U1
   source: Espressif:ESP32-S3-WROOM-1
   status: skipped
-  oomp_id: electronic_ic_esp32_s3_wroom_1_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_s3_wroom_1_n8
+  oomp_id: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_s3_wroom_1_espressif_esp32_s3_wroom_1_n8
   reason: Source is not an available official master for this OOMP part.
 - reference: R1
   source: Resistor_SMD:R_0402_1005Metric
@@ -117,7 +117,7 @@ footprints:
 - reference: U5
   source: Package_TO_SOT_SMD:SOT-223-3_TabPin2
   status: skipped
-  oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
   reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
     footprint identity and annotation conversion was skipped.
 - reference: C5
@@ -140,7 +140,7 @@ footprints:
 - reference: U3
   source: Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm
   status: skipped
-  oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
   reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
     footprint identity and annotation conversion was skipped.
 - reference: C8
@@ -251,8 +251,8 @@ symbols:
   - U5
   source: Regulator_Linear:AMS1117-3.3
   status: converted
-  oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
-  target: OOMP:electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
+  target: OOMP:electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
   file: kicad_file.kicad_sch
 - references:
   - R9
@@ -437,8 +437,8 @@ symbols:
   - U3
   source: Interface_USB:CP2102N-Axx-xQFN28
   status: converted
-  oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
-  target: OOMP:electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
+  target: OOMP:electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
   file: kicad_file.kicad_sch
 - references:
   - U2
@@ -655,7 +655,7 @@ symbols:
   - U1
   source: Espressif:ESP32-S3-WROOM-1
   status: skipped
-  oomp_id: electronic_ic_esp32_s3_wroom_1_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_s3_wroom_1_n8
+  oomp_id: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_s3_wroom_1_espressif_esp32_s3_wroom_1_n8
   reason: Source is not a known official KiCad symbol.
   file: kicad_file.kicad_sch
 - references:

@@ -65,7 +65,7 @@ parts:
   - working_svg_assembly.svg
   - working_svg_assembly_pins.svg
   - working_svg_square_pins.svg
-- oomp_id: electronic_ic_soic_8_timer_555_timer_texas_instruments_ne555dr
+- oomp_id: electronic_ic_timer_555_timer_soic_8_texas_instruments_ne555dr
   project_source_files:
   - working.yaml
   - working_svg_assembly.svg
@@ -76,7 +76,7 @@ parts:
   - working_svg_assembly.svg
   - working_svg_assembly_pins.svg
   - working_svg_square_pins.svg
-- oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218
+- oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218
   project_source_files:
   - working.yaml
   - working_svg_assembly.svg

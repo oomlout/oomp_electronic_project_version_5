@@ -142,7 +142,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R4, R5, R6 | 3 | Resistor 10000 Ohm 0603 | 10K | `Adafruit_PyRuler-import-fps:0603-NO` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
 | R7 | 1 | Resistor 2e+06 Ohm 0603 | 2M | `Adafruit_PyRuler-import-fps:0603-NO` | [`electronic_resistor_0603_2000000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_2000000_ohm) |
 | SWC0, SWD0 | 2 | TPB1,27 | TPB1,27 | `Adafruit_PyRuler-import-fps:B1,27` | unmatched |
-| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit_PyRuler-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit_PyRuler-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 
 ## Main nets
 

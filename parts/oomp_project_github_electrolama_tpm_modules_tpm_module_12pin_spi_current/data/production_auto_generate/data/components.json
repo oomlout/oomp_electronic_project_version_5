@@ -103,7 +103,7 @@
       "reference": "IC1",
       "value": "Infineon-SLB9670",
       "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",
-      "oomp_id": "electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670",
+      "oomp_id": "electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670",
       "lcsc_part_number": null,
       "manufacturer": null,
       "manufacturer_part_number": null,

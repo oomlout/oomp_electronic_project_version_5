@@ -1,82 +1,75 @@
 bip_39_2_word_array:
-- outside
-- giggle
-bip_39_2_word_no_space: outsidegiggle
-bip_39_2_word_space: outside giggle
-bip_39_2_word_underscore: outside_giggle
+- ride
+- riot
+bip_39_2_word_no_space: rideriot
+bip_39_2_word_space: ride riot
+bip_39_2_word_underscore: ride_riot
 bip_39_3_word_array:
-- outside
-- giggle
-- reduce
-bip_39_3_word_no_space: outsidegigglereduce
-bip_39_3_word_space: outside giggle reduce
-bip_39_3_word_underscore: outside_giggle_reduce
+- ride
+- riot
+- input
+bip_39_3_word_no_space: rideriotinput
+bip_39_3_word_space: ride riot input
+bip_39_3_word_underscore: ride_riot_input
 bip_39_full_array:
-- outside
-- giggle
-- reduce
-- sing
-- horse
-- lion
-- ordinary
-- reopen
-- hover
-- toast
-- twin
-- quiz
-bip_39_full_no_space: outsidegigglereducesinghorselionordinaryreopenhovertoasttwinquiz
-bip_39_full_space: outside giggle reduce sing horse lion ordinary reopen hover toast
-  twin quiz
-bip_39_full_underscore: outside_giggle_reduce_sing_horse_lion_ordinary_reopen_hover_toast_twin_quiz
+- ride
+- riot
+- input
+- expire
+- bounce
+- token
+- blood
+- behind
+- scatter
+- drop
+- priority
+- hair
+bip_39_full_no_space: rideriotinputexpirebouncetokenbloodbehindscatterdroppriorityhair
+bip_39_full_space: ride riot input expire bounce token blood behind scatter drop priority hair
+bip_39_full_underscore: ride_riot_input_expire_bounce_token_blood_behind_scatter_drop_priority_hair
 category: amplifier
 category_name: Amplifier
 dimensions_mm:
   height: 1.1
   length: 3.0
   width: 3.0
-directory: parts/electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+directory: parts/electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
 distributors: []
-id: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
-id_no_class: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
-id_no_size: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
-id_no_type: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+id: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
+id_no_class: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
+id_no_size: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
+id_no_type: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
 kicad:
   hand_solder: Package_SO:MSOP-8_3x3mm_P0.65mm
   machine_solder: Package_SO:MSOP-8_3x3mm_P0.65mm
   symbol: ''
 lcsc_search: msop 8 amplifier operational amplifier sg micro sgm358yms tr ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
 manufacturers: []
-md5: 9d8c3ed064a6dd046715b36e7c63add7
-md5_10: 9d8c3ed064
-md5_10_upper: 9D8C3ED064
-md5_5: 9d8c3
-md5_5_upper: 9D8C3
-md5_6: 9d8c3e
-md5_6_alpha: 65av2
-md5_6_alpha_upper: 65AV2
-md5_6_upper: 9D8C3E
-name: Electronic Ic Msop 8 Amplifier Operational Amplifier Sg Micro Sgm358Yms Tr
-name_no_class: Electronic Ic Msop 8 Amplifier Operational Amplifier Sg Micro Sgm358Yms
-  Tr
-name_no_size: Electronic Ic Msop 8 Amplifier Operational Amplifier Sg Micro Sgm358Yms
-  Tr
-name_no_type: Electronic Ic Msop 8 Amplifier Operational Amplifier Sg Micro Sgm358Yms
-  Tr
+md5: b97745d2a831a7c7c5f8a4c0686eabb4
+md5_10: b97745d2a8
+md5_10_upper: B97745D2A8
+md5_5: b9774
+md5_5_upper: B9774
+md5_6: b97745
+md5_6_alpha: 78imd
+md5_6_alpha_upper: 78IMD
+md5_6_upper: B97745
+name: Electronic Ic Amplifier Operational Amplifier Msop 8 Sg Micro Sgm358Yms Tr
+name_no_class: Electronic Ic Amplifier Operational Amplifier Msop 8 Sg Micro Sgm358Yms Tr
+name_no_size: Electronic Ic Amplifier Operational Amplifier Msop 8 Sg Micro Sgm358Yms Tr
+name_no_type: Electronic Ic Amplifier Operational Amplifier Msop 8 Sg Micro Sgm358Yms Tr
 name_proper: IC Amplifier Operational Amplifier Sg Micro MSOP_8
 name_readable: IC Amplifier Operational Amplifier Sg Micro MSOP_8
 name_short: IC Amplifier Operational Amplifier Sg Micro MSOP_8
-name_space: electronic ic msop 8 amplifier operational amplifier sg micro sgm358yms
-  tr
-name_upper: ELECTRONIC IC MSOP 8 AMPLIFIER OPERATIONAL AMPLIFIER SG MICRO SGM358YMS
-  TR
+name_space: electronic ic amplifier operational amplifier msop 8 sg micro sgm358yms tr
+name_upper: ELECTRONIC IC MSOP 8 AMPLIFIER OPERATIONAL AMPLIFIER SG MICRO SGM358YMS TR
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -89,7 +82,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+    part_id: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -169,8 +162,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -185,7 +177,7 @@ oomlout_ai_roboclick_3:
         height: 1.1
         length: 3.0
         width: 3.0
-      directory: parts\electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+      directory: parts\electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
       distributors: []
       kicad:
         hand_solder: Package_SO:MSOP-8_3x3mm_P0.65mm
@@ -193,19 +185,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: msop 8 amplifier operational amplifier sg micro sgm358yms tr ic
       manufacturers: []
-      name: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+      name: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
       name_proper: IC Amplifier Operational Amplifier Sg Micro MSOP_8
       name_readable: IC Amplifier Operational Amplifier Sg Micro MSOP_8
       name_short: IC Amplifier Operational Amplifier Sg Micro MSOP_8
-      name_space: electronic ic msop 8 amplifier operational amplifier sg micro sgm358yms
-        tr
-      name_upper: ELECTRONIC IC MSOP 8 AMPLIFIER OPERATIONAL AMPLIFIER SG MICRO SGM358YMS
-        TR
+      name_space: electronic ic amplifier operational amplifier msop 8 sg micro sgm358yms tr
+      name_upper: ELECTRONIC IC MSOP 8 AMPLIFIER OPERATIONAL AMPLIFIER SG MICRO SGM358YMS TR
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -215,11 +204,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+          part_id: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -299,8 +287,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -436,8 +423,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/msop_8/amplifier/operational_amplifier/sg_micro/README.md
-        oomp_id: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+        navigation_link: ../../navigation/electronic/ic/amplifier/operational_amplifier/msop_8/sg_micro/README.md
+        oomp_id: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
         pins:
         - name: OUTA
           number: '1'
@@ -465,7 +452,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+          value: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
         - title: Type
           value: Ic
         - title: Package / style
@@ -474,21 +461,19 @@ oomlout_ai_roboclick_3:
           value: 3.0 × 3.0 mm
         - title: Documented pins
           value: 8
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
-        summary: IC Amplifier Operational Amplifier Sg Micro MSOP_8 is an OOMP electronic
-          ic definition. It uses the msop 8 package or form factor. Its nominal drawing
-          size is 3.0 × 3.0 mm. The definition includes 8 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
+        summary: IC Amplifier Operational Amplifier Sg Micro MSOP_8 is an OOMP electronic ic definition. It uses the msop 8 package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 8 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: msop_8
-        - level: 4
           value: amplifier
-        - level: 5
+        - level: 4
           value: operational_amplifier
+        - level: 5
+          value: msop_8
         - level: 14
           value: sg_micro
         - level: 15
@@ -688,9 +673,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: sg_micro
       taxonomy_15: sgm358yms_tr
       taxonomy_2: ic
-      taxonomy_3: msop_8
-      taxonomy_4: amplifier
-      taxonomy_5: operational_amplifier
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -700,14 +682,16 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Capacitive-soil-sensor-hardware-design
         github_url: https://github.com/SolderedElectronics/Capacitive-soil-sensor-hardware-design
-        name: Project soldered_electronics/Capacitive-soil-sensor-hardware-design
-          Capacitive Soil Sensor current
+        name: Project soldered_electronics/Capacitive-soil-sensor-hardware-design Capacitive Soil Sensor current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current
         project_id: oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current
         quantity: 1
         references:
         - U2
         version: current
+      taxonomy_5: msop_8
+      taxonomy_3: amplifier
+      taxonomy_4: operational_amplifier
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -718,8 +702,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -728,7 +711,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+oomp_key: oomp_electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
 package_drawing:
   body:
   - 3.0
@@ -862,8 +845,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/msop_8/amplifier/operational_amplifier/sg_micro/README.md
-  oomp_id: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+  navigation_link: ../../navigation/electronic/ic/amplifier/operational_amplifier/msop_8/sg_micro/README.md
+  oomp_id: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
   pins:
   - name: OUTA
     number: '1'
@@ -891,7 +874,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+    value: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
   - title: Type
     value: Ic
   - title: Package / style
@@ -900,21 +883,19 @@ part_page:
     value: 3.0 × 3.0 mm
   - title: Documented pins
     value: 8
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
-  summary: IC Amplifier Operational Amplifier Sg Micro MSOP_8 is an OOMP electronic
-    ic definition. It uses the msop 8 package or form factor. Its nominal drawing
-    size is 3.0 × 3.0 mm. The definition includes 8 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
+  summary: IC Amplifier Operational Amplifier Sg Micro MSOP_8 is an OOMP electronic ic definition. It uses the msop 8 package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 8 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: msop_8
-  - level: 4
     value: amplifier
-  - level: 5
+  - level: 4
     value: operational_amplifier
+  - level: 5
+    value: msop_8
   - level: 14
     value: sg_micro
   - level: 15
@@ -1170,51 +1151,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: msop_8
-taxonomy_3_capital: Msop 8
-taxonomy_3_first_letter: m
-taxonomy_3_first_letter_upper: M
-taxonomy_3_length_1: m
-taxonomy_3_length_2: ms
-taxonomy_3_length_3: mso
-taxonomy_3_length_4: msop
-taxonomy_3_length_5: msop_
-taxonomy_3_upper: MSOP_8
-taxonomy_3_upper_length_1: M
-taxonomy_3_upper_length_2: MS
-taxonomy_3_upper_length_3: MSO
-taxonomy_3_upper_length_4: MSOP
-taxonomy_3_upper_length_5: MSOP_
-taxonomy_4: amplifier
-taxonomy_4_capital: Amplifier
-taxonomy_4_first_letter: a
-taxonomy_4_first_letter_upper: A
-taxonomy_4_length_1: a
-taxonomy_4_length_2: am
-taxonomy_4_length_3: amp
-taxonomy_4_length_4: ampl
-taxonomy_4_length_5: ampli
-taxonomy_4_upper: AMPLIFIER
-taxonomy_4_upper_length_1: A
-taxonomy_4_upper_length_2: AM
-taxonomy_4_upper_length_3: AMP
-taxonomy_4_upper_length_4: AMPL
-taxonomy_4_upper_length_5: AMPLI
-taxonomy_5: operational_amplifier
-taxonomy_5_capital: Operational Amplifier
-taxonomy_5_first_letter: o
-taxonomy_5_first_letter_upper: O
-taxonomy_5_length_1: o
-taxonomy_5_length_2: op
-taxonomy_5_length_3: ope
-taxonomy_5_length_4: oper
-taxonomy_5_length_5: opera
-taxonomy_5_upper: OPERATIONAL_AMPLIFIER
-taxonomy_5_upper_length_1: O
-taxonomy_5_upper_length_2: OP
-taxonomy_5_upper_length_3: OPE
-taxonomy_5_upper_length_4: OPER
-taxonomy_5_upper_length_5: OPERA
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1225,11 +1161,55 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Capacitive-soil-sensor-hardware-design
   github_url: https://github.com/SolderedElectronics/Capacitive-soil-sensor-hardware-design
-  name: Project soldered_electronics/Capacitive-soil-sensor-hardware-design Capacitive
-    Soil Sensor current
+  name: Project soldered_electronics/Capacitive-soil-sensor-hardware-design Capacitive Soil Sensor current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current
   project_id: oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current
   quantity: 1
   references:
   - U2
   version: current
+taxonomy_5: msop_8
+taxonomy_5_capital: Msop 8
+taxonomy_5_first_letter: m
+taxonomy_5_first_letter_upper: M
+taxonomy_5_length_1: m
+taxonomy_5_length_2: ms
+taxonomy_5_length_3: mso
+taxonomy_5_length_4: msop
+taxonomy_5_length_5: msop_
+taxonomy_5_upper: MSOP_8
+taxonomy_5_upper_length_1: M
+taxonomy_5_upper_length_2: MS
+taxonomy_5_upper_length_3: MSO
+taxonomy_5_upper_length_4: MSOP
+taxonomy_5_upper_length_5: MSOP_
+taxonomy_3: amplifier
+taxonomy_3_capital: Amplifier
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_length_1: a
+taxonomy_3_length_2: am
+taxonomy_3_length_3: amp
+taxonomy_3_length_4: ampl
+taxonomy_3_length_5: ampli
+taxonomy_3_upper: AMPLIFIER
+taxonomy_3_upper_length_1: A
+taxonomy_3_upper_length_2: AM
+taxonomy_3_upper_length_3: AMP
+taxonomy_3_upper_length_4: AMPL
+taxonomy_3_upper_length_5: AMPLI
+taxonomy_4: operational_amplifier
+taxonomy_4_capital: Operational Amplifier
+taxonomy_4_first_letter: o
+taxonomy_4_first_letter_upper: O
+taxonomy_4_length_1: o
+taxonomy_4_length_2: op
+taxonomy_4_length_3: ope
+taxonomy_4_length_4: oper
+taxonomy_4_length_5: opera
+taxonomy_4_upper: OPERATIONAL_AMPLIFIER
+taxonomy_4_upper_length_1: O
+taxonomy_4_upper_length_2: OP
+taxonomy_4_upper_length_3: OPE
+taxonomy_4_upper_length_4: OPER
+taxonomy_4_upper_length_5: OPERA

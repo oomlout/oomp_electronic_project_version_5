@@ -109119,7 +109119,7 @@
         "x": 38.1,
         "y": -10.414,
         "rotation": 0.0,
-        "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
         "bounds": {
           "min_x": 32.131,
           "min_y": -13.814,
@@ -120436,8 +120436,8 @@
       "description": "USB-Serial CH340C SOP-16",
       "value": "CH340C",
       "footprint": "SparkFun_LTE_GNSS_Breakout_SARA-R510M8S-import-fps:SO016",
-      "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
       "references": [
         "U2"
       ],
@@ -121082,7 +121082,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

@@ -90,7 +90,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R3 | 1 | Resistor 20000 Ohm 0603 | 20k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_20000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_20000_ohm) |
 | R4 | 1 | Resistor 8200 Ohm 0603 | 8.2k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_8200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_8200_ohm) |
 | R5 | 1 | Resistor 10 Ohm 0603 | 10R | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_10_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10_ohm) |
-| U1 | 1 | IC Converter Load Cell Amplifier Avia Semiconductor SOP_16 | HX711 | `e-radionica.com footprinti:SOP-16` | [`electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711) |
+| U1 | 1 | IC Converter Load Cell Amplifier Avia Semiconductor SOP_16 | HX711 | `e-radionica.com footprinti:SOP-16` | [`electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711) |
 
 ## Main nets
 

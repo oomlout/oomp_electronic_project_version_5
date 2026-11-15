@@ -97,7 +97,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R6, R11 | 2 | Resistor 1000 Ohm 0402 | 1K | `Adafruit KB2040-import-fps:_0402NO` | [`electronic_resistor_0402_1000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_1000_ohm) |
 | R8 | 1 | FUSE | FUSE | `Adafruit KB2040-import-fps:0805-NO` | unmatched |
 | SW2, SW3 | 2 | KMR2 | KMR2 | `Adafruit KB2040-import-fps:BTN_KMR2_4.6X2.8` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit KB2040-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit KB2040-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U5 | 1 | 8MB QSPI Flash | 8MB QSPI Flash | `Adafruit KB2040-import-fps:USON8_4X4` | unmatched |
 | X6 | 1 | USB TYPE C | USB TYPE C | `Adafruit KB2040-import-fps:USB_C_CUSB31-CFM2AX-01-X` | unmatched |
 | Y1 | 1 | 12MHZ | 12MHZ | `Adafruit KB2040-import-fps:CRYSTAL_2.5X2` | unmatched |

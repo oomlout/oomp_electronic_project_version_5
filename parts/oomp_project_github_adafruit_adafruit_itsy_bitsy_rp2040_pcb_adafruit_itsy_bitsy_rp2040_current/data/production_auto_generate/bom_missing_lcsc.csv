@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C6,10µF,Adafruit ItsyBitsy RP2040-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C8,10µF,Adafruit ItsyBitsy RP2040-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 D1,NSR0320,Adafruit ItsyBitsy RP2040-import-fps:SOD-323F,,No verified LCSC part number
@@ -12,7 +12,7 @@ SW2,KMR2,Adafruit ItsyBitsy RP2040-import-fps:BTN_KMR2_4.6X2.8,,No verified LCSC
 SW3,KMR2,Adafruit ItsyBitsy RP2040-import-fps:BTN_KMR2_4.6X2.8,,No verified LCSC part number
 TP1,,Adafruit ItsyBitsy RP2040-import-fps:TESTPOINT_ROUND_1.5MM_NO,,No verified LCSC part number
 U1,GD25x16,Adafruit ItsyBitsy RP2040-import-fps:USON8_4X4,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit ItsyBitsy RP2040-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit ItsyBitsy RP2040-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U$4,,Adafruit ItsyBitsy RP2040-import-fps:ITSY2040_TOP,,No verified LCSC part number
 U$5,,Adafruit ItsyBitsy RP2040-import-fps:ITSY2040_BOT,,No verified LCSC part number
 U$34,FIDUCIAL_1MM,Adafruit ItsyBitsy RP2040-import-fps:FIDUCIAL_1MM,,No verified LCSC part number

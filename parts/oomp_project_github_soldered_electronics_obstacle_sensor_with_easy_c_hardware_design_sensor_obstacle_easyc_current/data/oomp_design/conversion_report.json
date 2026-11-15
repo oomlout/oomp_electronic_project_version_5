@@ -194,7 +194,7 @@
       "reference": "U2",
       "source": "e-radionica.com footprinti:SOIC-14",
       "status": "skipped",
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -321,7 +321,7 @@
       ],
       "source": "e-radionica.com schematics:ATTINY404-SSNR",
       "status": "skipped",
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },

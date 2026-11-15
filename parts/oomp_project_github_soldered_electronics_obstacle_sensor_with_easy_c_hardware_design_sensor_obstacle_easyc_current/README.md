@@ -89,7 +89,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R2, R4, R5 | 3 | electronic resistor 0603 10000 ohm | 10k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
 | R3 | 1 | Resistor 2200 Ohm 0402 | 2k2 | `e-radionica.com footprinti:0402R` | [`electronic_resistor_0402_2200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_2200_ohm) |
 | U1 | 1 | Sensor 4 Pin Vishay TCRT5000L TCRT5000 | tcrt5000L | `e-radionica.com footprinti:TCRT5000L` | [`electronic_sensor_tcrt5000_4_pin_vishay_tcrt5000l`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_tcrt5000_4_pin_vishay_tcrt5000l) |
-| U2 | 1 | IC Microcontroller 8 Bit Avr Microchip SOIC_14 | ATTINY404-SSNR | `e-radionica.com footprinti:SOIC-14` | [`electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr) |
+| U2 | 1 | IC Microcontroller 8 Bit Avr Microchip SOIC_14 | ATTINY404-SSNR | `e-radionica.com footprinti:SOIC-14` | [`electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr) |
 
 ## Main nets
 

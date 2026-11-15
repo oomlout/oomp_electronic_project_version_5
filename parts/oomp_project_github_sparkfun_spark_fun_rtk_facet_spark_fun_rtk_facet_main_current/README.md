@@ -111,7 +111,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | U3 | 1 | U-BLOX_ZED-F9P | U-BLOX_ZED-F9P | `SparkFun RTK Facet - Main-import-fps:ZED-F9P` | unmatched |
 | U4 | 1 | STLQ015 | STLQ015 | `SparkFun RTK Facet - Main-import-fps:SOT23-5` | unmatched |
 | U5 | 1 | ESP-WROOM-3232D-DFMP | ESP-WROOM-3232D-DFMP | `SparkFun RTK Facet - Main-import-fps:ESP-WROOM-32D-DFM_PASTE` | unmatched |
-| U6 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun RTK Facet - Main-import-fps:SO016` | [`electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c) |
+| U6 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun RTK Facet - Main-import-fps:SO016` | [`electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c) |
 | U7 | 1 | MAX17048 | MAX17048 | `SparkFun RTK Facet - Main-import-fps:DFN-8` | unmatched |
 | U8 | 1 | USB251XB | USB251XB | `SparkFun RTK Facet - Main-import-fps:QFN-36` | unmatched |
 | U10 | 1 | MCP73833MSOP | MCP73833MSOP | `SparkFun RTK Facet - Main-import-fps:MSOP10` | unmatched |

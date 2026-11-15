@@ -383,7 +383,7 @@
       "reference": "U2",
       "value": "LM393",
       "footprint": "e-radionica.com footprinti:SOIC−8",
-      "oomp_id": "electronic_ic_soic_8_logic_comparator_lm393",
+      "oomp_id": "electronic_ic_logic_comparator_soic_8_lm393",
       "lcsc_part_number": null,
       "manufacturer": null,
       "manufacturer_part_number": null,

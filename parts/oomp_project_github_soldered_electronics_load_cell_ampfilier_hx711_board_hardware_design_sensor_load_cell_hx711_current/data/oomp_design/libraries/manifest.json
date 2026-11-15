@@ -178,7 +178,7 @@
       "issues": []
     },
     {
-      "oomp_id": "electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711",
+      "oomp_id": "electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected",

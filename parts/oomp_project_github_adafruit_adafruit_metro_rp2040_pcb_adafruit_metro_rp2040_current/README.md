@@ -139,7 +139,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | SWD0 | 1 | 2x5_0.5IN | 2x5_0.5IN | `Adafruit Metro RP2040-import-fps:2X05_1.27MM_BOX_POSTS` | unmatched |
 | T2, TR1 | 2 | DMP3098L | DMP3098L | `Adafruit Metro RP2040-import-fps:SOT23-WIDE` | unmatched |
 | U1 | 1 | NCP1117ST50T3G | NCP1117ST50T3G | `Adafruit Metro RP2040-import-fps:SOT223-R` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Metro RP2040-import-fps:SOT23-DBV` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Metro RP2040-import-fps:SOT23-DBV` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U6 | 1 | W25Q128 | W25Q128 | `Adafruit Metro RP2040-import-fps:SOIC8_208MIL` | unmatched |
 | X1 | 1 | MICROSD | MICROSD | `Adafruit Metro RP2040-import-fps:MICROSD` | unmatched |
 | X3 | 1 | USB Type C | USB Type C | `Adafruit Metro RP2040-import-fps:USB_C_CUSB31-CFM2AX-01-X` | unmatched |

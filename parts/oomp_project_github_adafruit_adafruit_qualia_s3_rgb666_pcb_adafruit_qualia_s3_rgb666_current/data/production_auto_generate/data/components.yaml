@@ -679,7 +679,7 @@ components:
 - reference: IC1
   value: PCA9554PW
   footprint: Adafruit Qualia S3 RGB666-import-fps:TSSOP16
-  oomp_id: electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw
+  oomp_id: electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null
@@ -2176,7 +2176,7 @@ components:
 - reference: U2
   value: AP2112K-3.3
   footprint: Adafruit Qualia S3 RGB666-import-fps:SOT23-DBV
-  oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null

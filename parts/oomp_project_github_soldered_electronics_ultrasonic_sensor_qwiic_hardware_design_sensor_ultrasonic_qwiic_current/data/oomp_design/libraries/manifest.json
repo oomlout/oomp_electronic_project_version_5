@@ -76,24 +76,24 @@
       "file": "OOMP_HandSolder.pretty/electronic_connector_header_2_54_mm_pitch_through_hole_4_pin.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "kind": "machine_solder",
-      "file": "OOMP_MachineSolder.pretty/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr.kicad_mod"
+      "file": "OOMP_MachineSolder.pretty/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "kind": "hand_solder",
-      "file": "OOMP_HandSolder.pretty/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr.kicad_mod"
+      "file": "OOMP_HandSolder.pretty/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a",
+      "oomp_id": "electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a",
       "kind": "machine_solder",
-      "file": "OOMP_MachineSolder.pretty/electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a.kicad_mod"
+      "file": "OOMP_MachineSolder.pretty/electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a",
+      "oomp_id": "electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a",
       "kind": "hand_solder",
-      "file": "OOMP_HandSolder.pretty/electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a.kicad_mod"
+      "file": "OOMP_HandSolder.pretty/electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a.kicad_mod"
     },
     {
       "oomp_id": "electronic_resistor_0603_10000_ohm",
@@ -162,14 +162,14 @@
       "issues": []
     },
     {
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected"
       ]
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a",
+      "oomp_id": "electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected"

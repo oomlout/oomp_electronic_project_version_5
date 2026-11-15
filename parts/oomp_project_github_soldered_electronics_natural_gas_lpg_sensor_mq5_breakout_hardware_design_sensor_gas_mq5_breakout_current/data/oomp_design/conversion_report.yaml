@@ -119,7 +119,7 @@ footprints:
 - reference: U2
   source: e-radionica.com footprinti:SOIC−8
   status: skipped
-  oomp_id: electronic_ic_soic_8_logic_comparator_lm393
+  oomp_id: electronic_ic_logic_comparator_soic_8_lm393
   reason: Source is not an available official master for this OOMP part.
 - reference: ''
   source: buzzardLabel
@@ -226,7 +226,7 @@ symbols:
   - U2
   source: e-radionica.com schematics:LM393
   status: skipped
-  oomp_id: electronic_ic_soic_8_logic_comparator_lm393
+  oomp_id: electronic_ic_logic_comparator_soic_8_lm393
   reason: OOMP symbol master unavailable.
   file: kicad_file.kicad_sch
 - references:

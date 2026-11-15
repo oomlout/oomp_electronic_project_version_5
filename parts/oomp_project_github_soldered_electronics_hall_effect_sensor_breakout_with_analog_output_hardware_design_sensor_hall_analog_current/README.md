@@ -82,7 +82,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | --- | ---: | --- | --- | --- | --- |
 | C1 | 1 | Capacitor 100 nF 0603 | 0.1uF | `e-radionica.com footprinti:0603C` | [`electronic_capacitor_0603_100_nano_farad`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_0603_100_nano_farad) |
 | K1 | 1 | Connector Header 2.54-1*3P针 | HEADER_MALE_3X1 | `e-radionica.com footprinti:HEADER_MALE_3X1` | [`electronic_connector_header_2_54_mm_pitch_through_hole_3_pin`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_3_pin) |
-| U1 | 1 | IC Sensor Hall Effect Silicon Labs SOT_23_5 | SI7211-B-00-IV | `e-radionica.com footprinti:SOT-23-3` | [`electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv) |
+| U1 | 1 | IC Sensor Hall Effect Silicon Labs SOT_23_5 | SI7211-B-00-IV | `e-radionica.com footprinti:SOT-23-3` | [`electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv) |
 
 ## Main nets
 

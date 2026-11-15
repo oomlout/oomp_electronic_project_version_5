@@ -93,7 +93,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R2, R4 | 2 | Resistor 10000 Ohm 0603 | 10K | `Adafruit MPU6050-import-fps:0603-NO` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
 | R3 | 1 | Resistor 10000 Ohm 0603 | 10K | `Adafruit MPU6050-import-fps:RESPACK_4X0603` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
 | U1 | 1 | MPU-6050 | MPU-6050 | `Adafruit MPU6050-import-fps:QFN24_4MM_SMSC` | unmatched |
-| U3 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit MPU6050-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U3 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit MPU6050-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 
 ## Main nets
 

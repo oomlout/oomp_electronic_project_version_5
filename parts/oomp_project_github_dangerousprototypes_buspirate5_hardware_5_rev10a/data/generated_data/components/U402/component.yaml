@@ -10981,9 +10981,9 @@ connectivity_cross_check:
 oomp:
   status: matched
   accepted: true
-  oomp_id: electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118
+  oomp_id: electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118
   confidence: 1.0
-  proposed_oomp_id: electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118
+  proposed_oomp_id: electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118
   inferred:
     kind: null
     package_size: null

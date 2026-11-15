@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C1,10uF,Adafruit AirLift FeatherWing rev C-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C2,10uF,Adafruit AirLift FeatherWing rev C-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C6,10uF,Adafruit AirLift FeatherWing rev C-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -45,7 +45,7 @@ PLABEL33,,Adafruit AirLift FeatherWing rev C-import-fps:PLABEL33,,No verified LC
 PLABEL34,,Adafruit AirLift FeatherWing rev C-import-fps:PLABEL34,,No verified LCSC part number
 Q3,AO3401,Adafruit AirLift FeatherWing rev C-import-fps:SOT23-R,,No verified LCSC part number
 SW2,RKB2,Adafruit AirLift FeatherWing rev C-import-fps:BTN_RKB2_4.6X2.8,,No verified LCSC part number
-U2,RT9080-3.3,Adafruit AirLift FeatherWing rev C-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33,No verified LCSC part number
+U2,RT9080-3.3,Adafruit AirLift FeatherWing rev C-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33,No verified LCSC part number
 U$6,,Adafruit AirLift FeatherWing rev C-import-fps:AIRLIFT,,No verified LCSC part number
 U$7,,Adafruit AirLift FeatherWing rev C-import-fps:FEATHERLOGO_MED,,No verified LCSC part number
 U$12,,Adafruit AirLift FeatherWing rev C-import-fps:STEMMAQT,,No verified LCSC part number

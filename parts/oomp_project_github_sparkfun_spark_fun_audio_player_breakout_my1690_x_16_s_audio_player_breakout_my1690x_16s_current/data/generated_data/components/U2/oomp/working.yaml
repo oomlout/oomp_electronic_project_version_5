@@ -1,40 +1,39 @@
 bip_39_2_word_array:
-- search
-- run
-bip_39_2_word_no_space: searchrun
-bip_39_2_word_space: search run
-bip_39_2_word_underscore: search_run
+- junk
+- ugly
+bip_39_2_word_no_space: junkugly
+bip_39_2_word_space: junk ugly
+bip_39_2_word_underscore: junk_ugly
 bip_39_3_word_array:
-- search
-- run
-- forward
-bip_39_3_word_no_space: searchrunforward
-bip_39_3_word_space: search run forward
-bip_39_3_word_underscore: search_run_forward
+- junk
+- ugly
+- hood
+bip_39_3_word_no_space: junkuglyhood
+bip_39_3_word_space: junk ugly hood
+bip_39_3_word_underscore: junk_ugly_hood
 bip_39_full_array:
-- search
-- run
-- forward
-- brick
-- summer
-- fabric
-- gap
-- intact
-- reject
-- check
-- file
-- there
-bip_39_full_no_space: searchrunforwardbricksummerfabricgapintactrejectcheckfilethere
-bip_39_full_space: search run forward brick summer fabric gap intact reject check
-  file there
-bip_39_full_underscore: search_run_forward_brick_summer_fabric_gap_intact_reject_check_file_there
+- junk
+- ugly
+- hood
+- tiny
+- shift
+- involve
+- argue
+- valley
+- slice
+- lumber
+- section
+- balcony
+bip_39_full_no_space: junkuglyhoodtinyshiftinvolvearguevalleyslicelumbersectionbalcony
+bip_39_full_space: junk ugly hood tiny shift involve argue valley slice lumber section balcony
+bip_39_full_underscore: junk_ugly_hood_tiny_shift_involve_argue_valley_slice_lumber_section_balcony
 category: ic
 category_name: IC
 dimensions_mm:
   height: 1.75
   length: 10.0
   width: 4.0
-directory: parts/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+directory: parts/electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
 distributors: []
 ic_dimensions_mm:
   body_length: 10.0
@@ -42,42 +41,41 @@ ic_dimensions_mm:
   overall_width: 6.0
   pin_pitch: 1.27
   pin_width: 0.42
-id: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
-id_no_class: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
-id_no_size: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
-id_no_type: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+id: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
+id_no_class: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
+id_no_size: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
+id_no_type: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
 kicad:
   hand_solder: Package_SO:SO-16_3.9x9.9mm_P1.27mm
   machine_solder: Package_SO:SO-16_3.9x9.9mm_P1.27mm
   symbol: ''
 lcsc_search: so 16 audio audio player my semi my1690x 16s ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
 manufacturers: []
-md5: c217a96f0ddd92a2d7d3acb4e4e158f0
-md5_10: c217a96f0d
-md5_10_upper: C217A96F0D
-md5_5: c217a
-md5_5_upper: C217A
-md5_6: c217a9
-md5_6_alpha: 7kmuh
-md5_6_alpha_upper: 7KMUH
-md5_6_upper: C217A9
-name: Electronic Ic So 16 Audio Audio Player My Semi My1690X 16S
-name_no_class: Electronic Ic So 16 Audio Audio Player My Semi My1690X 16S
-name_no_size: Electronic Ic So 16 Audio Audio Player My Semi My1690X 16S
-name_no_type: Electronic Ic So 16 Audio Audio Player My Semi My1690X 16S
+md5: 795d81b5713c5cec42e787cb709f0a88
+md5_10: 795d81b571
+md5_10_upper: 795D81B571
+md5_5: 795d8
+md5_5_upper: 795D8
+md5_6: 795d81
+md5_6_alpha: 4qh6p
+md5_6_alpha_upper: 4QH6P
+md5_6_upper: 795D81
+name: Electronic Ic Audio Audio Player So 16 My Semi My1690X 16S
+name_no_class: Electronic Ic Audio Audio Player So 16 My Semi My1690X 16S
+name_no_size: Electronic Ic Audio Audio Player So 16 My Semi My1690X 16S
+name_no_type: Electronic Ic Audio Audio Player So 16 My Semi My1690X 16S
 name_proper: IC Audio Audio Player My Semi SO_16
 name_readable: IC Audio Audio Player My Semi SO_16
 name_short: IC Audio Audio Player My Semi SO_16
-name_space: electronic ic so 16 audio audio player my semi my1690x 16s
+name_space: electronic ic audio audio player so 16 my semi my1690x 16s
 name_upper: ELECTRONIC IC SO 16 AUDIO AUDIO PLAYER MY SEMI MY1690X 16S
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -90,7 +88,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+    part_id: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -170,8 +168,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -186,7 +183,7 @@ oomlout_ai_roboclick_3:
         height: 1.75
         length: 10.0
         width: 4.0
-      directory: parts\electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+      directory: parts\electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
       distributors: []
       ic_dimensions_mm:
         body_length: 10.0
@@ -200,17 +197,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: so 16 audio audio player my semi my1690x 16s ic
       manufacturers: []
-      name: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+      name: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
       name_proper: IC Audio Audio Player My Semi SO_16
       name_readable: IC Audio Audio Player My Semi SO_16
       name_short: IC Audio Audio Player My Semi SO_16
-      name_space: electronic ic so 16 audio audio player my semi my1690x 16s
+      name_space: electronic ic audio audio player so 16 my semi my1690x 16s
       name_upper: ELECTRONIC IC SO 16 AUDIO AUDIO PLAYER MY SEMI MY1690X 16S
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -220,11 +216,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+          part_id: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -304,8 +299,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -489,8 +483,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/so_16/audio/audio_player/my_semi/README.md
-        oomp_id: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+        navigation_link: ../../navigation/electronic/ic/audio/audio_player/so_16/my_semi/README.md
+        oomp_id: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
         pins:
         - name: '1'
           number: '1'
@@ -542,7 +536,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+          value: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
         - title: Type
           value: Ic
         - title: Package / style
@@ -551,21 +545,19 @@ oomlout_ai_roboclick_3:
           value: 10.0 × 4.0 mm
         - title: Documented pins
           value: 16
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
-        summary: IC Audio Audio Player My Semi SO_16 is an OOMP electronic ic definition.
-          It uses the so 16 package or form factor. Its nominal drawing size is 10.0
-          × 4.0 mm. The definition includes 16 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
+        summary: IC Audio Audio Player My Semi SO_16 is an OOMP electronic ic definition. It uses the so 16 package or form factor. Its nominal drawing size is 10.0 × 4.0 mm. The definition includes 16 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: so_16
-        - level: 4
           value: audio
-        - level: 5
+        - level: 4
           value: audio_player
+        - level: 5
+          value: so_16
         - level: 14
           value: my_semi
         - level: 15
@@ -797,9 +789,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: my_semi
       taxonomy_15: my1690x_16s
       taxonomy_2: ic
-      taxonomy_3: so_16
-      taxonomy_4: audio
-      taxonomy_5: audio_player
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -809,14 +798,16 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_sparkfun_spark_fun_audio_player_breakout_my1690_x_16_s_audio_player_breakout_my1690x_16s_current/board_explorer.html
         board_url: https://github.com/sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S
         github_url: https://github.com/sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S
-        name: Project sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S Audio Player
-          Breakout MY1690X-16S current
+        name: Project sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S Audio Player Breakout MY1690X-16S current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_spark_fun_audio_player_breakout_my1690_x_16_s_audio_player_breakout_my1690x_16s_current
         project_id: oomp_project_github_sparkfun_spark_fun_audio_player_breakout_my1690_x_16_s_audio_player_breakout_my1690x_16s_current
         quantity: 1
         references:
         - U2
         version: current
+      taxonomy_5: so_16
+      taxonomy_3: audio
+      taxonomy_4: audio_player
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -827,8 +818,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -837,7 +827,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+oomp_key: oomp_electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
 package_drawing:
   body:
   - 4.0
@@ -1019,8 +1009,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/so_16/audio/audio_player/my_semi/README.md
-  oomp_id: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+  navigation_link: ../../navigation/electronic/ic/audio/audio_player/so_16/my_semi/README.md
+  oomp_id: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
   pins:
   - name: '1'
     number: '1'
@@ -1072,7 +1062,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+    value: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
   - title: Type
     value: Ic
   - title: Package / style
@@ -1081,21 +1071,19 @@ part_page:
     value: 10.0 × 4.0 mm
   - title: Documented pins
     value: 16
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
-  summary: IC Audio Audio Player My Semi SO_16 is an OOMP electronic ic definition.
-    It uses the so 16 package or form factor. Its nominal drawing size is 10.0 × 4.0
-    mm. The definition includes 16 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
+  summary: IC Audio Audio Player My Semi SO_16 is an OOMP electronic ic definition. It uses the so 16 package or form factor. Its nominal drawing size is 10.0 × 4.0 mm. The definition includes 16 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: so_16
-  - level: 4
     value: audio
-  - level: 5
+  - level: 4
     value: audio_player
+  - level: 5
+    value: so_16
   - level: 14
     value: my_semi
   - level: 15
@@ -1383,51 +1371,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: so_16
-taxonomy_3_capital: So 16
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: so_
-taxonomy_3_length_4: so_1
-taxonomy_3_length_5: so_16
-taxonomy_3_upper: SO_16
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SO_
-taxonomy_3_upper_length_4: SO_1
-taxonomy_3_upper_length_5: SO_16
-taxonomy_4: audio
-taxonomy_4_capital: Audio
-taxonomy_4_first_letter: a
-taxonomy_4_first_letter_upper: A
-taxonomy_4_length_1: a
-taxonomy_4_length_2: au
-taxonomy_4_length_3: aud
-taxonomy_4_length_4: audi
-taxonomy_4_length_5: audio
-taxonomy_4_upper: AUDIO
-taxonomy_4_upper_length_1: A
-taxonomy_4_upper_length_2: AU
-taxonomy_4_upper_length_3: AUD
-taxonomy_4_upper_length_4: AUDI
-taxonomy_4_upper_length_5: AUDIO
-taxonomy_5: audio_player
-taxonomy_5_capital: Audio Player
-taxonomy_5_first_letter: a
-taxonomy_5_first_letter_upper: A
-taxonomy_5_length_1: a
-taxonomy_5_length_2: au
-taxonomy_5_length_3: aud
-taxonomy_5_length_4: audi
-taxonomy_5_length_5: audio
-taxonomy_5_upper: AUDIO_PLAYER
-taxonomy_5_upper_length_1: A
-taxonomy_5_upper_length_2: AU
-taxonomy_5_upper_length_3: AUD
-taxonomy_5_upper_length_4: AUDI
-taxonomy_5_upper_length_5: AUDIO
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1438,11 +1381,55 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_sparkfun_spark_fun_audio_player_breakout_my1690_x_16_s_audio_player_breakout_my1690x_16s_current/board_explorer.html
   board_url: https://github.com/sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S
   github_url: https://github.com/sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S
-  name: Project sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S Audio Player Breakout
-    MY1690X-16S current
+  name: Project sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S Audio Player Breakout MY1690X-16S current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_spark_fun_audio_player_breakout_my1690_x_16_s_audio_player_breakout_my1690x_16s_current
   project_id: oomp_project_github_sparkfun_spark_fun_audio_player_breakout_my1690_x_16_s_audio_player_breakout_my1690x_16s_current
   quantity: 1
   references:
   - U2
   version: current
+taxonomy_5: so_16
+taxonomy_5_capital: So 16
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: so_
+taxonomy_5_length_4: so_1
+taxonomy_5_length_5: so_16
+taxonomy_5_upper: SO_16
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SO_
+taxonomy_5_upper_length_4: SO_1
+taxonomy_5_upper_length_5: SO_16
+taxonomy_3: audio
+taxonomy_3_capital: Audio
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_length_1: a
+taxonomy_3_length_2: au
+taxonomy_3_length_3: aud
+taxonomy_3_length_4: audi
+taxonomy_3_length_5: audio
+taxonomy_3_upper: AUDIO
+taxonomy_3_upper_length_1: A
+taxonomy_3_upper_length_2: AU
+taxonomy_3_upper_length_3: AUD
+taxonomy_3_upper_length_4: AUDI
+taxonomy_3_upper_length_5: AUDIO
+taxonomy_4: audio_player
+taxonomy_4_capital: Audio Player
+taxonomy_4_first_letter: a
+taxonomy_4_first_letter_upper: A
+taxonomy_4_length_1: a
+taxonomy_4_length_2: au
+taxonomy_4_length_3: aud
+taxonomy_4_length_4: audi
+taxonomy_4_length_5: audio
+taxonomy_4_upper: AUDIO_PLAYER
+taxonomy_4_upper_length_1: A
+taxonomy_4_upper_length_2: AU
+taxonomy_4_upper_length_3: AUD
+taxonomy_4_upper_length_4: AUDI
+taxonomy_4_upper_length_5: AUDIO

@@ -89,7 +89,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R1 | 1 | Resistor 4700 Ohm 0603 | 4.7k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_4700_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_4700_ohm) |
 | R2, R3, R7 | 3 | Resistor 2200 Ohm 0603 | 2.2k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_2200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_2200_ohm) |
 | R6 | 1 | Resistor 560 Ohm 0603 | 560 | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_560_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_560_ohm) |
-| U1 | 1 | IC Capacitive Touch Controller Controller Infineon SOIC_8 | CY8CMBR3102 | `SparkFun-Semiconductor-Standard:SO-8` | [`electronic_ic_soic_8_capacitive_touch_controller_controller_infineon_cy8cmbr3102`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_capacitive_touch_controller_controller_infineon_cy8cmbr3102) |
+| U1 | 1 | IC Capacitive Touch Controller Controller Infineon SOIC_8 | CY8CMBR3102 | `SparkFun-Semiconductor-Standard:SO-8` | [`electronic_ic_capacitive_touch_controller_controller_soic_8_infineon_cy8cmbr3102`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_capacitive_touch_controller_controller_soic_8_infineon_cy8cmbr3102) |
 
 ## Main nets
 

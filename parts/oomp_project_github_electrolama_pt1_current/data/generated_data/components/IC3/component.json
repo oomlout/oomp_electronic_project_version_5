@@ -2343,9 +2343,9 @@
   "oomp": {
     "status": "matched",
     "accepted": true,
-    "oomp_id": "electronic_ic_sot_23_6_logic_configurable_multi_function_gate_texas_instruments_sn74lvc1g57dbvr",
+    "oomp_id": "electronic_ic_logic_configurable_multi_function_gate_sot_23_6_texas_instruments_sn74lvc1g57dbvr",
     "confidence": 1.0,
-    "proposed_oomp_id": "electronic_ic_sot_23_6_logic_configurable_multi_function_gate_texas_instruments_sn74lvc1g57dbvr",
+    "proposed_oomp_id": "electronic_ic_logic_configurable_multi_function_gate_sot_23_6_texas_instruments_sn74lvc1g57dbvr",
     "inferred": {
       "kind": null,
       "package_size": null,

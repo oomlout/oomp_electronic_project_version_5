@@ -162,7 +162,7 @@
 <polyline class="edge-cut" points="104.9000,64.1000 104.8659,64.3588 104.7660,64.6000 104.6071,64.8071 104.4000,64.9660 104.1588,65.0659 103.9000,65.1000 103.6412,65.0659 103.4000,64.9660 103.1929,64.8071 103.0340,64.6000 102.9341,64.3588 102.9000,64.1000 102.9341,63.8412 103.0340,63.6000 103.1929,63.3929 103.4000,63.2340 103.6412,63.1341 103.9000,63.1000 104.1588,63.1341 104.4000,63.2340 104.6071,63.3929 104.7660,63.6000 104.8659,63.8412 104.9000,64.1000" />
 <polyline class="edge-cut" points="104.9000,116.1000 104.8659,116.3588 104.7660,116.6000 104.6071,116.8071 104.4000,116.9660 104.1588,117.0659 103.9000,117.1000 103.6412,117.0659 103.4000,116.9660 103.1929,116.8071 103.0340,116.6000 102.9341,116.3588 102.9000,116.1000 102.9341,115.8412 103.0340,115.6000 103.1929,115.3929 103.4000,115.2340 103.6412,115.1341 103.9000,115.1000 104.1588,115.1341 104.4000,115.2340 104.6071,115.3929 104.7660,115.6000 104.8659,115.8412 104.9000,116.1000" />
 <polyline class="edge-cut" points="156.9000,64.1000 156.8659,64.3588 156.7660,64.6000 156.6071,64.8071 156.4000,64.9660 156.1588,65.0659 155.9000,65.1000 155.6412,65.0659 155.4000,64.9660 155.1929,64.8071 155.0340,64.6000 154.9341,64.3588 154.9000,64.1000 154.9341,63.8412 155.0340,63.6000 155.1929,63.3929 155.4000,63.2340 155.6412,63.1341 155.9000,63.1000 156.1588,63.1341 156.4000,63.2340 156.6071,63.3929 156.7660,63.6000 156.8659,63.8412 156.9000,64.1000" />
-<g class="board-component" data-reference="U103" data-oomp-id="electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040" tabindex="0" transform="translate(129.9000 82.4300) rotate(-45.0000)">
+<g class="board-component" data-reference="U103" data-oomp-id="electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040" tabindex="0" transform="translate(129.9000 82.4300) rotate(-45.0000)">
 <g transform="translate(0.0000 0.0000) rotate(180)"><svg x="-4.0120" y="-4.0120" width="8.0240" height="8.0240" viewBox="0 0 8.0240 8.0240" preserveAspectRatio="xMidYMid meet"><rect x="0.5120" y="0.5120" width="7.0000" height="7.0000"  fill="none" stroke="none" />
   <rect x="0.6120" y="0.6120" width="6.8000" height="6.8000" rx="0.0700" ry="0.0700"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="2.5160" y="2.5160" width="2.9920" height="2.9920"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" />
@@ -184,7 +184,7 @@
   <rect x="5.7460" y="6.8000" width="0.6120" height="1.2240"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.7220" cy="7.3020" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U102" data-oomp-id="electronic_ic_sop_8_5_28_mm_x_5_23_mm_memory_spi_nor_flash_128_mbit_winbond_w25q128jvsiq" tabindex="0" transform="translate(118.7000 81.9000) rotate(-45.0000)">
+<g class="board-component" data-reference="U102" data-oomp-id="electronic_ic_memory_spi_nor_flash_128_mbit_sop_8_5_28_mm_x_5_23_mm_winbond_w25q128jvsiq" tabindex="0" transform="translate(118.7000 81.9000) rotate(-45.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-3.2096" y="-2.6150" width="6.4191" height="5.2300" viewBox="0 0 6.4191 5.2300" preserveAspectRatio="xMidYMid meet"><rect x="0.5696" y="0.0000" width="5.2800" height="5.2300"  fill="none" stroke="none" />
   <rect x="0.6193" y="0.0000" width="5.1805" height="5.2300" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="-0.0000" y="0.4041" width="0.6443" height="0.4992"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -239,7 +239,7 @@
   <rect x="9.6000" y="4.4500" width="0.6000" height="1.5500"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="1.9000" cy="4.1500" r="0.1200"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U402" data-oomp-id="electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118" tabindex="0" transform="translate(129.9000 104.0500) rotate(-90.0000)">
+<g class="board-component" data-reference="U402" data-oomp-id="electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118" tabindex="0" transform="translate(129.9000 104.0500) rotate(-90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-2.8250" y="-3.9000" width="5.6500" height="7.8000" viewBox="0 0 5.6500 7.8000" preserveAspectRatio="xMidYMid meet"><rect x="0.0250" y="0.0000" width="5.6000" height="7.8000"  fill="none" stroke="none" />
   <rect x="0.6250" y="0.0000" width="4.4000" height="7.8000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.2075" width="0.6500" height="0.2350"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -268,7 +268,7 @@
   <rect x="5.0000" y="7.3575" width="0.6500" height="0.2350"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.7350" cy="0.1100" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U105" data-oomp-id="electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb" tabindex="0" transform="translate(146.3000 86.0000) rotate(-180.0000)">
+<g class="board-component" data-reference="U105" data-oomp-id="electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb" tabindex="0" transform="translate(146.3000 86.0000) rotate(-180.0000)">
 <g transform="translate(-0.0175 -0.0685) rotate(0)"><svg x="-3.0000" y="-2.7230" width="6.0000" height="5.4460" viewBox="0 0 6.0000 5.4460" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.2230" width="6.0000" height="5.0000"  fill="none" stroke="none" />
   <rect x="0.1000" y="0.3230" width="5.8000" height="4.8000" rx="0.0600" ry="0.0600"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="1.2020" y="1.2350" width="3.5960" height="2.9760"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" />
@@ -282,7 +282,7 @@
   <rect x="4.5748" y="-0.0000" width="0.5334" height="0.3480"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.2600" cy="4.9630" r="0.1200"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U503" data-oomp-id="electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr" tabindex="0" transform="translate(137.2200 95.2500) rotate(90.0000)">
+<g class="board-component" data-reference="U503" data-oomp-id="electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr" tabindex="0" transform="translate(137.2200 95.2500) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-2.8250" y="-3.2500" width="5.6500" height="6.5000" viewBox="0 0 5.6500 6.5000" preserveAspectRatio="xMidYMid meet"><rect x="0.0250" y="0.0000" width="5.6000" height="6.5000"  fill="none" stroke="none" />
   <rect x="0.6250" y="0.0000" width="4.4000" height="6.5000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="-0.0000" y="0.2075" width="0.6500" height="0.2350"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -307,7 +307,7 @@
   <rect x="5.0000" y="6.0575" width="0.6500" height="0.2350"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.7350" cy="0.1100" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U501" data-oomp-id="electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr" tabindex="0" transform="translate(128.1000 95.2500) rotate(90.0000)">
+<g class="board-component" data-reference="U501" data-oomp-id="electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr" tabindex="0" transform="translate(128.1000 95.2500) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-2.8250" y="-2.5000" width="5.6500" height="5.0000" viewBox="0 0 5.6500 5.0000" preserveAspectRatio="xMidYMid meet"><rect x="0.0250" y="0.0000" width="5.6000" height="5.0000"  fill="none" stroke="none" />
   <rect x="0.6250" y="0.0000" width="4.4000" height="5.0000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.1950" width="0.6500" height="0.2350"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -328,7 +328,7 @@
   <rect x="5.0000" y="4.5700" width="0.6500" height="0.2350"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.7350" cy="0.1100" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U502" data-oomp-id="electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr" tabindex="0" transform="translate(121.3755 95.2500) rotate(90.0000)">
+<g class="board-component" data-reference="U502" data-oomp-id="electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr" tabindex="0" transform="translate(121.3755 95.2500) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-2.8250" y="-2.5000" width="5.6500" height="5.0000" viewBox="0 0 5.6500 5.0000" preserveAspectRatio="xMidYMid meet"><rect x="0.0250" y="0.0000" width="5.6000" height="5.0000"  fill="none" stroke="none" />
   <rect x="0.6250" y="0.0000" width="4.4000" height="5.0000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.1950" width="0.6500" height="0.2350"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -359,7 +359,7 @@
   <rect x="5.3000" y="4.3300" width="0.7000" height="0.7000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.3500" cy="4.6800" r="0.1200"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U504" data-oomp-id="electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr" tabindex="0" transform="translate(138.0000 105.0000) rotate(90.0000)">
+<g class="board-component" data-reference="U504" data-oomp-id="electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr" tabindex="0" transform="translate(138.0000 105.0000) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-3.2250" y="-2.5000" width="6.4500" height="5.0000" viewBox="0 0 6.4500 5.0000" preserveAspectRatio="xMidYMid meet"><rect x="0.0250" y="0.0000" width="6.4000" height="5.0000"  fill="none" stroke="none" />
   <rect x="1.0250" y="0.0000" width="4.4000" height="5.0000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.2396" width="1.0500" height="0.2350"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -378,7 +378,7 @@
   <rect x="5.4000" y="4.5254" width="1.0500" height="0.2350"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="1.1350" cy="0.1100" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U505" data-oomp-id="electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr" tabindex="0" transform="translate(122.0000 105.0000) rotate(90.0000)">
+<g class="board-component" data-reference="U505" data-oomp-id="electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr" tabindex="0" transform="translate(122.0000 105.0000) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-3.2250" y="-2.5000" width="6.4500" height="5.0000" viewBox="0 0 6.4500 5.0000" preserveAspectRatio="xMidYMid meet"><rect x="0.0250" y="0.0000" width="6.4000" height="5.0000"  fill="none" stroke="none" />
   <rect x="1.0250" y="0.0000" width="4.4000" height="5.0000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.2396" width="1.0500" height="0.2350"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -422,7 +422,7 @@
   <rect x="2.8000" y="2.1500" width="0.4000" height="0.3000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <rect x="2.8000" y="0.0500" width="0.4000" height="0.3000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" /></svg></g>
 </g>
-<g class="board-component" data-reference="U401" data-oomp-id="electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n" tabindex="0" transform="translate(142.5700 67.6500) rotate(-90.0000)">
+<g class="board-component" data-reference="U401" data-oomp-id="electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n" tabindex="0" transform="translate(142.5700 67.6500) rotate(-90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-2.2500" y="-1.2500" width="4.5000" height="2.5000" viewBox="0 0 4.5000 2.5000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="4.5000" height="2.5000"  fill="none" stroke="none" />
   <rect x="0.4000" y="0.0000" width="3.7000" height="2.5000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0750" y="0.5650" width="0.3500" height="0.1200"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -520,7 +520,7 @@
   <rect x="3.4975" y="2.2577" width="0.2475" height="0.6346"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.3425" cy="3.2800" r="0.1000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U506" data-oomp-id="electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr" tabindex="0" transform="translate(106.6800 84.7700) rotate(90.0000)">
+<g class="board-component" data-reference="U506" data-oomp-id="electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr" tabindex="0" transform="translate(106.6800 84.7700) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4000" y="-1.4600" width="2.8000" height="2.9200" viewBox="0 0 2.8000 2.9200" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.8000" height="2.9200"  fill="none" stroke="none" />
   <rect x="0.6548" y="0.1000" width="1.4904" height="2.7200" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0709" y="0.3829" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -530,7 +530,7 @@
   <rect x="2.1202" y="2.1645" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.7648" cy="0.2100" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U404" data-oomp-id="electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr" tabindex="0" transform="translate(122.5000 88.6000) rotate(-90.0000)">
+<g class="board-component" data-reference="U404" data-oomp-id="electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr" tabindex="0" transform="translate(122.5000 88.6000) rotate(-90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4000" y="-1.4600" width="2.8000" height="2.9200" viewBox="0 0 2.8000 2.9200" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.8000" height="2.9200"  fill="none" stroke="none" />
   <rect x="0.6548" y="0.1000" width="1.4904" height="2.7200" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0709" y="0.3829" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -540,7 +540,7 @@
   <rect x="2.1202" y="2.1645" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.7648" cy="0.2100" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U603" data-oomp-id="electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr" tabindex="0" transform="translate(137.5500 74.0000) rotate(0.0000)">
+<g class="board-component" data-reference="U603" data-oomp-id="electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr" tabindex="0" transform="translate(137.5500 74.0000) rotate(0.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4000" y="-1.4600" width="2.8000" height="2.9200" viewBox="0 0 2.8000 2.9200" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.8000" height="2.9200"  fill="none" stroke="none" />
   <rect x="0.6548" y="0.1000" width="1.4904" height="2.7200" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0709" y="0.3829" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -550,7 +550,7 @@
   <rect x="2.1202" y="2.1645" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.7648" cy="0.2100" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U602" data-oomp-id="electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr" tabindex="0" transform="translate(116.1000 72.6800) rotate(-180.0000)">
+<g class="board-component" data-reference="U602" data-oomp-id="electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr" tabindex="0" transform="translate(116.1000 72.6800) rotate(-180.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4000" y="-1.4500" width="2.8000" height="2.9000" viewBox="0 0 2.8000 2.9000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.8000" height="2.9000"  fill="none" stroke="none" />
   <rect x="0.6552" y="0.1000" width="1.4897" height="2.7000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0716" y="0.3795" width="0.6086" height="0.3724"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -560,7 +560,7 @@
   <rect x="2.1198" y="2.1480" width="0.6086" height="0.3724"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.7652" cy="0.2100" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U403" data-oomp-id="electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_diodes_ap2127k_3_3trg1" tabindex="0" transform="translate(113.4200 67.6000) rotate(-180.0000)">
+<g class="board-component" data-reference="U403" data-oomp-id="electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_diodes_ap2127k_3_3trg1" tabindex="0" transform="translate(113.4200 67.6000) rotate(-180.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4000" y="-1.4600" width="2.8000" height="2.9200" viewBox="0 0 2.8000 2.9200" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.8000" height="2.9200"  fill="none" stroke="none" />
   <rect x="0.6548" y="0.1000" width="1.4904" height="2.7200" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0709" y="0.3829" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -570,7 +570,7 @@
   <rect x="2.1202" y="2.1645" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.7648" cy="0.2100" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U601" data-oomp-id="electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr" tabindex="0" transform="translate(122.1500 73.5600) rotate(90.0000)">
+<g class="board-component" data-reference="U601" data-oomp-id="electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr" tabindex="0" transform="translate(122.1500 73.5600) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4000" y="-1.4600" width="2.8000" height="2.9200" viewBox="0 0 2.8000 2.9200" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.8000" height="2.9200"  fill="none" stroke="none" />
   <rect x="0.6548" y="0.1000" width="1.4904" height="2.7200" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0709" y="0.3829" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -588,7 +588,7 @@
   <rect x="2.0125" y="1.2375" width="0.6375" height="0.4250"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.6925" cy="2.8200" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U305" data-oomp-id="electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(144.7800 102.9547) rotate(90.0000)">
+<g class="board-component" data-reference="U305" data-oomp-id="electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(144.7800 102.9547) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.0000" y="-1.0750" width="2.0000" height="2.1500" viewBox="0 0 2.0000 2.1500" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.0000" height="2.1500"  fill="none" stroke="none" />
   <rect x="0.0000" y="0.4703" width="2.0000" height="1.2093" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.2791" y="1.6547" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -599,7 +599,7 @@
   <rect x="1.4884" y="0.0733" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.0800" cy="1.5997" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U306" data-oomp-id="electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(147.6489 102.9278) rotate(90.0000)">
+<g class="board-component" data-reference="U306" data-oomp-id="electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(147.6489 102.9278) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.0000" y="-1.0750" width="2.0000" height="2.1500" viewBox="0 0 2.0000 2.1500" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.0000" height="2.1500"  fill="none" stroke="none" />
   <rect x="0.0000" y="0.4703" width="2.0000" height="1.2093" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.2791" y="1.6547" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -621,7 +621,7 @@
   <rect x="1.6000" y="0.0000" width="0.2500" height="0.4500"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.0800" cy="1.6450" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U301" data-oomp-id="electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(106.1000 103.0500) rotate(90.0000)">
+<g class="board-component" data-reference="U301" data-oomp-id="electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(106.1000 103.0500) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.0000" y="-1.0750" width="2.0000" height="2.1500" viewBox="0 0 2.0000 2.1500" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.0000" height="2.1500"  fill="none" stroke="none" />
   <rect x="0.0000" y="0.4703" width="2.0000" height="1.2093" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.2791" y="1.6547" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -643,7 +643,7 @@
   <rect x="1.5628" y="0.0994" width="0.2442" height="0.4407"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.0800" cy="1.7049" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U302" data-oomp-id="electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(109.2500 103.0500) rotate(90.0000)">
+<g class="board-component" data-reference="U302" data-oomp-id="electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(109.2500 103.0500) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.0000" y="-1.0750" width="2.0000" height="2.1500" viewBox="0 0 2.0000 2.1500" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.0000" height="2.1500"  fill="none" stroke="none" />
   <rect x="0.0000" y="0.4703" width="2.0000" height="1.2093" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.2791" y="1.6547" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -654,7 +654,7 @@
   <rect x="1.4884" y="0.0733" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.0800" cy="1.5997" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U303" data-oomp-id="electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(112.3000 103.1500) rotate(90.0000)">
+<g class="board-component" data-reference="U303" data-oomp-id="electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(112.3000 103.1500) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.0000" y="-1.0750" width="2.0000" height="2.1500" viewBox="0 0 2.0000 2.1500" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.0000" height="2.1500"  fill="none" stroke="none" />
   <rect x="0.0000" y="0.4703" width="2.0000" height="1.2093" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.2791" y="1.6547" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -665,7 +665,7 @@
   <rect x="1.4884" y="0.0733" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.0800" cy="1.5997" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U304" data-oomp-id="electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(115.3000 103.1500) rotate(90.0000)">
+<g class="board-component" data-reference="U304" data-oomp-id="electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(115.3000 103.1500) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.0000" y="-1.0750" width="2.0000" height="2.1500" viewBox="0 0 2.0000 2.1500" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.0000" height="2.1500"  fill="none" stroke="none" />
   <rect x="0.0000" y="0.4703" width="2.0000" height="1.2093" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.2791" y="1.6547" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -676,7 +676,7 @@
   <rect x="1.4884" y="0.0733" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.0800" cy="1.5997" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U307" data-oomp-id="electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(150.4750 102.9250) rotate(90.0000)">
+<g class="board-component" data-reference="U307" data-oomp-id="electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(150.4750 102.9250) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.0000" y="-1.0750" width="2.0000" height="2.1500" viewBox="0 0 2.0000 2.1500" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.0000" height="2.1500"  fill="none" stroke="none" />
   <rect x="0.0000" y="0.4703" width="2.0000" height="1.2093" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.2791" y="1.6547" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -687,7 +687,7 @@
   <rect x="1.4884" y="0.0733" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="0.0800" cy="1.5997" r="0.0650"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" /></svg></g>
 </g>
-<g class="board-component" data-reference="U308" data-oomp-id="electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(153.4500 102.9500) rotate(90.0000)">
+<g class="board-component" data-reference="U308" data-oomp-id="electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr" tabindex="0" transform="translate(153.4500 102.9500) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.0000" y="-1.0750" width="2.0000" height="2.1500" viewBox="0 0 2.0000 2.1500" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.0000" height="2.1500"  fill="none" stroke="none" />
   <rect x="0.0000" y="0.4703" width="2.0000" height="1.2093" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.2791" y="1.6547" width="0.2326" height="0.4221"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />

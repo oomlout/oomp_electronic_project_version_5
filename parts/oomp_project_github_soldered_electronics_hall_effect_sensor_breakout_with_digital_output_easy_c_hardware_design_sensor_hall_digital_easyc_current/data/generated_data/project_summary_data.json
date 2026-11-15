@@ -3530,7 +3530,7 @@
         "x": 81.0,
         "y": 139.0,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv",
+        "oomp_id": "electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv",
         "bounds": {
           "min_x": 79.3,
           "min_y": 137.4,
@@ -3887,7 +3887,7 @@
         "x": 74.5,
         "y": 139.0,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+        "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
         "bounds": {
           "min_x": 71.025,
           "min_y": 134.64,
@@ -5671,8 +5671,8 @@
       "description": "IC Sensor Hall Effect Silicon Labs SOT_23",
       "value": "SI7201-B-06-IV",
       "footprint": "e-radionica.com footprinti:SOT-23-3",
-      "oomp_id": "electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv",
+      "oomp_id": "electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv",
       "references": [
         "U1"
       ],
@@ -5682,8 +5682,8 @@
       "description": "IC Microcontroller 8 Bit Avr Microchip SOIC_14",
       "value": "ATTINY404-SSNR",
       "footprint": "e-radionica.com footprinti:SOIC-14",
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "references": [
         "U2"
       ],
@@ -5923,7 +5923,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+        "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -5938,7 +5938,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv",
+        "oomp_id": "electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

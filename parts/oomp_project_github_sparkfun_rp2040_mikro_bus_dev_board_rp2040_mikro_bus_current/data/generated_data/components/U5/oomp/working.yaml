@@ -1,39 +1,38 @@
 bip_39_2_word_array:
-- empower
-- fancy
-bip_39_2_word_no_space: empowerfancy
-bip_39_2_word_space: empower fancy
-bip_39_2_word_underscore: empower_fancy
+- series
+- shoe
+bip_39_2_word_no_space: seriesshoe
+bip_39_2_word_space: series shoe
+bip_39_2_word_underscore: series_shoe
 bip_39_3_word_array:
-- empower
-- fancy
-- soup
-bip_39_3_word_no_space: empowerfancysoup
-bip_39_3_word_space: empower fancy soup
-bip_39_3_word_underscore: empower_fancy_soup
+- series
+- shoe
+- trade
+bip_39_3_word_no_space: seriesshoetrade
+bip_39_3_word_space: series shoe trade
+bip_39_3_word_underscore: series_shoe_trade
 bip_39_full_array:
-- empower
-- fancy
-- soup
-- rib
-- jewel
-- various
-- helmet
-- bag
-- glass
-- fury
-- desk
-- clay
-bip_39_full_no_space: empowerfancysoupribjewelvarioushelmetbagglassfurydeskclay
-bip_39_full_space: empower fancy soup rib jewel various helmet bag glass fury desk
-  clay
-bip_39_full_underscore: empower_fancy_soup_rib_jewel_various_helmet_bag_glass_fury_desk_clay
+- series
+- shoe
+- trade
+- stand
+- chef
+- unlock
+- swap
+- cannon
+- sponsor
+- alien
+- ridge
+- sad
+bip_39_full_no_space: seriesshoetradestandchefunlockswapcannonsponsoralienridgesad
+bip_39_full_space: series shoe trade stand chef unlock swap cannon sponsor alien ridge sad
+bip_39_full_underscore: series_shoe_trade_stand_chef_unlock_swap_cannon_sponsor_alien_ridge_sad
 category: mcu
 category_name: MCU
 dimensions_mm:
   length: 7.0
   width: 7.0
-directory: parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+directory: parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
 distributors:
 - key: lcsc
   part_number: C2040
@@ -41,51 +40,44 @@ distributors:
   url: https://www.lcsc.com/product-detail/C2040.html
 file_copy:
 - file_destination: datasheet.pdf
-  file_source: parts_source/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040/datasheet.pdf
-id: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
-id_no_class: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
-id_no_size: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
-id_no_type: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+  file_source: parts_source/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040/datasheet.pdf
+id: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
+id_no_class: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
+id_no_size: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
+id_no_type: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
 lcsc_search: RP2040
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
 manufacturers:
 - manufacturer: ''
   part_number: RP2040
-md5: 490a5f3fdc777fe31ab88c62ebccef95
-md5_10: 490a5f3fdc
-md5_10_upper: 490A5F3FDC
-md5_5: 490a5
-md5_5_upper: 490A5
-md5_6: 490a5f
-md5_6_alpha: 2uli7
-md5_6_alpha_upper: 2ULI7
-md5_6_upper: 490A5F
-name: Electronic Ic Qfn 56 7 Mm X 7 Mm Microcontroller Dual Core Arm Cortex M0 Plus
-  Raspberry Pi Rp2040
-name_no_class: Electronic Ic Qfn 56 7 Mm X 7 Mm Microcontroller Dual Core Arm Cortex
-  M0 Plus Raspberry Pi Rp2040
-name_no_size: Electronic Ic Qfn 56 7 Mm X 7 Mm Microcontroller Dual Core Arm Cortex
-  M0 Plus Raspberry Pi Rp2040
-name_no_type: Electronic Ic Qfn 56 7 Mm X 7 Mm Microcontroller Dual Core Arm Cortex
-  M0 Plus Raspberry Pi Rp2040
+md5: c418cf9aea4275dc36d10bd260cae65e
+md5_10: c418cf9aea
+md5_10_upper: C418CF9AEA
+md5_5: c418c
+md5_5_upper: C418C
+md5_6: c418cf
+md5_6_alpha: 7ng7j
+md5_6_alpha_upper: 7NG7J
+md5_6_upper: C418CF
+name: Electronic Ic Microcontroller Dual Core Arm Cortex M0 Plus Qfn 56 7 Mm X 7 Mm Raspberry Pi Rp2040
+name_no_class: Electronic Ic Microcontroller Dual Core Arm Cortex M0 Plus Qfn 56 7 Mm X 7 Mm Raspberry Pi Rp2040
+name_no_size: Electronic Ic Microcontroller Dual Core Arm Cortex M0 Plus Qfn 56 7 Mm X 7 Mm Raspberry Pi Rp2040
+name_no_type: Electronic Ic Microcontroller Dual Core Arm Cortex M0 Plus Qfn 56 7 Mm X 7 Mm Raspberry Pi Rp2040
 name_proper: IC RP2040 QFN 56 7 MM X 7 MM
 name_readable: IC RP2040 QFN 56 7 MM X 7 MM
 name_short: IC RP2040 QFN 56 7 MM X 7 MM
-name_space: electronic ic qfn 56 7 mm x 7 mm microcontroller dual core arm cortex
-  m0 plus raspberry pi rp2040
-name_upper: ELECTRONIC IC QFN 56 7 MM X 7 MM MICROCONTROLLER DUAL CORE ARM CORTEX
-  M0 PLUS RASPBERRY PI RP2040
+name_space: electronic ic microcontroller dual core arm cortex m0 plus qfn 56 7 mm x 7 mm raspberry pi rp2040
+name_upper: ELECTRONIC IC QFN 56 7 MM X 7 MM MICROCONTROLLER DUAL CORE ARM CORTEX M0 PLUS RASPBERRY PI RP2040
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -98,7 +90,7 @@ oomlout_ai_roboclick_2:
     delete_before_copy: true
     exit_on_missing: true
     file_destination: data/datasheet.pdf
-    file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040/datasheet.pdf
+    file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040/datasheet.pdf
   description: Copy part-specific source files into the working data directory.
   file_test: data/datasheet.pdf
   retries_until_complete: 0
@@ -108,7 +100,7 @@ oomlout_ai_roboclick_3:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+    part_id: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -188,8 +180,7 @@ oomlout_ai_roboclick_3:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_4:
@@ -203,7 +194,7 @@ oomlout_ai_roboclick_4:
       dimensions_mm:
         length: 7.0
         width: 7.0
-      directory: parts\electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+      directory: parts\electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
       distributors:
       - key: lcsc
         part_number: C2040
@@ -211,7 +202,7 @@ oomlout_ai_roboclick_4:
         url: https://www.lcsc.com/product-detail/C2040.html
       file_copy:
       - file_destination: datasheet.pdf
-        file_source: parts_source/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040/datasheet.pdf
+        file_source: parts_source/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040/datasheet.pdf
       kicad:
         hand_solder: ''
         machine_solder: ''
@@ -220,19 +211,16 @@ oomlout_ai_roboclick_4:
       manufacturers:
       - manufacturer: ''
         part_number: RP2040
-      name: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+      name: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
       name_proper: IC RP2040 QFN 56 7 MM X 7 MM
       name_readable: IC RP2040 QFN 56 7 MM X 7 MM
       name_short: IC RP2040 QFN 56 7 MM X 7 MM
-      name_space: electronic ic qfn 56 7 mm x 7 mm microcontroller dual core arm cortex
-        m0 plus raspberry pi rp2040
-      name_upper: ELECTRONIC IC QFN 56 7 MM X 7 MM MICROCONTROLLER DUAL CORE ARM CORTEX
-        M0 PLUS RASPBERRY PI RP2040
+      name_space: electronic ic microcontroller dual core arm cortex m0 plus qfn 56 7 mm x 7 mm raspberry pi rp2040
+      name_upper: ELECTRONIC IC QFN 56 7 MM X 7 MM MICROCONTROLLER DUAL CORE ARM CORTEX M0 PLUS RASPBERRY PI RP2040
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -245,18 +233,17 @@ oomlout_ai_roboclick_4:
           delete_before_copy: true
           exit_on_missing: true
           file_destination: data/datasheet.pdf
-          file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040/datasheet.pdf
+          file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040/datasheet.pdf
         description: Copy part-specific source files into the working data directory.
         file_test: data/datasheet.pdf
         retries_until_complete: 0
       oomlout_ai_roboclick_3:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+          part_id: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -336,8 +323,7 @@ oomlout_ai_roboclick_4:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       part_id: U1
@@ -422,8 +408,8 @@ oomlout_ai_roboclick_4:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/qfn_56_7_mm_x_7_mm/microcontroller/dual_core_arm_cortex_m0_plus/raspberry_pi/README.md
-        oomp_id: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+        navigation_link: ../../navigation/electronic/ic/microcontroller/dual_core_arm_cortex_m0_plus/qfn_56_7_mm_x_7_mm/raspberry_pi/README.md
+        oomp_id: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
         pins:
         - name: iovdd
           number: '1'
@@ -598,7 +584,7 @@ oomlout_ai_roboclick_4:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+          value: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
         - title: Type
           value: Ic
         - title: Package / style
@@ -607,21 +593,19 @@ oomlout_ai_roboclick_4:
           value: 7.0 × 7.0 mm
         - title: Documented pins
           value: 57
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
-        summary: IC RP2040 QFN 56 7 MM X 7 MM is an OOMP electronic ic definition.
-          It uses the qfn 56 7 mm x 7 mm package or form factor. Its nominal drawing
-          size is 7.0 × 7.0 mm. The definition includes 57 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
+        summary: IC RP2040 QFN 56 7 MM X 7 MM is an OOMP electronic ic definition. It uses the qfn 56 7 mm x 7 mm package or form factor. Its nominal drawing size is 7.0 × 7.0 mm. The definition includes 57 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: qfn_56_7_mm_x_7_mm
-        - level: 4
           value: microcontroller
-        - level: 5
+        - level: 4
           value: dual_core_arm_cortex_m0_plus
+        - level: 5
+          value: qfn_56_7_mm_x_7_mm
         - level: 14
           value: raspberry_pi
         - level: 15
@@ -1017,9 +1001,6 @@ oomlout_ai_roboclick_4:
       taxonomy_14: raspberry_pi
       taxonomy_15: rp2040
       taxonomy_2: ic
-      taxonomy_3: qfn_56_7_mm_x_7_mm
-      taxonomy_4: microcontroller
-      taxonomy_5: dual_core_arm_cortex_m0_plus
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -1069,14 +1050,16 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_sparkfun_micro_mod_processor_rp2040_micro_mod_rp2040_processor_board_current/board_explorer.html
         board_url: https://github.com/sparkfun/MicroMod_Processor-RP2040/blob/main/Hardware/MicroMod-RP2040-ProcessorBoard.brd
         github_url: https://github.com/sparkfun/MicroMod_Processor-RP2040
-        name: Project sparkfun/MicroMod_Processor-RP2040 Micro Mod RP2040 Processor
-          Board current
+        name: Project sparkfun/MicroMod_Processor-RP2040 Micro Mod RP2040 Processor Board current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_micro_mod_processor_rp2040_micro_mod_rp2040_processor_board_current
         project_id: oomp_project_github_sparkfun_micro_mod_processor_rp2040_micro_mod_rp2040_processor_board_current
         quantity: 1
         references:
         - U3
         version: current
+      taxonomy_5: qfn_56_7_mm_x_7_mm
+      taxonomy_3: microcontroller
+      taxonomy_4: dual_core_arm_cortex_m0_plus
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -1087,8 +1070,7 @@ oomlout_ai_roboclick_4:
 oomlout_ai_roboclick_5:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -1097,7 +1079,7 @@ oomlout_ai_roboclick_5:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+oomp_key: oomp_electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
 part_id: U1
 part_number_lcsc: C2040
 part_number_manufacturer: RP2040
@@ -1180,8 +1162,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/qfn_56_7_mm_x_7_mm/microcontroller/dual_core_arm_cortex_m0_plus/raspberry_pi/README.md
-  oomp_id: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+  navigation_link: ../../navigation/electronic/ic/microcontroller/dual_core_arm_cortex_m0_plus/qfn_56_7_mm_x_7_mm/raspberry_pi/README.md
+  oomp_id: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
   pins:
   - name: iovdd
     number: '1'
@@ -1356,7 +1338,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+    value: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
   - title: Type
     value: Ic
   - title: Package / style
@@ -1365,21 +1347,19 @@ part_page:
     value: 7.0 × 7.0 mm
   - title: Documented pins
     value: 57
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
-  summary: IC RP2040 QFN 56 7 MM X 7 MM is an OOMP electronic ic definition. It uses
-    the qfn 56 7 mm x 7 mm package or form factor. Its nominal drawing size is 7.0
-    × 7.0 mm. The definition includes 57 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
+  summary: IC RP2040 QFN 56 7 MM X 7 MM is an OOMP electronic ic definition. It uses the qfn 56 7 mm x 7 mm package or form factor. Its nominal drawing size is 7.0 × 7.0 mm. The definition includes 57 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: qfn_56_7_mm_x_7_mm
-  - level: 4
     value: microcontroller
-  - level: 5
+  - level: 4
     value: dual_core_arm_cortex_m0_plus
+  - level: 5
+    value: qfn_56_7_mm_x_7_mm
   - level: 14
     value: raspberry_pi
   - level: 15
@@ -1831,51 +1811,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: qfn_56_7_mm_x_7_mm
-taxonomy_3_capital: Qfn 56.7 mm x 7 mm
-taxonomy_3_first_letter: q
-taxonomy_3_first_letter_upper: Q
-taxonomy_3_length_1: q
-taxonomy_3_length_2: qf
-taxonomy_3_length_3: qfn
-taxonomy_3_length_4: qfn_
-taxonomy_3_length_5: qfn_5
-taxonomy_3_upper: QFN_56_7_MM_X_7_MM
-taxonomy_3_upper_length_1: Q
-taxonomy_3_upper_length_2: QF
-taxonomy_3_upper_length_3: QFN
-taxonomy_3_upper_length_4: QFN_
-taxonomy_3_upper_length_5: QFN_5
-taxonomy_4: microcontroller
-taxonomy_4_capital: Microcontroller
-taxonomy_4_first_letter: m
-taxonomy_4_first_letter_upper: M
-taxonomy_4_length_1: m
-taxonomy_4_length_2: mi
-taxonomy_4_length_3: mic
-taxonomy_4_length_4: micr
-taxonomy_4_length_5: micro
-taxonomy_4_upper: MICROCONTROLLER
-taxonomy_4_upper_length_1: M
-taxonomy_4_upper_length_2: MI
-taxonomy_4_upper_length_3: MIC
-taxonomy_4_upper_length_4: MICR
-taxonomy_4_upper_length_5: MICRO
-taxonomy_5: dual_core_arm_cortex_m0_plus
-taxonomy_5_capital: Dual Core Arm Cortex M0 Plus
-taxonomy_5_first_letter: d
-taxonomy_5_first_letter_upper: D
-taxonomy_5_length_1: d
-taxonomy_5_length_2: du
-taxonomy_5_length_3: dua
-taxonomy_5_length_4: dual
-taxonomy_5_length_5: dual_
-taxonomy_5_upper: DUAL_CORE_ARM_CORTEX_M0_PLUS
-taxonomy_5_upper_length_1: D
-taxonomy_5_upper_length_2: DU
-taxonomy_5_upper_length_3: DUA
-taxonomy_5_upper_length_4: DUAL
-taxonomy_5_upper_length_5: DUAL_
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1926,11 +1861,55 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_sparkfun_micro_mod_processor_rp2040_micro_mod_rp2040_processor_board_current/board_explorer.html
   board_url: https://github.com/sparkfun/MicroMod_Processor-RP2040/blob/main/Hardware/MicroMod-RP2040-ProcessorBoard.brd
   github_url: https://github.com/sparkfun/MicroMod_Processor-RP2040
-  name: Project sparkfun/MicroMod_Processor-RP2040 Micro Mod RP2040 Processor Board
-    current
+  name: Project sparkfun/MicroMod_Processor-RP2040 Micro Mod RP2040 Processor Board current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_micro_mod_processor_rp2040_micro_mod_rp2040_processor_board_current
   project_id: oomp_project_github_sparkfun_micro_mod_processor_rp2040_micro_mod_rp2040_processor_board_current
   quantity: 1
   references:
   - U3
   version: current
+taxonomy_5: qfn_56_7_mm_x_7_mm
+taxonomy_5_capital: Qfn 56.7 mm x 7 mm
+taxonomy_5_first_letter: q
+taxonomy_5_first_letter_upper: Q
+taxonomy_5_length_1: q
+taxonomy_5_length_2: qf
+taxonomy_5_length_3: qfn
+taxonomy_5_length_4: qfn_
+taxonomy_5_length_5: qfn_5
+taxonomy_5_upper: QFN_56_7_MM_X_7_MM
+taxonomy_5_upper_length_1: Q
+taxonomy_5_upper_length_2: QF
+taxonomy_5_upper_length_3: QFN
+taxonomy_5_upper_length_4: QFN_
+taxonomy_5_upper_length_5: QFN_5
+taxonomy_3: microcontroller
+taxonomy_3_capital: Microcontroller
+taxonomy_3_first_letter: m
+taxonomy_3_first_letter_upper: M
+taxonomy_3_length_1: m
+taxonomy_3_length_2: mi
+taxonomy_3_length_3: mic
+taxonomy_3_length_4: micr
+taxonomy_3_length_5: micro
+taxonomy_3_upper: MICROCONTROLLER
+taxonomy_3_upper_length_1: M
+taxonomy_3_upper_length_2: MI
+taxonomy_3_upper_length_3: MIC
+taxonomy_3_upper_length_4: MICR
+taxonomy_3_upper_length_5: MICRO
+taxonomy_4: dual_core_arm_cortex_m0_plus
+taxonomy_4_capital: Dual Core Arm Cortex M0 Plus
+taxonomy_4_first_letter: d
+taxonomy_4_first_letter_upper: D
+taxonomy_4_length_1: d
+taxonomy_4_length_2: du
+taxonomy_4_length_3: dua
+taxonomy_4_length_4: dual
+taxonomy_4_length_5: dual_
+taxonomy_4_upper: DUAL_CORE_ARM_CORTEX_M0_PLUS
+taxonomy_4_upper_length_1: D
+taxonomy_4_upper_length_2: DU
+taxonomy_4_upper_length_3: DUA
+taxonomy_4_upper_length_4: DUAL
+taxonomy_4_upper_length_5: DUAL_

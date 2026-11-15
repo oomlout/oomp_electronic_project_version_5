@@ -90,7 +90,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | K5 | 1 | PIR_lens | PIR_lens | `e-radionica.com footprinti:PIR_senzor_kapica` | unmatched |
 | R1 | 1 | Resistor 2200 Ohm 0402 | 2k2 | `e-radionica.com footprinti:0402R` | [`electronic_resistor_0402_2200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_2200_ohm) |
 | U2 | 1 | Sensor 3 Pin AM312 PIR | AM312 | `e-radionica.com footprinti:PIR_senzor` | [`electronic_sensor_pir_3_pin_am312`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_pir_3_pin_am312) |
-| U3 | 1 | IC Microcontroller 8 Bit Avr Microchip SOIC_14 | ATTINY404-SSNR | `e-radionica.com footprinti:SOIC-14` | [`electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr) |
+| U3 | 1 | IC Microcontroller 8 Bit Avr Microchip SOIC_14 | ATTINY404-SSNR | `e-radionica.com footprinti:SOIC-14` | [`electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr) |
 
 ## Main nets
 

@@ -134,7 +134,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R9 | 1 | Resistor 10000 Ohm 0603 | 10K | `BLM Badge rev B-import-fps:RESPACK_4X0603` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
 | RST0, SWC0, SWD0 | 3 | TPTP17R | TPTP17R | `BLM Badge rev B-import-fps:TP17R` | unmatched |
 | SW1 | 1 | BLM Badge rev B-import-fps:EG1390 |  | `BLM Badge rev B-import-fps:EG1390` | unmatched |
-| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `BLM Badge rev B-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `BLM Badge rev B-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U2 | 1 | ALS-PT26-21C | ALS-PT26-21C | `BLM Badge rev B-import-fps:ALS-PT26-21C` | unmatched |
 | X6 | 1 | USB C | USB C | `BLM Badge rev B-import-fps:USB_C_CUSB31-CFM2AX-01-X` | unmatched |
 

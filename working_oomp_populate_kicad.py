@@ -1,3 +1,4 @@
+from component_taxonomy import package_token
 """Human-editable official KiCad master selections. No package geometry guesses.
 
 Exact part overrides can set kicad.symbol, kicad.machine_solder and
@@ -11,7 +12,7 @@ def add_kicad_details(part):
         return
     selections = {'symbol': '', 'machine_solder': '', 'hand_solder': ''}
     kind = part.get('taxonomy_2', '')
-    size = part.get('taxonomy_3', '')
+    size = package_token(part)
     sizes = [
         ['0201', '0603'], ['0402', '1005'], ['0603', '1608'],
         ['0805', '2012'], ['1206', '3216'], ['1210', '3225'], ['2512', '6332'],

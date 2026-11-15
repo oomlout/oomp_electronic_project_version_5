@@ -1,4 +1,5 @@
 """Explicitly import a versioned component snapshot; normal builds never sync."""
+from component_taxonomy import package_token
 import argparse
 import hashlib
 import json
@@ -30,7 +31,7 @@ def write_matching_index(catalog, files):
         generic=None
         if identifier.startswith('electronic_') and data.get('generic_match'):
             generic={'oomp_id':identifier,'kind':data.get('taxonomy_2',''),
-                     'package':data.get('taxonomy_3',''),'rules':data['generic_match']}
+                     'package':package_token(data),'rules':data['generic_match']}
         return identifier,generic
     with ThreadPoolExecutor(max_workers=8) as workers:
         rows=sorted(workers.map(metadata,records))

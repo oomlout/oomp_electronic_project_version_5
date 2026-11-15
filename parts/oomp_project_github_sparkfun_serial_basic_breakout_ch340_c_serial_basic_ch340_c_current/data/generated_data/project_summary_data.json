@@ -5626,7 +5626,7 @@
         "x": 12.7,
         "y": -8.255,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
         "bounds": {
           "min_x": 9.398,
           "min_y": -13.6173,
@@ -7593,8 +7593,8 @@
       "description": "USB-Serial CH340C SOP-16",
       "value": "CH340C",
       "footprint": "Serial-Basic-CH340C-import-fps:SO016",
-      "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
       "references": [
         "U5"
       ],
@@ -7870,7 +7870,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

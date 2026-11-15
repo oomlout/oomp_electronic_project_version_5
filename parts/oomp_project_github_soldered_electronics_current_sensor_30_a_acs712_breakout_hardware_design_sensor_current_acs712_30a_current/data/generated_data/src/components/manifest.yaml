@@ -65,7 +65,7 @@ parts:
   - working_svg_assembly.svg
   - working_svg_assembly_pins.svg
   - working_svg_square_pins.svg
-- oomp_id: electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712
+- oomp_id: electronic_ic_sensor_hall_effect_current_sensor_soic_8_allegro_acs712
   project_source_files:
   - working.yaml
   - working_svg_assembly.svg
@@ -76,7 +76,7 @@ parts:
   - working_svg_assembly.svg
   - working_svg_assembly_pins.svg
   - working_svg_square_pins.svg
-- oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+- oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
   project_source_files:
   - working.yaml
   - working_svg_assembly.svg

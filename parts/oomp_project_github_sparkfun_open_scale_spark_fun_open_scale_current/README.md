@@ -123,7 +123,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R16 | 1 | Resistor 20000 Ohm 0603 | 20k | `SparkFun_openScale-import-fps:0603-RES` | [`electronic_resistor_0603_20000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_20000_ohm) |
 | R17 | 1 | Resistor 8200 Ohm 0603 | 8.2K | `SparkFun_openScale-import-fps:0603-RES` | [`electronic_resistor_0603_8200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_8200_ohm) |
 | S2 | 1 | Reset | Reset | `SparkFun_openScale-import-fps:TACTILE-SWITCH-SMD` | unmatched |
-| U1 | 1 | IC Converter Load Cell Amplifier Avia Semiconductor SOP_16 | HX711 | `SparkFun_openScale-import-fps:SO16` | [`electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711) |
+| U1 | 1 | IC Converter Load Cell Amplifier Avia Semiconductor SOP_16 | HX711 | `SparkFun_openScale-import-fps:SO16` | [`electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711) |
 | U3 | 1 | TMP102 | TMP102 | `SparkFun_openScale-import-fps:SOT563` | unmatched |
 | U4 | 1 | ATMEGA328P_TQFP | ATMEGA328P_TQFP | `SparkFun_openScale-import-fps:TQFP32-08` | unmatched |
 | U6 | 1 | FT231XS | FT231XS | `SparkFun_openScale-import-fps:SSOP20_L` | unmatched |

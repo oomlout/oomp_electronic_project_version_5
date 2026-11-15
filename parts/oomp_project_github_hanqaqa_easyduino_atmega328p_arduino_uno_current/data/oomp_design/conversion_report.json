@@ -21,7 +21,7 @@
   },
   "output_sha256": {
     "Easyduino_Atmega.kicad_pcb": "5d757bc3649588ee01fc86c71535c4ac589e164efac02c04e1640966778c04ea",
-    "Easyduino_Atmega.kicad_sch": "a674ad67bd5826756bf112cefc451ec7575f1664d794af4ab0e32eccaa11db27",
+    "Easyduino_Atmega.kicad_sch": "c1289a662c0573af85f8cb7b8ac95d01acd3f62df8c18da2c1e3b889f39c331a",
     "Easyduino_Atmega.kicad_pro": "a22013888eb493fb6c91475ea60f69eee2b19923a4679d9e735d1182e14a38a2",
     "References.kicad_sch": "adcf11aeec114f8f430dfbbb405b21dc7aa93c5d9c61d0142d859fede0f0f991",
     "sym-lib-table": "21866594f2adf0f962fad1f4c2490478f63373c892f02e5291f0ca136dc6c786",
@@ -58,7 +58,7 @@
       "reference": "U3",
       "source": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -121,14 +121,14 @@
       "reference": "U4",
       "source": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
       "reference": "U2",
       "source": "Package_QFP:TQFP-32_7x7mm_P0.8mm",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -142,7 +142,7 @@
       "reference": "U1",
       "source": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -428,7 +428,7 @@
       ],
       "source": "Interface_USB:CH340C",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
       "reason": "Embedded symbol differs from the installed KiCad master.",
       "file": "kicad_file.kicad_sch"
     },
@@ -522,7 +522,7 @@
       ],
       "source": "Regulator_Linear:AMS1117",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5",
       "reason": "OOMP canonical symbol differs in graphics, pins or units.",
       "file": "kicad_file.kicad_sch"
     },
@@ -926,7 +926,7 @@
       ],
       "source": "Regulator_Linear:AMS1117",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3",
       "reason": "OOMP canonical symbol differs in graphics, pins or units.",
       "file": "kicad_file.kicad_sch"
     },
@@ -955,8 +955,8 @@
       ],
       "source": "MCU_Microchip_ATmega:ATmega328P-A",
       "status": "converted",
-      "oomp_id": "electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au",
-      "target": "OOMP:electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au",
+      "target": "OOMP:electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au",
       "file": "kicad_file.kicad_sch"
     },
     {

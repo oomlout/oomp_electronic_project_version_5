@@ -94,7 +94,7 @@
 <g class="board-component" data-reference="R1" data-oomp-id="" tabindex="0" transform="translate(12.7000 -11.1760) rotate(0.0000)">
 <rect class="component" x="-3.9984" y="-2.0084" width="7.9968" height="4.0168" rx="0.2" />
 </g>
-<g class="board-component" data-reference="IC1" data-oomp-id="electronic_ic_vssop_10_power_monitor_current_monitor_texas_instruments_ina228" tabindex="0" transform="translate(12.4460 -6.3500) rotate(-90.0000)">
+<g class="board-component" data-reference="IC1" data-oomp-id="electronic_ic_power_monitor_current_monitor_vssop_10_texas_instruments_ina228" tabindex="0" transform="translate(12.4460 -6.3500) rotate(-90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(-90)"><svg x="-3.1000" y="-2.0000" width="6.2000" height="4.0000" viewBox="0 0 6.2000 4.0000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="6.2000" height="4.0000"  fill="none" stroke="none" />
   <rect x="0.6500" y="0.5000" width="4.9000" height="3.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.6500" width="0.6500" height="0.3000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />

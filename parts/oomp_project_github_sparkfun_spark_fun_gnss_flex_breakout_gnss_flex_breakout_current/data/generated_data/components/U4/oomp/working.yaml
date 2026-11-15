@@ -1,33 +1,32 @@
 bip_39_2_word_array:
-- raise
-- jump
-bip_39_2_word_no_space: raisejump
-bip_39_2_word_space: raise jump
-bip_39_2_word_underscore: raise_jump
+- custom
+- since
+bip_39_2_word_no_space: customsince
+bip_39_2_word_space: custom since
+bip_39_2_word_underscore: custom_since
 bip_39_3_word_array:
-- raise
-- jump
-- tornado
-bip_39_3_word_no_space: raisejumptornado
-bip_39_3_word_space: raise jump tornado
-bip_39_3_word_underscore: raise_jump_tornado
+- custom
+- since
+- fat
+bip_39_3_word_no_space: customsincefat
+bip_39_3_word_space: custom since fat
+bip_39_3_word_underscore: custom_since_fat
 bip_39_full_array:
-- raise
-- jump
-- tornado
-- access
-- security
-- gun
-- three
-- wisdom
-- salad
-- blind
-- album
-- treat
-bip_39_full_no_space: raisejumptornadoaccesssecuritygunthreewisdomsaladblindalbumtreat
-bip_39_full_space: raise jump tornado access security gun three wisdom salad blind
-  album treat
-bip_39_full_underscore: raise_jump_tornado_access_security_gun_three_wisdom_salad_blind_album_treat
+- custom
+- since
+- fat
+- mansion
+- render
+- design
+- resist
+- please
+- walk
+- laugh
+- stereo
+- cycle
+bip_39_full_no_space: customsincefatmansionrenderdesignresistpleasewalklaughstereocycle
+bip_39_full_space: custom since fat mansion render design resist please walk laugh stereo cycle
+bip_39_full_underscore: custom_since_fat_mansion_render_design_resist_please_walk_laugh_stereo_cycle
 category: power_management
 category_name: Power management
 datasheet_url: https://www.diodes.com/datasheet/download/AP7361C.pdf
@@ -38,50 +37,43 @@ dimensions_mm:
   height: 0.8
   length: 3.0
   width: 3.0
-directory: parts/electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+directory: parts/electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
 distributors: []
-id: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
-id_no_class: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
-id_no_size: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
-id_no_type: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+id: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
+id_no_class: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
+id_no_size: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
+id_no_type: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
 kicad:
   hand_solder: Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm
   machine_solder: Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm
   symbol: ''
 lcsc_search: dfn 8 power management linear voltage regulator diodes ap7361c 3 3v ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
 manufacturers: []
-md5: b12f1f9580ac2ccff847e2be42f817f3
-md5_10: b12f1f9580
-md5_10_upper: B12F1F9580
-md5_5: b12f1
-md5_5_upper: B12F1
-md5_6: b12f1f
-md5_6_alpha: 6wvtr
-md5_6_alpha_upper: 6WVTR
-md5_6_upper: B12F1F
-name: Electronic Ic Dfn 8 Power Management Linear Voltage Regulator Diodes Ap7361C
-  3 3V
-name_no_class: Electronic Ic Dfn 8 Power Management Linear Voltage Regulator Diodes
-  Ap7361C 3 3V
-name_no_size: Electronic Ic Dfn 8 Power Management Linear Voltage Regulator Diodes
-  Ap7361C 3 3V
-name_no_type: Electronic Ic Dfn 8 Power Management Linear Voltage Regulator Diodes
-  Ap7361C 3 3V
+md5: 3699254dc3ab6077addd33f68fb3561b
+md5_10: 3699254dc3
+md5_10_upper: 3699254DC3
+md5_5: '36992'
+md5_5_upper: '36992'
+md5_6: '369925'
+md5_6_alpha: 24ox1
+md5_6_alpha_upper: 24OX1
+md5_6_upper: '369925'
+name: Electronic Ic Power Management Linear Voltage Regulator Dfn 8 Diodes Ap7361C 3 3V
+name_no_class: Electronic Ic Power Management Linear Voltage Regulator Dfn 8 Diodes Ap7361C 3 3V
+name_no_size: Electronic Ic Power Management Linear Voltage Regulator Dfn 8 Diodes Ap7361C 3 3V
+name_no_type: Electronic Ic Power Management Linear Voltage Regulator Dfn 8 Diodes Ap7361C 3 3V
 name_proper: IC Power Management Linear Voltage Regulator Diodes DFN_8
 name_readable: IC Power Management Linear Voltage Regulator Diodes DFN_8
 name_short: IC Power Management Linear Voltage Regulator Diodes DFN_8
-name_space: electronic ic dfn 8 power management linear voltage regulator diodes ap7361c
-  3 3v
-name_upper: ELECTRONIC IC DFN 8 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR DIODES AP7361C
-  3 3V
+name_space: electronic ic power management linear voltage regulator dfn 8 diodes ap7361c 3 3v
+name_upper: ELECTRONIC IC DFN 8 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR DIODES AP7361C 3 3V
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -94,7 +86,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+    part_id: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -174,8 +166,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -194,28 +185,24 @@ oomlout_ai_roboclick_3:
         height: 0.8
         length: 3.0
         width: 3.0
-      directory: parts\electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+      directory: parts\electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
       distributors: []
       kicad:
         hand_solder: Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm
         machine_solder: Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm
         symbol: ''
-      lcsc_search: dfn 8 power management linear voltage regulator diodes ap7361c
-        3 3v ic
+      lcsc_search: dfn 8 power management linear voltage regulator diodes ap7361c 3 3v ic
       manufacturers: []
-      name: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+      name: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
       name_proper: IC Power Management Linear Voltage Regulator Diodes DFN_8
       name_readable: IC Power Management Linear Voltage Regulator Diodes DFN_8
       name_short: IC Power Management Linear Voltage Regulator Diodes DFN_8
-      name_space: electronic ic dfn 8 power management linear voltage regulator diodes
-        ap7361c 3 3v
-      name_upper: ELECTRONIC IC DFN 8 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR DIODES
-        AP7361C 3 3V
+      name_space: electronic ic power management linear voltage regulator dfn 8 diodes ap7361c 3 3v
+      name_upper: ELECTRONIC IC DFN 8 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR DIODES AP7361C 3 3V
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -225,11 +212,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+          part_id: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -309,8 +295,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -451,8 +436,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/dfn_8/power_management/linear_voltage_regulator/diodes/README.md
-        oomp_id: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+        navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator/dfn_8/diodes/README.md
+        oomp_id: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
         pins:
         - name: OUT
           number: '1'
@@ -480,7 +465,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+          value: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
         - title: Type
           value: Ic
         - title: Package / style
@@ -489,22 +474,19 @@ oomlout_ai_roboclick_3:
           value: 3.0 × 3.0 mm
         - title: Documented pins
           value: 8
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
-        summary: IC Power Management Linear Voltage Regulator Diodes DFN_8 is an OOMP
-          electronic ic definition. It uses the dfn 8 package or form factor. Its
-          nominal drawing size is 3.0 × 3.0 mm. The definition includes 8 documented
-          pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
+        summary: IC Power Management Linear Voltage Regulator Diodes DFN_8 is an OOMP electronic ic definition. It uses the dfn 8 package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 8 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: dfn_8
-        - level: 4
           value: power_management
-        - level: 5
+        - level: 4
           value: linear_voltage_regulator
+        - level: 5
+          value: dfn_8
         - level: 14
           value: diodes
         - level: 15
@@ -704,9 +686,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: diodes
       taxonomy_15: ap7361c_3_3v
       taxonomy_2: ic
-      taxonomy_3: dfn_8
-      taxonomy_4: power_management
-      taxonomy_5: linear_voltage_regulator
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -723,6 +702,9 @@ oomlout_ai_roboclick_3:
         references:
         - U4
         version: current
+      taxonomy_5: dfn_8
+      taxonomy_3: power_management
+      taxonomy_4: linear_voltage_regulator
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -730,7 +712,7 @@ oomlout_ai_roboclick_3:
     search_and_replace: []
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+oomp_key: oomp_electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
 package_drawing:
   body:
   - 3.0
@@ -869,8 +851,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/dfn_8/power_management/linear_voltage_regulator/diodes/README.md
-  oomp_id: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+  navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator/dfn_8/diodes/README.md
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
   pins:
   - name: OUT
     number: '1'
@@ -898,7 +880,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+    value: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
   - title: Type
     value: Ic
   - title: Package / style
@@ -907,21 +889,19 @@ part_page:
     value: 3.0 × 3.0 mm
   - title: Documented pins
     value: 8
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
-  summary: IC Power Management Linear Voltage Regulator Diodes DFN_8 is an OOMP electronic
-    ic definition. It uses the dfn 8 package or form factor. Its nominal drawing size
-    is 3.0 × 3.0 mm. The definition includes 8 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
+  summary: IC Power Management Linear Voltage Regulator Diodes DFN_8 is an OOMP electronic ic definition. It uses the dfn 8 package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 8 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: dfn_8
-  - level: 4
     value: power_management
-  - level: 5
+  - level: 4
     value: linear_voltage_regulator
+  - level: 5
+    value: dfn_8
   - level: 14
     value: diodes
   - level: 15
@@ -1177,51 +1157,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: dfn_8
-taxonomy_3_capital: Dfn 8
-taxonomy_3_first_letter: d
-taxonomy_3_first_letter_upper: D
-taxonomy_3_length_1: d
-taxonomy_3_length_2: df
-taxonomy_3_length_3: dfn
-taxonomy_3_length_4: dfn_
-taxonomy_3_length_5: dfn_8
-taxonomy_3_upper: DFN_8
-taxonomy_3_upper_length_1: D
-taxonomy_3_upper_length_2: DF
-taxonomy_3_upper_length_3: DFN
-taxonomy_3_upper_length_4: DFN_
-taxonomy_3_upper_length_5: DFN_8
-taxonomy_4: power_management
-taxonomy_4_capital: Power Management
-taxonomy_4_first_letter: p
-taxonomy_4_first_letter_upper: P
-taxonomy_4_length_1: p
-taxonomy_4_length_2: po
-taxonomy_4_length_3: pow
-taxonomy_4_length_4: powe
-taxonomy_4_length_5: power
-taxonomy_4_upper: POWER_MANAGEMENT
-taxonomy_4_upper_length_1: P
-taxonomy_4_upper_length_2: PO
-taxonomy_4_upper_length_3: POW
-taxonomy_4_upper_length_4: POWE
-taxonomy_4_upper_length_5: POWER
-taxonomy_5: linear_voltage_regulator
-taxonomy_5_capital: Linear Voltage Regulator
-taxonomy_5_first_letter: l
-taxonomy_5_first_letter_upper: L
-taxonomy_5_length_1: l
-taxonomy_5_length_2: li
-taxonomy_5_length_3: lin
-taxonomy_5_length_4: line
-taxonomy_5_length_5: linea
-taxonomy_5_upper: LINEAR_VOLTAGE_REGULATOR
-taxonomy_5_upper_length_1: L
-taxonomy_5_upper_length_2: LI
-taxonomy_5_upper_length_3: LIN
-taxonomy_5_upper_length_4: LINE
-taxonomy_5_upper_length_5: LINEA
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1238,3 +1173,48 @@ used_in_projects:
   references:
   - U4
   version: current
+taxonomy_5: dfn_8
+taxonomy_5_capital: Dfn 8
+taxonomy_5_first_letter: d
+taxonomy_5_first_letter_upper: D
+taxonomy_5_length_1: d
+taxonomy_5_length_2: df
+taxonomy_5_length_3: dfn
+taxonomy_5_length_4: dfn_
+taxonomy_5_length_5: dfn_8
+taxonomy_5_upper: DFN_8
+taxonomy_5_upper_length_1: D
+taxonomy_5_upper_length_2: DF
+taxonomy_5_upper_length_3: DFN
+taxonomy_5_upper_length_4: DFN_
+taxonomy_5_upper_length_5: DFN_8
+taxonomy_3: power_management
+taxonomy_3_capital: Power Management
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: po
+taxonomy_3_length_3: pow
+taxonomy_3_length_4: powe
+taxonomy_3_length_5: power
+taxonomy_3_upper: POWER_MANAGEMENT
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PO
+taxonomy_3_upper_length_3: POW
+taxonomy_3_upper_length_4: POWE
+taxonomy_3_upper_length_5: POWER
+taxonomy_4: linear_voltage_regulator
+taxonomy_4_capital: Linear Voltage Regulator
+taxonomy_4_first_letter: l
+taxonomy_4_first_letter_upper: L
+taxonomy_4_length_1: l
+taxonomy_4_length_2: li
+taxonomy_4_length_3: lin
+taxonomy_4_length_4: line
+taxonomy_4_length_5: linea
+taxonomy_4_upper: LINEAR_VOLTAGE_REGULATOR
+taxonomy_4_upper_length_1: L
+taxonomy_4_upper_length_2: LI
+taxonomy_4_upper_length_3: LIN
+taxonomy_4_upper_length_4: LINE
+taxonomy_4_upper_length_5: LINEA

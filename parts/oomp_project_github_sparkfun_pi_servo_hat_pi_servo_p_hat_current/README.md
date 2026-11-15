@@ -128,7 +128,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | S1 | 1 | Pi_Servo_pHAT-import-fps:SWITCH_SPST_SMD_A |  | `Pi_Servo_pHAT-import-fps:SWITCH_SPST_SMD_A` | unmatched |
 | U1 | 1 | PCA9685 | PCA9685 | `Pi_Servo_pHAT-import-fps:TSSOP-28_4MM` | unmatched |
 | U2 | 1 | SN74LVC1G32DCKR | SN74LVC1G32DCKR | `Pi_Servo_pHAT-import-fps:SOT353` | unmatched |
-| U3 | 1 | USB-Serial CH340C SOP-16 | CH340C | `Pi_Servo_pHAT-import-fps:SO016` | [`electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c) |
+| U3 | 1 | USB-Serial CH340C SOP-16 | CH340C | `Pi_Servo_pHAT-import-fps:SO016` | [`electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c) |
 
 ## Main nets
 

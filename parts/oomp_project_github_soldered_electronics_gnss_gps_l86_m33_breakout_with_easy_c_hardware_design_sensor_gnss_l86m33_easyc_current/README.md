@@ -99,7 +99,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R6 | 1 | Resistor 47000 Ohm 0603 | 47k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_47000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_47000_ohm) |
 | R9, R10 | 2 | Resistor 2200 Ohm 0402 | 2k2 | `e-radionica.com footprinti:0402R` | [`electronic_resistor_0402_2200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_2200_ohm) |
 | U2 | 1 | Sensor Module Quectel L86 M33 GNSS | L86-M33 | `e-radionica.com footprinti:L86-M33` | [`electronic_sensor_gnss_module_quectel_l86_m33`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_gnss_module_quectel_l86_m33) |
-| U5 | 1 | IC Microcontroller 8 Bit Avr Microchip SOIC_14 | ATTINY1604-SSNR | `e-radionica.com footprinti:SOIC-14` | [`electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny1604_ssnr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny1604_ssnr) |
+| U5 | 1 | IC Microcontroller 8 Bit Avr Microchip SOIC_14 | ATTINY1604-SSNR | `e-radionica.com footprinti:SOIC-14` | [`electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny1604_ssnr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny1604_ssnr) |
 
 ## Main nets
 

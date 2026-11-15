@@ -3554,9 +3554,9 @@
   "oomp": {
     "status": "matched",
     "accepted": true,
-    "oomp_id": "electronic_ic_tssop_16_converter_analog_to_digital_converter_texas_instruments_ads1219ipw",
+    "oomp_id": "electronic_ic_converter_analog_to_digital_converter_tssop_16_texas_instruments_ads1219ipw",
     "confidence": 1.0,
-    "proposed_oomp_id": "electronic_ic_tssop_16_converter_analog_to_digital_converter_texas_instruments_ads1219ipw",
+    "proposed_oomp_id": "electronic_ic_converter_analog_to_digital_converter_tssop_16_texas_instruments_ads1219ipw",
     "inferred": {
       "kind": null,
       "package_size": null,

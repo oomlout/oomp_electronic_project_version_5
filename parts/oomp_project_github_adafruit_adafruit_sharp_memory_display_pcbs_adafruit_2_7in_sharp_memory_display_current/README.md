@@ -94,7 +94,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | JP1 | 1 | Connector Header KH-2.54PH180-1X9P-L11.5 |  | `Adafruit 2.7in Sharp Memory Display-import-fps:1X09_ROUND_70` | [`electronic_connector_header_2_54_mm_pitch_through_hole_9_pin`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_9_pin) |
 | R1, R2, R3 | 3 | Resistor 10000 Ohm 0603 | 10K | `Adafruit 2.7in Sharp Memory Display-import-fps:0603-NO` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
 | U1 | 1 | 74HC4050D | 74HC4050D | `Adafruit 2.7in Sharp Memory Display-import-fps:SOIC16` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit 2.7in Sharp Memory Display-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit 2.7in Sharp Memory Display-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 
 ## Main nets
 

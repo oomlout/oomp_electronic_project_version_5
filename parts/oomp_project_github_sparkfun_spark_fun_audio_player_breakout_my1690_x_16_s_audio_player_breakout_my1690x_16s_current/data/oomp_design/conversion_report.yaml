@@ -78,7 +78,7 @@ footprints:
 - reference: U2
   source: SparkFun-Semiconductor-Standard:SO-16
   status: skipped
-  oomp_id: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+  oomp_id: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
   reason: Source is not an available official master for this OOMP part.
 - reference: kibuzzard-679417DC
   source: kibuzzard-679417DC
@@ -683,7 +683,7 @@ symbols:
   - U2
   source: SparkFun-IC-Special-Function:MY1690X-16S
   status: skipped
-  oomp_id: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+  oomp_id: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
   reason: OOMP symbol master unavailable.
   file: kicad_file.kicad_sch
 - references:

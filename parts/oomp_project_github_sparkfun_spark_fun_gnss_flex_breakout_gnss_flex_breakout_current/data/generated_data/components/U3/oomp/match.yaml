@@ -1,8 +1,8 @@
 status: matched
 accepted: true
-oomp_id: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+oomp_id: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
 confidence: 1.0
-proposed_oomp_id: electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq
+proposed_oomp_id: electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq
 inferred:
   kind: null
   package_size: null

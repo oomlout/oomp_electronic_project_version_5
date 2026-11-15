@@ -1,33 +1,32 @@
 bip_39_2_word_array:
-- flavor
-- absurd
-bip_39_2_word_no_space: flavorabsurd
-bip_39_2_word_space: flavor absurd
-bip_39_2_word_underscore: flavor_absurd
+- early
+- skate
+bip_39_2_word_no_space: earlyskate
+bip_39_2_word_space: early skate
+bip_39_2_word_underscore: early_skate
 bip_39_3_word_array:
-- flavor
-- absurd
-- salad
-bip_39_3_word_no_space: flavorabsurdsalad
-bip_39_3_word_space: flavor absurd salad
-bip_39_3_word_underscore: flavor_absurd_salad
+- early
+- skate
+- photo
+bip_39_3_word_no_space: earlyskatephoto
+bip_39_3_word_space: early skate photo
+bip_39_3_word_underscore: early_skate_photo
 bip_39_full_array:
-- flavor
-- absurd
-- salad
-- vehicle
-- robust
-- kid
-- that
-- purity
-- design
-- force
-- quote
-- earth
-bip_39_full_no_space: flavorabsurdsaladvehiclerobustkidthatpuritydesignforcequoteearth
-bip_39_full_space: flavor absurd salad vehicle robust kid that purity design force
-  quote earth
-bip_39_full_underscore: flavor_absurd_salad_vehicle_robust_kid_that_purity_design_force_quote_earth
+- early
+- skate
+- photo
+- text
+- advance
+- enter
+- grocery
+- crater
+- maple
+- pact
+- either
+- usage
+bip_39_full_no_space: earlyskatephototextadvanceentergrocerycratermaplepacteitherusage
+bip_39_full_space: early skate photo text advance enter grocery crater maple pact either usage
+bip_39_full_underscore: early_skate_photo_text_advance_enter_grocery_crater_maple_pact_either_usage
 category: power_management
 category_name: Power management
 datasheet_url: https://www.lcsc.com/datasheet/C6187.pdf
@@ -40,58 +39,51 @@ dimension_reference:
 dimensions_mm:
   length: 6.5
   width: 7.0
-directory: parts/electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+directory: parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
 distributors:
 - key: lcsc
   part_number: C6187
   title: LCSC
   url: https://www.lcsc.com/product-detail/C6187.html
-id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
-id_no_class: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
-id_no_size: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
-id_no_type: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
+id_no_class: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
+id_no_size: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
+id_no_type: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
 kicad:
   hand_solder: ''
   machine_solder: Package_TO_SOT_SMD:SOT-223-3_TabPin2
   symbol: Regulator_Linear:AMS1117-5.0
 lcsc_search: AMS1117-5.0
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
 manufacturer: Advanced Monolithic Systems
 manufacturers:
 - manufacturer: Advanced Monolithic Systems
   part_number: AMS1117-5.0
-md5: 58a022f978fbb4f4b7fd723bcb62c022
-md5_10: 58a022f978
-md5_10_upper: 58A022F978
-md5_5: 58a02
-md5_5_upper: 58A02
-md5_6: 58a022
-md5_6_alpha: 3ghlu
-md5_6_alpha_upper: 3GHLU
-md5_6_upper: 58A022
-name: Electronic Ic Sot 223 3 Power Management Linear Voltage Regulator 5 Volt Advanced
-  Monolithic Systems Ams1117 5
-name_no_class: Electronic Ic Sot 223 3 Power Management Linear Voltage Regulator 5
-  Volt Advanced Monolithic Systems Ams1117 5
-name_no_size: Electronic Ic Sot 223 3 Power Management Linear Voltage Regulator 5
-  Volt Advanced Monolithic Systems Ams1117 5
-name_no_type: Electronic Ic Sot 223 3 Power Management Linear Voltage Regulator 5
-  Volt Advanced Monolithic Systems Ams1117 5
+md5: 4539428eefd03e96d9b1948793d51c77
+md5_10: 4539428eef
+md5_10_upper: 4539428EEF
+md5_5: '45394'
+md5_5_upper: '45394'
+md5_6: '453942'
+md5_6_alpha: 2p8hu
+md5_6_alpha_upper: 2P8HU
+md5_6_upper: '453942'
+name: Electronic Ic Power Management Linear Voltage Regulator 5 Volt Sot 223 3 Advanced Monolithic Systems Ams1117 5
+name_no_class: Electronic Ic Power Management Linear Voltage Regulator 5 Volt Sot 223 3 Advanced Monolithic Systems Ams1117 5
+name_no_size: Electronic Ic Power Management Linear Voltage Regulator 5 Volt Sot 223 3 Advanced Monolithic Systems Ams1117 5
+name_no_type: Electronic Ic Power Management Linear Voltage Regulator 5 Volt Sot 223 3 Advanced Monolithic Systems Ams1117 5
 name_proper: Regulator AMS1117-5.0 5V SOT-223
 name_readable: Regulator AMS1117-5.0 5V SOT-223
 name_readable_override: Regulator AMS1117-5.0 5V SOT-223
 name_short: Regulator AMS1117-5.0 5V SOT-223
-name_space: electronic ic sot 223 3 power management linear voltage regulator 5 volt
-  advanced monolithic systems ams1117 5
-name_upper: ELECTRONIC IC SOT 223 3 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 5 VOLT
-  ADVANCED MONOLITHIC SYSTEMS AMS1117 5
+name_space: electronic ic power management linear voltage regulator 5 volt sot 223 3 advanced monolithic systems ams1117 5
+name_upper: ELECTRONIC IC SOT 223 3 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 5 VOLT ADVANCED MONOLITHIC SYSTEMS AMS1117 5
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -104,7 +96,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+    part_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -184,8 +176,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -206,7 +197,7 @@ oomlout_ai_roboclick_3:
       dimensions_mm:
         length: 6.5
         width: 7.0
-      directory: parts\electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+      directory: parts\electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
       distributors:
       - key: lcsc
         part_number: C6187
@@ -221,20 +212,17 @@ oomlout_ai_roboclick_3:
       manufacturers:
       - manufacturer: Advanced Monolithic Systems
         part_number: AMS1117-5.0
-      name: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+      name: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
       name_proper: Regulator AMS1117-5.0 5V SOT-223
       name_readable: Regulator AMS1117-5.0 5V SOT-223
       name_readable_override: Regulator AMS1117-5.0 5V SOT-223
       name_short: Regulator AMS1117-5.0 5V SOT-223
-      name_space: electronic ic sot 223 3 power management linear voltage regulator
-        5 volt advanced monolithic systems ams1117 5
-      name_upper: ELECTRONIC IC SOT 223 3 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR
-        5 VOLT ADVANCED MONOLITHIC SYSTEMS AMS1117 5
+      name_space: electronic ic power management linear voltage regulator 5 volt sot 223 3 advanced monolithic systems ams1117 5
+      name_upper: ELECTRONIC IC SOT 223 3 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 5 VOLT ADVANCED MONOLITHIC SYSTEMS AMS1117 5
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -244,11 +232,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+          part_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -328,8 +315,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -446,8 +432,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sot_223_3/power_management/linear_voltage_regulator_5_volt/advanced_monolithic_systems/README.md
-        oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+        navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator_5_volt/sot_223_3/advanced_monolithic_systems/README.md
+        oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
         pins:
         - name: gnd
           number: '1'
@@ -460,7 +446,7 @@ oomlout_ai_roboclick_3:
           type: power
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+          value: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
         - title: Type
           value: Ic
         - title: Package / style
@@ -469,21 +455,19 @@ oomlout_ai_roboclick_3:
           value: 6.5 × 7.0 mm
         - title: Documented pins
           value: 3
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
-        summary: Regulator AMS1117-5.0 5V SOT-223 is an OOMP electronic ic definition.
-          It uses the sot 223 3 package or form factor. Its nominal drawing size is
-          6.5 × 7.0 mm. The definition includes 3 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
+        summary: Regulator AMS1117-5.0 5V SOT-223 is an OOMP electronic ic definition. It uses the sot 223 3 package or form factor. Its nominal drawing size is 6.5 × 7.0 mm. The definition includes 3 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sot_223_3
-        - level: 4
           value: power_management
-        - level: 5
+        - level: 4
           value: linear_voltage_regulator_5_volt
+        - level: 5
+          value: sot_223_3
         - level: 14
           value: advanced_monolithic_systems
         - level: 15
@@ -664,9 +648,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: advanced_monolithic_systems
       taxonomy_15: ams1117_5
       taxonomy_2: ic
-      taxonomy_3: sot_223_3
-      taxonomy_4: power_management
-      taxonomy_5: linear_voltage_regulator_5_volt
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -683,6 +664,9 @@ oomlout_ai_roboclick_3:
         references:
         - U3
         version: current
+      taxonomy_5: sot_223_3
+      taxonomy_3: power_management
+      taxonomy_4: linear_voltage_regulator_5_volt
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -690,7 +674,7 @@ oomlout_ai_roboclick_3:
     search_and_replace: []
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+oomp_key: oomp_electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
 package_drawing:
   body:
   - 6.5
@@ -805,8 +789,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sot_223_3/power_management/linear_voltage_regulator_5_volt/advanced_monolithic_systems/README.md
-  oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+  navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator_5_volt/sot_223_3/advanced_monolithic_systems/README.md
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
   pins:
   - name: gnd
     number: '1'
@@ -819,7 +803,7 @@ part_page:
     type: power
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+    value: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
   - title: Type
     value: Ic
   - title: Package / style
@@ -828,21 +812,19 @@ part_page:
     value: 6.5 × 7.0 mm
   - title: Documented pins
     value: 3
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
-  summary: Regulator AMS1117-5.0 5V SOT-223 is an OOMP electronic ic definition. It
-    uses the sot 223 3 package or form factor. Its nominal drawing size is 6.5 × 7.0
-    mm. The definition includes 3 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
+  summary: Regulator AMS1117-5.0 5V SOT-223 is an OOMP electronic ic definition. It uses the sot 223 3 package or form factor. Its nominal drawing size is 6.5 × 7.0 mm. The definition includes 3 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sot_223_3
-  - level: 4
     value: power_management
-  - level: 5
+  - level: 4
     value: linear_voltage_regulator_5_volt
+  - level: 5
+    value: sot_223_3
   - level: 14
     value: advanced_monolithic_systems
   - level: 15
@@ -1079,51 +1061,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sot_223_3
-taxonomy_3_capital: Sot 223.3
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sot
-taxonomy_3_length_4: sot_
-taxonomy_3_length_5: sot_2
-taxonomy_3_upper: SOT_223_3
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOT
-taxonomy_3_upper_length_4: SOT_
-taxonomy_3_upper_length_5: SOT_2
-taxonomy_4: power_management
-taxonomy_4_capital: Power Management
-taxonomy_4_first_letter: p
-taxonomy_4_first_letter_upper: P
-taxonomy_4_length_1: p
-taxonomy_4_length_2: po
-taxonomy_4_length_3: pow
-taxonomy_4_length_4: powe
-taxonomy_4_length_5: power
-taxonomy_4_upper: POWER_MANAGEMENT
-taxonomy_4_upper_length_1: P
-taxonomy_4_upper_length_2: PO
-taxonomy_4_upper_length_3: POW
-taxonomy_4_upper_length_4: POWE
-taxonomy_4_upper_length_5: POWER
-taxonomy_5: linear_voltage_regulator_5_volt
-taxonomy_5_capital: Linear Voltage Regulator 5 Volt
-taxonomy_5_first_letter: l
-taxonomy_5_first_letter_upper: L
-taxonomy_5_length_1: l
-taxonomy_5_length_2: li
-taxonomy_5_length_3: lin
-taxonomy_5_length_4: line
-taxonomy_5_length_5: linea
-taxonomy_5_upper: LINEAR_VOLTAGE_REGULATOR_5_VOLT
-taxonomy_5_upper_length_1: L
-taxonomy_5_upper_length_2: LI
-taxonomy_5_upper_length_3: LIN
-taxonomy_5_upper_length_4: LINE
-taxonomy_5_upper_length_5: LINEA
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1140,3 +1077,48 @@ used_in_projects:
   references:
   - U3
   version: current
+taxonomy_5: sot_223_3
+taxonomy_5_capital: Sot 223.3
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sot
+taxonomy_5_length_4: sot_
+taxonomy_5_length_5: sot_2
+taxonomy_5_upper: SOT_223_3
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOT
+taxonomy_5_upper_length_4: SOT_
+taxonomy_5_upper_length_5: SOT_2
+taxonomy_3: power_management
+taxonomy_3_capital: Power Management
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: po
+taxonomy_3_length_3: pow
+taxonomy_3_length_4: powe
+taxonomy_3_length_5: power
+taxonomy_3_upper: POWER_MANAGEMENT
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PO
+taxonomy_3_upper_length_3: POW
+taxonomy_3_upper_length_4: POWE
+taxonomy_3_upper_length_5: POWER
+taxonomy_4: linear_voltage_regulator_5_volt
+taxonomy_4_capital: Linear Voltage Regulator 5 Volt
+taxonomy_4_first_letter: l
+taxonomy_4_first_letter_upper: L
+taxonomy_4_length_1: l
+taxonomy_4_length_2: li
+taxonomy_4_length_3: lin
+taxonomy_4_length_4: line
+taxonomy_4_length_5: linea
+taxonomy_4_upper: LINEAR_VOLTAGE_REGULATOR_5_VOLT
+taxonomy_4_upper_length_1: L
+taxonomy_4_upper_length_2: LI
+taxonomy_4_upper_length_3: LIN
+taxonomy_4_upper_length_4: LINE
+taxonomy_4_upper_length_5: LINEA

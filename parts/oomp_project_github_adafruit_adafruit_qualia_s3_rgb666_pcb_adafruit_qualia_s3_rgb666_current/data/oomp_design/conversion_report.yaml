@@ -296,7 +296,7 @@ footprints:
 - reference: IC1
   source: Adafruit Qualia S3 RGB666-import-fps:TSSOP16
   status: skipped
-  oomp_id: electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw
+  oomp_id: electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw
   reason: Source is not an available official master for this OOMP part.
 - reference: D1
   source: Adafruit Qualia S3 RGB666-import-fps:SOD-123
@@ -426,7 +426,7 @@ footprints:
 - reference: U2
   source: Adafruit Qualia S3 RGB666-import-fps:SOT23-DBV
   status: skipped
-  oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
   reason: Source is not an available official master for this OOMP part.
 - reference: FID2
   source: Adafruit Qualia S3 RGB666-import-fps:FIDUCIAL_1MM
@@ -669,7 +669,7 @@ symbols:
   - IC1
   source: kicad_file-eagle-import:PCA9554PW
   status: skipped
-  oomp_id: electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw
+  oomp_id: electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw
   reason: OOMP symbol master unavailable.
   file: kicad_file.kicad_sch
 - references:
@@ -1758,7 +1758,7 @@ symbols:
   - U2
   source: kicad_file-eagle-import:LP2985-XXDBVR33
   status: skipped
-  oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
   reason: OOMP symbol master unavailable.
   file: kicad_file.kicad_sch
 - references:

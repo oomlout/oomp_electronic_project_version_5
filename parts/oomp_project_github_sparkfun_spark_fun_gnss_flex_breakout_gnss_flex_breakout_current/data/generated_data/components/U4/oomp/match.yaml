@@ -1,8 +1,8 @@
 status: matched
 accepted: true
-oomp_id: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+oomp_id: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
 confidence: 1.0
-proposed_oomp_id: electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v
+proposed_oomp_id: electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v
 inferred:
   kind: null
   package_size: null

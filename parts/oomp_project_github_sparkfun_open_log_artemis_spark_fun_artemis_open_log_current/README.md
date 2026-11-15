@@ -140,7 +140,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | U2 | 1 | MCP73831 | MCP73831 | `SparkFun_Artemis_OpenLog-import-fps:SOT23-5` | unmatched |
 | U3, U4 | 2 | 3.3V | 3.3V | `SparkFun_Artemis_OpenLog-import-fps:SOT23-5` | unmatched |
 | U8 | 1 | ARTEMIS_MODULE | ARTEMIS_MODULE | `SparkFun_Artemis_OpenLog-import-fps:ARTEMIS_FP` | unmatched |
-| U10 | 1 | IC Converter Usb To Serial Converter Wch MSOP_10 | CH340E | `SparkFun_Artemis_OpenLog-import-fps:MSOP10` | [`electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e) |
+| U10 | 1 | IC Converter Usb To Serial Converter Wch MSOP_10 | CH340E | `SparkFun_Artemis_OpenLog-import-fps:MSOP10` | [`electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e) |
 | U13 | 1 | 9DoF IMU | 9DoF IMU | `SparkFun_Artemis_OpenLog-import-fps:QFN24-3X3-ICM-20948` | unmatched |
 | U14 | 1 | 1.8V/100mA | 1.8V/100mA | `SparkFun_Artemis_OpenLog-import-fps:SC70` | unmatched |
 | Y3 | 1 | Crystal 32.768 kHz 12.5 pF 3215 2-pin | 32.768kHz | `SparkFun_Artemis_OpenLog-import-fps:CRYSTAL-SMD-3.2X1.5MM` | [`electronic_crystal_3215_surface_mount_2_pin_32_768_khz_12_5_pf`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_crystal_3215_surface_mount_2_pin_32_768_khz_12_5_pf) |

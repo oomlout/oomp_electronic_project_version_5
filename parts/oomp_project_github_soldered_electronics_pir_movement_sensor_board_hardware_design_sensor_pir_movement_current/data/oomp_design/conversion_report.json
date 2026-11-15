@@ -112,7 +112,7 @@
       "reference": "U3",
       "source": "e-radionica.com footprinti:SOIC−8",
       "status": "skipped",
-      "oomp_id": "electronic_ic_soic_8_timer_555_timer_texas_instruments_ne555dr",
+      "oomp_id": "electronic_ic_timer_555_timer_soic_8_texas_instruments_ne555dr",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -170,7 +170,7 @@
       "reference": "U2",
       "source": "e-radionica.com footprinti:SOT-23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -360,7 +360,7 @@
       ],
       "source": "e-radionica.com schematics:NE555DR",
       "status": "skipped",
-      "oomp_id": "electronic_ic_soic_8_timer_555_timer_texas_instruments_ne555dr",
+      "oomp_id": "electronic_ic_timer_555_timer_soic_8_texas_instruments_ne555dr",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },
@@ -483,7 +483,7 @@
       ],
       "source": "e-radionica.com schematics:SE5218",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },

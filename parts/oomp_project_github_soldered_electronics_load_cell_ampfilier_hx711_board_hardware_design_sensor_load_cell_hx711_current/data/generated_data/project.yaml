@@ -32461,9 +32461,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+    oomp_id: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+    proposed_oomp_id: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
     inferred:
       kind: null
       package_size: null

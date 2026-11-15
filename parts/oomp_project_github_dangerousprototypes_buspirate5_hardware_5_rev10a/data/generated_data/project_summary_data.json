@@ -188830,7 +188830,7 @@
         "x": 118.7,
         "y": 81.9,
         "rotation": -45.0,
-        "oomp_id": "electronic_ic_sop_8_5_28_mm_x_5_23_mm_memory_spi_nor_flash_128_mbit_winbond_w25q128jvsiq",
+        "oomp_id": "electronic_ic_memory_spi_nor_flash_128_mbit_sop_8_5_28_mm_x_5_23_mm_winbond_w25q128jvsiq",
         "bounds": {
           "min_x": 113.354273,
           "min_y": 76.554273,
@@ -190520,7 +190520,7 @@
         "x": 129.9,
         "y": 82.43,
         "rotation": -45.0,
-        "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+        "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
         "bounds": {
           "min_x": 124.038085,
           "min_y": 76.568085,
@@ -206517,7 +206517,7 @@
         "x": 146.3,
         "y": 86.0,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb",
+        "oomp_id": "electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb",
         "bounds": {
           "min_x": 141.875,
           "min_y": 82.775,
@@ -208707,7 +208707,7 @@
         "x": 106.1,
         "y": 103.05,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+        "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
         "bounds": {
           "min_x": 104.675,
           "min_y": 101.425,
@@ -210339,7 +210339,7 @@
         "x": 109.25,
         "y": 103.05,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+        "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
         "bounds": {
           "min_x": 107.825,
           "min_y": 101.425,
@@ -211971,7 +211971,7 @@
         "x": 112.3,
         "y": 103.15,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+        "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
         "bounds": {
           "min_x": 110.875,
           "min_y": 101.525,
@@ -213603,7 +213603,7 @@
         "x": 115.3,
         "y": 103.15,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+        "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
         "bounds": {
           "min_x": 113.875,
           "min_y": 101.525,
@@ -215235,7 +215235,7 @@
         "x": 144.78,
         "y": 102.954668,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+        "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
         "bounds": {
           "min_x": 143.355,
           "min_y": 101.329668,
@@ -216867,7 +216867,7 @@
         "x": 147.648865,
         "y": 102.927768,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+        "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
         "bounds": {
           "min_x": 146.223865,
           "min_y": 101.302768,
@@ -218499,7 +218499,7 @@
         "x": 150.475,
         "y": 102.925,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+        "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
         "bounds": {
           "min_x": 149.05,
           "min_y": 101.3,
@@ -220131,7 +220131,7 @@
         "x": 153.45,
         "y": 102.95,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+        "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
         "bounds": {
           "min_x": 152.025,
           "min_y": 101.325,
@@ -221763,7 +221763,7 @@
         "x": 142.57,
         "y": 67.65,
         "rotation": -90.0,
-        "oomp_id": "electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n",
         "bounds": {
           "min_x": 140.045,
           "min_y": 65.075,
@@ -223300,7 +223300,7 @@
         "x": 129.9,
         "y": 104.05,
         "rotation": -90.0,
-        "oomp_id": "electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118",
+        "oomp_id": "electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118",
         "bounds": {
           "min_x": 125.5875,
           "min_y": 100.175,
@@ -229310,7 +229310,7 @@
         "x": 113.42,
         "y": 67.6,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_diodes_ap2127k_3_3trg1",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_diodes_ap2127k_3_3trg1",
         "bounds": {
           "min_x": 111.495,
           "min_y": 65.775,
@@ -230545,7 +230545,7 @@
         "x": 122.5,
         "y": 88.6,
         "rotation": -90.0,
-        "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+        "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
         "bounds": {
           "min_x": 120.675,
           "min_y": 86.675,
@@ -232016,7 +232016,7 @@
         "x": 128.1,
         "y": 95.25,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
+        "oomp_id": "electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
         "bounds": {
           "min_x": 125.0875,
           "min_y": 91.375,
@@ -234658,7 +234658,7 @@
         "x": 121.3755,
         "y": 95.25,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
+        "oomp_id": "electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
         "bounds": {
           "min_x": 118.363,
           "min_y": 91.375,
@@ -237266,7 +237266,7 @@
         "x": 137.22,
         "y": 95.25,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr",
+        "oomp_id": "electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr",
         "bounds": {
           "min_x": 133.5575,
           "min_y": 91.375,
@@ -241055,7 +241055,7 @@
         "x": 138.0,
         "y": 105.0,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+        "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
         "bounds": {
           "min_x": 135.225,
           "min_y": 101.125,
@@ -243331,7 +243331,7 @@
         "x": 122.0,
         "y": 105.0,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+        "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
         "bounds": {
           "min_x": 119.225,
           "min_y": 101.125,
@@ -245607,7 +245607,7 @@
         "x": 106.68,
         "y": 84.77,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+        "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
         "bounds": {
           "min_x": 104.955,
           "min_y": 82.695,
@@ -247082,7 +247082,7 @@
         "x": 122.15,
         "y": 73.56,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr",
+        "oomp_id": "electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr",
         "bounds": {
           "min_x": 120.325,
           "min_y": 71.635,
@@ -248561,7 +248561,7 @@
         "x": 116.1,
         "y": 72.68,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr",
+        "oomp_id": "electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr",
         "bounds": {
           "min_x": 114.175,
           "min_y": 70.855,
@@ -250012,7 +250012,7 @@
         "x": 137.55,
         "y": 74.0,
         "rotation": 0.0,
-        "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+        "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
         "bounds": {
           "min_x": 135.625,
           "min_y": 72.175,
@@ -254877,8 +254877,8 @@
       "description": "IC W25Q128JVSIQ SOP 8 5 28 MM X 5 23 MM",
       "value": "W25Q128JVSIQ",
       "footprint": "Package_SO:SOP-8_5.28x5.23mm_P1.27mm",
-      "oomp_id": "electronic_ic_sop_8_5_28_mm_x_5_23_mm_memory_spi_nor_flash_128_mbit_winbond_w25q128jvsiq",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_8_5_28_mm_x_5_23_mm_memory_spi_nor_flash_128_mbit_winbond_w25q128jvsiq",
+      "oomp_id": "electronic_ic_memory_spi_nor_flash_128_mbit_sop_8_5_28_mm_x_5_23_mm_winbond_w25q128jvsiq",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_memory_spi_nor_flash_128_mbit_sop_8_5_28_mm_x_5_23_mm_winbond_w25q128jvsiq",
       "references": [
         "U102"
       ],
@@ -254888,8 +254888,8 @@
       "description": "IC RP2040 QFN 56 7 MM X 7 MM",
       "value": "RP2040",
       "footprint": "RP_Silicon:RP2040-QFN-56",
-      "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+      "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
       "references": [
         "U103"
       ],
@@ -254899,8 +254899,8 @@
       "description": "IC MT29F1G01ABAFDWB UPDFN 8",
       "value": "MT29F1G01ABAFDWB",
       "footprint": "dp-memory:U-PDFN-8",
-      "oomp_id": "electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb",
+      "oomp_id": "electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb",
       "references": [
         "U105"
       ],
@@ -254910,8 +254910,8 @@
       "description": "IC AiP74LVC1T45GC363.TR SOT 363 6",
       "value": "AiP74LVC1T45GC363.TR",
       "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "references": [
         "U301",
         "U302",
@@ -254928,8 +254928,8 @@
       "description": "IC ME6211A33PG-N SOT 89 3",
       "value": "ME6211A33PG-N",
       "footprint": "Package_TO_SOT_SMD:SOT-89-3",
-      "oomp_id": "electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n",
       "references": [
         "U401"
       ],
@@ -254939,8 +254939,8 @@
       "description": "IC 74HCT4067PW,118 TSSOP 24",
       "value": "CD4067",
       "footprint": "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm",
-      "oomp_id": "electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118",
+      "oomp_id": "electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118",
       "references": [
         "U402"
       ],
@@ -254950,8 +254950,8 @@
       "description": "IC AP2127K-3.3TRG1 SOT 23 5",
       "value": "AP2127",
       "footprint": "Package_TO_SOT_SMD:SOT-23-5",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_diodes_ap2127k_3_3trg1",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_diodes_ap2127k_3_3trg1",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_diodes_ap2127k_3_3trg1",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_diodes_ap2127k_3_3trg1",
       "references": [
         "U403"
       ],
@@ -254961,8 +254961,8 @@
       "description": "IC LMV321-TR SOT 23 5",
       "value": "LMV321",
       "footprint": "Package_TO_SOT_SMD:SOT-23-5",
-      "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
       "references": [
         "U404",
         "U506",
@@ -254974,8 +254974,8 @@
       "description": "IC AiP74HC595TA16.TR TSSOP 16",
       "value": "AIP74HC595TA",
       "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
-      "oomp_id": "electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
+      "oomp_id": "electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
       "references": [
         "U501",
         "U502"
@@ -254986,8 +254986,8 @@
       "description": "IC AiP74HCT245TA20.TR TSSOP 20",
       "value": "AIP74HCT245TA",
       "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
-      "oomp_id": "electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr",
+      "oomp_id": "electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr",
       "references": [
         "U503"
       ],
@@ -254997,8 +254997,8 @@
       "description": "IC LMV324IPWR TSSOP 14",
       "value": "LMV324",
       "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "references": [
         "U504",
         "U505"
@@ -255009,8 +255009,8 @@
       "description": "IC GS321A-TR SOT 23 5",
       "value": "LMV321A",
       "footprint": "Package_TO_SOT_SMD:SOT-23-5",
-      "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr",
       "references": [
         "U601"
       ],
@@ -255020,8 +255020,8 @@
       "description": "IC LMV331IDBVR SOT 23 5",
       "value": "LMV331",
       "footprint": "Package_TO_SOT_SMD:SOT-23-5",
-      "oomp_id": "electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr",
+      "oomp_id": "electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr",
       "references": [
         "U602"
       ],
@@ -255808,7 +255808,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+        "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255823,7 +255823,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sop_8_5_28_mm_x_5_23_mm_memory_spi_nor_flash_128_mbit_winbond_w25q128jvsiq",
+        "oomp_id": "electronic_ic_memory_spi_nor_flash_128_mbit_sop_8_5_28_mm_x_5_23_mm_winbond_w25q128jvsiq",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255838,7 +255838,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr",
+        "oomp_id": "electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255853,7 +255853,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+        "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255868,7 +255868,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr",
+        "oomp_id": "electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255883,7 +255883,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_diodes_ap2127k_3_3trg1",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_diodes_ap2127k_3_3trg1",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255898,7 +255898,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+        "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255913,7 +255913,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255928,7 +255928,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+        "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255943,7 +255943,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
+        "oomp_id": "electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255958,7 +255958,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr",
+        "oomp_id": "electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255973,7 +255973,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118",
+        "oomp_id": "electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -255988,7 +255988,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb",
+        "oomp_id": "electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

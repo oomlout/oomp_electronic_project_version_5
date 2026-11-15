@@ -1,39 +1,38 @@
 bip_39_2_word_array:
-- chef
-- vanish
-bip_39_2_word_no_space: chefvanish
-bip_39_2_word_space: chef vanish
-bip_39_2_word_underscore: chef_vanish
+- double
+- stumble
+bip_39_2_word_no_space: doublestumble
+bip_39_2_word_space: double stumble
+bip_39_2_word_underscore: double_stumble
 bip_39_3_word_array:
-- chef
-- vanish
-- pupil
-bip_39_3_word_no_space: chefvanishpupil
-bip_39_3_word_space: chef vanish pupil
-bip_39_3_word_underscore: chef_vanish_pupil
+- double
+- stumble
+- please
+bip_39_3_word_no_space: doublestumbleplease
+bip_39_3_word_space: double stumble please
+bip_39_3_word_underscore: double_stumble_please
 bip_39_full_array:
-- chef
-- vanish
-- pupil
-- face
-- rebel
-- plug
-- panda
-- stick
-- purity
-- elder
-- menu
-- airport
-bip_39_full_no_space: chefvanishpupilfacerebelplugpandastickpurityeldermenuairport
-bip_39_full_space: chef vanish pupil face rebel plug panda stick purity elder menu
-  airport
-bip_39_full_underscore: chef_vanish_pupil_face_rebel_plug_panda_stick_purity_elder_menu_airport
+- double
+- stumble
+- please
+- inmate
+- gesture
+- giraffe
+- glow
+- hair
+- absent
+- combine
+- tail
+- twelve
+bip_39_full_no_space: doublestumblepleaseinmategesturegiraffeglowhairabsentcombinetailtwelve
+bip_39_full_space: double stumble please inmate gesture giraffe glow hair absent combine tail twelve
+bip_39_full_underscore: double_stumble_please_inmate_gesture_giraffe_glow_hair_absent_combine_tail_twelve
 category: power_management
 category_name: Power management
 dimensions_mm:
   length: 2.9
   width: 1.6
-directory: parts/electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+directory: parts/electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
 distributors:
 - key: lcsc
   part_number: C250546
@@ -41,7 +40,7 @@ distributors:
   url: https://www.lcsc.com/product-detail/C250546.html
 file_copy:
 - file_destination: datasheet.pdf
-  file_source: parts_source/electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5/datasheet.pdf
+  file_source: parts_source/electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5/datasheet.pdf
 ic_dimensions_mm:
   body_length: 2.8955
   body_length_max: 3.099
@@ -55,50 +54,43 @@ ic_dimensions_mm:
   pin_length: 0.455
   pin_pitch: 0.9395
   pin_width: 0.4295
-id: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
-id_no_class: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
-id_no_size: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
-id_no_type: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+id: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
+id_no_class: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
+id_no_size: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
+id_no_type: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
 lcsc_search: RT9742CGJ5
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
 manufacturers:
 - manufacturer: ''
   part_number: RT9742CGJ5
-md5: 275e2ab7a8cb334da7deadae48ea2c82
-md5_10: 275e2ab7a8
-md5_10_upper: 275E2AB7A8
-md5_5: 275e2
-md5_5_upper: 275E2
-md5_6: 275e2a
-md5_6_alpha: 1jaqy
-md5_6_alpha_upper: 1JAQY
-md5_6_upper: 275E2A
-name: Electronic Ic Tsot 23 5 Power Management High Side Power Switch With Flag Richtek
-  Rt9742Cgj5
-name_no_class: Electronic Ic Tsot 23 5 Power Management High Side Power Switch With
-  Flag Richtek Rt9742Cgj5
-name_no_size: Electronic Ic Tsot 23 5 Power Management High Side Power Switch With
-  Flag Richtek Rt9742Cgj5
-name_no_type: Electronic Ic Tsot 23 5 Power Management High Side Power Switch With
-  Flag Richtek Rt9742Cgj5
+md5: 41baf699ba2616c458f34200a5bf7575
+md5_10: 41baf699ba
+md5_10_upper: 41BAF699BA
+md5_5: 41baf
+md5_5_upper: 41BAF
+md5_6: 41baf6
+md5_6_alpha: 2kbue
+md5_6_alpha_upper: 2KBUE
+md5_6_upper: 41BAF6
+name: Electronic Ic Power Management High Side Power Switch With Flag Tsot 23 5 Richtek Rt9742Cgj5
+name_no_class: Electronic Ic Power Management High Side Power Switch With Flag Tsot 23 5 Richtek Rt9742Cgj5
+name_no_size: Electronic Ic Power Management High Side Power Switch With Flag Tsot 23 5 Richtek Rt9742Cgj5
+name_no_type: Electronic Ic Power Management High Side Power Switch With Flag Tsot 23 5 Richtek Rt9742Cgj5
 name_proper: IC RT9742CGJ5 TSOT 23 5
 name_readable: IC RT9742CGJ5 TSOT 23 5
 name_short: IC RT9742CGJ5 TSOT 23 5
-name_space: electronic ic tsot 23 5 power management high side power switch with flag
-  richtek rt9742cgj5
-name_upper: ELECTRONIC IC TSOT 23 5 POWER MANAGEMENT HIGH SIDE POWER SWITCH WITH FLAG
-  RICHTEK RT9742CGJ5
+name_space: electronic ic power management high side power switch with flag tsot 23 5 richtek rt9742cgj5
+name_upper: ELECTRONIC IC TSOT 23 5 POWER MANAGEMENT HIGH SIDE POWER SWITCH WITH FLAG RICHTEK RT9742CGJ5
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -111,7 +103,7 @@ oomlout_ai_roboclick_2:
     delete_before_copy: true
     exit_on_missing: true
     file_destination: data/datasheet.pdf
-    file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5/datasheet.pdf
+    file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5/datasheet.pdf
   description: Copy part-specific source files into the working data directory.
   file_test: data/datasheet.pdf
   retries_until_complete: 0
@@ -121,7 +113,7 @@ oomlout_ai_roboclick_3:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+    part_id: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -201,8 +193,7 @@ oomlout_ai_roboclick_3:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_4:
@@ -216,7 +207,7 @@ oomlout_ai_roboclick_4:
       dimensions_mm:
         length: 2.9
         width: 1.6
-      directory: parts\electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+      directory: parts\electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
       distributors:
       - key: lcsc
         part_number: C250546
@@ -224,7 +215,7 @@ oomlout_ai_roboclick_4:
         url: https://www.lcsc.com/product-detail/C250546.html
       file_copy:
       - file_destination: datasheet.pdf
-        file_source: parts_source/electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5/datasheet.pdf
+        file_source: parts_source/electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5/datasheet.pdf
       ic_dimensions_mm:
         body_length: 2.8955
         body_length_max: 3.099
@@ -246,19 +237,16 @@ oomlout_ai_roboclick_4:
       manufacturers:
       - manufacturer: ''
         part_number: RT9742CGJ5
-      name: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+      name: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
       name_proper: IC RT9742CGJ5 TSOT 23 5
       name_readable: IC RT9742CGJ5 TSOT 23 5
       name_short: IC RT9742CGJ5 TSOT 23 5
-      name_space: electronic ic tsot 23 5 power management high side power switch
-        with flag richtek rt9742cgj5
-      name_upper: ELECTRONIC IC TSOT 23 5 POWER MANAGEMENT HIGH SIDE POWER SWITCH
-        WITH FLAG RICHTEK RT9742CGJ5
+      name_space: electronic ic power management high side power switch with flag tsot 23 5 richtek rt9742cgj5
+      name_upper: ELECTRONIC IC TSOT 23 5 POWER MANAGEMENT HIGH SIDE POWER SWITCH WITH FLAG RICHTEK RT9742CGJ5
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -271,18 +259,17 @@ oomlout_ai_roboclick_4:
           delete_before_copy: true
           exit_on_missing: true
           file_destination: data/datasheet.pdf
-          file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5/datasheet.pdf
+          file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5/datasheet.pdf
         description: Copy part-specific source files into the working data directory.
         file_test: data/datasheet.pdf
         retries_until_complete: 0
       oomlout_ai_roboclick_3:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+          part_id: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -362,8 +349,7 @@ oomlout_ai_roboclick_4:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       part_id: U1
@@ -448,8 +434,8 @@ oomlout_ai_roboclick_4:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/tsot_23_5/power_management/high_side_power_switch_with_flag/richtek/README.md
-        oomp_id: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+        navigation_link: ../../navigation/electronic/ic/power_management/high_side_power_switch_with_flag/tsot_23_5/richtek/README.md
+        oomp_id: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
         pins:
         - name: vout
           number: '1'
@@ -468,7 +454,7 @@ oomlout_ai_roboclick_4:
           type: power
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+          value: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
         - title: Type
           value: Ic
         - title: Package / style
@@ -477,21 +463,19 @@ oomlout_ai_roboclick_4:
           value: 2.9 × 1.6 mm
         - title: Documented pins
           value: 5
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
-        summary: IC RT9742CGJ5 TSOT 23 5 is an OOMP electronic ic definition. It uses
-          the tsot 23 5 package or form factor. Its nominal drawing size is 2.9 ×
-          1.6 mm. The definition includes 5 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
+        summary: IC RT9742CGJ5 TSOT 23 5 is an OOMP electronic ic definition. It uses the tsot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 5 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: tsot_23_5
-        - level: 4
           value: power_management
-        - level: 5
+        - level: 4
           value: high_side_power_switch_with_flag
+        - level: 5
+          value: tsot_23_5
         - level: 14
           value: richtek
         - level: 15
@@ -679,9 +663,6 @@ oomlout_ai_roboclick_4:
       taxonomy_14: richtek
       taxonomy_15: rt9742cgj5
       taxonomy_2: ic
-      taxonomy_3: tsot_23_5
-      taxonomy_4: power_management
-      taxonomy_5: high_side_power_switch_with_flag
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -698,6 +679,9 @@ oomlout_ai_roboclick_4:
         references:
         - IC4
         version: current
+      taxonomy_5: tsot_23_5
+      taxonomy_3: power_management
+      taxonomy_4: high_side_power_switch_with_flag
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -708,8 +692,7 @@ oomlout_ai_roboclick_4:
 oomlout_ai_roboclick_5:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -718,7 +701,7 @@ oomlout_ai_roboclick_5:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+oomp_key: oomp_electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
 part_id: U1
 part_number_lcsc: C250546
 part_number_manufacturer: RT9742CGJ5
@@ -801,8 +784,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/tsot_23_5/power_management/high_side_power_switch_with_flag/richtek/README.md
-  oomp_id: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+  navigation_link: ../../navigation/electronic/ic/power_management/high_side_power_switch_with_flag/tsot_23_5/richtek/README.md
+  oomp_id: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
   pins:
   - name: vout
     number: '1'
@@ -821,7 +804,7 @@ part_page:
     type: power
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+    value: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
   - title: Type
     value: Ic
   - title: Package / style
@@ -830,21 +813,19 @@ part_page:
     value: 2.9 × 1.6 mm
   - title: Documented pins
     value: 5
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
-  summary: IC RT9742CGJ5 TSOT 23 5 is an OOMP electronic ic definition. It uses the
-    tsot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The
-    definition includes 5 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
+  summary: IC RT9742CGJ5 TSOT 23 5 is an OOMP electronic ic definition. It uses the tsot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 5 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: tsot_23_5
-  - level: 4
     value: power_management
-  - level: 5
+  - level: 4
     value: high_side_power_switch_with_flag
+  - level: 5
+    value: tsot_23_5
   - level: 14
     value: richtek
   - level: 15
@@ -1088,51 +1069,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: tsot_23_5
-taxonomy_3_capital: Tsot 23.5
-taxonomy_3_first_letter: t
-taxonomy_3_first_letter_upper: T
-taxonomy_3_length_1: t
-taxonomy_3_length_2: ts
-taxonomy_3_length_3: tso
-taxonomy_3_length_4: tsot
-taxonomy_3_length_5: tsot_
-taxonomy_3_upper: TSOT_23_5
-taxonomy_3_upper_length_1: T
-taxonomy_3_upper_length_2: TS
-taxonomy_3_upper_length_3: TSO
-taxonomy_3_upper_length_4: TSOT
-taxonomy_3_upper_length_5: TSOT_
-taxonomy_4: power_management
-taxonomy_4_capital: Power Management
-taxonomy_4_first_letter: p
-taxonomy_4_first_letter_upper: P
-taxonomy_4_length_1: p
-taxonomy_4_length_2: po
-taxonomy_4_length_3: pow
-taxonomy_4_length_4: powe
-taxonomy_4_length_5: power
-taxonomy_4_upper: POWER_MANAGEMENT
-taxonomy_4_upper_length_1: P
-taxonomy_4_upper_length_2: PO
-taxonomy_4_upper_length_3: POW
-taxonomy_4_upper_length_4: POWE
-taxonomy_4_upper_length_5: POWER
-taxonomy_5: high_side_power_switch_with_flag
-taxonomy_5_capital: High Side Power Switch With Flag
-taxonomy_5_first_letter: h
-taxonomy_5_first_letter_upper: H
-taxonomy_5_length_1: h
-taxonomy_5_length_2: hi
-taxonomy_5_length_3: hig
-taxonomy_5_length_4: high
-taxonomy_5_length_5: high_
-taxonomy_5_upper: HIGH_SIDE_POWER_SWITCH_WITH_FLAG
-taxonomy_5_upper_length_1: H
-taxonomy_5_upper_length_2: HI
-taxonomy_5_upper_length_3: HIG
-taxonomy_5_upper_length_4: HIGH
-taxonomy_5_upper_length_5: HIGH_
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1150,3 +1086,48 @@ used_in_projects:
   references:
   - IC4
   version: current
+taxonomy_5: tsot_23_5
+taxonomy_5_capital: Tsot 23.5
+taxonomy_5_first_letter: t
+taxonomy_5_first_letter_upper: T
+taxonomy_5_length_1: t
+taxonomy_5_length_2: ts
+taxonomy_5_length_3: tso
+taxonomy_5_length_4: tsot
+taxonomy_5_length_5: tsot_
+taxonomy_5_upper: TSOT_23_5
+taxonomy_5_upper_length_1: T
+taxonomy_5_upper_length_2: TS
+taxonomy_5_upper_length_3: TSO
+taxonomy_5_upper_length_4: TSOT
+taxonomy_5_upper_length_5: TSOT_
+taxonomy_3: power_management
+taxonomy_3_capital: Power Management
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: po
+taxonomy_3_length_3: pow
+taxonomy_3_length_4: powe
+taxonomy_3_length_5: power
+taxonomy_3_upper: POWER_MANAGEMENT
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PO
+taxonomy_3_upper_length_3: POW
+taxonomy_3_upper_length_4: POWE
+taxonomy_3_upper_length_5: POWER
+taxonomy_4: high_side_power_switch_with_flag
+taxonomy_4_capital: High Side Power Switch With Flag
+taxonomy_4_first_letter: h
+taxonomy_4_first_letter_upper: H
+taxonomy_4_length_1: h
+taxonomy_4_length_2: hi
+taxonomy_4_length_3: hig
+taxonomy_4_length_4: high
+taxonomy_4_length_5: high_
+taxonomy_4_upper: HIGH_SIDE_POWER_SWITCH_WITH_FLAG
+taxonomy_4_upper_length_1: H
+taxonomy_4_upper_length_2: HI
+taxonomy_4_upper_length_3: HIG
+taxonomy_4_upper_length_4: HIGH
+taxonomy_4_upper_length_5: HIGH_

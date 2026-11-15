@@ -88,7 +88,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R3, R4 | 2 | electronic resistor 0603 10000 ohm | 10k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
 | R5 | 1 | Resistor 2200 Ohm 0402 | 2k2 | `e-radionica.com footprinti:0402R` | [`electronic_resistor_0402_2200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_2200_ohm) |
 | U1 | 1 | Sensor 4 Pin Vishay TCRT5000L TCRT5000 | tcrt5000L | `e-radionica.com footprinti:TCRT5000L` | [`electronic_sensor_tcrt5000_4_pin_vishay_tcrt5000l`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_tcrt5000_4_pin_vishay_tcrt5000l) |
-| U2 | 1 | IC Logic Comparator LM393 SOIC_8 | LM393 | `e-radionica.com footprinti:SOIC−8` | [`electronic_ic_soic_8_logic_comparator_lm393`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_logic_comparator_lm393) |
+| U2 | 1 | IC Logic Comparator LM393 SOIC_8 | LM393 | `e-radionica.com footprinti:SOIC−8` | [`electronic_ic_logic_comparator_soic_8_lm393`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_comparator_soic_8_lm393) |
 
 ## Main nets
 

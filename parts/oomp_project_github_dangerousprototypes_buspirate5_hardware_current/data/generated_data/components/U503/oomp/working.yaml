@@ -1,39 +1,38 @@
 bip_39_2_word_array:
-- salmon
-- devote
-bip_39_2_word_no_space: salmondevote
-bip_39_2_word_space: salmon devote
-bip_39_2_word_underscore: salmon_devote
+- leg
+- word
+bip_39_2_word_no_space: legword
+bip_39_2_word_space: leg word
+bip_39_2_word_underscore: leg_word
 bip_39_3_word_array:
-- salmon
-- devote
-- clay
-bip_39_3_word_no_space: salmondevoteclay
-bip_39_3_word_space: salmon devote clay
-bip_39_3_word_underscore: salmon_devote_clay
+- leg
+- word
+- breeze
+bip_39_3_word_no_space: legwordbreeze
+bip_39_3_word_space: leg word breeze
+bip_39_3_word_underscore: leg_word_breeze
 bip_39_full_array:
-- salmon
-- devote
-- clay
-- very
-- illness
-- hip
+- leg
+- word
+- breeze
 - dream
-- anxiety
-- brother
-- motion
-- mind
-- sad
-bip_39_full_no_space: salmondevoteclayveryillnesshipdreamanxietybrothermotionmindsad
-bip_39_full_space: salmon devote clay very illness hip dream anxiety brother motion
-  mind sad
-bip_39_full_underscore: salmon_devote_clay_very_illness_hip_dream_anxiety_brother_motion_mind_sad
+- crouch
+- game
+- desk
+- cart
+- diary
+- theme
+- throw
+- play
+bip_39_full_no_space: legwordbreezedreamcrouchgamedeskcartdiarythemethrowplay
+bip_39_full_space: leg word breeze dream crouch game desk cart diary theme throw play
+bip_39_full_underscore: leg_word_breeze_dream_crouch_game_desk_cart_diary_theme_throw_play
 category: logic
 category_name: Logic
 dimensions_mm:
   length: 6.5
   width: 4.4
-directory: parts/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+directory: parts/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
 distributors:
 - key: lcsc
   part_number: C5354847
@@ -41,51 +40,44 @@ distributors:
   url: https://www.lcsc.com/product-detail/C5354847.html
 file_copy:
 - file_destination: datasheet.pdf
-  file_source: parts_source/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr/datasheet.pdf
-id: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
-id_no_class: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
-id_no_size: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
-id_no_type: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+  file_source: parts_source/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr/datasheet.pdf
+id: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
+id_no_class: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
+id_no_size: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
+id_no_type: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
 lcsc_search: AiP74HCT245TA20.TR
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
 manufacturers:
 - manufacturer: ''
   part_number: AiP74HCT245TA20.TR
-md5: be6798a8f97712d7d0a0501cf20a33de
-md5_10: be6798a8f9
-md5_10_upper: BE6798A8F9
-md5_5: be679
-md5_5_upper: BE679
-md5_6: be6798
-md5_6_alpha: 7fgd4
-md5_6_alpha_upper: 7FGD4
-md5_6_upper: BE6798
-name: Electronic Ic Tssop 20 Logic Octal Bus Transceiver Wuxi I Core Elec Aip74Hct245Ta20
-  Tr
-name_no_class: Electronic Ic Tssop 20 Logic Octal Bus Transceiver Wuxi I Core Elec
-  Aip74Hct245Ta20 Tr
-name_no_size: Electronic Ic Tssop 20 Logic Octal Bus Transceiver Wuxi I Core Elec
-  Aip74Hct245Ta20 Tr
-name_no_type: Electronic Ic Tssop 20 Logic Octal Bus Transceiver Wuxi I Core Elec
-  Aip74Hct245Ta20 Tr
+md5: 7f5fac6e214342be4ef9183d5c038553
+md5_10: 7f5fac6e21
+md5_10_upper: 7F5FAC6E21
+md5_5: 7f5fa
+md5_5_upper: 7F5FA
+md5_6: 7f5fac
+md5_6_alpha: 4yx0s
+md5_6_alpha_upper: 4YX0S
+md5_6_upper: 7F5FAC
+name: Electronic Ic Logic Octal Bus Transceiver Tssop 20 Wuxi I Core Elec Aip74Hct245Ta20 Tr
+name_no_class: Electronic Ic Logic Octal Bus Transceiver Tssop 20 Wuxi I Core Elec Aip74Hct245Ta20 Tr
+name_no_size: Electronic Ic Logic Octal Bus Transceiver Tssop 20 Wuxi I Core Elec Aip74Hct245Ta20 Tr
+name_no_type: Electronic Ic Logic Octal Bus Transceiver Tssop 20 Wuxi I Core Elec Aip74Hct245Ta20 Tr
 name_proper: IC AiP74HCT245TA20.TR TSSOP 20
 name_readable: IC AiP74HCT245TA20.TR TSSOP 20
 name_short: IC AiP74HCT245TA20.TR TSSOP 20
-name_space: electronic ic tssop 20 logic octal bus transceiver wuxi i core elec aip74hct245ta20
-  tr
-name_upper: ELECTRONIC IC TSSOP 20 LOGIC OCTAL BUS TRANSCEIVER WUXI I CORE ELEC AIP74HCT245TA20
-  TR
+name_space: electronic ic logic octal bus transceiver tssop 20 wuxi i core elec aip74hct245ta20 tr
+name_upper: ELECTRONIC IC TSSOP 20 LOGIC OCTAL BUS TRANSCEIVER WUXI I CORE ELEC AIP74HCT245TA20 TR
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -98,7 +90,7 @@ oomlout_ai_roboclick_2:
     delete_before_copy: true
     exit_on_missing: true
     file_destination: data/datasheet.pdf
-    file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr/datasheet.pdf
+    file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr/datasheet.pdf
   description: Copy part-specific source files into the working data directory.
   file_test: data/datasheet.pdf
   retries_until_complete: 0
@@ -108,7 +100,7 @@ oomlout_ai_roboclick_3:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+    part_id: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -188,8 +180,7 @@ oomlout_ai_roboclick_3:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_4:
@@ -203,7 +194,7 @@ oomlout_ai_roboclick_4:
       dimensions_mm:
         length: 6.5
         width: 4.4
-      directory: parts\electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+      directory: parts\electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
       distributors:
       - key: lcsc
         part_number: C5354847
@@ -211,7 +202,7 @@ oomlout_ai_roboclick_4:
         url: https://www.lcsc.com/product-detail/C5354847.html
       file_copy:
       - file_destination: datasheet.pdf
-        file_source: parts_source/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr/datasheet.pdf
+        file_source: parts_source/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr/datasheet.pdf
       kicad:
         hand_solder: ''
         machine_solder: ''
@@ -220,19 +211,16 @@ oomlout_ai_roboclick_4:
       manufacturers:
       - manufacturer: ''
         part_number: AiP74HCT245TA20.TR
-      name: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+      name: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
       name_proper: IC AiP74HCT245TA20.TR TSSOP 20
       name_readable: IC AiP74HCT245TA20.TR TSSOP 20
       name_short: IC AiP74HCT245TA20.TR TSSOP 20
-      name_space: electronic ic tssop 20 logic octal bus transceiver wuxi i core elec
-        aip74hct245ta20 tr
-      name_upper: ELECTRONIC IC TSSOP 20 LOGIC OCTAL BUS TRANSCEIVER WUXI I CORE ELEC
-        AIP74HCT245TA20 TR
+      name_space: electronic ic logic octal bus transceiver tssop 20 wuxi i core elec aip74hct245ta20 tr
+      name_upper: ELECTRONIC IC TSSOP 20 LOGIC OCTAL BUS TRANSCEIVER WUXI I CORE ELEC AIP74HCT245TA20 TR
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -245,18 +233,17 @@ oomlout_ai_roboclick_4:
           delete_before_copy: true
           exit_on_missing: true
           file_destination: data/datasheet.pdf
-          file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr/datasheet.pdf
+          file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr/datasheet.pdf
         description: Copy part-specific source files into the working data directory.
         file_test: data/datasheet.pdf
         retries_until_complete: 0
       oomlout_ai_roboclick_3:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+          part_id: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -336,8 +323,7 @@ oomlout_ai_roboclick_4:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       part_id: U1
@@ -422,8 +408,8 @@ oomlout_ai_roboclick_4:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/tssop_20/logic/octal_bus_transceiver/wuxi_i_core_elec/README.md
-        oomp_id: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+        navigation_link: ../../navigation/electronic/ic/logic/octal_bus_transceiver/tssop_20/wuxi_i_core_elec/README.md
+        oomp_id: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
         pins:
         - name: direction
           number: '1'
@@ -487,7 +473,7 @@ oomlout_ai_roboclick_4:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+          value: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
         - title: Type
           value: Ic
         - title: Package / style
@@ -496,21 +482,19 @@ oomlout_ai_roboclick_4:
           value: 6.5 × 4.4 mm
         - title: Documented pins
           value: 20
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
-        summary: IC AiP74HCT245TA20.TR TSSOP 20 is an OOMP electronic ic definition.
-          It uses the tssop 20 package or form factor. Its nominal drawing size is
-          6.5 × 4.4 mm. The definition includes 20 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
+        summary: IC AiP74HCT245TA20.TR TSSOP 20 is an OOMP electronic ic definition. It uses the tssop 20 package or form factor. Its nominal drawing size is 6.5 × 4.4 mm. The definition includes 20 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: tssop_20
-        - level: 4
           value: logic
-        - level: 5
+        - level: 4
           value: octal_bus_transceiver
+        - level: 5
+          value: tssop_20
         - level: 14
           value: wuxi_i_core_elec
         - level: 15
@@ -758,9 +742,6 @@ oomlout_ai_roboclick_4:
       taxonomy_14: wuxi_i_core_elec
       taxonomy_15: aip74hct245ta20_tr
       taxonomy_2: ic
-      taxonomy_3: tssop_20
-      taxonomy_4: logic
-      taxonomy_5: octal_bus_transceiver
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -787,6 +768,9 @@ oomlout_ai_roboclick_4:
         references:
         - U503
         version: current
+      taxonomy_5: tssop_20
+      taxonomy_3: logic
+      taxonomy_4: octal_bus_transceiver
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -794,7 +778,7 @@ oomlout_ai_roboclick_4:
     search_and_replace: []
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+oomp_key: oomp_electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
 part_id: U1
 part_number_lcsc: C5354847
 part_number_manufacturer: AiP74HCT245TA20.TR
@@ -877,8 +861,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/tssop_20/logic/octal_bus_transceiver/wuxi_i_core_elec/README.md
-  oomp_id: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+  navigation_link: ../../navigation/electronic/ic/logic/octal_bus_transceiver/tssop_20/wuxi_i_core_elec/README.md
+  oomp_id: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
   pins:
   - name: direction
     number: '1'
@@ -942,7 +926,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+    value: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
   - title: Type
     value: Ic
   - title: Package / style
@@ -951,21 +935,19 @@ part_page:
     value: 6.5 × 4.4 mm
   - title: Documented pins
     value: 20
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
-  summary: IC AiP74HCT245TA20.TR TSSOP 20 is an OOMP electronic ic definition. It
-    uses the tssop 20 package or form factor. Its nominal drawing size is 6.5 × 4.4
-    mm. The definition includes 20 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
+  summary: IC AiP74HCT245TA20.TR TSSOP 20 is an OOMP electronic ic definition. It uses the tssop 20 package or form factor. Its nominal drawing size is 6.5 × 4.4 mm. The definition includes 20 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: tssop_20
-  - level: 4
     value: logic
-  - level: 5
+  - level: 4
     value: octal_bus_transceiver
+  - level: 5
+    value: tssop_20
   - level: 14
     value: wuxi_i_core_elec
   - level: 15
@@ -1269,51 +1251,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: tssop_20
-taxonomy_3_capital: Tssop 20
-taxonomy_3_first_letter: t
-taxonomy_3_first_letter_upper: T
-taxonomy_3_length_1: t
-taxonomy_3_length_2: ts
-taxonomy_3_length_3: tss
-taxonomy_3_length_4: tsso
-taxonomy_3_length_5: tssop
-taxonomy_3_upper: TSSOP_20
-taxonomy_3_upper_length_1: T
-taxonomy_3_upper_length_2: TS
-taxonomy_3_upper_length_3: TSS
-taxonomy_3_upper_length_4: TSSO
-taxonomy_3_upper_length_5: TSSOP
-taxonomy_4: logic
-taxonomy_4_capital: Logic
-taxonomy_4_first_letter: l
-taxonomy_4_first_letter_upper: L
-taxonomy_4_length_1: l
-taxonomy_4_length_2: lo
-taxonomy_4_length_3: log
-taxonomy_4_length_4: logi
-taxonomy_4_length_5: logic
-taxonomy_4_upper: LOGIC
-taxonomy_4_upper_length_1: L
-taxonomy_4_upper_length_2: LO
-taxonomy_4_upper_length_3: LOG
-taxonomy_4_upper_length_4: LOGI
-taxonomy_4_upper_length_5: LOGIC
-taxonomy_5: octal_bus_transceiver
-taxonomy_5_capital: Octal Bus Transceiver
-taxonomy_5_first_letter: o
-taxonomy_5_first_letter_upper: O
-taxonomy_5_length_1: o
-taxonomy_5_length_2: oc
-taxonomy_5_length_3: oct
-taxonomy_5_length_4: octa
-taxonomy_5_length_5: octal
-taxonomy_5_upper: OCTAL_BUS_TRANSCEIVER
-taxonomy_5_upper_length_1: O
-taxonomy_5_upper_length_2: OC
-taxonomy_5_upper_length_3: OCT
-taxonomy_5_upper_length_4: OCTA
-taxonomy_5_upper_length_5: OCTAL
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1340,3 +1277,48 @@ used_in_projects:
   references:
   - U503
   version: current
+taxonomy_5: tssop_20
+taxonomy_5_capital: Tssop 20
+taxonomy_5_first_letter: t
+taxonomy_5_first_letter_upper: T
+taxonomy_5_length_1: t
+taxonomy_5_length_2: ts
+taxonomy_5_length_3: tss
+taxonomy_5_length_4: tsso
+taxonomy_5_length_5: tssop
+taxonomy_5_upper: TSSOP_20
+taxonomy_5_upper_length_1: T
+taxonomy_5_upper_length_2: TS
+taxonomy_5_upper_length_3: TSS
+taxonomy_5_upper_length_4: TSSO
+taxonomy_5_upper_length_5: TSSOP
+taxonomy_3: logic
+taxonomy_3_capital: Logic
+taxonomy_3_first_letter: l
+taxonomy_3_first_letter_upper: L
+taxonomy_3_length_1: l
+taxonomy_3_length_2: lo
+taxonomy_3_length_3: log
+taxonomy_3_length_4: logi
+taxonomy_3_length_5: logic
+taxonomy_3_upper: LOGIC
+taxonomy_3_upper_length_1: L
+taxonomy_3_upper_length_2: LO
+taxonomy_3_upper_length_3: LOG
+taxonomy_3_upper_length_4: LOGI
+taxonomy_3_upper_length_5: LOGIC
+taxonomy_4: octal_bus_transceiver
+taxonomy_4_capital: Octal Bus Transceiver
+taxonomy_4_first_letter: o
+taxonomy_4_first_letter_upper: O
+taxonomy_4_length_1: o
+taxonomy_4_length_2: oc
+taxonomy_4_length_3: oct
+taxonomy_4_length_4: octa
+taxonomy_4_length_5: octal
+taxonomy_4_upper: OCTAL_BUS_TRANSCEIVER
+taxonomy_4_upper_length_1: O
+taxonomy_4_upper_length_2: OC
+taxonomy_4_upper_length_3: OCT
+taxonomy_4_upper_length_4: OCTA
+taxonomy_4_upper_length_5: OCTAL

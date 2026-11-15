@@ -15,7 +15,7 @@ originals:
     source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_nano_current\data\kicad_file_sheets\References.kicad_sch
 output_sha256:
   Easyduino_Atmega_Nano.kicad_pcb: 194e47e383021009b756c3a05f1fb0d1402b54631fa523104e76107df52b5a8e
-  Easyduino_Atmega_Nano.kicad_sch: 7d19239d1b118d4d5b6edaacf487f5e0e888fd23e842e526446244c3a27c68c2
+  Easyduino_Atmega_Nano.kicad_sch: cfc95161c236894d593bb6e1ab220fde1880154581ac28ef235152aae25c7209
   Easyduino_Atmega_Nano.kicad_pro: 0b9a710ad98d115de476c0828a73cc440a1964de33589c0ada6ae472cf257878
   References.kicad_sch: 9a5ddc6a5e71c0614aef0c8c71f0cc3abd7cfdc3585f6af20742a670b911641e
   sym-lib-table: 21866594f2adf0f962fad1f4c2490478f63373c892f02e5291f0ca136dc6c786
@@ -92,7 +92,7 @@ footprints:
 - reference: U3
   source: Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm
   status: skipped
-  oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
   reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
     footprint identity and annotation conversion was skipped.
 - reference: R2
@@ -169,7 +169,7 @@ footprints:
 - reference: U2
   source: Package_TO_SOT_SMD:SOT-23-3
   status: skipped
-  oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
   reason: Source is not an available official master for this OOMP part.
 - reference: R7
   source: Resistor_SMD:R_0402_1005Metric
@@ -186,7 +186,7 @@ footprints:
 - reference: U1
   source: Package_QFP:TQFP-32_7x7mm_P0.8mm
   status: skipped
-  oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+  oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
   reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
     footprint identity and annotation conversion was skipped.
 - reference: R1
@@ -509,8 +509,8 @@ symbols:
   - U3
   source: Interface_USB:CP2102N-Axx-xQFN28
   status: converted
-  oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
-  target: OOMP:electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
+  target: OOMP:electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
   file: kicad_file.kicad_sch
 - references:
   - '#PWR025'
@@ -547,8 +547,8 @@ symbols:
   - U1
   source: MCU_Microchip_ATmega:ATmega328P-A
   status: converted
-  oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
-  target: OOMP:electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+  oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
+  target: OOMP:electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
   file: kicad_file.kicad_sch
 - references:
   - '#PWR012'
@@ -580,8 +580,8 @@ symbols:
   - U2
   source: Regulator_Linear:XC6206PxxxMR
   status: converted
-  oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
-  target: OOMP:electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
+  target: OOMP:electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
   file: kicad_file.kicad_sch
 - references:
   - '#PWR031'

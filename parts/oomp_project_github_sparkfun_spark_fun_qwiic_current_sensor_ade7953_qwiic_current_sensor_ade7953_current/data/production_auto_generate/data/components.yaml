@@ -757,7 +757,7 @@ components:
 - reference: U1
   value: ADE7953ACPZ
   footprint: SparkFun-Semiconductor-Standard:QFN-28-1EP_4x4_5x5mm
-  oomp_id: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+  oomp_id: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: ADE7953ACPZ

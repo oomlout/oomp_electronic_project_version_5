@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C3,10uF,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C4,10uF,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C5,10uF,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -15,7 +15,7 @@ TP2,,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:TESTPOINT_ROUND_2MM,,N
 TP3,,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:TESTPOINT_ROUND_2MM,,No verified LCSC part number
 TP4,,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:TESTPOINT_ROUND_2MM,,No verified LCSC part number
 U1,MDBT40,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:BLE_MODULE_RAYTAC_MDBT40,,No verified LCSC part number
-U2,AP2112K-3.3,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U3,CP210x,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:QFN24_4MM_SMSC,,No verified LCSC part number
 U$16,,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:PCBFEAT-REV-040,,No verified LCSC part number
 U$22,,Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:ADAFRUIT_TEXT_30MM,,No verified LCSC part number

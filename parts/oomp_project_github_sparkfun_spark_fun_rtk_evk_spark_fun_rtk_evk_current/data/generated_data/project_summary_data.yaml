@@ -146864,7 +146864,7 @@ placement:
     x: 113.03
     y: -20.32
     rotation: 0.0
-    oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
     bounds:
       min_x: 107.061
       min_y: -23.72
@@ -266442,8 +266442,8 @@ bom:
 - description: USB-Serial CH340C SOP-16
   value: CH340C
   footprint: SparkFun_RTK_EVK-import-fps:SO016
-  oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
   references:
   - U2
   quantity: 1
@@ -267202,7 +267202,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+  - oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg

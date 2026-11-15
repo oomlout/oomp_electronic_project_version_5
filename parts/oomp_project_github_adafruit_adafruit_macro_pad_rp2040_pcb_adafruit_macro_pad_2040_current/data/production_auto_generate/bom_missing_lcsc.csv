@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C6,10µF,Adafruit MacroPad 2040-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C7,10uF,Adafruit MacroPad 2040-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C8,10µF,Adafruit MacroPad 2040-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -33,7 +33,7 @@ SW2,RA SW,Adafruit MacroPad 2040-import-fps:SPST_TACTILE_RA,,No verified LCSC pa
 TP5,,Adafruit MacroPad 2040-import-fps:TESTPOINT_ROUND_1.5MM_NO,,No verified LCSC part number
 TP6,,Adafruit MacroPad 2040-import-fps:TESTPOINT_ROUND_1.5MM_NO,,No verified LCSC part number
 U1,GD25x16,Adafruit MacroPad 2040-import-fps:USON8_4X4,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit MacroPad 2040-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit MacroPad 2040-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U$1,SOCKET,Adafruit MacroPad 2040-import-fps:KAILH_SOCKET,,No verified LCSC part number
 U$2,SOCKET,Adafruit MacroPad 2040-import-fps:KAILH_SOCKET,,No verified LCSC part number
 U$3,SOCKET,Adafruit MacroPad 2040-import-fps:KAILH_SOCKET,,No verified LCSC part number

@@ -1,40 +1,39 @@
 bip_39_2_word_array:
-- pill
-- tonight
-bip_39_2_word_no_space: pilltonight
-bip_39_2_word_space: pill tonight
-bip_39_2_word_underscore: pill_tonight
+- panic
+- balance
+bip_39_2_word_no_space: panicbalance
+bip_39_2_word_space: panic balance
+bip_39_2_word_underscore: panic_balance
 bip_39_3_word_array:
-- pill
-- tonight
-- pole
-bip_39_3_word_no_space: pilltonightpole
-bip_39_3_word_space: pill tonight pole
-bip_39_3_word_underscore: pill_tonight_pole
+- panic
+- balance
+- riot
+bip_39_3_word_no_space: panicbalanceriot
+bip_39_3_word_space: panic balance riot
+bip_39_3_word_underscore: panic_balance_riot
 bip_39_full_array:
-- pill
-- tonight
-- pole
-- remove
-- input
-- truck
-- hire
-- cereal
-- forum
-- stadium
-- genuine
-- thought
-bip_39_full_no_space: pilltonightpoleremoveinputtruckhirecerealforumstadiumgenuinethought
-bip_39_full_space: pill tonight pole remove input truck hire cereal forum stadium
-  genuine thought
-bip_39_full_underscore: pill_tonight_pole_remove_input_truck_hire_cereal_forum_stadium_genuine_thought
+- panic
+- balance
+- riot
+- income
+- snake
+- unit
+- ancient
+- fossil
+- pear
+- brave
+- alley
+- chuckle
+bip_39_full_no_space: panicbalanceriotincomesnakeunitancientfossilpearbravealleychuckle
+bip_39_full_space: panic balance riot income snake unit ancient fossil pear brave alley chuckle
+bip_39_full_underscore: panic_balance_riot_income_snake_unit_ancient_fossil_pear_brave_alley_chuckle
 category: power_management
 category_name: Power management
 dimensions_mm:
   height: 1.1
   length: 2.9
   width: 1.6
-directory: parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+directory: parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
 distributors: []
 ic_dimensions_mm:
   body_length: 2.92
@@ -49,49 +48,41 @@ ic_dimensions_mm:
   pin_length: 0.45
   pin_pitch: 0.95
   pin_width: 0.4
-id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
-id_no_class: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
-id_no_size: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
-id_no_type: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
+id_no_class: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
+id_no_size: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
+id_no_type: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
 kicad:
   hand_solder: Package_TO_SOT_SMD:SOT-23-5
   machine_solder: Package_TO_SOT_SMD:SOT-23-5
   symbol: ''
-lcsc_search: sot 23 5 power management linear voltage regulator diodes ap2112k 3 3
-  ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+lcsc_search: sot 23 5 power management linear voltage regulator diodes ap2112k 3 3 ic
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
 manufacturers: []
-md5: a4dc929e5af74bd25b012c5bba7d8570
-md5_10: a4dc929e5a
-md5_10_upper: A4DC929E5A
-md5_5: a4dc9
-md5_5_upper: A4DC9
-md5_6: a4dc92
-md5_6_alpha: 6fkpe
-md5_6_alpha_upper: 6FKPE
-md5_6_upper: A4DC92
-name: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator Diodes Ap2112K
-  3 3
-name_no_class: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator Diodes
-  Ap2112K 3 3
-name_no_size: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator Diodes
-  Ap2112K 3 3
-name_no_type: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator Diodes
-  Ap2112K 3 3
+md5: 9fa236e8b94cd3db4222dfa203681a14
+md5_10: 9fa236e8b9
+md5_10_upper: 9FA236E8B9
+md5_5: 9fa23
+md5_5_upper: 9FA23
+md5_6: 9fa236
+md5_6_alpha: 688c6
+md5_6_alpha_upper: 688C6
+md5_6_upper: 9FA236
+name: Electronic Ic Power Management Linear Voltage Regulator Sot 23 5 Diodes Ap2112K 3 3
+name_no_class: Electronic Ic Power Management Linear Voltage Regulator Sot 23 5 Diodes Ap2112K 3 3
+name_no_size: Electronic Ic Power Management Linear Voltage Regulator Sot 23 5 Diodes Ap2112K 3 3
+name_no_type: Electronic Ic Power Management Linear Voltage Regulator Sot 23 5 Diodes Ap2112K 3 3
 name_proper: IC Power Management Linear Voltage Regulator Diodes SOT_23_5
 name_readable: IC Power Management Linear Voltage Regulator Diodes SOT_23_5
 name_short: IC Power Management Linear Voltage Regulator Diodes SOT_23_5
-name_space: electronic ic sot 23 5 power management linear voltage regulator diodes
-  ap2112k 3 3
-name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR DIODES
-  AP2112K 3 3
+name_space: electronic ic power management linear voltage regulator sot 23 5 diodes ap2112k 3 3
+name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR DIODES AP2112K 3 3
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -104,7 +95,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+    part_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -184,22 +175,19 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
   actions:
   - command: run_python
-    description: Render this part's KiCad symbol and footprints to SVG and PNG, and
-      build a labelled contact sheet.
+    description: Render this part's KiCad symbol and footprints to SVG and PNG, and build a labelled contact sheet.
     file_output: data/kicad/contact_sheet.png
     file_python: kicad_agents/kicad_render_action.py
-    part_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+    part_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
     regenerate_pngs: false
     timeout: '600'
-  description: Render KiCad symbol and footprint SVG and PNG views with a review contact
-    sheet.
+  description: Render KiCad symbol and footprint SVG and PNG views with a review contact sheet.
   file_test: data/kicad/contact_sheet.png
   retries_until_complete: 0
 oomlout_ai_roboclick_4:
@@ -214,7 +202,7 @@ oomlout_ai_roboclick_4:
         height: 1.1
         length: 2.9
         width: 1.6
-      directory: parts\electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+      directory: parts\electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
       distributors: []
       ic_dimensions_mm:
         body_length: 2.92
@@ -233,22 +221,18 @@ oomlout_ai_roboclick_4:
         hand_solder: Package_TO_SOT_SMD:SOT-23-5
         machine_solder: Package_TO_SOT_SMD:SOT-23-5
         symbol: ''
-      lcsc_search: sot 23 5 power management linear voltage regulator diodes ap2112k
-        3 3 ic
+      lcsc_search: sot 23 5 power management linear voltage regulator diodes ap2112k 3 3 ic
       manufacturers: []
-      name: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+      name: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
       name_proper: IC Power Management Linear Voltage Regulator Diodes SOT_23_5
       name_readable: IC Power Management Linear Voltage Regulator Diodes SOT_23_5
       name_short: IC Power Management Linear Voltage Regulator Diodes SOT_23_5
-      name_space: electronic ic sot 23 5 power management linear voltage regulator
-        diodes ap2112k 3 3
-      name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR
-        DIODES AP2112K 3 3
+      name_space: electronic ic power management linear voltage regulator sot 23 5 diodes ap2112k 3 3
+      name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR DIODES AP2112K 3 3
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -258,11 +242,10 @@ oomlout_ai_roboclick_4:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+          part_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -342,22 +325,19 @@ oomlout_ai_roboclick_4:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       oomlout_ai_roboclick_3:
         actions:
         - command: run_python
-          description: Render this part's KiCad symbol and footprints to SVG and PNG,
-            and build a labelled contact sheet.
+          description: Render this part's KiCad symbol and footprints to SVG and PNG, and build a labelled contact sheet.
           file_output: data/kicad/contact_sheet.png
           file_python: kicad_agents/kicad_render_action.py
-          part_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+          part_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
           regenerate_pngs: false
           timeout: '600'
-        description: Render KiCad symbol and footprint SVG and PNG views with a review
-          contact sheet.
+        description: Render KiCad symbol and footprint SVG and PNG views with a review contact sheet.
         file_test: data/kicad/contact_sheet.png
         retries_until_complete: 0
       package_drawing:
@@ -475,8 +455,8 @@ oomlout_ai_roboclick_4:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sot_23_5/power_management/linear_voltage_regulator/diodes/README.md
-        oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+        navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator/sot_23_5/diodes/README.md
+        oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
         pins:
         - name: VIN
           number: '1'
@@ -495,7 +475,7 @@ oomlout_ai_roboclick_4:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+          value: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
         - title: Type
           value: Ic
         - title: Package / style
@@ -504,22 +484,19 @@ oomlout_ai_roboclick_4:
           value: 2.9 × 1.6 mm
         - title: Documented pins
           value: 5
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
-        summary: IC Power Management Linear Voltage Regulator Diodes SOT_23_5 is an
-          OOMP electronic ic definition. It uses the sot 23 5 package or form factor.
-          Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 5 documented
-          pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
+        summary: IC Power Management Linear Voltage Regulator Diodes SOT_23_5 is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 5 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sot_23_5
-        - level: 4
           value: power_management
-        - level: 5
+        - level: 4
           value: linear_voltage_regulator
+        - level: 5
+          value: sot_23_5
         - level: 14
           value: diodes
         - level: 15
@@ -707,9 +684,6 @@ oomlout_ai_roboclick_4:
       taxonomy_14: diodes
       taxonomy_15: ap2112k_3_3
       taxonomy_2: ic
-      taxonomy_3: sot_23_5
-      taxonomy_4: power_management
-      taxonomy_5: linear_voltage_regulator
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -719,8 +693,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_128x32_i2_c_oled_breakout_pcb_adafruit_oled_128x32_mono_i2_c_stemma_qt_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB/blob/master/Adafruit%20OLED%20128x32%20Mono%20I2C%20STEMMA%20QT%20rev%20B.brd
         github_url: https://github.com/adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB
-        name: Project adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB Adafruit OLED
-          128x32 Mono I2 C STEMMA QT current
+        name: Project adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB Adafruit OLED 128x32 Mono I2 C STEMMA QT current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_128x32_i2_c_oled_breakout_pcb_adafruit_oled_128x32_mono_i2_c_stemma_qt_current
         project_id: oomp_project_github_adafruit_adafruit_128x32_i2_c_oled_breakout_pcb_adafruit_oled_128x32_mono_i2_c_stemma_qt_current
         quantity: 1
@@ -730,8 +703,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_128x64_monochrome_oled_pcb_0_96in_128x64_oled_stemma_qt_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-128x64-Monochrome-OLED-PCB/blob/master/Adafruit%200.96in%20128x64%20OLED%20STEMMA%20QT.brd
         github_url: https://github.com/adafruit/Adafruit-128x64-Monochrome-OLED-PCB
-        name: Project adafruit/Adafruit-128x64-Monochrome-OLED-PCB 0.96in 128x64 OLED
-          STEMMA QT current
+        name: Project adafruit/Adafruit-128x64-Monochrome-OLED-PCB 0.96in 128x64 OLED STEMMA QT current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_128x64_monochrome_oled_pcb_0_96in_128x64_oled_stemma_qt_current
         project_id: oomp_project_github_adafruit_adafruit_128x64_monochrome_oled_pcb_0_96in_128x64_oled_stemma_qt_current
         quantity: 1
@@ -741,8 +713,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_1_28_240x240_round_display_pcb_adafruit_1_28_240x240_round_display_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-1.28-240x240-Round-Display-PCB/blob/main/Adafruit%201.28%20240x240%20Round%20Display.brd
         github_url: https://github.com/adafruit/Adafruit-1.28-240x240-Round-Display-PCB
-        name: Project adafruit/Adafruit-1.28-240x240-Round-Display-PCB Adafruit 1.28
-          240x240 Round Display current
+        name: Project adafruit/Adafruit-1.28-240x240-Round-Display-PCB Adafruit 1.28 240x240 Round Display current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_1_28_240x240_round_display_pcb_adafruit_1_28_240x240_round_display_current
         project_id: oomp_project_github_adafruit_adafruit_1_28_240x240_round_display_pcb_adafruit_1_28_240x240_round_display_current
         quantity: 1
@@ -752,8 +723,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_1_3_inch_240x240_tft_pcb_adafruit_1_3in_240x240_ips_tft_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-1.3-inch-240x240-TFT-PCB/blob/master/Adafruit%201.3in%20240x240%20IPS%20TFT.brd
         github_url: https://github.com/adafruit/Adafruit-1.3-inch-240x240-TFT-PCB
-        name: Project adafruit/Adafruit-1.3-inch-240x240-TFT-PCB Adafruit 1.3in 240x240
-          IPS TFT current
+        name: Project adafruit/Adafruit-1.3-inch-240x240-TFT-PCB Adafruit 1.3in 240x240 IPS TFT current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_1_3_inch_240x240_tft_pcb_adafruit_1_3in_240x240_ips_tft_current
         project_id: oomp_project_github_adafruit_adafruit_1_3_inch_240x240_tft_pcb_adafruit_1_3in_240x240_ips_tft_current
         quantity: 1
@@ -763,8 +733,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_2_0_inch_240x320_tft_pcb_adafruit_2_0_inch_240x320_ips_tft_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-2.0-inch-240x320-TFT-PCB/blob/master/Adafruit%202.0%20inch%20240x320%20IPS%20TFT.brd
         github_url: https://github.com/adafruit/Adafruit-2.0-inch-240x320-TFT-PCB
-        name: Project adafruit/Adafruit-2.0-inch-240x320-TFT-PCB Adafruit 2.0 inch
-          240x320 IPS TFT current
+        name: Project adafruit/Adafruit-2.0-inch-240x320-TFT-PCB Adafruit 2.0 inch 240x320 IPS TFT current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_2_0_inch_240x320_tft_pcb_adafruit_2_0_inch_240x320_ips_tft_current
         project_id: oomp_project_github_adafruit_adafruit_2_0_inch_240x320_tft_pcb_adafruit_2_0_inch_240x320_ips_tft_current
         quantity: 1
@@ -804,8 +773,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_bluefruit_le_usb_friend_and_sniffer_pcb_adafrruit_bluefruit_le_usb_friend_cp2102_n_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB/blob/master/Adafrruit%20Bluefruit%20LE%20USB%20Friend%20CP2102N.brd
         github_url: https://github.com/adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB
-        name: Project adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB Adafrruit
-          Bluefruit LE USB Friend CP2102 N current
+        name: Project adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB Adafrruit Bluefruit LE USB Friend CP2102 N current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_bluefruit_le_usb_friend_and_sniffer_pcb_adafrruit_bluefruit_le_usb_friend_cp2102_n_current
         project_id: oomp_project_github_adafruit_adafruit_bluefruit_le_usb_friend_and_sniffer_pcb_adafrruit_bluefruit_le_usb_friend_cp2102_n_current
         quantity: 1
@@ -825,8 +793,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_bmp280_breakout_pcb_adafruit_bmp280_stemma_qt_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-BMP280-Breakout-PCB/blob/master/Adafruit%20BMP280%20STEMMA%20QT.brd
         github_url: https://github.com/adafruit/Adafruit-BMP280-Breakout-PCB
-        name: Project adafruit/Adafruit-BMP280-Breakout-PCB Adafruit BMP280 STEMMA
-          QT current
+        name: Project adafruit/Adafruit-BMP280-Breakout-PCB Adafruit BMP280 STEMMA QT current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_bmp280_breakout_pcb_adafruit_bmp280_stemma_qt_current
         project_id: oomp_project_github_adafruit_adafruit_bmp280_breakout_pcb_adafruit_bmp280_stemma_qt_current
         quantity: 1
@@ -856,8 +823,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_bno055_breakout_pcb_adafruit_bno055_stemma_qt_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-BNO055-Breakout-PCB/blob/master/Adafruit%20BNO055%20STEMMA%20QT.brd
         github_url: https://github.com/adafruit/Adafruit-BNO055-Breakout-PCB
-        name: Project adafruit/Adafruit-BNO055-Breakout-PCB Adafruit BNO055 STEMMA
-          QT current
+        name: Project adafruit/Adafruit-BNO055-Breakout-PCB Adafruit BNO055 STEMMA QT current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_bno055_breakout_pcb_adafruit_bno055_stemma_qt_current
         project_id: oomp_project_github_adafruit_adafruit_bno055_breakout_pcb_adafruit_bno055_stemma_qt_current
         quantity: 1
@@ -887,8 +853,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_circuit_playground_express_pcb_adafruit_circuit_playground_express_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Circuit-Playground-Express-PCB/blob/master/Adafruit%20Circuit%20Playground%20Express.brd
         github_url: https://github.com/adafruit/Adafruit-Circuit-Playground-Express-PCB
-        name: Project adafruit/Adafruit-Circuit-Playground-Express-PCB Adafruit Circuit
-          Playground Express current
+        name: Project adafruit/Adafruit-Circuit-Playground-Express-PCB Adafruit Circuit Playground Express current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_circuit_playground_express_pcb_adafruit_circuit_playground_express_current
         project_id: oomp_project_github_adafruit_adafruit_circuit_playground_express_pcb_adafruit_circuit_playground_express_current
         quantity: 1
@@ -908,8 +873,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs/blob/master/Adafruit%202.7in%20Tri-Color%20eInk%20Display.brd
         github_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
-        name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.7in
-          Tri Color e Ink Display current
+        name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.7in Tri Color e Ink Display current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_current
         project_id: oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_current
         quantity: 1
@@ -919,8 +883,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_with_eyespi_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs/blob/master/Adafruit%202.7in%20Tri-Color%20eInk%20Display%20with%20EYESPI.brd
         github_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
-        name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.7in
-          Tri Color e Ink Display with EYESPI current
+        name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.7in Tri Color e Ink Display with EYESPI current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_with_eyespi_current
         project_id: oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_with_eyespi_current
         quantity: 1
@@ -930,8 +893,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_9in_e_ink_display_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs/blob/master/Adafruit%202.9in%20eInk%20Display.brd
         github_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
-        name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.9in
-          e Ink Display current
+        name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.9in e Ink Display current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_9in_e_ink_display_current
         project_id: oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_9in_e_ink_display_current
         quantity: 1
@@ -941,8 +903,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_e_ink_breakout_friend_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs/blob/master/Adafruit%20eInk%20Breakout%20Friend.brd
         github_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
-        name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit e Ink
-          Breakout Friend current
+        name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit e Ink Breakout Friend current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_e_ink_breakout_friend_current
         project_id: oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_e_ink_breakout_friend_current
         quantity: 1
@@ -962,8 +923,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_m0_rfm_lo_ra_pcb_adafruit_feather_m0_rfmxx_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB/blob/master/Adafruit%20Feather%20M0%20RFMxx.brd
         github_url: https://github.com/adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB
-        name: Project adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB Adafruit Feather M0
-          RFMxx current
+        name: Project adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB Adafruit Feather M0 RFMxx current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_m0_rfm_lo_ra_pcb_adafruit_feather_m0_rfmxx_current
         project_id: oomp_project_github_adafruit_adafruit_feather_m0_rfm_lo_ra_pcb_adafruit_feather_m0_rfmxx_current
         quantity: 1
@@ -993,8 +953,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_grand_central_pcb_adafruit_grand_central_m4_express_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Grand-Central-PCB/blob/master/Adafruit%20Grand%20Central%20M4%20Express%20rev%20B.brd
         github_url: https://github.com/adafruit/Adafruit-Grand-Central-PCB
-        name: Project adafruit/Adafruit-Grand-Central-PCB Adafruit Grand Central M4
-          Express current
+        name: Project adafruit/Adafruit-Grand-Central-PCB Adafruit Grand Central M4 Express current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_grand_central_pcb_adafruit_grand_central_m4_express_current
         project_id: oomp_project_github_adafruit_adafruit_grand_central_pcb_adafruit_grand_central_m4_express_current
         quantity: 1
@@ -1004,8 +963,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB/blob/main/Adafruit%20High%20Voltage%20UPDI%20Friend.brd
         github_url: https://github.com/adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB
-        name: Project adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB Adafruit High
-          Voltage UPDI Friend current
+        name: Project adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB Adafruit High Voltage UPDI Friend current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current
         project_id: oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current
         quantity: 1
@@ -1015,8 +973,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_i2_c_qt_rotary_encoder_pcb_adafruit_i2_c_qt_rotary_encoder_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB/blob/main/Adafruit%20I2C%20QT%20Rotary%20Encoder.brd
         github_url: https://github.com/adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB
-        name: Project adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB Adafruit I2 C QT
-          Rotary Encoder current
+        name: Project adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB Adafruit I2 C QT Rotary Encoder current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_i2_c_qt_rotary_encoder_pcb_adafruit_i2_c_qt_rotary_encoder_current
         project_id: oomp_project_github_adafruit_adafruit_i2_c_qt_rotary_encoder_pcb_adafruit_i2_c_qt_rotary_encoder_current
         quantity: 1
@@ -1026,8 +983,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_itsy_bitsy_m4_express_pcb_adafruit_itsy_bitsy_m4_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB/blob/master/Adafruit%20ItsyBitsy%20M4.brd
         github_url: https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB
-        name: Project adafruit/Adafruit-ItsyBitsy-M4-Express-PCB Adafruit Itsy Bitsy
-          M4 current
+        name: Project adafruit/Adafruit-ItsyBitsy-M4-Express-PCB Adafruit Itsy Bitsy M4 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_itsy_bitsy_m4_express_pcb_adafruit_itsy_bitsy_m4_current
         project_id: oomp_project_github_adafruit_adafruit_itsy_bitsy_m4_express_pcb_adafruit_itsy_bitsy_m4_current
         quantity: 1
@@ -1037,8 +993,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_itsy_bitsy_rp2040_pcb_adafruit_itsy_bitsy_rp2040_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/blob/main/Adafruit%20ItsyBitsy%20RP2040.brd
         github_url: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
-        name: Project adafruit/Adafruit-ItsyBitsy-RP2040-PCB Adafruit Itsy Bitsy RP2040
-          current
+        name: Project adafruit/Adafruit-ItsyBitsy-RP2040-PCB Adafruit Itsy Bitsy RP2040 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_itsy_bitsy_rp2040_pcb_adafruit_itsy_bitsy_rp2040_current
         project_id: oomp_project_github_adafruit_adafruit_itsy_bitsy_rp2040_pcb_adafruit_itsy_bitsy_rp2040_current
         quantity: 1
@@ -1088,8 +1043,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_macro_pad_rp2040_pcb_adafruit_macro_pad_2040_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB/blob/main/Adafruit%20MacroPad%202040.brd
         github_url: https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB
-        name: Project adafruit/Adafruit-MacroPad-RP2040-PCB Adafruit Macro Pad 2040
-          current
+        name: Project adafruit/Adafruit-MacroPad-RP2040-PCB Adafruit Macro Pad 2040 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_macro_pad_rp2040_pcb_adafruit_macro_pad_2040_current
         project_id: oomp_project_github_adafruit_adafruit_macro_pad_rp2040_pcb_adafruit_macro_pad_2040_current
         quantity: 1
@@ -1109,8 +1063,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_matrix_portal_m4_pcb_adafruit_matrix_portal_m4_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-MatrixPortal-M4-PCB/blob/main/Adafruit%20MatrixPortal%20M4.brd
         github_url: https://github.com/adafruit/Adafruit-MatrixPortal-M4-PCB
-        name: Project adafruit/Adafruit-MatrixPortal-M4-PCB Adafruit Matrix Portal
-          M4 current
+        name: Project adafruit/Adafruit-MatrixPortal-M4-PCB Adafruit Matrix Portal M4 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_matrix_portal_m4_pcb_adafruit_matrix_portal_m4_current
         project_id: oomp_project_github_adafruit_adafruit_matrix_portal_m4_pcb_adafruit_matrix_portal_m4_current
         quantity: 1
@@ -1120,8 +1073,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_matrix_portal_s3_pcb_adafruit_matrix_portal_s3_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-MatrixPortal-S3-PCB/blob/main/Adafruit%20MatrixPortal%20S3.brd
         github_url: https://github.com/adafruit/Adafruit-MatrixPortal-S3-PCB
-        name: Project adafruit/Adafruit-MatrixPortal-S3-PCB Adafruit Matrix Portal
-          S3 current
+        name: Project adafruit/Adafruit-MatrixPortal-S3-PCB Adafruit Matrix Portal S3 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_matrix_portal_s3_pcb_adafruit_matrix_portal_s3_current
         project_id: oomp_project_github_adafruit_adafruit_matrix_portal_s3_pcb_adafruit_matrix_portal_s3_current
         quantity: 1
@@ -1141,8 +1093,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_metro_m7_with_air_lift_pcb_adafruit_metro_m7_i_mx_rt1011_with_air_lift_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Metro-M7-with-AirLift-PCB/blob/main/Adafruit%20Metro%20M7%20iMX%20RT1011%20with%20AirLift.brd
         github_url: https://github.com/adafruit/Adafruit-Metro-M7-with-AirLift-PCB
-        name: Project adafruit/Adafruit-Metro-M7-with-AirLift-PCB Adafruit Metro M7
-          i MX RT1011 with Air Lift current
+        name: Project adafruit/Adafruit-Metro-M7-with-AirLift-PCB Adafruit Metro M7 i MX RT1011 with Air Lift current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_metro_m7_with_air_lift_pcb_adafruit_metro_m7_i_mx_rt1011_with_air_lift_current
         project_id: oomp_project_github_adafruit_adafruit_metro_m7_with_air_lift_pcb_adafruit_metro_m7_i_mx_rt1011_with_air_lift_current
         quantity: 1
@@ -1152,8 +1103,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_metro_m7_with_micro_sd_pcb_adafruit_metro_m7_with_micro_sd_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Metro-M7-with-microSD-PCB/blob/main/Adafruit%20Metro%20M7%20with%20microSD.brd
         github_url: https://github.com/adafruit/Adafruit-Metro-M7-with-microSD-PCB
-        name: Project adafruit/Adafruit-Metro-M7-with-microSD-PCB Adafruit Metro M7
-          with micro SD current
+        name: Project adafruit/Adafruit-Metro-M7-with-microSD-PCB Adafruit Metro M7 with micro SD current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_metro_m7_with_micro_sd_pcb_adafruit_metro_m7_with_micro_sd_current
         project_id: oomp_project_github_adafruit_adafruit_metro_m7_with_micro_sd_pcb_adafruit_metro_m7_with_micro_sd_current
         quantity: 1
@@ -1183,8 +1133,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_mlx90640_pcb_adafruit_mlx90640_ir_thermal_camera_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-MLX90640-PCB/blob/master/Adafruit%20MLX90640%20IR%20Thermal%20Camera.brd
         github_url: https://github.com/adafruit/Adafruit-MLX90640-PCB
-        name: Project adafruit/Adafruit-MLX90640-PCB Adafruit MLX90640 IR Thermal
-          Camera current
+        name: Project adafruit/Adafruit-MLX90640-PCB Adafruit MLX90640 IR Thermal Camera current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_mlx90640_pcb_adafruit_mlx90640_ir_thermal_camera_current
         project_id: oomp_project_github_adafruit_adafruit_mlx90640_pcb_adafruit_mlx90640_ir_thermal_camera_current
         quantity: 1
@@ -1204,8 +1153,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_mpr121_pcb_adafruit_mpr121_q_qt_gator_breakout_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-MPR121-PCB/blob/master/Adafruit%20MPR121Q%20QT%20Gator%20Breakout.brd
         github_url: https://github.com/adafruit/Adafruit-MPR121-PCB
-        name: Project adafruit/Adafruit-MPR121-PCB Adafruit MPR121 Q QT Gator Breakout
-          current
+        name: Project adafruit/Adafruit-MPR121-PCB Adafruit MPR121 Q QT Gator Breakout current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_mpr121_pcb_adafruit_mpr121_q_qt_gator_breakout_current
         project_id: oomp_project_github_adafruit_adafruit_mpr121_pcb_adafruit_mpr121_q_qt_gator_breakout_current
         quantity: 1
@@ -1225,8 +1173,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_neo_key_trinkey_pcb_adafruit_neo_key_trinkey_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-NeoKey-Trinkey-PCB/blob/main/Adafruit%20NeoKey%20Trinkey.brd
         github_url: https://github.com/adafruit/Adafruit-NeoKey-Trinkey-PCB
-        name: Project adafruit/Adafruit-NeoKey-Trinkey-PCB Adafruit Neo Key Trinkey
-          current
+        name: Project adafruit/Adafruit-NeoKey-Trinkey-PCB Adafruit Neo Key Trinkey current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_neo_key_trinkey_pcb_adafruit_neo_key_trinkey_current
         project_id: oomp_project_github_adafruit_adafruit_neo_key_trinkey_pcb_adafruit_neo_key_trinkey_current
         quantity: 1
@@ -1236,8 +1183,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure/blob/master/Adafruit%20NeoTrellis%20M4.brd
         github_url: https://github.com/adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure
-        name: Project adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure Adafruit Neo
-          Trellis M4 current
+        name: Project adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure Adafruit Neo Trellis M4 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current
         project_id: oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current
         quantity: 1
@@ -1267,8 +1213,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_pa1010_d_mini_gps_pcb_adafruit_pa1010_d_mini_gps_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-PA1010D-Mini-GPS-PCB/blob/master/Adafruit%20PA1010D%20Mini%20GPS.brd
         github_url: https://github.com/adafruit/Adafruit-PA1010D-Mini-GPS-PCB
-        name: Project adafruit/Adafruit-PA1010D-Mini-GPS-PCB Adafruit PA1010 D Mini
-          GPS current
+        name: Project adafruit/Adafruit-PA1010D-Mini-GPS-PCB Adafruit PA1010 D Mini GPS current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_pa1010_d_mini_gps_pcb_adafruit_pa1010_d_mini_gps_current
         project_id: oomp_project_github_adafruit_adafruit_pa1010_d_mini_gps_pcb_adafruit_pa1010_d_mini_gps_current
         quantity: 1
@@ -1298,8 +1243,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_qt_py_ch32_v203_pcb_adafruit_qt_py_ch32_v203_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-QT-Py-CH32V203-PCB/blob/main/Adafruit%20QT%20Py%20CH32V203.brd
         github_url: https://github.com/adafruit/Adafruit-QT-Py-CH32V203-PCB
-        name: Project adafruit/Adafruit-QT-Py-CH32V203-PCB Adafruit QT Py CH32 V203
-          current
+        name: Project adafruit/Adafruit-QT-Py-CH32V203-PCB Adafruit QT Py CH32 V203 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_qt_py_ch32_v203_pcb_adafruit_qt_py_ch32_v203_current
         project_id: oomp_project_github_adafruit_adafruit_qt_py_ch32_v203_pcb_adafruit_qt_py_ch32_v203_current
         quantity: 1
@@ -1309,8 +1253,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_qt_py_esp32_c3_pcb_adafruit_qt_py_esp32_c3_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-QT-Py-ESP32-C3-PCB/blob/main/Adafruit%20QT%20Py%20ESP32-C3.brd
         github_url: https://github.com/adafruit/Adafruit-QT-Py-ESP32-C3-PCB
-        name: Project adafruit/Adafruit-QT-Py-ESP32-C3-PCB Adafruit QT Py ESP32 C3
-          current
+        name: Project adafruit/Adafruit-QT-Py-ESP32-C3-PCB Adafruit QT Py ESP32 C3 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_qt_py_esp32_c3_pcb_adafruit_qt_py_esp32_c3_current
         project_id: oomp_project_github_adafruit_adafruit_qt_py_esp32_c3_pcb_adafruit_qt_py_esp32_c3_current
         quantity: 1
@@ -1320,8 +1263,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_qt_py_esp32_pico_pcb_adafruit_qt_py_esp32_pico_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-QT-Py-ESP32-Pico-PCB/blob/main/Adafruit%20QT%20Py%20ESP32%20Pico.brd
         github_url: https://github.com/adafruit/Adafruit-QT-Py-ESP32-Pico-PCB
-        name: Project adafruit/Adafruit-QT-Py-ESP32-Pico-PCB Adafruit QT Py ESP32
-          Pico current
+        name: Project adafruit/Adafruit-QT-Py-ESP32-Pico-PCB Adafruit QT Py ESP32 Pico current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_qt_py_esp32_pico_pcb_adafruit_qt_py_esp32_pico_current
         project_id: oomp_project_github_adafruit_adafruit_qt_py_esp32_pico_pcb_adafruit_qt_py_esp32_pico_current
         quantity: 1
@@ -1331,8 +1273,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_qt_py_esp32_s3_pcb_adafruit_qt_py_esp32_s3_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-QT-Py-ESP32-S3-PCB/blob/main/Adafruit%20QT%20Py%20ESP32-S3.brd
         github_url: https://github.com/adafruit/Adafruit-QT-Py-ESP32-S3-PCB
-        name: Project adafruit/Adafruit-QT-Py-ESP32-S3-PCB Adafruit QT Py ESP32 S3
-          current
+        name: Project adafruit/Adafruit-QT-Py-ESP32-S3-PCB Adafruit QT Py ESP32 S3 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_qt_py_esp32_s3_pcb_adafruit_qt_py_esp32_s3_current
         project_id: oomp_project_github_adafruit_adafruit_qt_py_esp32_s3_pcb_adafruit_qt_py_esp32_s3_current
         quantity: 1
@@ -1352,8 +1293,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_qualia_s3_rgb666_pcb_adafruit_qualia_s3_rgb666_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Qualia-S3-RGB666-PCB/blob/main/Adafruit%20Qualia%20S3%20RGB666.brd
         github_url: https://github.com/adafruit/Adafruit-Qualia-S3-RGB666-PCB
-        name: Project adafruit/Adafruit-Qualia-S3-RGB666-PCB Adafruit Qualia S3 RGB666
-          current
+        name: Project adafruit/Adafruit-Qualia-S3-RGB666-PCB Adafruit Qualia S3 RGB666 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_qualia_s3_rgb666_pcb_adafruit_qualia_s3_rgb666_current
         project_id: oomp_project_github_adafruit_adafruit_qualia_s3_rgb666_pcb_adafruit_qualia_s3_rgb666_current
         quantity: 1
@@ -1363,8 +1303,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_rfm_lo_ra_radio_breakout_pcb_adafruit_rfm_lo_ra_breakout_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB/blob/master/Adafruit%20RFM%2BLoRa%20Breakout.brd
         github_url: https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB
-        name: Project adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB Adafruit RFM+Lo
-          Ra Breakout current
+        name: Project adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB Adafruit RFM+Lo Ra Breakout current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_rfm_lo_ra_radio_breakout_pcb_adafruit_rfm_lo_ra_breakout_current
         project_id: oomp_project_github_adafruit_adafruit_rfm_lo_ra_radio_breakout_pcb_adafruit_rfm_lo_ra_breakout_current
         quantity: 1
@@ -1394,8 +1333,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_sharp_memory_display_pcbs_adafruit_2_7in_sharp_memory_display_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Sharp-Memory-Display-PCBs/blob/master/Adafruit%202.7in%20Sharp%20Memory%20Display.brd
         github_url: https://github.com/adafruit/Adafruit-Sharp-Memory-Display-PCBs
-        name: Project adafruit/Adafruit-Sharp-Memory-Display-PCBs Adafruit 2.7in Sharp
-          Memory Display current
+        name: Project adafruit/Adafruit-Sharp-Memory-Display-PCBs Adafruit 2.7in Sharp Memory Display current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_sharp_memory_display_pcbs_adafruit_2_7in_sharp_memory_display_current
         project_id: oomp_project_github_adafruit_adafruit_sharp_memory_display_pcbs_adafruit_2_7in_sharp_memory_display_current
         quantity: 1
@@ -1415,8 +1353,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_slider_trinkey_pcb_adafruit_slider_trinkey_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Slider-Trinkey-PCB/blob/main/Adafruit%20Slider%20Trinkey.brd
         github_url: https://github.com/adafruit/Adafruit-Slider-Trinkey-PCB
-        name: Project adafruit/Adafruit-Slider-Trinkey-PCB Adafruit Slider Trinkey
-          current
+        name: Project adafruit/Adafruit-Slider-Trinkey-PCB Adafruit Slider Trinkey current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_slider_trinkey_pcb_adafruit_slider_trinkey_current
         project_id: oomp_project_github_adafruit_adafruit_slider_trinkey_pcb_adafruit_slider_trinkey_current
         quantity: 1
@@ -1426,8 +1363,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_tmf8801_time_of_flight_distance_sensor_pcb_adafruit_tmf8801_time_of_flight_sensor_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-TMF8801-Time-of-Flight-Distance-Sensor-PCB/blob/main/Adafruit%20TMF8801%20Time%20of%20Flight%20Sensor%20rev%20B.brd
         github_url: https://github.com/adafruit/Adafruit-TMF8801-Time-of-Flight-Distance-Sensor-PCB
-        name: Project adafruit/Adafruit-TMF8801-Time-of-Flight-Distance-Sensor-PCB
-          Adafruit TMF8801 Time of Flight Sensor current
+        name: Project adafruit/Adafruit-TMF8801-Time-of-Flight-Distance-Sensor-PCB Adafruit TMF8801 Time of Flight Sensor current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_tmf8801_time_of_flight_distance_sensor_pcb_adafruit_tmf8801_time_of_flight_sensor_current
         project_id: oomp_project_github_adafruit_adafruit_tmf8801_time_of_flight_distance_sensor_pcb_adafruit_tmf8801_time_of_flight_sensor_current
         quantity: 1
@@ -1437,8 +1373,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_tmf8806_time_of_flight_distance_sensor_pcb_adafruit_tmf8806_time_of_flight_sensor_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-TMF8806-Time-of-Flight-Distance-Sensor-PCB/blob/main/Adafruit%20TMF8806%20Time%20of%20Flight%20Sensor%20rev%20B.brd
         github_url: https://github.com/adafruit/Adafruit-TMF8806-Time-of-Flight-Distance-Sensor-PCB
-        name: Project adafruit/Adafruit-TMF8806-Time-of-Flight-Distance-Sensor-PCB
-          Adafruit TMF8806 Time of Flight Sensor current
+        name: Project adafruit/Adafruit-TMF8806-Time-of-Flight-Distance-Sensor-PCB Adafruit TMF8806 Time of Flight Sensor current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_tmf8806_time_of_flight_distance_sensor_pcb_adafruit_tmf8806_time_of_flight_sensor_current
         project_id: oomp_project_github_adafruit_adafruit_tmf8806_time_of_flight_distance_sensor_pcb_adafruit_tmf8806_time_of_flight_sensor_current
         quantity: 1
@@ -1458,8 +1393,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_trinkey_qt2040_pcb_adafruit_qt2040_trinkey_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Trinkey-QT2040-PCB/blob/main/Adafruit%20QT2040%20Trinkey.brd
         github_url: https://github.com/adafruit/Adafruit-Trinkey-QT2040-PCB
-        name: Project adafruit/Adafruit-Trinkey-QT2040-PCB Adafruit QT2040 Trinkey
-          current
+        name: Project adafruit/Adafruit-Trinkey-QT2040-PCB Adafruit QT2040 Trinkey current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_trinkey_qt2040_pcb_adafruit_qt2040_trinkey_current
         project_id: oomp_project_github_adafruit_adafruit_trinkey_qt2040_pcb_adafruit_qt2040_trinkey_current
         quantity: 1
@@ -1509,8 +1443,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_wii_nunchuck_breakout_adapter_pcb_adafruit_wii_nunchuck_breakout_adapter_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB/blob/main/Adafruit%20Wii%20Nunchuck%20Breakout%20Adapter.brd
         github_url: https://github.com/adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB
-        name: Project adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB Adafruit
-          Wii Nunchuck Breakout Adapter current
+        name: Project adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB Adafruit Wii Nunchuck Breakout Adapter current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_wii_nunchuck_breakout_adapter_pcb_adafruit_wii_nunchuck_breakout_adapter_current
         project_id: oomp_project_github_adafruit_adafruit_wii_nunchuck_breakout_adapter_pcb_adafruit_wii_nunchuck_breakout_adapter_current
         quantity: 1
@@ -1547,6 +1480,9 @@ oomlout_ai_roboclick_4:
         references:
         - U2
         version: current
+      taxonomy_5: sot_23_5
+      taxonomy_3: power_management
+      taxonomy_4: linear_voltage_regulator
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -1557,8 +1493,7 @@ oomlout_ai_roboclick_4:
 oomlout_ai_roboclick_5:
   actions:
   - command: run_python
-    description: Read current component details and prepare drawer labels; remove
-      stale label PDFs
+    description: Read current component details and prepare drawer labels; remove stale label PDFs
     file_output: data/label_drawer.yaml
     file_python: C:\gh\oomp_electronic_version_5\working_drawer_labels.py
     timeout: '120'
@@ -1583,8 +1518,7 @@ oomlout_ai_roboclick_5:
 oomlout_ai_roboclick_6:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -1593,7 +1527,7 @@ oomlout_ai_roboclick_6:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+oomp_key: oomp_electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
 package_drawing:
   body:
   - 2.9
@@ -1709,8 +1643,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sot_23_5/power_management/linear_voltage_regulator/diodes/README.md
-  oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+  navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator/sot_23_5/diodes/README.md
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
   pins:
   - name: VIN
     number: '1'
@@ -1729,7 +1663,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+    value: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
   - title: Type
     value: Ic
   - title: Package / style
@@ -1738,21 +1672,19 @@ part_page:
     value: 2.9 × 1.6 mm
   - title: Documented pins
     value: 5
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
-  summary: IC Power Management Linear Voltage Regulator Diodes SOT_23_5 is an OOMP
-    electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal
-    drawing size is 2.9 × 1.6 mm. The definition includes 5 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
+  summary: IC Power Management Linear Voltage Regulator Diodes SOT_23_5 is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 5 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sot_23_5
-  - level: 4
     value: power_management
-  - level: 5
+  - level: 4
     value: linear_voltage_regulator
+  - level: 5
+    value: sot_23_5
   - level: 14
     value: diodes
   - level: 15
@@ -1996,51 +1928,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sot_23_5
-taxonomy_3_capital: Sot 23.5
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sot
-taxonomy_3_length_4: sot_
-taxonomy_3_length_5: sot_2
-taxonomy_3_upper: SOT_23_5
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOT
-taxonomy_3_upper_length_4: SOT_
-taxonomy_3_upper_length_5: SOT_2
-taxonomy_4: power_management
-taxonomy_4_capital: Power Management
-taxonomy_4_first_letter: p
-taxonomy_4_first_letter_upper: P
-taxonomy_4_length_1: p
-taxonomy_4_length_2: po
-taxonomy_4_length_3: pow
-taxonomy_4_length_4: powe
-taxonomy_4_length_5: power
-taxonomy_4_upper: POWER_MANAGEMENT
-taxonomy_4_upper_length_1: P
-taxonomy_4_upper_length_2: PO
-taxonomy_4_upper_length_3: POW
-taxonomy_4_upper_length_4: POWE
-taxonomy_4_upper_length_5: POWER
-taxonomy_5: linear_voltage_regulator
-taxonomy_5_capital: Linear Voltage Regulator
-taxonomy_5_first_letter: l
-taxonomy_5_first_letter_upper: L
-taxonomy_5_length_1: l
-taxonomy_5_length_2: li
-taxonomy_5_length_3: lin
-taxonomy_5_length_4: line
-taxonomy_5_length_5: linea
-taxonomy_5_upper: LINEAR_VOLTAGE_REGULATOR
-taxonomy_5_upper_length_1: L
-taxonomy_5_upper_length_2: LI
-taxonomy_5_upper_length_3: LIN
-taxonomy_5_upper_length_4: LINE
-taxonomy_5_upper_length_5: LINEA
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -2050,8 +1937,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_128x32_i2_c_oled_breakout_pcb_adafruit_oled_128x32_mono_i2_c_stemma_qt_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB/blob/master/Adafruit%20OLED%20128x32%20Mono%20I2C%20STEMMA%20QT%20rev%20B.brd
   github_url: https://github.com/adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB
-  name: Project adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB Adafruit OLED 128x32
-    Mono I2 C STEMMA QT current
+  name: Project adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB Adafruit OLED 128x32 Mono I2 C STEMMA QT current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_128x32_i2_c_oled_breakout_pcb_adafruit_oled_128x32_mono_i2_c_stemma_qt_current
   project_id: oomp_project_github_adafruit_adafruit_128x32_i2_c_oled_breakout_pcb_adafruit_oled_128x32_mono_i2_c_stemma_qt_current
   quantity: 1
@@ -2061,8 +1947,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_128x64_monochrome_oled_pcb_0_96in_128x64_oled_stemma_qt_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-128x64-Monochrome-OLED-PCB/blob/master/Adafruit%200.96in%20128x64%20OLED%20STEMMA%20QT.brd
   github_url: https://github.com/adafruit/Adafruit-128x64-Monochrome-OLED-PCB
-  name: Project adafruit/Adafruit-128x64-Monochrome-OLED-PCB 0.96in 128x64 OLED STEMMA
-    QT current
+  name: Project adafruit/Adafruit-128x64-Monochrome-OLED-PCB 0.96in 128x64 OLED STEMMA QT current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_128x64_monochrome_oled_pcb_0_96in_128x64_oled_stemma_qt_current
   project_id: oomp_project_github_adafruit_adafruit_128x64_monochrome_oled_pcb_0_96in_128x64_oled_stemma_qt_current
   quantity: 1
@@ -2072,8 +1957,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_1_28_240x240_round_display_pcb_adafruit_1_28_240x240_round_display_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-1.28-240x240-Round-Display-PCB/blob/main/Adafruit%201.28%20240x240%20Round%20Display.brd
   github_url: https://github.com/adafruit/Adafruit-1.28-240x240-Round-Display-PCB
-  name: Project adafruit/Adafruit-1.28-240x240-Round-Display-PCB Adafruit 1.28 240x240
-    Round Display current
+  name: Project adafruit/Adafruit-1.28-240x240-Round-Display-PCB Adafruit 1.28 240x240 Round Display current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_1_28_240x240_round_display_pcb_adafruit_1_28_240x240_round_display_current
   project_id: oomp_project_github_adafruit_adafruit_1_28_240x240_round_display_pcb_adafruit_1_28_240x240_round_display_current
   quantity: 1
@@ -2083,8 +1967,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_1_3_inch_240x240_tft_pcb_adafruit_1_3in_240x240_ips_tft_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-1.3-inch-240x240-TFT-PCB/blob/master/Adafruit%201.3in%20240x240%20IPS%20TFT.brd
   github_url: https://github.com/adafruit/Adafruit-1.3-inch-240x240-TFT-PCB
-  name: Project adafruit/Adafruit-1.3-inch-240x240-TFT-PCB Adafruit 1.3in 240x240
-    IPS TFT current
+  name: Project adafruit/Adafruit-1.3-inch-240x240-TFT-PCB Adafruit 1.3in 240x240 IPS TFT current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_1_3_inch_240x240_tft_pcb_adafruit_1_3in_240x240_ips_tft_current
   project_id: oomp_project_github_adafruit_adafruit_1_3_inch_240x240_tft_pcb_adafruit_1_3in_240x240_ips_tft_current
   quantity: 1
@@ -2094,8 +1977,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_2_0_inch_240x320_tft_pcb_adafruit_2_0_inch_240x320_ips_tft_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-2.0-inch-240x320-TFT-PCB/blob/master/Adafruit%202.0%20inch%20240x320%20IPS%20TFT.brd
   github_url: https://github.com/adafruit/Adafruit-2.0-inch-240x320-TFT-PCB
-  name: Project adafruit/Adafruit-2.0-inch-240x320-TFT-PCB Adafruit 2.0 inch 240x320
-    IPS TFT current
+  name: Project adafruit/Adafruit-2.0-inch-240x320-TFT-PCB Adafruit 2.0 inch 240x320 IPS TFT current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_2_0_inch_240x320_tft_pcb_adafruit_2_0_inch_240x320_ips_tft_current
   project_id: oomp_project_github_adafruit_adafruit_2_0_inch_240x320_tft_pcb_adafruit_2_0_inch_240x320_ips_tft_current
   quantity: 1
@@ -2135,8 +2017,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_bluefruit_le_usb_friend_and_sniffer_pcb_adafrruit_bluefruit_le_usb_friend_cp2102_n_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB/blob/master/Adafrruit%20Bluefruit%20LE%20USB%20Friend%20CP2102N.brd
   github_url: https://github.com/adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB
-  name: Project adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB Adafrruit
-    Bluefruit LE USB Friend CP2102 N current
+  name: Project adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB Adafrruit Bluefruit LE USB Friend CP2102 N current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_bluefruit_le_usb_friend_and_sniffer_pcb_adafrruit_bluefruit_le_usb_friend_cp2102_n_current
   project_id: oomp_project_github_adafruit_adafruit_bluefruit_le_usb_friend_and_sniffer_pcb_adafrruit_bluefruit_le_usb_friend_cp2102_n_current
   quantity: 1
@@ -2216,8 +2097,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_circuit_playground_express_pcb_adafruit_circuit_playground_express_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Circuit-Playground-Express-PCB/blob/master/Adafruit%20Circuit%20Playground%20Express.brd
   github_url: https://github.com/adafruit/Adafruit-Circuit-Playground-Express-PCB
-  name: Project adafruit/Adafruit-Circuit-Playground-Express-PCB Adafruit Circuit
-    Playground Express current
+  name: Project adafruit/Adafruit-Circuit-Playground-Express-PCB Adafruit Circuit Playground Express current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_circuit_playground_express_pcb_adafruit_circuit_playground_express_current
   project_id: oomp_project_github_adafruit_adafruit_circuit_playground_express_pcb_adafruit_circuit_playground_express_current
   quantity: 1
@@ -2237,8 +2117,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs/blob/master/Adafruit%202.7in%20Tri-Color%20eInk%20Display.brd
   github_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
-  name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.7in Tri
-    Color e Ink Display current
+  name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.7in Tri Color e Ink Display current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_current
   project_id: oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_current
   quantity: 1
@@ -2248,8 +2127,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_with_eyespi_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs/blob/master/Adafruit%202.7in%20Tri-Color%20eInk%20Display%20with%20EYESPI.brd
   github_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
-  name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.7in Tri
-    Color e Ink Display with EYESPI current
+  name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.7in Tri Color e Ink Display with EYESPI current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_with_eyespi_current
   project_id: oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_7in_tri_color_e_ink_display_with_eyespi_current
   quantity: 1
@@ -2259,8 +2137,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_9in_e_ink_display_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs/blob/master/Adafruit%202.9in%20eInk%20Display.brd
   github_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
-  name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.9in e Ink
-    Display current
+  name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit 2.9in e Ink Display current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_9in_e_ink_display_current
   project_id: oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_2_9in_e_ink_display_current
   quantity: 1
@@ -2270,8 +2147,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_e_ink_breakout_friend_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs/blob/master/Adafruit%20eInk%20Breakout%20Friend.brd
   github_url: https://github.com/adafruit/Adafruit-E-Paper-Display-Breakout-PCBs
-  name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit e Ink Breakout
-    Friend current
+  name: Project adafruit/Adafruit-E-Paper-Display-Breakout-PCBs Adafruit e Ink Breakout Friend current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_e_ink_breakout_friend_current
   project_id: oomp_project_github_adafruit_adafruit_e_paper_display_breakout_pcbs_adafruit_e_ink_breakout_friend_current
   quantity: 1
@@ -2291,8 +2167,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_m0_rfm_lo_ra_pcb_adafruit_feather_m0_rfmxx_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB/blob/master/Adafruit%20Feather%20M0%20RFMxx.brd
   github_url: https://github.com/adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB
-  name: Project adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB Adafruit Feather M0 RFMxx
-    current
+  name: Project adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB Adafruit Feather M0 RFMxx current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_m0_rfm_lo_ra_pcb_adafruit_feather_m0_rfmxx_current
   project_id: oomp_project_github_adafruit_adafruit_feather_m0_rfm_lo_ra_pcb_adafruit_feather_m0_rfmxx_current
   quantity: 1
@@ -2322,8 +2197,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_grand_central_pcb_adafruit_grand_central_m4_express_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Grand-Central-PCB/blob/master/Adafruit%20Grand%20Central%20M4%20Express%20rev%20B.brd
   github_url: https://github.com/adafruit/Adafruit-Grand-Central-PCB
-  name: Project adafruit/Adafruit-Grand-Central-PCB Adafruit Grand Central M4 Express
-    current
+  name: Project adafruit/Adafruit-Grand-Central-PCB Adafruit Grand Central M4 Express current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_grand_central_pcb_adafruit_grand_central_m4_express_current
   project_id: oomp_project_github_adafruit_adafruit_grand_central_pcb_adafruit_grand_central_m4_express_current
   quantity: 1
@@ -2333,8 +2207,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB/blob/main/Adafruit%20High%20Voltage%20UPDI%20Friend.brd
   github_url: https://github.com/adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB
-  name: Project adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB Adafruit High Voltage
-    UPDI Friend current
+  name: Project adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB Adafruit High Voltage UPDI Friend current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current
   project_id: oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current
   quantity: 1
@@ -2344,8 +2217,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_i2_c_qt_rotary_encoder_pcb_adafruit_i2_c_qt_rotary_encoder_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB/blob/main/Adafruit%20I2C%20QT%20Rotary%20Encoder.brd
   github_url: https://github.com/adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB
-  name: Project adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB Adafruit I2 C QT Rotary
-    Encoder current
+  name: Project adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB Adafruit I2 C QT Rotary Encoder current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_i2_c_qt_rotary_encoder_pcb_adafruit_i2_c_qt_rotary_encoder_current
   project_id: oomp_project_github_adafruit_adafruit_i2_c_qt_rotary_encoder_pcb_adafruit_i2_c_qt_rotary_encoder_current
   quantity: 1
@@ -2355,8 +2227,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_itsy_bitsy_m4_express_pcb_adafruit_itsy_bitsy_m4_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB/blob/master/Adafruit%20ItsyBitsy%20M4.brd
   github_url: https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB
-  name: Project adafruit/Adafruit-ItsyBitsy-M4-Express-PCB Adafruit Itsy Bitsy M4
-    current
+  name: Project adafruit/Adafruit-ItsyBitsy-M4-Express-PCB Adafruit Itsy Bitsy M4 current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_itsy_bitsy_m4_express_pcb_adafruit_itsy_bitsy_m4_current
   project_id: oomp_project_github_adafruit_adafruit_itsy_bitsy_m4_express_pcb_adafruit_itsy_bitsy_m4_current
   quantity: 1
@@ -2366,8 +2237,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_itsy_bitsy_rp2040_pcb_adafruit_itsy_bitsy_rp2040_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/blob/main/Adafruit%20ItsyBitsy%20RP2040.brd
   github_url: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
-  name: Project adafruit/Adafruit-ItsyBitsy-RP2040-PCB Adafruit Itsy Bitsy RP2040
-    current
+  name: Project adafruit/Adafruit-ItsyBitsy-RP2040-PCB Adafruit Itsy Bitsy RP2040 current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_itsy_bitsy_rp2040_pcb_adafruit_itsy_bitsy_rp2040_current
   project_id: oomp_project_github_adafruit_adafruit_itsy_bitsy_rp2040_pcb_adafruit_itsy_bitsy_rp2040_current
   quantity: 1
@@ -2467,8 +2337,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_metro_m7_with_air_lift_pcb_adafruit_metro_m7_i_mx_rt1011_with_air_lift_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Metro-M7-with-AirLift-PCB/blob/main/Adafruit%20Metro%20M7%20iMX%20RT1011%20with%20AirLift.brd
   github_url: https://github.com/adafruit/Adafruit-Metro-M7-with-AirLift-PCB
-  name: Project adafruit/Adafruit-Metro-M7-with-AirLift-PCB Adafruit Metro M7 i MX
-    RT1011 with Air Lift current
+  name: Project adafruit/Adafruit-Metro-M7-with-AirLift-PCB Adafruit Metro M7 i MX RT1011 with Air Lift current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_metro_m7_with_air_lift_pcb_adafruit_metro_m7_i_mx_rt1011_with_air_lift_current
   project_id: oomp_project_github_adafruit_adafruit_metro_m7_with_air_lift_pcb_adafruit_metro_m7_i_mx_rt1011_with_air_lift_current
   quantity: 1
@@ -2478,8 +2347,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_metro_m7_with_micro_sd_pcb_adafruit_metro_m7_with_micro_sd_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Metro-M7-with-microSD-PCB/blob/main/Adafruit%20Metro%20M7%20with%20microSD.brd
   github_url: https://github.com/adafruit/Adafruit-Metro-M7-with-microSD-PCB
-  name: Project adafruit/Adafruit-Metro-M7-with-microSD-PCB Adafruit Metro M7 with
-    micro SD current
+  name: Project adafruit/Adafruit-Metro-M7-with-microSD-PCB Adafruit Metro M7 with micro SD current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_metro_m7_with_micro_sd_pcb_adafruit_metro_m7_with_micro_sd_current
   project_id: oomp_project_github_adafruit_adafruit_metro_m7_with_micro_sd_pcb_adafruit_metro_m7_with_micro_sd_current
   quantity: 1
@@ -2509,8 +2377,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_mlx90640_pcb_adafruit_mlx90640_ir_thermal_camera_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-MLX90640-PCB/blob/master/Adafruit%20MLX90640%20IR%20Thermal%20Camera.brd
   github_url: https://github.com/adafruit/Adafruit-MLX90640-PCB
-  name: Project adafruit/Adafruit-MLX90640-PCB Adafruit MLX90640 IR Thermal Camera
-    current
+  name: Project adafruit/Adafruit-MLX90640-PCB Adafruit MLX90640 IR Thermal Camera current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_mlx90640_pcb_adafruit_mlx90640_ir_thermal_camera_current
   project_id: oomp_project_github_adafruit_adafruit_mlx90640_pcb_adafruit_mlx90640_ir_thermal_camera_current
   quantity: 1
@@ -2560,8 +2427,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure/blob/master/Adafruit%20NeoTrellis%20M4.brd
   github_url: https://github.com/adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure
-  name: Project adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure Adafruit Neo Trellis
-    M4 current
+  name: Project adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure Adafruit Neo Trellis M4 current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current
   project_id: oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current
   quantity: 1
@@ -2591,8 +2457,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_pa1010_d_mini_gps_pcb_adafruit_pa1010_d_mini_gps_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-PA1010D-Mini-GPS-PCB/blob/master/Adafruit%20PA1010D%20Mini%20GPS.brd
   github_url: https://github.com/adafruit/Adafruit-PA1010D-Mini-GPS-PCB
-  name: Project adafruit/Adafruit-PA1010D-Mini-GPS-PCB Adafruit PA1010 D Mini GPS
-    current
+  name: Project adafruit/Adafruit-PA1010D-Mini-GPS-PCB Adafruit PA1010 D Mini GPS current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_pa1010_d_mini_gps_pcb_adafruit_pa1010_d_mini_gps_current
   project_id: oomp_project_github_adafruit_adafruit_pa1010_d_mini_gps_pcb_adafruit_pa1010_d_mini_gps_current
   quantity: 1
@@ -2682,8 +2547,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_rfm_lo_ra_radio_breakout_pcb_adafruit_rfm_lo_ra_breakout_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB/blob/master/Adafruit%20RFM%2BLoRa%20Breakout.brd
   github_url: https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB
-  name: Project adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB Adafruit RFM+Lo Ra Breakout
-    current
+  name: Project adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB Adafruit RFM+Lo Ra Breakout current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_rfm_lo_ra_radio_breakout_pcb_adafruit_rfm_lo_ra_breakout_current
   project_id: oomp_project_github_adafruit_adafruit_rfm_lo_ra_radio_breakout_pcb_adafruit_rfm_lo_ra_breakout_current
   quantity: 1
@@ -2713,8 +2577,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_sharp_memory_display_pcbs_adafruit_2_7in_sharp_memory_display_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Sharp-Memory-Display-PCBs/blob/master/Adafruit%202.7in%20Sharp%20Memory%20Display.brd
   github_url: https://github.com/adafruit/Adafruit-Sharp-Memory-Display-PCBs
-  name: Project adafruit/Adafruit-Sharp-Memory-Display-PCBs Adafruit 2.7in Sharp Memory
-    Display current
+  name: Project adafruit/Adafruit-Sharp-Memory-Display-PCBs Adafruit 2.7in Sharp Memory Display current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_sharp_memory_display_pcbs_adafruit_2_7in_sharp_memory_display_current
   project_id: oomp_project_github_adafruit_adafruit_sharp_memory_display_pcbs_adafruit_2_7in_sharp_memory_display_current
   quantity: 1
@@ -2744,8 +2607,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_tmf8801_time_of_flight_distance_sensor_pcb_adafruit_tmf8801_time_of_flight_sensor_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-TMF8801-Time-of-Flight-Distance-Sensor-PCB/blob/main/Adafruit%20TMF8801%20Time%20of%20Flight%20Sensor%20rev%20B.brd
   github_url: https://github.com/adafruit/Adafruit-TMF8801-Time-of-Flight-Distance-Sensor-PCB
-  name: Project adafruit/Adafruit-TMF8801-Time-of-Flight-Distance-Sensor-PCB Adafruit
-    TMF8801 Time of Flight Sensor current
+  name: Project adafruit/Adafruit-TMF8801-Time-of-Flight-Distance-Sensor-PCB Adafruit TMF8801 Time of Flight Sensor current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_tmf8801_time_of_flight_distance_sensor_pcb_adafruit_tmf8801_time_of_flight_sensor_current
   project_id: oomp_project_github_adafruit_adafruit_tmf8801_time_of_flight_distance_sensor_pcb_adafruit_tmf8801_time_of_flight_sensor_current
   quantity: 1
@@ -2755,8 +2617,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_tmf8806_time_of_flight_distance_sensor_pcb_adafruit_tmf8806_time_of_flight_sensor_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-TMF8806-Time-of-Flight-Distance-Sensor-PCB/blob/main/Adafruit%20TMF8806%20Time%20of%20Flight%20Sensor%20rev%20B.brd
   github_url: https://github.com/adafruit/Adafruit-TMF8806-Time-of-Flight-Distance-Sensor-PCB
-  name: Project adafruit/Adafruit-TMF8806-Time-of-Flight-Distance-Sensor-PCB Adafruit
-    TMF8806 Time of Flight Sensor current
+  name: Project adafruit/Adafruit-TMF8806-Time-of-Flight-Distance-Sensor-PCB Adafruit TMF8806 Time of Flight Sensor current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_tmf8806_time_of_flight_distance_sensor_pcb_adafruit_tmf8806_time_of_flight_sensor_current
   project_id: oomp_project_github_adafruit_adafruit_tmf8806_time_of_flight_distance_sensor_pcb_adafruit_tmf8806_time_of_flight_sensor_current
   quantity: 1
@@ -2826,8 +2687,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_wii_nunchuck_breakout_adapter_pcb_adafruit_wii_nunchuck_breakout_adapter_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB/blob/main/Adafruit%20Wii%20Nunchuck%20Breakout%20Adapter.brd
   github_url: https://github.com/adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB
-  name: Project adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB Adafruit Wii Nunchuck
-    Breakout Adapter current
+  name: Project adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB Adafruit Wii Nunchuck Breakout Adapter current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_wii_nunchuck_breakout_adapter_pcb_adafruit_wii_nunchuck_breakout_adapter_current
   project_id: oomp_project_github_adafruit_adafruit_wii_nunchuck_breakout_adapter_pcb_adafruit_wii_nunchuck_breakout_adapter_current
   quantity: 1
@@ -2864,3 +2724,48 @@ used_in_projects:
   references:
   - U2
   version: current
+taxonomy_5: sot_23_5
+taxonomy_5_capital: Sot 23.5
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sot
+taxonomy_5_length_4: sot_
+taxonomy_5_length_5: sot_2
+taxonomy_5_upper: SOT_23_5
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOT
+taxonomy_5_upper_length_4: SOT_
+taxonomy_5_upper_length_5: SOT_2
+taxonomy_3: power_management
+taxonomy_3_capital: Power Management
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: po
+taxonomy_3_length_3: pow
+taxonomy_3_length_4: powe
+taxonomy_3_length_5: power
+taxonomy_3_upper: POWER_MANAGEMENT
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PO
+taxonomy_3_upper_length_3: POW
+taxonomy_3_upper_length_4: POWE
+taxonomy_3_upper_length_5: POWER
+taxonomy_4: linear_voltage_regulator
+taxonomy_4_capital: Linear Voltage Regulator
+taxonomy_4_first_letter: l
+taxonomy_4_first_letter_upper: L
+taxonomy_4_length_1: l
+taxonomy_4_length_2: li
+taxonomy_4_length_3: lin
+taxonomy_4_length_4: line
+taxonomy_4_length_5: linea
+taxonomy_4_upper: LINEAR_VOLTAGE_REGULATOR
+taxonomy_4_upper_length_1: L
+taxonomy_4_upper_length_2: LI
+taxonomy_4_upper_length_3: LIN
+taxonomy_4_upper_length_4: LINE
+taxonomy_4_upper_length_5: LINEA

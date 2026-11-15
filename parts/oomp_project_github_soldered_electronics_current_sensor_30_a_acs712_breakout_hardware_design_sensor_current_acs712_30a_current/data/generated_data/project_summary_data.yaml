@@ -3156,7 +3156,7 @@ placement:
     x: 129.0
     y: 119.9
     rotation: 0.0
-    oomp_id: electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712
+    oomp_id: electronic_ic_sensor_hall_effect_current_sensor_soic_8_allegro_acs712
     bounds:
       min_x: 125.525
       min_y: 117.39
@@ -3753,7 +3753,7 @@ placement:
     x: 144.55
     y: 126.175
     rotation: -180.0
-    oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+    oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
     bounds:
       min_x: 142.7
       min_y: 124.665
@@ -4150,7 +4150,7 @@ placement:
     x: 127.38
     y: 110.54
     rotation: -180.0
-    oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+    oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
     bounds:
       min_x: 125.53
       min_y: 109.03
@@ -4862,16 +4862,16 @@ bom:
 - description: IC Sensor Hall Effect Current Sensor Allegro SOIC_8
   value: ACS712
   footprint: e-radionica.com footprinti:SOIC-8-SWB
-  oomp_id: electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712
+  oomp_id: electronic_ic_sensor_hall_effect_current_sensor_soic_8_allegro_acs712
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sensor_hall_effect_current_sensor_soic_8_allegro_acs712
   references:
   - U1
   quantity: 1
 - description: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5
   value: OPA344
   footprint: e-radionica.com footprinti:SOT-23-5
-  oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+  oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
   references:
   - U2
   - U3
@@ -5080,7 +5080,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712
+  - oomp_id: electronic_ic_sensor_hall_effect_current_sensor_soic_8_allegro_acs712
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg
@@ -5091,7 +5091,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+  - oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg

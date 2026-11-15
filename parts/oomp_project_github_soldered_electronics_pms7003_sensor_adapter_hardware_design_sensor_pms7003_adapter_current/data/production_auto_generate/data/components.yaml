@@ -209,7 +209,7 @@ components:
 - reference: U1
   value: TPS613222A
   footprint: e-radionica.com footprinti:tps613222a
-  oomp_id: electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a
+  oomp_id: electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null

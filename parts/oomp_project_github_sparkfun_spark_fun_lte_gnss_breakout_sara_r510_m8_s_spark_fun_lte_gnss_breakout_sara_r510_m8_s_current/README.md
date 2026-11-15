@@ -142,7 +142,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | S3 | 1 | SARA_PWR | SARA_PWR | `SparkFun_LTE_GNSS_Breakout_SARA-R510M8S-import-fps:TACTILE_SWITCH_SMD_5.2MM` | unmatched |
 | SERIAL0 | 1 | Connector Header 2.54-1*10P针 |  | `SparkFun_LTE_GNSS_Breakout_SARA-R510M8S-import-fps:1X10_NO_SILK` | [`electronic_connector_header_2_54_mm_pitch_through_hole_10_pin`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_10_pin) |
 | U1 | 1 | SARA-R510M8S | SARA-R510M8S | `SparkFun_LTE_GNSS_Breakout_SARA-R510M8S-import-fps:SARA-LGA` | unmatched |
-| U2 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun_LTE_GNSS_Breakout_SARA-R510M8S-import-fps:SO016` | [`electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c) |
+| U2 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun_LTE_GNSS_Breakout_SARA-R510M8S-import-fps:SO016` | [`electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c) |
 | U3 | 1 | 3.3V | 3.3V | `SparkFun_LTE_GNSS_Breakout_SARA-R510M8S-import-fps:SOT23-5` | unmatched |
 | U4 | 1 | CH340E_MSOP10 | CH340E_MSOP10 | `SparkFun_LTE_GNSS_Breakout_SARA-R510M8S-import-fps:MSOP10` | unmatched |
 | U5 | 1 | AP7361C-33FGE | AP7361C-33FGE | `SparkFun_LTE_GNSS_Breakout_SARA-R510M8S-import-fps:UDFN-8` | unmatched |

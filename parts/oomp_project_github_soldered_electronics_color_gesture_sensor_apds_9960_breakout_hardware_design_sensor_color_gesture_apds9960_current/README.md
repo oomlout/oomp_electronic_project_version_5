@@ -89,7 +89,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R1, R2, R3, R4, R5 | 5 | electronic resistor 0603 10000 ohm | 10k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
 | U1 | 1 | Sensor Broadcom Apds 9960 APDS 9960 | APDS-9960 | `e-radionica.com footprinti:APDS-9960` | [`electronic_sensor_apds_9960_broadcom_apds_9960`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_apds_9960_broadcom_apds_9960) |
 | U2 | 1 | Transistor Mosfet N Channel Dual SOT 363 6 | NMOS-DUAL | `e-radionica.com footprinti:SOT-363` | [`electronic_transistor_sot_363_6_mosfet_n_channel_dual`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_363_6_mosfet_n_channel_dual) |
-| U3 | 1 | IC Power Management Linear Voltage Regulator SE5218 SOT_23_5 | SE5218 | `e-radionica.com footprinti:SOT-23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218) |
+| U3 | 1 | IC Power Management Linear Voltage Regulator SE5218 SOT_23_5 | SE5218 | `e-radionica.com footprinti:SOT-23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218) |
 
 ## Main nets
 

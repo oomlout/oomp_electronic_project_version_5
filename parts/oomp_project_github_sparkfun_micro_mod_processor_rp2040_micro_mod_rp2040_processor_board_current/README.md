@@ -86,7 +86,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R10, R11 | 2 | Resistor 27 Ohm 0402 | 27 | `MicroMod-RP2040-ProcessorBoard-import-fps:0402-TIGHT` | [`electronic_resistor_0402_27_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_27_ohm) |
 | U1 | 1 | W25QXX128MBIT | W25QXX128MBIT | `MicroMod-RP2040-ProcessorBoard-import-fps:WSON-8-6X5-SKINNY_CENTERPAD` | unmatched |
 | U2 | 1 | FSUSB30MUX_MSOP10 | FSUSB30MUX_MSOP10 | `MicroMod-RP2040-ProcessorBoard-import-fps:MSOP10` | unmatched |
-| U3 | 1 | IC RP2040 QFN 56 7 MM X 7 MM | RP2040 | `MicroMod-RP2040-ProcessorBoard-import-fps:QFN-56` | [`electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040) |
+| U3 | 1 | IC RP2040 QFN 56 7 MM X 7 MM | RP2040 | `MicroMod-RP2040-ProcessorBoard-import-fps:QFN-56` | [`electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040) |
 | Y1 | 1 | 12MHz | 12MHz | `MicroMod-RP2040-ProcessorBoard-import-fps:CRYSTAL-SMD-2X2.5MM` | unmatched |
 
 ## Main nets

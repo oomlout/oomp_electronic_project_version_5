@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C1,10uF,Adafruit Grand Central M4 Express rev B-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C2,10uF,Adafruit Grand Central M4 Express rev B-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C3,10uF,Adafruit Grand Central M4 Express rev B-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -43,7 +43,7 @@ T2,DMP3098L-7,Adafruit Grand Central M4 Express rev B-import-fps:SOT-23,,No veri
 TR1,DMP3098L-7,Adafruit Grand Central M4 Express rev B-import-fps:SOT-23,,No verified LCSC part number
 TXLED0,YELLOW,Adafruit Grand Central M4 Express rev B-import-fps:CHIPLED_0805_NOOUTLINE,electronic_led_0805_yellow,No verified LCSC part number
 U1,NCP1117ST50T3G,Adafruit Grand Central M4 Express rev B-import-fps:SOT223-R,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit Grand Central M4 Express rev B-import-fps:SOT23-DBV,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit Grand Central M4 Express rev B-import-fps:SOT23-DBV,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U3,GD25Q64,Adafruit Grand Central M4 Express rev B-import-fps:SOIC8_208MIL,,No verified LCSC part number
 U$1,SAMD51PXXA,Adafruit Grand Central M4 Express rev B-import-fps:SQFP-S-14X14-128,,No verified LCSC part number
 U$23,,Adafruit Grand Central M4 Express rev B-import-fps:GRANDCENTRAL_REVB-BOT,,No verified LCSC part number

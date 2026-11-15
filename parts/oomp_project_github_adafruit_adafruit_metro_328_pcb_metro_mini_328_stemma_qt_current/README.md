@@ -108,7 +108,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | U1 | 1 | MIC5225-5.0 | MIC5225-5.0 | `Metro Mini 328 V2 - STEMMA QT-import-fps:SOT23-5` | unmatched |
 | U2 | 1 | ATMEGA328P | ATMEGA328P | `Metro Mini 328 V2 - STEMMA QT-import-fps:QFN28_4MM_.45MM` | unmatched |
 | U3 | 1 | CP210x | CP210x | `Metro Mini 328 V2 - STEMMA QT-import-fps:QFN24_4MM_SMSC` | unmatched |
-| U4 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Metro Mini 328 V2 - STEMMA QT-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U4 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Metro Mini 328 V2 - STEMMA QT-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | X3 | 1 | USB C | USB C | `Metro Mini 328 V2 - STEMMA QT-import-fps:USB_C_CUSB31-CFM2AX-01-X` | unmatched |
 | Y2 | 1 | CSTCE16M0V53-R0 16MHZ | CSTCE16M0V53-R0 16MHZ | `Metro Mini 328 V2 - STEMMA QT-import-fps:RESONATOR` | unmatched |
 

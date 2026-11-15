@@ -62,18 +62,18 @@ entries:
 - oomp_id: electronic_diode_schottky_sod_323_bat54w
   kind: hand_solder
   file: OOMP_HandSolder.pretty/electronic_diode_schottky_sod_323_bat54w.kicad_mod
-- oomp_id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+- oomp_id: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
   kind: machine_solder
-  file: OOMP_MachineSolder.pretty/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e.kicad_mod
-- oomp_id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+  file: OOMP_MachineSolder.pretty/electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e.kicad_mod
+- oomp_id: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
   kind: hand_solder
-  file: OOMP_HandSolder.pretty/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e.kicad_mod
-- oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+  file: OOMP_HandSolder.pretty/electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e.kicad_mod
+- oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
   kind: machine_solder
-  file: OOMP_MachineSolder.pretty/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33.kicad_mod
-- oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+  file: OOMP_MachineSolder.pretty/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33.kicad_mod
+- oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
   kind: hand_solder
-  file: OOMP_HandSolder.pretty/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33.kicad_mod
+  file: OOMP_HandSolder.pretty/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33.kicad_mod
 - oomp_id: electronic_led_0603_red
   kind: symbol
   file: OOMP.kicad_sym
@@ -188,11 +188,11 @@ parts:
 - oomp_id: electronic_diode_schottky_sod_323_bat54w
   status: complete
   issues: []
-- oomp_id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+- oomp_id: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
   status: needs_review
   issues:
   - 'Official symbol master unavailable: not selected'
-- oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+- oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
   status: needs_review
   issues:
   - 'Official symbol master unavailable: not selected'

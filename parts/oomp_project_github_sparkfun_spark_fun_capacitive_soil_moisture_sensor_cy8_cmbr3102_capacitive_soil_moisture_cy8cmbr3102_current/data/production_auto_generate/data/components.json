@@ -650,7 +650,7 @@
       "reference": "U1",
       "value": "CY8CMBR3102",
       "footprint": "SparkFun-Semiconductor-Standard:SO-8",
-      "oomp_id": "electronic_ic_soic_8_capacitive_touch_controller_controller_infineon_cy8cmbr3102",
+      "oomp_id": "electronic_ic_capacitive_touch_controller_controller_soic_8_infineon_cy8cmbr3102",
       "lcsc_part_number": null,
       "manufacturer": null,
       "manufacturer_part_number": null,

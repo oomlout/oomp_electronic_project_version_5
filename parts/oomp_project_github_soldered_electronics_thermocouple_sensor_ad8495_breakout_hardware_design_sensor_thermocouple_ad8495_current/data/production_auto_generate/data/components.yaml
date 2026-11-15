@@ -284,7 +284,7 @@ components:
 - reference: U1
   value: TL431ACDBZ
   footprint: e-radionica.com footprinti:SOT-23-3
-  oomp_id: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+  oomp_id: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null
@@ -313,7 +313,7 @@ components:
 - reference: U2
   value: AD8495ARMZ
   footprint: e-radionica.com footprinti:TP4056M-MSOP8
-  oomp_id: electronic_ic_msop_8_amplifier_thermocouple_amplifier_texas_instruments_ad8495armz
+  oomp_id: electronic_ic_amplifier_thermocouple_amplifier_msop_8_texas_instruments_ad8495armz
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null

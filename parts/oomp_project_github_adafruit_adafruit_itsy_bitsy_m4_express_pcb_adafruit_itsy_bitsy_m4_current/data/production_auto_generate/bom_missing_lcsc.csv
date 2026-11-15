@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C6,10µF,Adafruit ItsyBitsy M4-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C8,10µF,Adafruit ItsyBitsy M4-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C9,10uF,Adafruit ItsyBitsy M4-import-fps:_0805MP,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -10,7 +10,7 @@ L0,RED,Adafruit ItsyBitsy M4-import-fps:CHIPLED_0603_NOOUTLINE,electronic_led_06
 L2,AP102-2020,Adafruit ItsyBitsy M4-import-fps:APA102_2020,,No verified LCSC part number
 SW1,SPST_TACT-KMR2,Adafruit ItsyBitsy M4-import-fps:KMR2,,No verified LCSC part number
 U1,GD25x16,Adafruit ItsyBitsy M4-import-fps:USON8,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit ItsyBitsy M4-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit ItsyBitsy M4-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U$4,,Adafruit ItsyBitsy M4-import-fps:ITSYM4_TOP,,No verified LCSC part number
 U$5,,Adafruit ItsyBitsy M4-import-fps:ITSYM4_BOT,,No verified LCSC part number
 U$6,,Adafruit ItsyBitsy M4-import-fps:PCBFEAT-REV-040,,No verified LCSC part number

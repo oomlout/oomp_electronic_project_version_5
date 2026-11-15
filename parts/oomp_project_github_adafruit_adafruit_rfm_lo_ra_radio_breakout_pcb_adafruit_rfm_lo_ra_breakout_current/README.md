@@ -81,7 +81,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R1, R2, R3 | 3 | Resistor 100000 Ohm 0805 | 100K | `Adafruit RFM+LoRa Breakout-import-fps:0805-NO` | [`electronic_resistor_0805_100000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0805_100000_ohm) |
 | U1 | 1 | RFM69HCW | RFM69HCW | `Adafruit RFM+LoRa Breakout-import-fps:RFMHCW_SMT` | unmatched |
 | U2 | 1 | 74HC4050D | 74HC4050D | `Adafruit RFM+LoRa Breakout-import-fps:TSSOP16` | unmatched |
-| U3 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit RFM+LoRa Breakout-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U3 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit RFM+LoRa Breakout-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | X1 | 1 | uFL/SMA | uFL/SMA | `Adafruit RFM+LoRa Breakout-import-fps:SMA_EDGELAUNCH_UFL` | unmatched |
 
 ## Main nets

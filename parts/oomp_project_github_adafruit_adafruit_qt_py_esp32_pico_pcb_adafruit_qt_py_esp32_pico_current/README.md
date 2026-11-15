@@ -99,7 +99,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R4 | 1 | Resistor 22000 Ohm 0402 | 22K | `Adafruit QT Py ESP32 Pico-import-fps:_0402NO` | [`electronic_resistor_0402_22000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_22000_ohm) |
 | R5, R6 | 2 | Resistor 5100 Ohm 0402 | 5.1K | `Adafruit QT Py ESP32 Pico-import-fps:_0402NO` | [`electronic_resistor_0402_5100_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_5100_ohm) |
 | SWC1, SWC2 | 2 | TPB1,27 | TPB1,27 | `Adafruit QT Py ESP32 Pico-import-fps:B1,27` | unmatched |
-| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit QT Py ESP32 Pico-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit QT Py ESP32 Pico-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | X1 | 1 | 2.4GHz | 2.4GHz | `Adafruit QT Py ESP32 Pico-import-fps:ANT_2450AT18B100` | unmatched |
 | X2 | 1 | ESP-32-PICO-V3-02 | ESP-32-PICO-V3-02 | `Adafruit QT Py ESP32 Pico-import-fps:QFN48_7X7` | unmatched |
 | X6 | 1 | USB TYPE C | USB TYPE C | `Adafruit QT Py ESP32 Pico-import-fps:USB_C_CUSB31-CFM2AX-01-X` | unmatched |

@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C2,10uF,Adafruit Metro RP2040-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C3,10uF,Adafruit Metro RP2040-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C5,10uF,Adafruit Metro RP2040-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -29,7 +29,7 @@ T2,DMP3098L,Adafruit Metro RP2040-import-fps:SOT23-WIDE,,No verified LCSC part n
 TP1,,Adafruit Metro RP2040-import-fps:TESTPOINT_ROUND_1.5MM_NO,,No verified LCSC part number
 TR1,DMP3098L,Adafruit Metro RP2040-import-fps:SOT23-WIDE,,No verified LCSC part number
 U1,NCP1117ST50T3G,Adafruit Metro RP2040-import-fps:SOT223-R,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit Metro RP2040-import-fps:SOT23-DBV,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit Metro RP2040-import-fps:SOT23-DBV,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U6,W25Q128,Adafruit Metro RP2040-import-fps:SOIC8_208MIL,,No verified LCSC part number
 U$11,,Adafruit Metro RP2040-import-fps:PCBFEAT-REV-040,,No verified LCSC part number
 U$15,,Adafruit Metro RP2040-import-fps:METRO_RP2040_BOT,,No verified LCSC part number

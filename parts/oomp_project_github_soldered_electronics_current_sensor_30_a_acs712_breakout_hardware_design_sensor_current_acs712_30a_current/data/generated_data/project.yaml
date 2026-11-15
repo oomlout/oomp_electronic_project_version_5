@@ -31996,9 +31996,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712
+    oomp_id: electronic_ic_sensor_hall_effect_current_sensor_soic_8_allegro_acs712
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712
+    proposed_oomp_id: electronic_ic_sensor_hall_effect_current_sensor_soic_8_allegro_acs712
     inferred:
       kind: null
       package_size: null
@@ -32892,9 +32892,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+    oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+    proposed_oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
     inferred:
       kind: null
       package_size: null
@@ -33762,9 +33762,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+    oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+    proposed_oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
     inferred:
       kind: null
       package_size: null

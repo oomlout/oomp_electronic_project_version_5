@@ -3087,9 +3087,9 @@
   "oomp": {
     "status": "matched",
     "accepted": true,
-    "oomp_id": "electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq",
+    "oomp_id": "electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq",
     "confidence": 1.0,
-    "proposed_oomp_id": "electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq",
+    "proposed_oomp_id": "electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq",
     "inferred": {
       "kind": null,
       "package_size": null,

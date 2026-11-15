@@ -1,40 +1,39 @@
 bip_39_2_word_array:
-- utility
-- beyond
-bip_39_2_word_no_space: utilitybeyond
-bip_39_2_word_space: utility beyond
-bip_39_2_word_underscore: utility_beyond
+- exit
+- height
+bip_39_2_word_no_space: exitheight
+bip_39_2_word_space: exit height
+bip_39_2_word_underscore: exit_height
 bip_39_3_word_array:
-- utility
-- beyond
-- oyster
-bip_39_3_word_no_space: utilitybeyondoyster
-bip_39_3_word_space: utility beyond oyster
-bip_39_3_word_underscore: utility_beyond_oyster
+- exit
+- height
+- seven
+bip_39_3_word_no_space: exitheightseven
+bip_39_3_word_space: exit height seven
+bip_39_3_word_underscore: exit_height_seven
 bip_39_full_array:
-- utility
-- beyond
-- oyster
-- disease
-- swift
-- same
-- crouch
-- matrix
-- quiz
-- soccer
-- liberty
-- color
-bip_39_full_no_space: utilitybeyondoysterdiseaseswiftsamecrouchmatrixquizsoccerlibertycolor
-bip_39_full_space: utility beyond oyster disease swift same crouch matrix quiz soccer
-  liberty color
-bip_39_full_underscore: utility_beyond_oyster_disease_swift_same_crouch_matrix_quiz_soccer_liberty_color
+- exit
+- height
+- seven
+- image
+- swallow
+- flame
+- meat
+- friend
+- alter
+- tumble
+- follow
+- spatial
+bip_39_full_no_space: exitheightsevenimageswallowflamemeatfriendaltertumblefollowspatial
+bip_39_full_space: exit height seven image swallow flame meat friend alter tumble follow spatial
+bip_39_full_underscore: exit_height_seven_image_swallow_flame_meat_friend_alter_tumble_follow_spatial
 category: power_management
 category_name: Power management
 dimensions_mm:
   height: 1.1
   length: 2.9
   width: 1.6
-directory: parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+directory: parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
 distributors: []
 ic_dimensions_mm:
   body_length: 2.92
@@ -49,42 +48,41 @@ ic_dimensions_mm:
   pin_length: 0.45
   pin_pitch: 0.95
   pin_width: 0.4
-id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
-id_no_class: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
-id_no_size: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
-id_no_type: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
+id_no_class: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
+id_no_size: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
+id_no_type: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
 kicad:
   hand_solder: Package_TO_SOT_SMD:SOT-23-5
   machine_solder: Package_TO_SOT_SMD:SOT-23-5
   symbol: ''
 lcsc_search: sot 23 5 power management linear voltage regulator se5218alg ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
 manufacturers: []
-md5: f042ba799f8dbd7dcd0c49aff9ba0396
-md5_10: f042ba799f
-md5_10_upper: F042BA799F
-md5_5: f042b
-md5_5_upper: F042B
-md5_6: f042ba
-md5_6_alpha: 9dhh6
-md5_6_alpha_upper: 9DHH6
-md5_6_upper: F042BA
-name: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator Se5218Alg
-name_no_class: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator Se5218Alg
-name_no_size: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator Se5218Alg
-name_no_type: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator Se5218Alg
+md5: 4fed5712b8adb0b0a282e7077d496ae8
+md5_10: 4fed5712b8
+md5_10_upper: 4FED5712B8
+md5_5: 4fed5
+md5_5_upper: 4FED5
+md5_6: 4fed57
+md5_6_alpha: 349qv
+md5_6_alpha_upper: 349QV
+md5_6_upper: 4FED57
+name: Electronic Ic Power Management Linear Voltage Regulator Sot 23 5 Se5218Alg
+name_no_class: Electronic Ic Power Management Linear Voltage Regulator Sot 23 5 Se5218Alg
+name_no_size: Electronic Ic Power Management Linear Voltage Regulator Sot 23 5 Se5218Alg
+name_no_type: Electronic Ic Power Management Linear Voltage Regulator Sot 23 5 Se5218Alg
 name_proper: IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5
 name_readable: IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5
 name_short: IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5
-name_space: electronic ic sot 23 5 power management linear voltage regulator se5218alg
+name_space: electronic ic power management linear voltage regulator sot 23 5 se5218alg
 name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR SE5218ALG
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -97,7 +95,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+    part_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -177,8 +175,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -193,7 +190,7 @@ oomlout_ai_roboclick_3:
         height: 1.1
         length: 2.9
         width: 1.6
-      directory: parts\electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+      directory: parts\electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
       distributors: []
       ic_dimensions_mm:
         body_length: 2.92
@@ -214,19 +211,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: sot 23 5 power management linear voltage regulator se5218alg ic
       manufacturers: []
-      name: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+      name: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
       name_proper: IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5
       name_readable: IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5
       name_short: IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5
-      name_space: electronic ic sot 23 5 power management linear voltage regulator
-        se5218alg
-      name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR
-        SE5218ALG
+      name_space: electronic ic power management linear voltage regulator sot 23 5 se5218alg
+      name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR SE5218ALG
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -236,11 +230,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+          part_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -320,8 +313,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -439,8 +431,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sot_23_5/power_management/linear_voltage_regulator/README.md
-        oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+        navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator/sot_23_5/README.md
+        oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
         pins:
         - name: '1'
           number: '1'
@@ -459,7 +451,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+          value: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
         - title: Type
           value: Ic
         - title: Package / style
@@ -468,22 +460,19 @@ oomlout_ai_roboclick_3:
           value: 2.9 × 1.6 mm
         - title: Documented pins
           value: 5
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
-        summary: IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5 is
-          an OOMP electronic ic definition. It uses the sot 23 5 package or form factor.
-          Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 5 documented
-          pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
+        summary: IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5 is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 5 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sot_23_5
-        - level: 4
           value: power_management
-        - level: 5
+        - level: 4
           value: linear_voltage_regulator
+        - level: 5
+          value: sot_23_5
         - level: 15
           value: se5218alg
       pins:
@@ -669,9 +658,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: ''
       taxonomy_15: se5218alg
       taxonomy_2: ic
-      taxonomy_3: sot_23_5
-      taxonomy_4: power_management
-      taxonomy_5: linear_voltage_regulator
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -681,14 +667,16 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_pressure_temperature_sensor_bmp388_breakout_hardware_design_sensor_pressure_temp_bmp388_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Pressure---temperature-sensor-BMP388-breakout-hardware-design
         github_url: https://github.com/SolderedElectronics/Pressure---temperature-sensor-BMP388-breakout-hardware-design
-        name: Project soldered_electronics/Pressure---temperature-sensor-BMP388-breakout-hardware-design
-          BMP388 Breakout current
+        name: Project soldered_electronics/Pressure---temperature-sensor-BMP388-breakout-hardware-design BMP388 Breakout current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_pressure_temperature_sensor_bmp388_breakout_hardware_design_sensor_pressure_temp_bmp388_current
         project_id: oomp_project_github_soldered_electronics_pressure_temperature_sensor_bmp388_breakout_hardware_design_sensor_pressure_temp_bmp388_current
         quantity: 1
         references:
         - U3
         version: current
+      taxonomy_5: sot_23_5
+      taxonomy_3: power_management
+      taxonomy_4: linear_voltage_regulator
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -699,8 +687,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -709,7 +696,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+oomp_key: oomp_electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
 package_drawing:
   body:
   - 2.9
@@ -825,8 +812,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sot_23_5/power_management/linear_voltage_regulator/README.md
-  oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+  navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator/sot_23_5/README.md
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
   pins:
   - name: '1'
     number: '1'
@@ -845,7 +832,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+    value: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
   - title: Type
     value: Ic
   - title: Package / style
@@ -854,21 +841,19 @@ part_page:
     value: 2.9 × 1.6 mm
   - title: Documented pins
     value: 5
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
-  summary: IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5 is an OOMP
-    electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal
-    drawing size is 2.9 × 1.6 mm. The definition includes 5 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
+  summary: IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5 is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 5 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sot_23_5
-  - level: 4
     value: power_management
-  - level: 5
+  - level: 4
     value: linear_voltage_regulator
+  - level: 5
+    value: sot_23_5
   - level: 15
     value: se5218alg
 pins:
@@ -1096,51 +1081,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sot_23_5
-taxonomy_3_capital: Sot 23.5
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sot
-taxonomy_3_length_4: sot_
-taxonomy_3_length_5: sot_2
-taxonomy_3_upper: SOT_23_5
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOT
-taxonomy_3_upper_length_4: SOT_
-taxonomy_3_upper_length_5: SOT_2
-taxonomy_4: power_management
-taxonomy_4_capital: Power Management
-taxonomy_4_first_letter: p
-taxonomy_4_first_letter_upper: P
-taxonomy_4_length_1: p
-taxonomy_4_length_2: po
-taxonomy_4_length_3: pow
-taxonomy_4_length_4: powe
-taxonomy_4_length_5: power
-taxonomy_4_upper: POWER_MANAGEMENT
-taxonomy_4_upper_length_1: P
-taxonomy_4_upper_length_2: PO
-taxonomy_4_upper_length_3: POW
-taxonomy_4_upper_length_4: POWE
-taxonomy_4_upper_length_5: POWER
-taxonomy_5: linear_voltage_regulator
-taxonomy_5_capital: Linear Voltage Regulator
-taxonomy_5_first_letter: l
-taxonomy_5_first_letter_upper: L
-taxonomy_5_length_1: l
-taxonomy_5_length_2: li
-taxonomy_5_length_3: lin
-taxonomy_5_length_4: line
-taxonomy_5_length_5: linea
-taxonomy_5_upper: LINEAR_VOLTAGE_REGULATOR
-taxonomy_5_upper_length_1: L
-taxonomy_5_upper_length_2: LI
-taxonomy_5_upper_length_3: LIN
-taxonomy_5_upper_length_4: LINE
-taxonomy_5_upper_length_5: LINEA
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1151,11 +1091,55 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_pressure_temperature_sensor_bmp388_breakout_hardware_design_sensor_pressure_temp_bmp388_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Pressure---temperature-sensor-BMP388-breakout-hardware-design
   github_url: https://github.com/SolderedElectronics/Pressure---temperature-sensor-BMP388-breakout-hardware-design
-  name: Project soldered_electronics/Pressure---temperature-sensor-BMP388-breakout-hardware-design
-    BMP388 Breakout current
+  name: Project soldered_electronics/Pressure---temperature-sensor-BMP388-breakout-hardware-design BMP388 Breakout current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_pressure_temperature_sensor_bmp388_breakout_hardware_design_sensor_pressure_temp_bmp388_current
   project_id: oomp_project_github_soldered_electronics_pressure_temperature_sensor_bmp388_breakout_hardware_design_sensor_pressure_temp_bmp388_current
   quantity: 1
   references:
   - U3
   version: current
+taxonomy_5: sot_23_5
+taxonomy_5_capital: Sot 23.5
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sot
+taxonomy_5_length_4: sot_
+taxonomy_5_length_5: sot_2
+taxonomy_5_upper: SOT_23_5
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOT
+taxonomy_5_upper_length_4: SOT_
+taxonomy_5_upper_length_5: SOT_2
+taxonomy_3: power_management
+taxonomy_3_capital: Power Management
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: po
+taxonomy_3_length_3: pow
+taxonomy_3_length_4: powe
+taxonomy_3_length_5: power
+taxonomy_3_upper: POWER_MANAGEMENT
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PO
+taxonomy_3_upper_length_3: POW
+taxonomy_3_upper_length_4: POWE
+taxonomy_3_upper_length_5: POWER
+taxonomy_4: linear_voltage_regulator
+taxonomy_4_capital: Linear Voltage Regulator
+taxonomy_4_first_letter: l
+taxonomy_4_first_letter_upper: L
+taxonomy_4_length_1: l
+taxonomy_4_length_2: li
+taxonomy_4_length_3: lin
+taxonomy_4_length_4: line
+taxonomy_4_length_5: linea
+taxonomy_4_upper: LINEAR_VOLTAGE_REGULATOR
+taxonomy_4_upper_length_1: L
+taxonomy_4_upper_length_2: LI
+taxonomy_4_upper_length_3: LIN
+taxonomy_4_upper_length_4: LINE
+taxonomy_4_upper_length_5: LINEA

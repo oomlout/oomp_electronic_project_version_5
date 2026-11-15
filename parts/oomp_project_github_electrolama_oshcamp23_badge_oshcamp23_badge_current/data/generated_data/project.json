@@ -201117,9 +201117,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g",
+        "proposed_oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g",
         "inferred": {
           "kind": null,
           "package_size": null,
@@ -204117,9 +204117,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3",
+        "proposed_oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3",
         "inferred": {
           "kind": null,
           "package_size": null,
@@ -208587,9 +208587,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16",
+        "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16",
+        "proposed_oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16",
         "inferred": {
           "kind": null,
           "package_size": null,
@@ -212985,9 +212985,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16",
+        "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16",
+        "proposed_oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16",
         "inferred": {
           "kind": null,
           "package_size": null,
@@ -221597,9 +221597,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s",
+        "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s",
+        "proposed_oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s",
         "inferred": {
           "kind": null,
           "package_size": null,
@@ -224445,9 +224445,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s",
+        "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s",
+        "proposed_oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s",
         "inferred": {
           "kind": null,
           "package_size": null,

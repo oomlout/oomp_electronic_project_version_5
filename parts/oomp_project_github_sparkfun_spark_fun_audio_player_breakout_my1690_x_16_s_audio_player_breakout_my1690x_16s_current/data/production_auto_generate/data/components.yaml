@@ -988,7 +988,7 @@ components:
 - reference: U2
   value: MY1690X-16S
   footprint: SparkFun-Semiconductor-Standard:SO-16
-  oomp_id: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+  oomp_id: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null

@@ -160,7 +160,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R45, R55, R59, R60, R61 | 5 | 49.9 1/2W | 49.9 1/2W | `Reference_Station-import-fps:1206` | unmatched |
 | R62 | 1 | Resistor 470 Ohm 0603 | 470 | `Reference_Station-import-fps:0603` | [`electronic_resistor_0603_470_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_470_ohm) |
 | U1 | 1 | ESP-WROOM-32E | ESP-WROOM-32E | `Reference_Station-import-fps:ESP-WROOM-32EU` | unmatched |
-| U2 | 1 | USB-Serial CH340C SOP-16 | CH340C | `Reference_Station-import-fps:SO016` | [`electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c) |
+| U2 | 1 | USB-Serial CH340C SOP-16 | CH340C | `Reference_Station-import-fps:SO016` | [`electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c) |
 | U3, U6 | 2 | XC6222B331MR-G | XC6222B331MR-G | `Reference_Station-import-fps:SOT23-5` | unmatched |
 | U4 | 1 | U-BLOX_ZED-F9P | U-BLOX_ZED-F9P | `Reference_Station-import-fps:ZED-F9P` | unmatched |
 | U5 | 1 | ATECC608A | ATECC608A | `Reference_Station-import-fps:DUAL_UDFN_2X3MM_SOIC-8` | unmatched |

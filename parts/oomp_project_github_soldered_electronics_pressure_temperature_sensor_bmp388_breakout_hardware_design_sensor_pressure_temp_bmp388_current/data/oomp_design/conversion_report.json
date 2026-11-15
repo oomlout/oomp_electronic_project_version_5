@@ -199,7 +199,7 @@
       "reference": "U3",
       "source": "e-radionica.com footprinti:SOT-23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -653,7 +653,7 @@
       ],
       "source": "e-radionica.com schematics:SE5218",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },

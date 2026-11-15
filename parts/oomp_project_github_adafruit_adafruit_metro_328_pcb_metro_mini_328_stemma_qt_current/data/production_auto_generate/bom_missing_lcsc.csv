@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C1,10uF,Metro Mini 328 V2 - STEMMA QT-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C2,10uF,Metro Mini 328 V2 - STEMMA QT-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C3,10uF,Metro Mini 328 V2 - STEMMA QT-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -14,7 +14,7 @@ RESET0,KMR2,Metro Mini 328 V2 - STEMMA QT-import-fps:BTN_KMR2_4.6X2.8,,No verifi
 U1,MIC5225-5.0,Metro Mini 328 V2 - STEMMA QT-import-fps:SOT23-5,,No verified LCSC part number
 U2,ATMEGA328P,Metro Mini 328 V2 - STEMMA QT-import-fps:QFN28_4MM_.45MM,,No verified LCSC part number
 U3,CP210x,Metro Mini 328 V2 - STEMMA QT-import-fps:QFN24_4MM_SMSC,,No verified LCSC part number
-U4,AP2112K-3.3,Metro Mini 328 V2 - STEMMA QT-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U4,AP2112K-3.3,Metro Mini 328 V2 - STEMMA QT-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U$4,,Metro Mini 328 V2 - STEMMA QT-import-fps:PCBFEAT-REV-040,,No verified LCSC part number
 U$5,,Metro Mini 328 V2 - STEMMA QT-import-fps:ADAFRUIT_2.5MM,,No verified LCSC part number
 U$6,,Metro Mini 328 V2 - STEMMA QT-import-fps:STEMMAQT,,No verified LCSC part number

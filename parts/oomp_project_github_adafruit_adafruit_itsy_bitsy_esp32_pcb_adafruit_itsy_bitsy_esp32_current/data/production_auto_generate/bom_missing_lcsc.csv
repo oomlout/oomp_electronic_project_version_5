@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C1,10uF,Adafruit ItsyBitsy ESP32-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C5,10uF,Adafruit ItsyBitsy ESP32-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C7,10uF,Adafruit ItsyBitsy ESP32-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -61,7 +61,7 @@ Q5,DUAL NPN,Adafruit ItsyBitsy ESP32-import-fps:SOT363,,No verified LCSC part nu
 R5,20K,Adafruit ItsyBitsy ESP32-import-fps:0603-NO,electronic_resistor_0603_20000_ohm,No verified LCSC part number
 SW1,KMR2,Adafruit ItsyBitsy ESP32-import-fps:BTN_RKB2_4.6X2.8,,No verified LCSC part number
 SW2,KMR2,Adafruit ItsyBitsy ESP32-import-fps:BTN_RKB2_4.6X2.8,,No verified LCSC part number
-U2,RT9080-3.3,Adafruit ItsyBitsy ESP32-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33,No verified LCSC part number
+U2,RT9080-3.3,Adafruit ItsyBitsy ESP32-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33,No verified LCSC part number
 U$16,,Adafruit ItsyBitsy ESP32-import-fps:PCBFEAT-REV-040,,No verified LCSC part number
 X1,DNP,Adafruit ItsyBitsy ESP32-import-fps:JSTPH2_BATT,,No verified LCSC part number
 X3,ESP32-PICO-MINI-02MINI,Adafruit ItsyBitsy ESP32-import-fps:ESP32-PICO-MINI,,No verified LCSC part number

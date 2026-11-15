@@ -139,7 +139,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | U1 | 1 | TMC6300 | TMC6300 | `ESP32_BLDC_Motor_Driver-import-fps:QFN-20` | unmatched |
 | U2 | 1 | 3.3V | 3.3V | `ESP32_BLDC_Motor_Driver-import-fps:SOT23-5` | unmatched |
 | U3 | 1 | ESP-WROOM-3232D | ESP-WROOM-3232D | `ESP32_BLDC_Motor_Driver-import-fps:ESP-WROOM-32D` | unmatched |
-| U4 | 1 | USB-Serial CH340C SOP-16 | CH340C | `ESP32_BLDC_Motor_Driver-import-fps:SO016` | [`electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c) |
+| U4 | 1 | USB-Serial CH340C SOP-16 | CH340C | `ESP32_BLDC_Motor_Driver-import-fps:SO016` | [`electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c) |
 | U5 | 1 | ESD Diode | ESD Diode | `ESP32_BLDC_Motor_Driver-import-fps:SOT-23-6` | unmatched |
 | U6 | 1 | AP63357 | AP63357 | `ESP32_BLDC_Motor_Driver-import-fps:V-DFN3020-13` | unmatched |
 | U7, U10, U11 | 3 | INA240A1 | INA240A1 | `ESP32_BLDC_Motor_Driver-import-fps:D8_TEX` | unmatched |

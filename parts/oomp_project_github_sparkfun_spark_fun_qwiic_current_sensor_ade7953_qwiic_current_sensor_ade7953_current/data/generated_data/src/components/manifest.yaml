@@ -87,7 +87,7 @@ parts:
   - working_svg_assembly.svg
   - working_svg_assembly_pins.svg
   - working_svg_square_pins.svg
-- oomp_id: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+- oomp_id: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
   project_source_files:
   - working.yaml
   - working_svg_assembly.svg

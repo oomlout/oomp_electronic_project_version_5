@@ -150,7 +150,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | U1 | 1 | ESP-WROOM-3232D-NARROW | ESP-WROOM-3232D-NARROW | `SparkFun GPS RTK Surveyor-import-fps:ESP-WROOM-32D-NARROW` | unmatched |
 | U2, U4 | 2 | 3.3V | 3.3V | `SparkFun GPS RTK Surveyor-import-fps:SOT23-5` | unmatched |
 | U3 | 1 | U-BLOX_ZED-F9P | U-BLOX_ZED-F9P | `SparkFun GPS RTK Surveyor-import-fps:ZED-F9P` | unmatched |
-| U6 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun GPS RTK Surveyor-import-fps:SO016` | [`electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c) |
+| U6 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun GPS RTK Surveyor-import-fps:SO016` | [`electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c) |
 | U7 | 1 | MAX17048 | MAX17048 | `SparkFun GPS RTK Surveyor-import-fps:DFN-8` | unmatched |
 | U10 | 1 | MCP73833 | MCP73833 | `SparkFun GPS RTK Surveyor-import-fps:DFN-10` | unmatched |
 

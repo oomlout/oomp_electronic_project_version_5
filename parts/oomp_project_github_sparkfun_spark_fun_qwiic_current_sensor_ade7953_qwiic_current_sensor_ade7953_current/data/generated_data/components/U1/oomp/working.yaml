@@ -1,77 +1,75 @@
 bip_39_2_word_array:
-- pipe
-- foil
-bip_39_2_word_no_space: pipefoil
-bip_39_2_word_space: pipe foil
-bip_39_2_word_underscore: pipe_foil
+- monkey
+- timber
+bip_39_2_word_no_space: monkeytimber
+bip_39_2_word_space: monkey timber
+bip_39_2_word_underscore: monkey_timber
 bip_39_3_word_array:
-- pipe
-- foil
-- pear
-bip_39_3_word_no_space: pipefoilpear
-bip_39_3_word_space: pipe foil pear
-bip_39_3_word_underscore: pipe_foil_pear
+- monkey
+- timber
+- pottery
+bip_39_3_word_no_space: monkeytimberpottery
+bip_39_3_word_space: monkey timber pottery
+bip_39_3_word_underscore: monkey_timber_pottery
 bip_39_full_array:
-- pipe
-- foil
-- pear
-- deliver
-- exotic
-- fantasy
-- crowd
-- glass
-- box
-- universe
-- rubber
-- vivid
-bip_39_full_no_space: pipefoilpeardeliverexoticfantasycrowdglassboxuniverserubbervivid
-bip_39_full_space: pipe foil pear deliver exotic fantasy crowd glass box universe
-  rubber vivid
-bip_39_full_underscore: pipe_foil_pear_deliver_exotic_fantasy_crowd_glass_box_universe_rubber_vivid
+- monkey
+- timber
+- pottery
+- buzz
+- illegal
+- cricket
+- bulb
+- armed
+- sail
+- erosion
+- wait
+- stuff
+bip_39_full_no_space: monkeytimberpotterybuzzillegalcricketbulbarmedsailerosionwaitstuff
+bip_39_full_space: monkey timber pottery buzz illegal cricket bulb armed sail erosion wait stuff
+bip_39_full_underscore: monkey_timber_pottery_buzz_illegal_cricket_bulb_armed_sail_erosion_wait_stuff
 category: ic
 category_name: IC
 dimensions_mm:
   height: 0.9
   length: 5.0
   width: 5.0
-directory: parts/electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+directory: parts/electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
 distributors: []
-id: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
-id_no_class: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
-id_no_size: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
-id_no_type: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+id: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
+id_no_class: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
+id_no_size: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
+id_no_type: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
 kicad:
   hand_solder: Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm
   machine_solder: Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm
   symbol: ''
 lcsc_search: qfn 28 power meter energy metering analog devices ade7953acpz ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
 manufacturers: []
-md5: a54b4e881d0500a60d13171a9dbaf37a
-md5_10: a54b4e881d
-md5_10_upper: A54B4E881D
-md5_5: a54b4
-md5_5_upper: A54B4
-md5_6: a54b4e
-md5_6_alpha: 6g6ku
-md5_6_alpha_upper: 6G6KU
-md5_6_upper: A54B4E
-name: Electronic Ic Qfn 28 Power Meter Energy Metering Analog Devices Ade7953Acpz
-name_no_class: Electronic Ic Qfn 28 Power Meter Energy Metering Analog Devices Ade7953Acpz
-name_no_size: Electronic Ic Qfn 28 Power Meter Energy Metering Analog Devices Ade7953Acpz
-name_no_type: Electronic Ic Qfn 28 Power Meter Energy Metering Analog Devices Ade7953Acpz
+md5: 8f3c46a38fc71066c7785ebe2997d9eb
+md5_10: 8f3c46a38f
+md5_10_upper: 8F3C46A38F
+md5_5: 8f3c4
+md5_5_upper: 8F3C4
+md5_6: 8f3c46
+md5_6_alpha: 5l746
+md5_6_alpha_upper: 5L746
+md5_6_upper: 8F3C46
+name: Electronic Ic Power Meter Energy Metering Qfn 28 Analog Devices Ade7953Acpz
+name_no_class: Electronic Ic Power Meter Energy Metering Qfn 28 Analog Devices Ade7953Acpz
+name_no_size: Electronic Ic Power Meter Energy Metering Qfn 28 Analog Devices Ade7953Acpz
+name_no_type: Electronic Ic Power Meter Energy Metering Qfn 28 Analog Devices Ade7953Acpz
 name_proper: IC Power Meter Energy Metering Analog Devices QFN_28
 name_readable: IC Power Meter Energy Metering Analog Devices QFN_28
 name_short: IC Power Meter Energy Metering Analog Devices QFN_28
-name_space: electronic ic qfn 28 power meter energy metering analog devices ade7953acpz
+name_space: electronic ic power meter energy metering qfn 28 analog devices ade7953acpz
 name_upper: ELECTRONIC IC QFN 28 POWER METER ENERGY METERING ANALOG DEVICES ADE7953ACPZ
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -84,7 +82,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+    part_id: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -164,8 +162,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -180,7 +177,7 @@ oomlout_ai_roboclick_3:
         height: 0.9
         length: 5.0
         width: 5.0
-      directory: parts\electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+      directory: parts\electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
       distributors: []
       kicad:
         hand_solder: Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm
@@ -188,19 +185,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: qfn 28 power meter energy metering analog devices ade7953acpz ic
       manufacturers: []
-      name: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+      name: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
       name_proper: IC Power Meter Energy Metering Analog Devices QFN_28
       name_readable: IC Power Meter Energy Metering Analog Devices QFN_28
       name_short: IC Power Meter Energy Metering Analog Devices QFN_28
-      name_space: electronic ic qfn 28 power meter energy metering analog devices
-        ade7953acpz
-      name_upper: ELECTRONIC IC QFN 28 POWER METER ENERGY METERING ANALOG DEVICES
-        ADE7953ACPZ
+      name_space: electronic ic power meter energy metering qfn 28 analog devices ade7953acpz
+      name_upper: ELECTRONIC IC QFN 28 POWER METER ENERGY METERING ANALOG DEVICES ADE7953ACPZ
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -210,11 +204,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+          part_id: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -294,8 +287,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -556,8 +548,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/qfn_28/power_meter/energy_metering/analog_devices/README.md
-        oomp_id: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+        navigation_link: ../../navigation/electronic/ic/power_meter/energy_metering/qfn_28/analog_devices/README.md
+        oomp_id: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
         pins:
         - name: '1'
           number: '1'
@@ -645,7 +637,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+          value: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
         - title: Type
           value: Ic
         - title: Package / style
@@ -654,21 +646,19 @@ oomlout_ai_roboclick_3:
           value: 5.0 × 5.0 mm
         - title: Documented pins
           value: 28
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
-        summary: IC Power Meter Energy Metering Analog Devices QFN_28 is an OOMP electronic
-          ic definition. It uses the qfn 28 package or form factor. Its nominal drawing
-          size is 5.0 × 5.0 mm. The definition includes 28 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
+        summary: IC Power Meter Energy Metering Analog Devices QFN_28 is an OOMP electronic ic definition. It uses the qfn 28 package or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 28 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: qfn_28
-        - level: 4
           value: power_meter
-        - level: 5
+        - level: 4
           value: energy_metering
+        - level: 5
+          value: qfn_28
         - level: 14
           value: analog_devices
         - level: 15
@@ -948,9 +938,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: analog_devices
       taxonomy_15: ade7953acpz
       taxonomy_2: ic
-      taxonomy_3: qfn_28
-      taxonomy_4: power_meter
-      taxonomy_5: energy_metering
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -960,14 +947,16 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_sparkfun_spark_fun_qwiic_current_sensor_ade7953_qwiic_current_sensor_ade7953_current/board_explorer.html
         board_url: https://github.com/sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953
         github_url: https://github.com/sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953
-        name: Project sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953 Qwiic Current
-          Sensor ADE7953 current
+        name: Project sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953 Qwiic Current Sensor ADE7953 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_spark_fun_qwiic_current_sensor_ade7953_qwiic_current_sensor_ade7953_current
         project_id: oomp_project_github_sparkfun_spark_fun_qwiic_current_sensor_ade7953_qwiic_current_sensor_ade7953_current
         quantity: 1
         references:
         - U1
         version: current
+      taxonomy_5: qfn_28
+      taxonomy_3: power_meter
+      taxonomy_4: energy_metering
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -978,8 +967,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -988,7 +976,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+oomp_key: oomp_electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
 package_drawing:
   body:
   - 5.0
@@ -1247,8 +1235,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/qfn_28/power_meter/energy_metering/analog_devices/README.md
-  oomp_id: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+  navigation_link: ../../navigation/electronic/ic/power_meter/energy_metering/qfn_28/analog_devices/README.md
+  oomp_id: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
   pins:
   - name: '1'
     number: '1'
@@ -1336,7 +1324,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
+    value: electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
   - title: Type
     value: Ic
   - title: Package / style
@@ -1345,21 +1333,19 @@ part_page:
     value: 5.0 × 5.0 mm
   - title: Documented pins
     value: 28
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz
-  summary: IC Power Meter Energy Metering Analog Devices QFN_28 is an OOMP electronic
-    ic definition. It uses the qfn 28 package or form factor. Its nominal drawing
-    size is 5.0 × 5.0 mm. The definition includes 28 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz
+  summary: IC Power Meter Energy Metering Analog Devices QFN_28 is an OOMP electronic ic definition. It uses the qfn 28 package or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 28 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: qfn_28
-  - level: 4
     value: power_meter
-  - level: 5
+  - level: 4
     value: energy_metering
+  - level: 5
+    value: qfn_28
   - level: 14
     value: analog_devices
   - level: 15
@@ -1695,51 +1681,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: qfn_28
-taxonomy_3_capital: Qfn 28
-taxonomy_3_first_letter: q
-taxonomy_3_first_letter_upper: Q
-taxonomy_3_length_1: q
-taxonomy_3_length_2: qf
-taxonomy_3_length_3: qfn
-taxonomy_3_length_4: qfn_
-taxonomy_3_length_5: qfn_2
-taxonomy_3_upper: QFN_28
-taxonomy_3_upper_length_1: Q
-taxonomy_3_upper_length_2: QF
-taxonomy_3_upper_length_3: QFN
-taxonomy_3_upper_length_4: QFN_
-taxonomy_3_upper_length_5: QFN_2
-taxonomy_4: power_meter
-taxonomy_4_capital: Power Meter
-taxonomy_4_first_letter: p
-taxonomy_4_first_letter_upper: P
-taxonomy_4_length_1: p
-taxonomy_4_length_2: po
-taxonomy_4_length_3: pow
-taxonomy_4_length_4: powe
-taxonomy_4_length_5: power
-taxonomy_4_upper: POWER_METER
-taxonomy_4_upper_length_1: P
-taxonomy_4_upper_length_2: PO
-taxonomy_4_upper_length_3: POW
-taxonomy_4_upper_length_4: POWE
-taxonomy_4_upper_length_5: POWER
-taxonomy_5: energy_metering
-taxonomy_5_capital: Energy Metering
-taxonomy_5_first_letter: e
-taxonomy_5_first_letter_upper: E
-taxonomy_5_length_1: e
-taxonomy_5_length_2: en
-taxonomy_5_length_3: ene
-taxonomy_5_length_4: ener
-taxonomy_5_length_5: energ
-taxonomy_5_upper: ENERGY_METERING
-taxonomy_5_upper_length_1: E
-taxonomy_5_upper_length_2: EN
-taxonomy_5_upper_length_3: ENE
-taxonomy_5_upper_length_4: ENER
-taxonomy_5_upper_length_5: ENERG
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1750,11 +1691,55 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_sparkfun_spark_fun_qwiic_current_sensor_ade7953_qwiic_current_sensor_ade7953_current/board_explorer.html
   board_url: https://github.com/sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953
   github_url: https://github.com/sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953
-  name: Project sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953 Qwiic Current Sensor
-    ADE7953 current
+  name: Project sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953 Qwiic Current Sensor ADE7953 current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_spark_fun_qwiic_current_sensor_ade7953_qwiic_current_sensor_ade7953_current
   project_id: oomp_project_github_sparkfun_spark_fun_qwiic_current_sensor_ade7953_qwiic_current_sensor_ade7953_current
   quantity: 1
   references:
   - U1
   version: current
+taxonomy_5: qfn_28
+taxonomy_5_capital: Qfn 28
+taxonomy_5_first_letter: q
+taxonomy_5_first_letter_upper: Q
+taxonomy_5_length_1: q
+taxonomy_5_length_2: qf
+taxonomy_5_length_3: qfn
+taxonomy_5_length_4: qfn_
+taxonomy_5_length_5: qfn_2
+taxonomy_5_upper: QFN_28
+taxonomy_5_upper_length_1: Q
+taxonomy_5_upper_length_2: QF
+taxonomy_5_upper_length_3: QFN
+taxonomy_5_upper_length_4: QFN_
+taxonomy_5_upper_length_5: QFN_2
+taxonomy_3: power_meter
+taxonomy_3_capital: Power Meter
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: po
+taxonomy_3_length_3: pow
+taxonomy_3_length_4: powe
+taxonomy_3_length_5: power
+taxonomy_3_upper: POWER_METER
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PO
+taxonomy_3_upper_length_3: POW
+taxonomy_3_upper_length_4: POWE
+taxonomy_3_upper_length_5: POWER
+taxonomy_4: energy_metering
+taxonomy_4_capital: Energy Metering
+taxonomy_4_first_letter: e
+taxonomy_4_first_letter_upper: E
+taxonomy_4_length_1: e
+taxonomy_4_length_2: en
+taxonomy_4_length_3: ene
+taxonomy_4_length_4: ener
+taxonomy_4_length_5: energ
+taxonomy_4_upper: ENERGY_METERING
+taxonomy_4_upper_length_1: E
+taxonomy_4_upper_length_2: EN
+taxonomy_4_upper_length_3: ENE
+taxonomy_4_upper_length_4: ENER
+taxonomy_4_upper_length_5: ENERG

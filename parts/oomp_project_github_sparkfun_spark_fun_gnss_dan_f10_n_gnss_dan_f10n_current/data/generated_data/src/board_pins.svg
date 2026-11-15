@@ -62,7 +62,7 @@
   <text x="8.7900" y="0.9500" font-family="Arial, sans-serif" font-size="0.2100" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,8.7900,0.9500)">shield</text>
   <text x="8.7900" y="5.4500" font-family="Arial, sans-serif" font-size="0.2095" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,8.7900,5.4500)">shield</text></svg></g>
 </g>
-<g class="board-component" data-reference="U4" data-oomp-id="electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c" tabindex="0" transform="translate(155.5750 97.1550) rotate(0.0000)">
+<g class="board-component" data-reference="U4" data-oomp-id="electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c" tabindex="0" transform="translate(155.5750 97.1550) rotate(0.0000)">
 <g transform="translate(0.0000 -0.1375) rotate(0)"><svg x="-3.0450" y="-4.9500" width="6.0900" height="9.9000" viewBox="0 0 6.0900 9.9000" preserveAspectRatio="xMidYMid meet"><rect x="0.0250" y="0.0000" width="6.0400" height="9.9000"  fill="none" stroke="none" />
   <rect x="1.0950" y="0.0000" width="3.9000" height="9.9000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.3751" width="1.1200" height="0.4872"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -209,7 +209,7 @@
   <text x="2.7500" y="0.8000" font-family="Arial, sans-serif" font-size="0.0840" text-anchor="middle" dominant-baseline="middle" fill="#000000">vcc</text>
   <text x="2.7500" y="1.3333" font-family="Arial, sans-serif" font-size="0.0840" text-anchor="middle" dominant-baseline="middle" fill="#000000">io_3</text></svg></g>
 </g>
-<g class="board-component" data-reference="U3" data-oomp-id="electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33" tabindex="0" transform="translate(155.5750 104.7750) rotate(0.0000)">
+<g class="board-component" data-reference="U3" data-oomp-id="electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33" tabindex="0" transform="translate(155.5750 104.7750) rotate(0.0000)">
 <g transform="translate(0.0000 -0.1620) rotate(-90)"><svg x="-1.4000" y="-1.4600" width="2.8000" height="2.9200" viewBox="0 0 2.8000 2.9200" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.8000" height="2.9200"  fill="none" stroke="none" />
   <rect x="0.6548" y="0.1000" width="1.4904" height="2.7200" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0709" y="0.3829" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />

@@ -11590,7 +11590,7 @@
         "x": 156.295,
         "y": 110.715,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s",
+        "oomp_id": "electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s",
         "bounds": {
           "min_x": 152.77,
           "min_y": 105.29,
@@ -14934,8 +14934,8 @@
       "description": "IC Audio Audio Player My Semi SO_16",
       "value": "MY1690X-16S",
       "footprint": "SparkFun-Semiconductor-Standard:SO-16",
-      "oomp_id": "electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s",
+      "oomp_id": "electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s",
       "references": [
         "U2"
       ],
@@ -15400,7 +15400,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s",
+        "oomp_id": "electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

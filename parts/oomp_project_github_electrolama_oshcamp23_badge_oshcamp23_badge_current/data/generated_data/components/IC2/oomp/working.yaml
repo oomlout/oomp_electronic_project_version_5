@@ -1,33 +1,32 @@
 bip_39_2_word_array:
-- liberty
-- bunker
-bip_39_2_word_no_space: libertybunker
-bip_39_2_word_space: liberty bunker
-bip_39_2_word_underscore: liberty_bunker
+- radar
+- atom
+bip_39_2_word_no_space: radaratom
+bip_39_2_word_space: radar atom
+bip_39_2_word_underscore: radar_atom
 bip_39_3_word_array:
-- liberty
-- bunker
-- journey
-bip_39_3_word_no_space: libertybunkerjourney
-bip_39_3_word_space: liberty bunker journey
-bip_39_3_word_underscore: liberty_bunker_journey
+- radar
+- atom
+- love
+bip_39_3_word_no_space: radaratomlove
+bip_39_3_word_space: radar atom love
+bip_39_3_word_underscore: radar_atom_love
 bip_39_full_array:
-- liberty
-- bunker
-- journey
-- amused
-- huge
-- affair
-- tissue
-- pig
-- trim
-- vague
-- universe
-- member
-bip_39_full_no_space: libertybunkerjourneyamusedhugeaffairtissuepigtrimvagueuniversemember
-bip_39_full_space: liberty bunker journey amused huge affair tissue pig trim vague
-  universe member
-bip_39_full_underscore: liberty_bunker_journey_amused_huge_affair_tissue_pig_trim_vague_universe_member
+- radar
+- atom
+- love
+- try
+- rude
+- moral
+- arena
+- wrap
+- tip
+- human
+- reopen
+- bomb
+bip_39_full_no_space: radaratomlovetryrudemoralarenawraptiphumanreopenbomb
+bip_39_full_space: radar atom love try rude moral arena wrap tip human reopen bomb
+bip_39_full_underscore: radar_atom_love_try_rude_moral_arena_wrap_tip_human_reopen_bomb
 category: power_management
 category_name: Power management
 datasheet_url: https://www.st.com/resource/en/datasheet/ld1117.pdf
@@ -38,51 +37,43 @@ dimensions_mm:
   height: 1.8
   length: 6.5
   width: 7.0
-directory: parts/electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+directory: parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
 distributors: []
-id: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
-id_no_class: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
-id_no_size: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
-id_no_type: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
+id_no_class: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
+id_no_size: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
+id_no_type: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
-lcsc_search: sot 223 4 power management linear voltage regulator 3 3 volt st ld1117
-  3 3 ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+lcsc_search: sot 223 4 power management linear voltage regulator 3 3 volt st ld1117 3 3 ic
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
 manufacturers: []
-md5: 80e3cde18416ea08b8b524e8be17b745
-md5_10: 80e3cde184
-md5_10_upper: 80E3CDE184
-md5_5: 80e3c
-md5_5_upper: 80E3C
-md5_6: 80e3cd
-md5_6_alpha: 511ot
-md5_6_alpha_upper: 511OT
-md5_6_upper: 80E3CD
-name: Electronic Ic Sot 223 4 Power Management Linear Voltage Regulator 3 3 Volt St
-  Ld1117 3 3
-name_no_class: Electronic Ic Sot 223 4 Power Management Linear Voltage Regulator 3
-  3 Volt St Ld1117 3 3
-name_no_size: Electronic Ic Sot 223 4 Power Management Linear Voltage Regulator 3
-  3 Volt St Ld1117 3 3
-name_no_type: Electronic Ic Sot 223 4 Power Management Linear Voltage Regulator 3
-  3 Volt St Ld1117 3 3
+md5: b0a1ca11f4fbcf1f42dff0e28ddad98c
+md5_10: b0a1ca11f4
+md5_10_upper: B0A1CA11F4
+md5_5: b0a1c
+md5_5_upper: B0A1C
+md5_6: b0a1ca
+md5_6_alpha: 6w3wq
+md5_6_alpha_upper: 6W3WQ
+md5_6_upper: B0A1CA
+name: Electronic Ic Power Management Linear Voltage Regulator 3 3 Volt Sot 223 4 St Ld1117 3 3
+name_no_class: Electronic Ic Power Management Linear Voltage Regulator 3 3 Volt Sot 223 4 St Ld1117 3 3
+name_no_size: Electronic Ic Power Management Linear Voltage Regulator 3 3 Volt Sot 223 4 St Ld1117 3 3
+name_no_type: Electronic Ic Power Management Linear Voltage Regulator 3 3 Volt Sot 223 4 St Ld1117 3 3
 name_proper: IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4
 name_readable: IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4
 name_short: IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4
-name_space: electronic ic sot 223 4 power management linear voltage regulator 3 3
-  volt st ld1117 3 3
-name_upper: ELECTRONIC IC SOT 223 4 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 3 3
-  VOLT ST LD1117 3 3
+name_space: electronic ic power management linear voltage regulator 3 3 volt sot 223 4 st ld1117 3 3
+name_upper: ELECTRONIC IC SOT 223 4 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 3 3 VOLT ST LD1117 3 3
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -95,7 +86,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+    part_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -175,8 +166,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -195,28 +185,24 @@ oomlout_ai_roboclick_3:
         height: 1.8
         length: 6.5
         width: 7.0
-      directory: parts\electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+      directory: parts\electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
       distributors: []
       kicad:
         hand_solder: ''
         machine_solder: ''
         symbol: ''
-      lcsc_search: sot 223 4 power management linear voltage regulator 3 3 volt st
-        ld1117 3 3 ic
+      lcsc_search: sot 223 4 power management linear voltage regulator 3 3 volt st ld1117 3 3 ic
       manufacturers: []
-      name: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+      name: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
       name_proper: IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4
       name_readable: IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4
       name_short: IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4
-      name_space: electronic ic sot 223 4 power management linear voltage regulator
-        3 3 volt st ld1117 3 3
-      name_upper: ELECTRONIC IC SOT 223 4 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR
-        3 3 VOLT ST LD1117 3 3
+      name_space: electronic ic power management linear voltage regulator 3 3 volt sot 223 4 st ld1117 3 3
+      name_upper: ELECTRONIC IC SOT 223 4 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 3 3 VOLT ST LD1117 3 3
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -226,11 +212,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+          part_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -310,8 +295,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -423,8 +407,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sot_223_4/power_management/linear_voltage_regulator_3_3_volt/st/README.md
-        oomp_id: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+        navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator_3_3_volt/sot_223_4/st/README.md
+        oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
         pins:
         - name: GND
           number: '1'
@@ -440,7 +424,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+          value: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
         - title: Type
           value: Ic
         - title: Package / style
@@ -449,22 +433,19 @@ oomlout_ai_roboclick_3:
           value: 6.5 × 7.0 mm
         - title: Documented pins
           value: 4
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
-        summary: IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4
-          is an OOMP electronic ic definition. It uses the sot 223 4 package or form
-          factor. Its nominal drawing size is 6.5 × 7.0 mm. The definition includes
-          4 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
+        summary: IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4 is an OOMP electronic ic definition. It uses the sot 223 4 package or form factor. Its nominal drawing size is 6.5 × 7.0 mm. The definition includes 4 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sot_223_4
-        - level: 4
           value: power_management
-        - level: 5
+        - level: 4
           value: linear_voltage_regulator_3_3_volt
+        - level: 5
+          value: sot_223_4
         - level: 14
           value: st
         - level: 15
@@ -648,9 +629,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: st
       taxonomy_15: ld1117_3_3
       taxonomy_2: ic
-      taxonomy_3: sot_223_4
-      taxonomy_4: power_management
-      taxonomy_5: linear_voltage_regulator_3_3_volt
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -667,6 +645,9 @@ oomlout_ai_roboclick_3:
         references:
         - IC2
         version: current
+      taxonomy_5: sot_223_4
+      taxonomy_3: power_management
+      taxonomy_4: linear_voltage_regulator_3_3_volt
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -677,8 +658,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -687,7 +667,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+oomp_key: oomp_electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
 package_drawing:
   body:
   - 6.5
@@ -797,8 +777,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sot_223_4/power_management/linear_voltage_regulator_3_3_volt/st/README.md
-  oomp_id: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+  navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator_3_3_volt/sot_223_4/st/README.md
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
   pins:
   - name: GND
     number: '1'
@@ -814,7 +794,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+    value: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
   - title: Type
     value: Ic
   - title: Package / style
@@ -823,21 +803,19 @@ part_page:
     value: 6.5 × 7.0 mm
   - title: Documented pins
     value: 4
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
-  summary: IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4 is an
-    OOMP electronic ic definition. It uses the sot 223 4 package or form factor. Its
-    nominal drawing size is 6.5 × 7.0 mm. The definition includes 4 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
+  summary: IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4 is an OOMP electronic ic definition. It uses the sot 223 4 package or form factor. Its nominal drawing size is 6.5 × 7.0 mm. The definition includes 4 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sot_223_4
-  - level: 4
     value: power_management
-  - level: 5
+  - level: 4
     value: linear_voltage_regulator_3_3_volt
+  - level: 5
+    value: sot_223_4
   - level: 14
     value: st
   - level: 15
@@ -1077,51 +1055,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sot_223_4
-taxonomy_3_capital: Sot 223.4
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sot
-taxonomy_3_length_4: sot_
-taxonomy_3_length_5: sot_2
-taxonomy_3_upper: SOT_223_4
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOT
-taxonomy_3_upper_length_4: SOT_
-taxonomy_3_upper_length_5: SOT_2
-taxonomy_4: power_management
-taxonomy_4_capital: Power Management
-taxonomy_4_first_letter: p
-taxonomy_4_first_letter_upper: P
-taxonomy_4_length_1: p
-taxonomy_4_length_2: po
-taxonomy_4_length_3: pow
-taxonomy_4_length_4: powe
-taxonomy_4_length_5: power
-taxonomy_4_upper: POWER_MANAGEMENT
-taxonomy_4_upper_length_1: P
-taxonomy_4_upper_length_2: PO
-taxonomy_4_upper_length_3: POW
-taxonomy_4_upper_length_4: POWE
-taxonomy_4_upper_length_5: POWER
-taxonomy_5: linear_voltage_regulator_3_3_volt
-taxonomy_5_capital: Linear Voltage Regulator 3.3 Volt
-taxonomy_5_first_letter: l
-taxonomy_5_first_letter_upper: L
-taxonomy_5_length_1: l
-taxonomy_5_length_2: li
-taxonomy_5_length_3: lin
-taxonomy_5_length_4: line
-taxonomy_5_length_5: linea
-taxonomy_5_upper: LINEAR_VOLTAGE_REGULATOR_3_3_VOLT
-taxonomy_5_upper_length_1: L
-taxonomy_5_upper_length_2: LI
-taxonomy_5_upper_length_3: LIN
-taxonomy_5_upper_length_4: LINE
-taxonomy_5_upper_length_5: LINEA
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1139,3 +1072,48 @@ used_in_projects:
   references:
   - IC2
   version: current
+taxonomy_5: sot_223_4
+taxonomy_5_capital: Sot 223.4
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sot
+taxonomy_5_length_4: sot_
+taxonomy_5_length_5: sot_2
+taxonomy_5_upper: SOT_223_4
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOT
+taxonomy_5_upper_length_4: SOT_
+taxonomy_5_upper_length_5: SOT_2
+taxonomy_3: power_management
+taxonomy_3_capital: Power Management
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: po
+taxonomy_3_length_3: pow
+taxonomy_3_length_4: powe
+taxonomy_3_length_5: power
+taxonomy_3_upper: POWER_MANAGEMENT
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PO
+taxonomy_3_upper_length_3: POW
+taxonomy_3_upper_length_4: POWE
+taxonomy_3_upper_length_5: POWER
+taxonomy_4: linear_voltage_regulator_3_3_volt
+taxonomy_4_capital: Linear Voltage Regulator 3.3 Volt
+taxonomy_4_first_letter: l
+taxonomy_4_first_letter_upper: L
+taxonomy_4_length_1: l
+taxonomy_4_length_2: li
+taxonomy_4_length_3: lin
+taxonomy_4_length_4: line
+taxonomy_4_length_5: linea
+taxonomy_4_upper: LINEAR_VOLTAGE_REGULATOR_3_3_VOLT
+taxonomy_4_upper_length_1: L
+taxonomy_4_upper_length_2: LI
+taxonomy_4_upper_length_3: LIN
+taxonomy_4_upper_length_4: LINE
+taxonomy_4_upper_length_5: LINEA

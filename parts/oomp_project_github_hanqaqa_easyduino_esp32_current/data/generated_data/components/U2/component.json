@@ -9167,9 +9167,9 @@
   "oomp": {
     "status": "matched",
     "accepted": true,
-    "oomp_id": "electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8",
+    "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8",
     "confidence": 1.0,
-    "proposed_oomp_id": "electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8",
+    "proposed_oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8",
     "inferred": {
       "kind": null,
       "package_size": null,

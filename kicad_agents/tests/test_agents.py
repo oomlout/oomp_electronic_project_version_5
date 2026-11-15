@@ -46,7 +46,7 @@ class LcscSearchTests(unittest.TestCase):
         self.assertEqual(header['lcsc_search'], '2.54mm header 10 pin through hole')
 
     def test_part_numbers_and_explicit_values_win(self):
-        ic = {'taxonomy_1': 'electronic', 'taxonomy_2': 'ic', 'taxonomy_3': 'tsot_23_5', 'taxonomy_4': 'power_management', 'part_number_manufacturer': 'RT9742CGJ5'}
+        ic = {'taxonomy_1': 'electronic', 'taxonomy_2': 'ic', 'taxonomy_3': 'power_management', 'taxonomy_4': 'load_switch', 'taxonomy_5': 'tsot_23_5', 'part_number_manufacturer': 'RT9742CGJ5'}
         working_oomp_metadata.add_lcsc_search(ic)
         self.assertEqual(ic['lcsc_search'], 'RT9742CGJ5')
         explicit = {'taxonomy_1': 'electronic', 'taxonomy_2': 'resistor', 'taxonomy_3': '0402', 'taxonomy_4': '10000_ohm', 'lcsc_search': '0402 10k 1%'}
@@ -475,7 +475,7 @@ class ProjectPartTests(unittest.TestCase):
         gradient_free = explorer.split('data-theme="rainbow"')[0]
         self.assertNotIn('linear-gradient', gradient_free)
         self.assertIn('working_svg_square_pins', (generated_data / 'src' / 'components' / 'manifest.yaml').read_text(encoding='utf-8'))
-        self.assertIn('https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040', explorer)
+        self.assertIn('https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040', explorer)
         self.assertNotRegex(explorer, '<script[^>]+src=')
         self.assertNotRegex(explorer, '<link[^>]+stylesheet')
         bus_project = json.loads((generated_data / 'project.json').read_text(encoding='utf-8'))

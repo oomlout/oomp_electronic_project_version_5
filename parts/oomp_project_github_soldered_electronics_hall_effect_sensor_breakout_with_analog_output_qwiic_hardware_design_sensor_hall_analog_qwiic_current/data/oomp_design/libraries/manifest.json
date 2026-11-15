@@ -31,24 +31,24 @@
       "file": "OOMP_HandSolder.pretty/electronic_connector_header_2_54_mm_pitch_through_hole_3_pin.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "kind": "machine_solder",
-      "file": "OOMP_MachineSolder.pretty/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr.kicad_mod"
+      "file": "OOMP_MachineSolder.pretty/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "kind": "hand_solder",
-      "file": "OOMP_HandSolder.pretty/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr.kicad_mod"
+      "file": "OOMP_HandSolder.pretty/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv",
+      "oomp_id": "electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv",
       "kind": "machine_solder",
-      "file": "OOMP_MachineSolder.pretty/electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv.kicad_mod"
+      "file": "OOMP_MachineSolder.pretty/electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv",
+      "oomp_id": "electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv",
       "kind": "hand_solder",
-      "file": "OOMP_HandSolder.pretty/electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv.kicad_mod"
+      "file": "OOMP_HandSolder.pretty/electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv.kicad_mod"
     },
     {
       "oomp_id": "electronic_resistor_0603_10000_ohm",
@@ -102,14 +102,14 @@
       "issues": []
     },
     {
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected"
       ]
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv",
+      "oomp_id": "electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected"

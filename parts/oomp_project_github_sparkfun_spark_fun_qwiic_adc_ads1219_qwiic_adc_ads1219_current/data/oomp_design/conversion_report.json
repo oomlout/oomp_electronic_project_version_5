@@ -72,7 +72,7 @@
       "reference": "U1",
       "source": "SparkFun-Semiconductor-Standard:TSSOP-16",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tssop_16_converter_analog_to_digital_converter_texas_instruments_ads1219ipw",
+      "oomp_id": "electronic_ic_converter_analog_to_digital_converter_tssop_16_texas_instruments_ads1219ipw",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -853,7 +853,7 @@
       ],
       "source": "SparkFun-IC-Conversion:ADS1219IPW",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tssop_16_converter_analog_to_digital_converter_texas_instruments_ads1219ipw",
+      "oomp_id": "electronic_ic_converter_analog_to_digital_converter_tssop_16_texas_instruments_ads1219ipw",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },

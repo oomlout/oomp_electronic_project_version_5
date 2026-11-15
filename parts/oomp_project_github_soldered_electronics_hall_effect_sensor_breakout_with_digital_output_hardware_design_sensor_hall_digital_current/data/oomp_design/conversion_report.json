@@ -51,7 +51,7 @@
       "reference": "U1",
       "source": "e-radionica.com footprinti:SOT-23-3",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv",
+      "oomp_id": "electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -225,7 +225,7 @@
       ],
       "source": "e-radionica.com schematics:SI7201-B-06-IV",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv",
+      "oomp_id": "electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },

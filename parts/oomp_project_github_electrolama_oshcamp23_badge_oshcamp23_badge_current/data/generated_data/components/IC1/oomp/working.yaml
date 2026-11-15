@@ -1,45 +1,43 @@
 bip_39_2_word_array:
-- siren
-- illness
-bip_39_2_word_no_space: sirenillness
-bip_39_2_word_space: siren illness
-bip_39_2_word_underscore: siren_illness
+- sport
+- coast
+bip_39_2_word_no_space: sportcoast
+bip_39_2_word_space: sport coast
+bip_39_2_word_underscore: sport_coast
 bip_39_3_word_array:
-- siren
-- illness
-- matrix
-bip_39_3_word_no_space: sirenillnessmatrix
-bip_39_3_word_space: siren illness matrix
-bip_39_3_word_underscore: siren_illness_matrix
+- sport
+- coast
+- swift
+bip_39_3_word_no_space: sportcoastswift
+bip_39_3_word_space: sport coast swift
+bip_39_3_word_underscore: sport_coast_swift
 bip_39_full_array:
-- siren
-- illness
-- matrix
-- gauge
-- page
-- fancy
-- practice
-- yard
-- edge
-- swear
-- farm
-- oppose
-bip_39_full_no_space: sirenillnessmatrixgaugepagefancypracticeyardedgeswearfarmoppose
-bip_39_full_space: siren illness matrix gauge page fancy practice yard edge swear
-  farm oppose
-bip_39_full_underscore: siren_illness_matrix_gauge_page_fancy_practice_yard_edge_swear_farm_oppose
+- sport
+- coast
+- swift
+- eyebrow
+- wear
+- lend
+- drink
+- sting
+- match
+- capable
+- tank
+- record
+bip_39_full_no_space: sportcoastswifteyebrowwearlenddrinkstingmatchcapabletankrecord
+bip_39_full_space: sport coast swift eyebrow wear lend drink sting match capable tank record
+bip_39_full_underscore: sport_coast_swift_eyebrow_wear_lend_drink_sting_match_capable_tank_record
 category: interface
 category_name: Interface
 datasheet_url: https://www.wch-ic.com/downloads/CH343DS1_PDF.html
 dimension_reference:
   document: WCH CH343G datasheet, SOP-16 package
-  notes: 16-lead narrow-body SOP/SSOP-style package; pin 1 is at the upper-left in
-    the top view.
+  notes: 16-lead narrow-body SOP/SSOP-style package; pin 1 is at the upper-left in the top view.
 dimensions_mm:
   height: 1.75
   length: 10.0
   width: 4.0
-directory: parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+directory: parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
 distributors: []
 ic_dimensions_mm:
   body_length: 9.9
@@ -54,42 +52,41 @@ ic_dimensions_mm:
   pin_length: 1.07
   pin_pitch: 1.27
   pin_width: 0.406
-id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
-id_no_class: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
-id_no_size: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
-id_no_type: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
+id_no_class: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
+id_no_size: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
+id_no_type: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
 lcsc_search: sop 16 converter usb to serial converter wch ch343g ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
 manufacturers: []
-md5: c96e2624b049eea5ea5ff6465b714ccd
-md5_10: c96e2624b0
-md5_10_upper: C96E2624B0
-md5_5: c96e2
-md5_5_upper: C96E2
-md5_6: c96e26
-md5_6_alpha: 7uxwm
-md5_6_alpha_upper: 7UXWM
-md5_6_upper: C96E26
-name: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch343G
-name_no_class: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch343G
-name_no_size: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch343G
-name_no_type: Electronic Ic Sop 16 Converter Usb To Serial Converter Wch Ch343G
+md5: d2a59b6f28af86ffd0c6af88c43f76d9
+md5_10: d2a59b6f28
+md5_10_upper: D2A59B6F28
+md5_5: d2a59
+md5_5_upper: D2A59
+md5_6: d2a59b
+md5_6_alpha: 87vyz
+md5_6_alpha_upper: 87VYZ
+md5_6_upper: D2A59B
+name: Electronic Ic Converter Usb To Serial Converter Sop 16 Wch Ch343G
+name_no_class: Electronic Ic Converter Usb To Serial Converter Sop 16 Wch Ch343G
+name_no_size: Electronic Ic Converter Usb To Serial Converter Sop 16 Wch Ch343G
+name_no_type: Electronic Ic Converter Usb To Serial Converter Sop 16 Wch Ch343G
 name_proper: IC Converter Usb To Serial Converter Wch SOP_16
 name_readable: IC Converter Usb To Serial Converter Wch SOP_16
 name_short: IC Converter Usb To Serial Converter Wch SOP_16
-name_space: electronic ic sop 16 converter usb to serial converter wch ch343g
+name_space: electronic ic converter usb to serial converter sop 16 wch ch343g
 name_upper: ELECTRONIC IC SOP 16 CONVERTER USB TO SERIAL CONVERTER WCH CH343G
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -102,7 +99,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+    part_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -182,8 +179,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -197,13 +193,12 @@ oomlout_ai_roboclick_3:
       datasheet_url: https://www.wch-ic.com/downloads/CH343DS1_PDF.html
       dimension_reference:
         document: WCH CH343G datasheet, SOP-16 package
-        notes: 16-lead narrow-body SOP/SSOP-style package; pin 1 is at the upper-left
-          in the top view.
+        notes: 16-lead narrow-body SOP/SSOP-style package; pin 1 is at the upper-left in the top view.
       dimensions_mm:
         height: 1.75
         length: 10.0
         width: 4.0
-      directory: parts\electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+      directory: parts\electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
       distributors: []
       ic_dimensions_mm:
         body_length: 9.9
@@ -224,17 +219,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: sop 16 converter usb to serial converter wch ch343g ic
       manufacturers: []
-      name: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+      name: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
       name_proper: IC Converter Usb To Serial Converter Wch SOP_16
       name_readable: IC Converter Usb To Serial Converter Wch SOP_16
       name_short: IC Converter Usb To Serial Converter Wch SOP_16
-      name_space: electronic ic sop 16 converter usb to serial converter wch ch343g
+      name_space: electronic ic converter usb to serial converter sop 16 wch ch343g
       name_upper: ELECTRONIC IC SOP 16 CONVERTER USB TO SERIAL CONVERTER WCH CH343G
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -244,11 +238,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+          part_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -328,8 +321,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -513,8 +505,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sop_16/converter/usb_to_serial_converter/wch/README.md
-        oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+        navigation_link: ../../navigation/electronic/ic/converter/usb_to_serial_converter/sop_16/wch/README.md
+        oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
         pins:
         - name: '1'
           number: '1'
@@ -566,7 +558,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+          value: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
         - title: Type
           value: Ic
         - title: Package / style
@@ -575,21 +567,19 @@ oomlout_ai_roboclick_3:
           value: 10.0 × 4.0 mm
         - title: Documented pins
           value: 16
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
-        summary: IC Converter Usb To Serial Converter Wch SOP_16 is an OOMP electronic
-          ic definition. It uses the sop 16 package or form factor. Its nominal drawing
-          size is 10.0 × 4.0 mm. The definition includes 16 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
+        summary: IC Converter Usb To Serial Converter Wch SOP_16 is an OOMP electronic ic definition. It uses the sop 16 package or form factor. Its nominal drawing size is 10.0 × 4.0 mm. The definition includes 16 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sop_16
-        - level: 4
           value: converter
-        - level: 5
+        - level: 4
           value: usb_to_serial_converter
+        - level: 5
+          value: sop_16
         - level: 14
           value: wch
         - level: 15
@@ -821,9 +811,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: wch
       taxonomy_15: ch343g
       taxonomy_2: ic
-      taxonomy_3: sop_16
-      taxonomy_4: converter
-      taxonomy_5: usb_to_serial_converter
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -840,6 +827,9 @@ oomlout_ai_roboclick_3:
         references:
         - IC1
         version: current
+      taxonomy_5: sop_16
+      taxonomy_3: converter
+      taxonomy_4: usb_to_serial_converter
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -850,8 +840,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -860,7 +849,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+oomp_key: oomp_electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
 package_drawing:
   body:
   - 4.0
@@ -1042,8 +1031,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sop_16/converter/usb_to_serial_converter/wch/README.md
-  oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+  navigation_link: ../../navigation/electronic/ic/converter/usb_to_serial_converter/sop_16/wch/README.md
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
   pins:
   - name: '1'
     number: '1'
@@ -1095,7 +1084,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+    value: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
   - title: Type
     value: Ic
   - title: Package / style
@@ -1104,21 +1093,19 @@ part_page:
     value: 10.0 × 4.0 mm
   - title: Documented pins
     value: 16
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
-  summary: IC Converter Usb To Serial Converter Wch SOP_16 is an OOMP electronic ic
-    definition. It uses the sop 16 package or form factor. Its nominal drawing size
-    is 10.0 × 4.0 mm. The definition includes 16 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
+  summary: IC Converter Usb To Serial Converter Wch SOP_16 is an OOMP electronic ic definition. It uses the sop 16 package or form factor. Its nominal drawing size is 10.0 × 4.0 mm. The definition includes 16 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sop_16
-  - level: 4
     value: converter
-  - level: 5
+  - level: 4
     value: usb_to_serial_converter
+  - level: 5
+    value: sop_16
   - level: 14
     value: wch
   - level: 15
@@ -1406,51 +1393,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sop_16
-taxonomy_3_capital: Sop 16
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sop
-taxonomy_3_length_4: sop_
-taxonomy_3_length_5: sop_1
-taxonomy_3_upper: SOP_16
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOP
-taxonomy_3_upper_length_4: SOP_
-taxonomy_3_upper_length_5: SOP_1
-taxonomy_4: converter
-taxonomy_4_capital: Converter
-taxonomy_4_first_letter: c
-taxonomy_4_first_letter_upper: C
-taxonomy_4_length_1: c
-taxonomy_4_length_2: co
-taxonomy_4_length_3: con
-taxonomy_4_length_4: conv
-taxonomy_4_length_5: conve
-taxonomy_4_upper: CONVERTER
-taxonomy_4_upper_length_1: C
-taxonomy_4_upper_length_2: CO
-taxonomy_4_upper_length_3: CON
-taxonomy_4_upper_length_4: CONV
-taxonomy_4_upper_length_5: CONVE
-taxonomy_5: usb_to_serial_converter
-taxonomy_5_capital: Usb To Serial Converter
-taxonomy_5_first_letter: u
-taxonomy_5_first_letter_upper: U
-taxonomy_5_length_1: u
-taxonomy_5_length_2: us
-taxonomy_5_length_3: usb
-taxonomy_5_length_4: usb_
-taxonomy_5_length_5: usb_t
-taxonomy_5_upper: USB_TO_SERIAL_CONVERTER
-taxonomy_5_upper_length_1: U
-taxonomy_5_upper_length_2: US
-taxonomy_5_upper_length_3: USB
-taxonomy_5_upper_length_4: USB_
-taxonomy_5_upper_length_5: USB_T
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1468,3 +1410,48 @@ used_in_projects:
   references:
   - IC1
   version: current
+taxonomy_5: sop_16
+taxonomy_5_capital: Sop 16
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sop
+taxonomy_5_length_4: sop_
+taxonomy_5_length_5: sop_1
+taxonomy_5_upper: SOP_16
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOP
+taxonomy_5_upper_length_4: SOP_
+taxonomy_5_upper_length_5: SOP_1
+taxonomy_3: converter
+taxonomy_3_capital: Converter
+taxonomy_3_first_letter: c
+taxonomy_3_first_letter_upper: C
+taxonomy_3_length_1: c
+taxonomy_3_length_2: co
+taxonomy_3_length_3: con
+taxonomy_3_length_4: conv
+taxonomy_3_length_5: conve
+taxonomy_3_upper: CONVERTER
+taxonomy_3_upper_length_1: C
+taxonomy_3_upper_length_2: CO
+taxonomy_3_upper_length_3: CON
+taxonomy_3_upper_length_4: CONV
+taxonomy_3_upper_length_5: CONVE
+taxonomy_4: usb_to_serial_converter
+taxonomy_4_capital: Usb To Serial Converter
+taxonomy_4_first_letter: u
+taxonomy_4_first_letter_upper: U
+taxonomy_4_length_1: u
+taxonomy_4_length_2: us
+taxonomy_4_length_3: usb
+taxonomy_4_length_4: usb_
+taxonomy_4_length_5: usb_t
+taxonomy_4_upper: USB_TO_SERIAL_CONVERTER
+taxonomy_4_upper_length_1: U
+taxonomy_4_upper_length_2: US
+taxonomy_4_upper_length_3: USB
+taxonomy_4_upper_length_4: USB_
+taxonomy_4_upper_length_5: USB_T

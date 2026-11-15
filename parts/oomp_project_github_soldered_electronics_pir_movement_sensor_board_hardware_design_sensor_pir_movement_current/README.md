@@ -93,8 +93,8 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R3 | 1 | Resistor 1000 Ohm 0603 | 1k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_1000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_1000_ohm) |
 | R4 | 1 | Resistor 10 Ohm 0603 | 10R | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_10_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10_ohm) |
 | U1 | 1 | Sensor 3 Pin AM312 PIR | AM312 | `e-radionica.com footprinti:PIR_senzor` | [`electronic_sensor_pir_3_pin_am312`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_pir_3_pin_am312) |
-| U2 | 1 | IC Power Management Linear Voltage Regulator SE5218 SOT_23_5 | SE5218 | `e-radionica.com footprinti:SOT-23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218) |
-| U3 | 1 | IC Timer 555 Timer Texas Instruments SOIC_8 | NE555DR | `e-radionica.com footprinti:SOIC−8` | [`electronic_ic_soic_8_timer_555_timer_texas_instruments_ne555dr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_timer_555_timer_texas_instruments_ne555dr) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator SE5218 SOT_23_5 | SE5218 | `e-radionica.com footprinti:SOT-23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218) |
+| U3 | 1 | IC Timer 555 Timer Texas Instruments SOIC_8 | NE555DR | `e-radionica.com footprinti:SOIC−8` | [`electronic_ic_timer_555_timer_soic_8_texas_instruments_ne555dr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_timer_555_timer_soic_8_texas_instruments_ne555dr) |
 
 ## Main nets
 

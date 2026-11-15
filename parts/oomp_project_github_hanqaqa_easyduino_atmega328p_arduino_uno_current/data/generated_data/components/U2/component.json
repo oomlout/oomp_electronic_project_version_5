@@ -6725,9 +6725,9 @@
   "oomp": {
     "status": "matched",
     "accepted": true,
-    "oomp_id": "electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au",
+    "oomp_id": "electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au",
     "confidence": 1.0,
-    "proposed_oomp_id": "electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au",
+    "proposed_oomp_id": "electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au",
     "inferred": {
       "kind": null,
       "package_size": null,

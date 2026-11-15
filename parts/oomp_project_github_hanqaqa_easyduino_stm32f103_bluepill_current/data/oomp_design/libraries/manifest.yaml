@@ -62,24 +62,24 @@ entries:
 - oomp_id: electronic_crystal_5032_surface_mount_2_pin_8_mhz_20_pf
   kind: hand_solder
   file: OOMP_HandSolder.pretty/electronic_crystal_5032_surface_mount_2_pin_8_mhz_20_pf.kicad_mod
-- oomp_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+- oomp_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
   kind: symbol
   file: OOMP.kicad_sym
-- oomp_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+- oomp_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
   kind: machine_solder
-  file: OOMP_MachineSolder.pretty/electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx.kicad_mod
-- oomp_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+  file: OOMP_MachineSolder.pretty/electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx.kicad_mod
+- oomp_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
   kind: hand_solder
-  file: OOMP_HandSolder.pretty/electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx.kicad_mod
-- oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr
+  file: OOMP_HandSolder.pretty/electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx.kicad_mod
+- oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr
   kind: symbol
   file: OOMP.kicad_sym
-- oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr
+- oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr
   kind: machine_solder
-  file: OOMP_MachineSolder.pretty/electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr.kicad_mod
-- oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr
+  file: OOMP_MachineSolder.pretty/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr.kicad_mod
+- oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr
   kind: hand_solder
-  file: OOMP_HandSolder.pretty/electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr.kicad_mod
+  file: OOMP_HandSolder.pretty/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr.kicad_mod
 - oomp_id: electronic_led_0402_blue
   kind: symbol
   file: OOMP.kicad_sym
@@ -158,10 +158,10 @@ parts:
 - oomp_id: electronic_crystal_5032_surface_mount_2_pin_8_mhz_20_pf
   status: complete
   issues: []
-- oomp_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+- oomp_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
   status: complete
   issues: []
-- oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr
+- oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr
   status: complete
   issues: []
 - oomp_id: electronic_led_0402_blue

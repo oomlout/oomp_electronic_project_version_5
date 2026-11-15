@@ -1,96 +1,87 @@
 bip_39_2_word_array:
-- when
-- barrel
-bip_39_2_word_no_space: whenbarrel
-bip_39_2_word_space: when barrel
-bip_39_2_word_underscore: when_barrel
+- dress
+- bitter
+bip_39_2_word_no_space: dressbitter
+bip_39_2_word_space: dress bitter
+bip_39_2_word_underscore: dress_bitter
 bip_39_3_word_array:
-- when
-- barrel
-- antique
-bip_39_3_word_no_space: whenbarrelantique
-bip_39_3_word_space: when barrel antique
-bip_39_3_word_underscore: when_barrel_antique
+- dress
+- bitter
+- caught
+bip_39_3_word_no_space: dressbittercaught
+bip_39_3_word_space: dress bitter caught
+bip_39_3_word_underscore: dress_bitter_caught
 bip_39_full_array:
-- when
-- barrel
-- antique
-- alley
-- teach
-- scatter
-- keen
-- artist
-- quote
-- cluster
-- diary
-- now
-bip_39_full_no_space: whenbarrelantiquealleyteachscatterkeenartistquoteclusterdiarynow
-bip_39_full_space: when barrel antique alley teach scatter keen artist quote cluster
-  diary now
-bip_39_full_underscore: when_barrel_antique_alley_teach_scatter_keen_artist_quote_cluster_diary_now
+- dress
+- bitter
+- caught
+- jacket
+- quiz
+- bubble
+- present
+- okay
+- sponsor
+- wise
+- offer
+- job
+bip_39_full_no_space: dressbittercaughtjacketquizbubblepresentokaysponsorwiseofferjob
+bip_39_full_space: dress bitter caught jacket quiz bubble present okay sponsor wise offer job
+bip_39_full_underscore: dress_bitter_caught_jacket_quiz_bubble_present_okay_sponsor_wise_offer_job
 category: mcu
 category_name: MCU
 datasheet_url: https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS40002061B.pdf
 dimension_reference:
   document: Microchip ATmega328/P datasheet, 32-lead TQFP package
-  notes: 7 x 7 mm body, 0.8 mm pitch, pin 1 at the upper-left in the top view; numbering
-    proceeds down the left edge.
+  notes: 7 x 7 mm body, 0.8 mm pitch, pin 1 at the upper-left in the top view; numbering proceeds down the left edge.
 dimensions_mm:
   height: 1.2
   length: 9.0
   width: 9.0
-directory: parts/electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+directory: parts/electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
 distributors:
 - key: lcsc
   part_number: C14877
   title: LCSC
   url: https://www.lcsc.com/product-detail/C14877.html
-id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
-id_no_class: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
-id_no_size: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
-id_no_type: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
+id_no_class: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
+id_no_size: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
+id_no_type: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
 kicad:
   hand_solder: ''
   machine_solder: Package_QFP:TQFP-32_7x7mm_P0.8mm
   symbol: MCU_Microchip_ATmega:ATmega328P-A
 lcsc_search: ATmega328P-AU
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
 manufacturer: Microchip
 manufacturers:
 - manufacturer: Microchip
   part_number: ATmega328P-AU
-md5: fa225827834de980de6868b0058cf54b
-md5_10: fa22582783
-md5_10_upper: FA22582783
-md5_5: fa225
-md5_5_upper: FA225
-md5_6: fa2258
-md5_6_alpha: 9rcrc
-md5_6_alpha_upper: 9RCRC
-md5_6_upper: FA2258
-name: Electronic Ic Tqfp 32 7 Mm X 7 Mm Microcontroller 8 Bit Avr Microchip Atmega328P
-  Au
-name_no_class: Electronic Ic Tqfp 32 7 Mm X 7 Mm Microcontroller 8 Bit Avr Microchip
-  Atmega328P Au
-name_no_size: Electronic Ic Tqfp 32 7 Mm X 7 Mm Microcontroller 8 Bit Avr Microchip
-  Atmega328P Au
-name_no_type: Electronic Ic Tqfp 32 7 Mm X 7 Mm Microcontroller 8 Bit Avr Microchip
-  Atmega328P Au
+md5: 42a2d891bb8afe3aaa84cfd27f8e65bc
+md5_10: 42a2d891bb
+md5_10_upper: 42A2D891BB
+md5_5: 42a2d
+md5_5_upper: 42A2D
+md5_6: 42a2d8
+md5_6_alpha: 2llnc
+md5_6_alpha_upper: 2LLNC
+md5_6_upper: 42A2D8
+name: Electronic Ic Microcontroller 8 Bit Avr Tqfp 32 7 Mm X 7 Mm Microchip Atmega328P Au
+name_no_class: Electronic Ic Microcontroller 8 Bit Avr Tqfp 32 7 Mm X 7 Mm Microchip Atmega328P Au
+name_no_size: Electronic Ic Microcontroller 8 Bit Avr Tqfp 32 7 Mm X 7 Mm Microchip Atmega328P Au
+name_no_type: Electronic Ic Microcontroller 8 Bit Avr Tqfp 32 7 Mm X 7 Mm Microchip Atmega328P Au
 name_proper: MCU ATmega328P-AU 8-bit AVR TQFP-32
 name_readable: MCU ATmega328P-AU 8-bit AVR TQFP-32
 name_readable_override: MCU ATmega328P-AU 8-bit AVR TQFP-32
 name_short: MCU ATmega328P-AU 8-bit AVR TQFP-32
-name_space: electronic ic tqfp 32 7 mm x 7 mm microcontroller 8 bit avr microchip
-  atmega328p au
-name_upper: ELECTRONIC IC TQFP 32 7 MM X 7 MM MICROCONTROLLER 8 BIT AVR MICROCHIP
-  ATMEGA328P AU
+name_space: electronic ic microcontroller 8 bit avr tqfp 32 7 mm x 7 mm microchip atmega328p au
+name_upper: ELECTRONIC IC TQFP 32 7 MM X 7 MM MICROCONTROLLER 8 BIT AVR MICROCHIP ATMEGA328P AU
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -103,7 +94,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+    part_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
     regenerate_pngs: true
     timeout: '600'
   - allow_upscale: false
@@ -183,8 +174,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: true
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -198,13 +188,12 @@ oomlout_ai_roboclick_3:
       datasheet_url: https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS40002061B.pdf
       dimension_reference:
         document: Microchip ATmega328/P datasheet, 32-lead TQFP package
-        notes: 7 x 7 mm body, 0.8 mm pitch, pin 1 at the upper-left in the top view;
-          numbering proceeds down the left edge.
+        notes: 7 x 7 mm body, 0.8 mm pitch, pin 1 at the upper-left in the top view; numbering proceeds down the left edge.
       dimensions_mm:
         height: 1.2
         length: 9.0
         width: 9.0
-      directory: parts\electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+      directory: parts\electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
       distributors:
       - key: lcsc
         part_number: C14877
@@ -219,20 +208,17 @@ oomlout_ai_roboclick_3:
       manufacturers:
       - manufacturer: Microchip
         part_number: ATmega328P-AU
-      name: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+      name: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
       name_proper: MCU ATmega328P-AU 8-bit AVR TQFP-32
       name_readable: MCU ATmega328P-AU 8-bit AVR TQFP-32
       name_readable_override: MCU ATmega328P-AU 8-bit AVR TQFP-32
       name_short: MCU ATmega328P-AU 8-bit AVR TQFP-32
-      name_space: electronic ic tqfp 32 7 mm x 7 mm microcontroller 8 bit avr microchip
-        atmega328p au
-      name_upper: ELECTRONIC IC TQFP 32 7 MM X 7 MM MICROCONTROLLER 8 BIT AVR MICROCHIP
-        ATMEGA328P AU
+      name_space: electronic ic microcontroller 8 bit avr tqfp 32 7 mm x 7 mm microchip atmega328p au
+      name_upper: ELECTRONIC IC TQFP 32 7 MM X 7 MM MICROCONTROLLER 8 BIT AVR MICROCHIP ATMEGA328P AU
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -242,11 +228,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+          part_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
           regenerate_pngs: true
           timeout: '600'
         - allow_upscale: false
@@ -326,8 +311,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: true
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -615,8 +599,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/tqfp_32_7_mm_x_7_mm/microcontroller/8_bit_avr/microchip/README.md
-        oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+        navigation_link: ../../navigation/electronic/ic/microcontroller/8_bit_avr/tqfp_32_7_mm_x_7_mm/microchip/README.md
+        oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
         pins:
         - name: PD3
           number: '1'
@@ -716,7 +700,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+          value: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
         - title: Type
           value: Ic
         - title: Package / style
@@ -725,21 +709,19 @@ oomlout_ai_roboclick_3:
           value: 9.0 × 9.0 mm
         - title: Documented pins
           value: 32
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
-        summary: MCU ATmega328P-AU 8-bit AVR TQFP-32 is an OOMP electronic ic definition.
-          It uses the tqfp 32 7 mm x 7 mm package or form factor. Its nominal drawing
-          size is 9.0 × 9.0 mm. The definition includes 32 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
+        summary: MCU ATmega328P-AU 8-bit AVR TQFP-32 is an OOMP electronic ic definition. It uses the tqfp 32 7 mm x 7 mm package or form factor. Its nominal drawing size is 9.0 × 9.0 mm. The definition includes 32 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: tqfp_32_7_mm_x_7_mm
-        - level: 4
           value: microcontroller
-        - level: 5
+        - level: 4
           value: 8_bit_avr
+        - level: 5
+          value: tqfp_32_7_mm_x_7_mm
         - level: 14
           value: microchip
         - level: 15
@@ -1036,9 +1018,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: microchip
       taxonomy_15: atmega328p_au
       taxonomy_2: ic
-      taxonomy_3: tqfp_32_7_mm_x_7_mm
-      taxonomy_4: microcontroller
-      taxonomy_5: 8_bit_avr
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -1065,6 +1044,9 @@ oomlout_ai_roboclick_3:
         references:
         - U2
         version: current
+      taxonomy_5: tqfp_32_7_mm_x_7_mm
+      taxonomy_3: microcontroller
+      taxonomy_4: 8_bit_avr
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -1072,7 +1054,7 @@ oomlout_ai_roboclick_3:
     search_and_replace: []
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+oomp_key: oomp_electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
 package_drawing:
   body:
   - 7.0
@@ -1358,8 +1340,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/tqfp_32_7_mm_x_7_mm/microcontroller/8_bit_avr/microchip/README.md
-  oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+  navigation_link: ../../navigation/electronic/ic/microcontroller/8_bit_avr/tqfp_32_7_mm_x_7_mm/microchip/README.md
+  oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
   pins:
   - name: PD3
     number: '1'
@@ -1459,7 +1441,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+    value: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
   - title: Type
     value: Ic
   - title: Package / style
@@ -1468,21 +1450,19 @@ part_page:
     value: 9.0 × 9.0 mm
   - title: Documented pins
     value: 32
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
-  summary: MCU ATmega328P-AU 8-bit AVR TQFP-32 is an OOMP electronic ic definition.
-    It uses the tqfp 32 7 mm x 7 mm package or form factor. Its nominal drawing size
-    is 9.0 × 9.0 mm. The definition includes 32 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
+  summary: MCU ATmega328P-AU 8-bit AVR TQFP-32 is an OOMP electronic ic definition. It uses the tqfp 32 7 mm x 7 mm package or form factor. Its nominal drawing size is 9.0 × 9.0 mm. The definition includes 32 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: tqfp_32_7_mm_x_7_mm
-  - level: 4
     value: microcontroller
-  - level: 5
+  - level: 4
     value: 8_bit_avr
+  - level: 5
+    value: tqfp_32_7_mm_x_7_mm
   - level: 14
     value: microchip
   - level: 15
@@ -1835,51 +1815,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: tqfp_32_7_mm_x_7_mm
-taxonomy_3_capital: Tqfp 32.7 mm x 7 mm
-taxonomy_3_first_letter: t
-taxonomy_3_first_letter_upper: T
-taxonomy_3_length_1: t
-taxonomy_3_length_2: tq
-taxonomy_3_length_3: tqf
-taxonomy_3_length_4: tqfp
-taxonomy_3_length_5: tqfp_
-taxonomy_3_upper: TQFP_32_7_MM_X_7_MM
-taxonomy_3_upper_length_1: T
-taxonomy_3_upper_length_2: TQ
-taxonomy_3_upper_length_3: TQF
-taxonomy_3_upper_length_4: TQFP
-taxonomy_3_upper_length_5: TQFP_
-taxonomy_4: microcontroller
-taxonomy_4_capital: Microcontroller
-taxonomy_4_first_letter: m
-taxonomy_4_first_letter_upper: M
-taxonomy_4_length_1: m
-taxonomy_4_length_2: mi
-taxonomy_4_length_3: mic
-taxonomy_4_length_4: micr
-taxonomy_4_length_5: micro
-taxonomy_4_upper: MICROCONTROLLER
-taxonomy_4_upper_length_1: M
-taxonomy_4_upper_length_2: MI
-taxonomy_4_upper_length_3: MIC
-taxonomy_4_upper_length_4: MICR
-taxonomy_4_upper_length_5: MICRO
-taxonomy_5: 8_bit_avr
-taxonomy_5_capital: 8 Bit Avr
-taxonomy_5_first_letter: '8'
-taxonomy_5_first_letter_upper: '8'
-taxonomy_5_length_1: '8'
-taxonomy_5_length_2: '8_'
-taxonomy_5_length_3: 8_b
-taxonomy_5_length_4: 8_bi
-taxonomy_5_length_5: 8_bit
-taxonomy_5_upper: 8_BIT_AVR
-taxonomy_5_upper_length_1: '8'
-taxonomy_5_upper_length_2: '8_'
-taxonomy_5_upper_length_3: 8_B
-taxonomy_5_upper_length_4: 8_BI
-taxonomy_5_upper_length_5: 8_BIT
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1906,3 +1841,48 @@ used_in_projects:
   references:
   - U2
   version: current
+taxonomy_5: tqfp_32_7_mm_x_7_mm
+taxonomy_5_capital: Tqfp 32.7 mm x 7 mm
+taxonomy_5_first_letter: t
+taxonomy_5_first_letter_upper: T
+taxonomy_5_length_1: t
+taxonomy_5_length_2: tq
+taxonomy_5_length_3: tqf
+taxonomy_5_length_4: tqfp
+taxonomy_5_length_5: tqfp_
+taxonomy_5_upper: TQFP_32_7_MM_X_7_MM
+taxonomy_5_upper_length_1: T
+taxonomy_5_upper_length_2: TQ
+taxonomy_5_upper_length_3: TQF
+taxonomy_5_upper_length_4: TQFP
+taxonomy_5_upper_length_5: TQFP_
+taxonomy_3: microcontroller
+taxonomy_3_capital: Microcontroller
+taxonomy_3_first_letter: m
+taxonomy_3_first_letter_upper: M
+taxonomy_3_length_1: m
+taxonomy_3_length_2: mi
+taxonomy_3_length_3: mic
+taxonomy_3_length_4: micr
+taxonomy_3_length_5: micro
+taxonomy_3_upper: MICROCONTROLLER
+taxonomy_3_upper_length_1: M
+taxonomy_3_upper_length_2: MI
+taxonomy_3_upper_length_3: MIC
+taxonomy_3_upper_length_4: MICR
+taxonomy_3_upper_length_5: MICRO
+taxonomy_4: 8_bit_avr
+taxonomy_4_capital: 8 Bit Avr
+taxonomy_4_first_letter: '8'
+taxonomy_4_first_letter_upper: '8'
+taxonomy_4_length_1: '8'
+taxonomy_4_length_2: '8_'
+taxonomy_4_length_3: 8_b
+taxonomy_4_length_4: 8_bi
+taxonomy_4_length_5: 8_bit
+taxonomy_4_upper: 8_BIT_AVR
+taxonomy_4_upper_length_1: '8'
+taxonomy_4_upper_length_2: '8_'
+taxonomy_4_upper_length_3: 8_B
+taxonomy_4_upper_length_4: 8_BI
+taxonomy_4_upper_length_5: 8_BIT

@@ -33,7 +33,7 @@
       "reference": "U3",
       "source": "RocketScreamKiCadLib:TSSOP-14",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856",
+      "oomp_id": "electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -249,14 +249,14 @@
       "reference": "U1",
       "source": "RocketScreamKiCadLib:QFN-32_5x5mm_Pitch0.5mm",
       "status": "skipped",
-      "oomp_id": "electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
       "reference": "U4",
       "source": "RocketScreamKiCadLib:MSOP-10",
       "status": "skipped",
-      "oomp_id": "electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -382,7 +382,7 @@
       "reference": "U2",
       "source": "RocketScreamKiCadLib:SOT-23",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_3_power_management_linear_voltage_regulator_3_3_volt_microchip_mcp1700t_3302e_tt",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_3_microchip_mcp1700t_3302e_tt",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -491,7 +491,7 @@
       ],
       "source": "TINY-REFLOW-CONTROLLER-rescue:MAX31856-RocketScreamKiCadLib",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856",
+      "oomp_id": "electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },
@@ -1261,7 +1261,7 @@
       ],
       "source": "TINY-REFLOW-CONTROLLER-rescue:CH340E-RocketScreamKiCadLib",
       "status": "skipped",
-      "oomp_id": "electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },
@@ -1327,7 +1327,7 @@
       ],
       "source": "TINY-REFLOW-CONTROLLER-rescue:ATMEGA328P-MU-RocketScreamKiCadLib",
       "status": "skipped",
-      "oomp_id": "electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },
@@ -1347,7 +1347,7 @@
       ],
       "source": "TINY-REFLOW-CONTROLLER-rescue:MCP1700T-XXX2E-TT-RocketScreamKiCadLib",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_3_power_management_linear_voltage_regulator_3_3_volt_microchip_mcp1700t_3302e_tt",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_3_microchip_mcp1700t_3302e_tt",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },

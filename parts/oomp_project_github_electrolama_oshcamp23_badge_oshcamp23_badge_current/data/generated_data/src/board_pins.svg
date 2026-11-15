@@ -23,7 +23,7 @@
 <polyline class="edge-cut" points="111.0011,50.0036 111.0439,49.3510 111.1715,48.7095 111.3817,48.0902 111.6710,47.5036 112.0343,46.9598 112.4656,46.4681 112.9573,46.0368 113.5011,45.6735 114.0877,45.3842 114.7070,45.1740 115.3485,45.0464 116.0011,45.0036" />
 <polyline class="edge-cut" points="186.0011,160.0036 185.9583,160.6562 185.8307,161.2977 185.6205,161.9170 185.3312,162.5036 184.9679,163.0474 184.5366,163.5391 184.0449,163.9704 183.5011,164.3337 182.9145,164.6230 182.2952,164.8332 181.6537,164.9608 181.0011,165.0036" />
 <polyline class="edge-cut" points="116.0011,165.0036 115.3485,164.9608 114.7070,164.8332 114.0877,164.6230 113.5011,164.3337 112.9573,163.9704 112.4656,163.5391 112.0343,163.0474 111.6710,162.5036 111.3817,161.9170 111.1715,161.2977 111.0439,160.6562 111.0011,160.0036" />
-<g class="board-component" data-reference="MOD1" data-oomp-id="electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s" tabindex="0" transform="translate(136.0011 58.2036) rotate(0.0000)">
+<g class="board-component" data-reference="MOD1" data-oomp-id="electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s" tabindex="0" transform="translate(136.0011 58.2036) rotate(0.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-12.0000" y="-8.0000" width="24.0000" height="16.0000" viewBox="0 0 24.0000 16.0000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="24.0000" height="16.0000"  fill="none" stroke="none" />
   <rect x="3.0000" y="0.0000" width="18.0000" height="16.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="4.5600" y="3.1200" width="14.8800" height="7.2000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
@@ -106,7 +106,7 @@
   <text x="0.2000" y="1.5000" font-family="Arial, sans-serif" font-size="0.2270" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,0.2000,1.5000)">contact_1</text>
   <text x="4.6000" y="1.5000" font-family="Arial, sans-serif" font-size="0.2270" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,4.6000,1.5000)">contact_2</text></svg></g>
 </g>
-<g class="board-component" data-reference="IC1" data-oomp-id="electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g" tabindex="0" transform="translate(157.2511 145.0036) rotate(-10.0000)">
+<g class="board-component" data-reference="IC1" data-oomp-id="electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g" tabindex="0" transform="translate(157.2511 145.0036) rotate(-10.0000)">
 <g transform="translate(0.0000 0.0000) rotate(-90)"><svg x="-3.0000" y="-5.0000" width="6.0000" height="10.0000" viewBox="0 0 6.0000 10.0000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="6.0000" height="10.0000"  fill="none" stroke="none" />
   <rect x="1.0000" y="0.0000" width="4.0000" height="10.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.4150" width="1.0000" height="0.4200"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -225,7 +225,7 @@
   <text x="0.2000" y="1.5000" font-family="Arial, sans-serif" font-size="0.2270" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,0.2000,1.5000)">contact_1</text>
   <text x="4.6000" y="1.5000" font-family="Arial, sans-serif" font-size="0.2270" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,4.6000,1.5000)">contact_2</text></svg></g>
 </g>
-<g class="board-component" data-reference="IC2" data-oomp-id="electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3" tabindex="0" transform="translate(169.5011 159.0036) rotate(-180.0000)">
+<g class="board-component" data-reference="IC2" data-oomp-id="electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3" tabindex="0" transform="translate(169.5011 159.0036) rotate(-180.0000)">
 <g transform="translate(0.0000 -0.0381) rotate(-90)"><svg x="-3.8000" y="-3.5000" width="7.6000" height="7.0000" viewBox="0 0 7.6000 7.0000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="7.6000" height="7.0000"  fill="none" stroke="none" />
   <rect x="0.5500" y="1.7500" width="6.5000" height="3.5000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="2.2500" width="0.5500" height="0.7500"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -247,7 +247,7 @@
   <text x="0.2750" y="0.8000" font-family="Arial, sans-serif" font-size="0.3850" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,0.2750,0.8000)">1</text>
   <text x="2.9250" y="0.8000" font-family="Arial, sans-serif" font-size="0.3850" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,2.9250,0.8000)">2</text></svg></g>
 </g>
-<g class="board-component" data-reference="IC3" data-oomp-id="electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16" tabindex="0" transform="translate(153.2511 65.2536) rotate(90.0000)">
+<g class="board-component" data-reference="IC3" data-oomp-id="electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16" tabindex="0" transform="translate(153.2511 65.2536) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-3.1000" y="-3.1000" width="6.2000" height="6.2000" viewBox="0 0 6.2000 6.2000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="6.2000" height="6.2000"  fill="none" stroke="none" />
   <rect x="0.6000" y="0.6000" width="5.0000" height="5.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="2.0500" y="2.0500" width="2.1000" height="2.1000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />

@@ -2118,7 +2118,7 @@ placement:
     x: 102.0
     y: 103.7
     rotation: 0.0
-    oomp_id: electronic_ic_soic_8_logic_comparator_lm393
+    oomp_id: electronic_ic_logic_comparator_soic_8_lm393
     bounds:
       min_x: 98.525
       min_y: 101.14
@@ -2996,8 +2996,8 @@ bom:
 - description: IC Logic Comparator LM393 SOIC_8
   value: LM393
   footprint: e-radionica.com footprinti:SOIC−8
-  oomp_id: electronic_ic_soic_8_logic_comparator_lm393
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_logic_comparator_lm393
+  oomp_id: electronic_ic_logic_comparator_soic_8_lm393
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_comparator_soic_8_lm393
   references:
   - U2
   quantity: 1
@@ -3136,7 +3136,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_soic_8_logic_comparator_lm393
+  - oomp_id: electronic_ic_logic_comparator_soic_8_lm393
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg

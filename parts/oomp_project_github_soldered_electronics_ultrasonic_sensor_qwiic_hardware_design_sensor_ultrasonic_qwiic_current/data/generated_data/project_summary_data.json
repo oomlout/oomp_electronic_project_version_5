@@ -4872,7 +4872,7 @@
         "x": 100.0,
         "y": 119.0,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+        "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
         "bounds": {
           "min_x": 95.415,
           "min_y": 116.0,
@@ -6172,7 +6172,7 @@
         "x": 93.0,
         "y": 118.5,
         "rotation": 0.0,
-        "oomp_id": "electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a",
+        "oomp_id": "electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a",
         "bounds": {
           "min_x": 91.15,
           "min_y": 116.99,
@@ -7514,8 +7514,8 @@
       "description": "IC Microcontroller 8 Bit Avr Microchip SOIC_14",
       "value": "ATTINY404-SSNR",
       "footprint": "e-radionica.com footprinti:SOIC-14",
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "references": [
         "U1"
       ],
@@ -7525,8 +7525,8 @@
       "description": "IC Power Management Boost Converter Texas Instruments SOT_23_5",
       "value": "TPS613222A",
       "footprint": "e-radionica.com footprinti:tps613222a",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a",
+      "oomp_id": "electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a",
       "references": [
         "U2"
       ],
@@ -7847,7 +7847,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+        "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -7862,7 +7862,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a",
+        "oomp_id": "electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

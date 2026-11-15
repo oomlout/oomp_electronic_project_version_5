@@ -92,7 +92,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R1 | 1 | Resistor 1000 Ohm 0603 | 1k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_1000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_1000_ohm) |
 | R2, R3 | 2 | Resistor 2200 Ohm 0603 | 2.2k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_2200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_2200_ohm) |
 | R4, R5 | 2 | electronic resistor 0603 10000 ohm | 10k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
-| U1 | 1 | IC Converter Analog To Digital Converter Texas Instruments TSSOP_16 | ADS1219IPW | `SparkFun-Semiconductor-Standard:TSSOP-16` | [`electronic_ic_tssop_16_converter_analog_to_digital_converter_texas_instruments_ads1219ipw`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_16_converter_analog_to_digital_converter_texas_instruments_ads1219ipw) |
+| U1 | 1 | IC Converter Analog To Digital Converter Texas Instruments TSSOP_16 | ADS1219IPW | `SparkFun-Semiconductor-Standard:TSSOP-16` | [`electronic_ic_converter_analog_to_digital_converter_tssop_16_texas_instruments_ads1219ipw`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_analog_to_digital_converter_tssop_16_texas_instruments_ads1219ipw) |
 
 ## Main nets
 

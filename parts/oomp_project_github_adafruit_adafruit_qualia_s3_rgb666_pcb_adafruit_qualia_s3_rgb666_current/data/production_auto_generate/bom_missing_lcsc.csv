@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 BOOT0,RKB,Adafruit Qualia S3 RGB666-import-fps:BTN_RKB2_4.6X2.8,,No verified LCSC part number
 C1,10uF,Adafruit Qualia S3 RGB666-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C2,10uF,Adafruit Qualia S3 RGB666-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -13,7 +13,7 @@ C23,10uF,Adafruit Qualia S3 RGB666-import-fps:0805-NO,electronic_capacitor_0805_
 D1,MBR0540,Adafruit Qualia S3 RGB666-import-fps:SOD-123,,No verified LCSC part number
 D2,3.6V,Adafruit Qualia S3 RGB666-import-fps:SOD-323,,No verified LCSC part number
 DOWN0,TL3330AF260QG,Adafruit Qualia S3 RGB666-import-fps:SPST_TACTILE_RA,,No verified LCSC part number
-IC1,PCA9554PW,Adafruit Qualia S3 RGB666-import-fps:TSSOP16,electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw,No verified LCSC part number
+IC1,PCA9554PW,Adafruit Qualia S3 RGB666-import-fps:TSSOP16,electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw,No verified LCSC part number
 J1,40P_FPC_BOTCON,Adafruit Qualia S3 RGB666-import-fps:FPC_40,,No verified LCSC part number
 L1,6.8uH,Adafruit Qualia S3 RGB666-import-fps:INDUCTOR_5X5MM_NR5040_NOTHERMALS,,No verified LCSC part number
 PC2,100uF/6.3V,Adafruit Qualia S3 RGB666-import-fps:PANASONIC_D,,No verified LCSC part number
@@ -65,7 +65,7 @@ RST0,TL3330AF260QG,Adafruit Qualia S3 RGB666-import-fps:SPST_TACTILE_RA,,No veri
 SENSE0,JST PH 3,Adafruit Qualia S3 RGB666-import-fps:JSTPH3,,No verified LCSC part number
 TP1,,Adafruit Qualia S3 RGB666-import-fps:TESTPOINT_ROUND_1.5MM_NO,,No verified LCSC part number
 U1,TPS61169,Adafruit Qualia S3 RGB666-import-fps:SC70-5,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit Qualia S3 RGB666-import-fps:SOT23-DBV,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit Qualia S3 RGB666-import-fps:SOT23-DBV,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U3,ESP32-S3-WROOM,Adafruit Qualia S3 RGB666-import-fps:S3-WROOM32,,No verified LCSC part number
 U$44,,Adafruit Qualia S3 RGB666-import-fps:PCBFEAT-REV-040,,No verified LCSC part number
 U$46,,Adafruit Qualia S3 RGB666-import-fps:ADAFRUIT_5MM,,No verified LCSC part number

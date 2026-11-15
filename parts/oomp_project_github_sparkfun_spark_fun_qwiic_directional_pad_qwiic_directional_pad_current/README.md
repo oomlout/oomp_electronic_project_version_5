@@ -98,7 +98,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R5, R6, R15 | 3 | Resistor 1000 Ohm 0603 | 1k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_1000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_1000_ohm) |
 | R7, R13, R14 | 3 | Resistor 2200 Ohm 0603 | 2.2k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_2200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_2200_ohm) |
 | SW2 | 1 | Switch Surface Mount 9 9 Mm NAVIGATION | Nav Switch | `SparkFun-Switch:Navigation_SMD_9.9x9.9mm` | [`electronic_switch_navigation_surface_mount_9_9_mm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_navigation_surface_mount_9_9_mm) |
-| U4 | 1 | IC Logic Io Expander Texas Instruments TSSOP_16 | PCA9554PW | `SparkFun-Semiconductor-Standard:TSSOP-16_4.4x5mm_P0.65mm` | [`electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw) |
+| U4 | 1 | IC Logic Io Expander Texas Instruments TSSOP_16 | PCA9554PW | `SparkFun-Semiconductor-Standard:TSSOP-16_4.4x5mm_P0.65mm` | [`electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw) |
 
 ## Main nets
 

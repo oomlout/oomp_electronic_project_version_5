@@ -115182,9 +115182,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    proposed_oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
     inferred:
       kind: connector
       package_size: null
@@ -119846,9 +119846,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+    oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+    proposed_oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
     inferred:
       kind: null
       package_size: null
@@ -121142,9 +121142,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+    oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+    proposed_oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
     inferred:
       kind: null
       package_size: null
@@ -122397,9 +122397,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+    oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+    proposed_oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
     inferred:
       kind: null
       package_size: null

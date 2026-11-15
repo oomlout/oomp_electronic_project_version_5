@@ -93,7 +93,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R2 | 1 | 0.47ohm | 0.47ohm | `Adafruit eInk Breakout Friend-import-fps:0805-NO` | unmatched |
 | R4 | 1 | 3 ohm | 3 ohm | `Adafruit eInk Breakout Friend-import-fps:0805-NO` | unmatched |
 | U1 | 1 | Adafruit eInk Breakout Friend-import-fps:TSSOP20 |  | `Adafruit eInk Breakout Friend-import-fps:TSSOP20` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit eInk Breakout Friend-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit eInk Breakout Friend-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U4 | 1 | 23K256-I/SN | 23K256-I/SN | `Adafruit eInk Breakout Friend-import-fps:SOIC8_150MIL` | unmatched |
 
 ## Main nets

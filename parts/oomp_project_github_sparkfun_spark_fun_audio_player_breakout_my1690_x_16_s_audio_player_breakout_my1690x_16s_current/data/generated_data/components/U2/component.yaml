@@ -2475,9 +2475,9 @@ connectivity_cross_check:
 oomp:
   status: matched
   accepted: true
-  oomp_id: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+  oomp_id: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
   confidence: 1.0
-  proposed_oomp_id: electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s
+  proposed_oomp_id: electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s
   inferred:
     kind: null
     package_size: null

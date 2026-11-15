@@ -6156,9 +6156,9 @@
   "oomp": {
     "status": "matched",
     "accepted": true,
-    "oomp_id": "electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz",
+    "oomp_id": "electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz",
     "confidence": 1.0,
-    "proposed_oomp_id": "electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz",
+    "proposed_oomp_id": "electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz",
     "inferred": {
       "kind": null,
       "package_size": null,

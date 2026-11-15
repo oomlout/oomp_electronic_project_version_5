@@ -191,7 +191,7 @@ footprints:
 - reference: U3
   source: SparkFun-Semiconductor-Standard:SOT23-5
   status: skipped
-  oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
   reason: Source is not an available official master for this OOMP part.
 - reference: JP10
   source: SparkFun-Jumper:Jumper_2_NC_Trace
@@ -236,7 +236,7 @@ footprints:
 - reference: U4
   source: SparkFun-Semiconductor-Standard:SO-16
   status: skipped
-  oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
   reason: Source is not an available official master for this OOMP part.
 - reference: C10
   source: SparkFun-Capacitor:C_0603_1608Metric
@@ -547,7 +547,7 @@ symbols:
   - U4
   source: SparkFun-IC-Comm:CH340C
   status: skipped
-  oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
   reason: Source is not a known official KiCad symbol.
   file: kicad_file.kicad_sch
 - references:
@@ -991,7 +991,7 @@ symbols:
   - U3
   source: SparkFun-Regulator:RT9080-3.3
   status: skipped
-  oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
   reason: OOMP symbol master unavailable.
   file: kicad_file.kicad_sch
 - references:

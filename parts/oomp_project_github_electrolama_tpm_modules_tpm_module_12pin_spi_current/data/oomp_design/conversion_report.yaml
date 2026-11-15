@@ -34,7 +34,7 @@ footprints:
 - reference: IC1
   source: Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm
   status: skipped
-  oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670
+  oomp_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670
   reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
     footprint identity and annotation conversion was skipped.
 - reference: C1
@@ -187,7 +187,7 @@ symbols:
   - IC1
   source: tpm-chips:Infineon-SLB9670
   status: skipped
-  oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670
+  oomp_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670
   reason: OOMP symbol master unavailable.
   file: kicad_file.kicad_sch
 validation:

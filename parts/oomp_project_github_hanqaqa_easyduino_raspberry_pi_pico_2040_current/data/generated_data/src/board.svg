@@ -49,7 +49,7 @@
   <rect x="8.6400" y="0.4000" width="0.3000" height="1.1000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <rect x="8.6400" y="5.0500" width="0.3000" height="0.8000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" /></svg></g>
 </g>
-<g class="board-component" data-reference="U2" data-oomp-id="electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040" tabindex="0" transform="translate(144.5900 103.2000) rotate(0.0000)">
+<g class="board-component" data-reference="U2" data-oomp-id="electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040" tabindex="0" transform="translate(144.5900 103.2000) rotate(0.0000)">
 <g transform="translate(-0.1875 0.0000) rotate(180)"><svg x="-4.0120" y="-4.0120" width="8.0240" height="8.0240" viewBox="0 0 8.0240 8.0240" preserveAspectRatio="xMidYMid meet"><rect x="0.5120" y="0.5120" width="7.0000" height="7.0000"  fill="none" stroke="none" />
   <rect x="0.6120" y="0.6120" width="6.8000" height="6.8000" rx="0.0700" ry="0.0700"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="2.5160" y="2.5160" width="2.9920" height="2.9920"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" />
@@ -115,14 +115,14 @@
   <rect x="2.8000" y="2.1500" width="0.4000" height="0.3000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <rect x="2.8000" y="0.0500" width="0.4000" height="0.3000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" /></svg></g>
 </g>
-<g class="board-component" data-reference="U1" data-oomp-id="electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr" tabindex="0" transform="translate(148.9000 86.0500) rotate(0.0000)">
+<g class="board-component" data-reference="U1" data-oomp-id="electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr" tabindex="0" transform="translate(148.9000 86.0500) rotate(0.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4600" y="-1.9250" width="2.9200" height="3.8500" viewBox="0 0 2.9200 3.8500" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.5250" width="2.9200" height="2.8000"  fill="none" stroke="none" />
   <rect x="0.0000" y="1.1250" width="2.9200" height="1.6000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.2600" y="2.9000" width="0.5000" height="0.9500"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <rect x="2.1600" y="2.9000" width="0.5000" height="0.9500"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <rect x="1.2100" y="0.0000" width="0.5000" height="0.9500"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" /></svg></g>
 </g>
-<g class="board-component" data-reference="U3" data-oomp-id="electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq" tabindex="0" transform="translate(143.9000 92.0750) rotate(-90.0000)">
+<g class="board-component" data-reference="U3" data-oomp-id="electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq" tabindex="0" transform="translate(143.9000 92.0750) rotate(-90.0000)">
 <g transform="translate(-0.1250 -0.1000) rotate(180)"><svg x="-1.5000" y="-1.0000" width="3.0000" height="2.0000" viewBox="0 0 3.0000 2.0000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="3.0000" height="2.0000"  fill="none" stroke="none" />
   <rect x="0.3000" y="0.3000" width="2.4000" height="1.4000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.6900" y="1.3000" width="0.4200" height="0.7000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />

@@ -192,7 +192,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R19 | 1 | FUSE | FUSE | `Adafruit Feather RP2040 USB Host-import-fps:0805-NO` | unmatched |
 | SW1, SW2 | 2 | RKB2 | RKB2 | `Adafruit Feather RP2040 USB Host-import-fps:BTN_RKB2_4.6X2.8` | unmatched |
 | U1 | 1 | 8MB QSPI | 8MB QSPI | `Adafruit Feather RP2040 USB Host-import-fps:USON8_4X4` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5 | RT9080-3.3 | `Adafruit Feather RP2040 USB Host-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5 | RT9080-3.3 | `Adafruit Feather RP2040 USB Host-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33) |
 | U3 | 1 | MCP73831T-2ACI/OT | MCP73831T-2ACI/OT | `Adafruit Feather RP2040 USB Host-import-fps:SOT23-5` | unmatched |
 | X1 | 1 | JSTPH | JSTPH | `Adafruit Feather RP2040 USB Host-import-fps:JSTPH2_BATT` | unmatched |
 | X2 | 1 | USB A | USB A | `Adafruit Feather RP2040 USB Host-import-fps:USB_HOST-SMT` | unmatched |

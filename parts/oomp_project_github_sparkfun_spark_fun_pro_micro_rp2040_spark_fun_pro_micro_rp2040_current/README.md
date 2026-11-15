@@ -103,7 +103,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | S1 | 1 | Reset | Reset | `SparkFun_ProMicro-RP2040-import-fps:TACTILE_SWITCH_SMD_4.6X2.8MM` | unmatched |
 | S2 | 1 | Boot | Boot | `SparkFun_ProMicro-RP2040-import-fps:TACTILE_SWITCH_SMD_4.6X2.8MM` | unmatched |
 | U1 | 1 | 3.3V | 3.3V | `SparkFun_ProMicro-RP2040-import-fps:SOT23-5` | unmatched |
-| U2 | 1 | IC RP2040 QFN 56 7 MM X 7 MM | RP2040 | `SparkFun_ProMicro-RP2040-import-fps:QFN-56` | [`electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040) |
+| U2 | 1 | IC RP2040 QFN 56 7 MM X 7 MM | RP2040 | `SparkFun_ProMicro-RP2040-import-fps:QFN-56` | [`electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040) |
 | U3 | 1 | WS2812-2020 | WS2812-2020 | `SparkFun_ProMicro-RP2040-import-fps:WS2812-2020` | unmatched |
 | U4 | 1 | W25QXX128MBIT | W25QXX128MBIT | `SparkFun_ProMicro-RP2040-import-fps:WSON-8-6X5-SKINNY_CENTERPAD` | unmatched |
 | Y1 | 1 | 12MHz | 12MHz | `SparkFun_ProMicro-RP2040-import-fps:CRYSTAL-SMD-2X2.5MM` | unmatched |

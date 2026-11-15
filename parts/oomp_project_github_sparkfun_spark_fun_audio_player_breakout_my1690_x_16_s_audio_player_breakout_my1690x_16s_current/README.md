@@ -124,7 +124,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R5 | 1 | Resistor 1000 Ohm 0603 | 1k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_1000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_1000_ohm) |
 | R6 | 1 | Resistor 100000 Ohm 0603 | 100k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_100000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_100000_ohm) |
 | R9 | 1 | Resistor 4700 Ohm 0603 | 4.7k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_4700_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_4700_ohm) |
-| U2 | 1 | IC Audio Audio Player My Semi SO_16 | MY1690X-16S | `SparkFun-Semiconductor-Standard:SO-16` | [`electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s) |
+| U2 | 1 | IC Audio Audio Player My Semi SO_16 | MY1690X-16S | `SparkFun-Semiconductor-Standard:SO-16` | [`electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s) |
 
 ## Main nets
 

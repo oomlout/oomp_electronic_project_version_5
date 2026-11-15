@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C1,10uF,Adafruit 1.28 240x240 Round Display-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C2,10uF,Adafruit 1.28 240x240 Round Display-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C4,10uF,Adafruit 1.28 240x240 Round Display-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -25,7 +25,7 @@ PLABEL26,,Adafruit 1.28 240x240 Round Display-import-fps:PLABEL26,,No verified L
 PLABEL27,,Adafruit 1.28 240x240 Round Display-import-fps:PLABEL27,,No verified LCSC part number
 PLABEL28,,Adafruit 1.28 240x240 Round Display-import-fps:PLABEL28,,No verified LCSC part number
 U1,74HC4050PWR,Adafruit 1.28 240x240 Round Display-import-fps:TSSOP16,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit 1.28 240x240 Round Display-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit 1.28 240x240 Round Display-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U$1,,Adafruit 1.28 240x240 Round Display-import-fps:ADAFRUIT_5MM,,No verified LCSC part number
 U$2,,Adafruit 1.28 240x240 Round Display-import-fps:PCBFEAT-REV-040,,No verified LCSC part number
 U$4,FIDUCIAL_1MM,Adafruit 1.28 240x240 Round Display-import-fps:FIDUCIAL_1MM,,No verified LCSC part number

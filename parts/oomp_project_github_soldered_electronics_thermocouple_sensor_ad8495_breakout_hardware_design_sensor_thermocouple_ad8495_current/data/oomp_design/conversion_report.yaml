@@ -94,7 +94,7 @@ footprints:
 - reference: U1
   source: e-radionica.com footprinti:SOT-23-3
   status: skipped
-  oomp_id: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+  oomp_id: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
   reason: Source is not an available official master for this OOMP part.
 - reference: C1
   source: e-radionica.com footprinti:0603C
@@ -109,7 +109,7 @@ footprints:
 - reference: U2
   source: e-radionica.com footprinti:TP4056M-MSOP8
   status: skipped
-  oomp_id: electronic_ic_msop_8_amplifier_thermocouple_amplifier_texas_instruments_ad8495armz
+  oomp_id: electronic_ic_amplifier_thermocouple_amplifier_msop_8_texas_instruments_ad8495armz
   reason: Source is not an available official master for this OOMP part.
 - reference: R1
   source: e-radionica.com footprinti:0603R
@@ -217,14 +217,14 @@ symbols:
   - U2
   source: e-radionica.com schematics:AD8495ARMZ
   status: skipped
-  oomp_id: electronic_ic_msop_8_amplifier_thermocouple_amplifier_texas_instruments_ad8495armz
+  oomp_id: electronic_ic_amplifier_thermocouple_amplifier_msop_8_texas_instruments_ad8495armz
   reason: Source is not a known official KiCad symbol.
   file: kicad_file.kicad_sch
 - references:
   - U1
   source: e-radionica.com schematics:TL431
   status: skipped
-  oomp_id: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+  oomp_id: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
   reason: OOMP symbol master unavailable.
   file: kicad_file.kicad_sch
 - references:

@@ -128,7 +128,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | S3 | 1 | PWR_ON | PWR_ON | `lte_cat_m1_shield_sara-r4-import-fps:TACTILE_SWITCH_SMD_5.2MM` | unmatched |
 | S4 | 1 | RESET | RESET | `lte_cat_m1_shield_sara-r4-import-fps:TACTILE_SWITCH_SMD_5.2MM` | unmatched |
 | U1 | 1 | TXB0104 | TXB0104 | `lte_cat_m1_shield_sara-r4-import-fps:TSSOP14` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `lte_cat_m1_shield_sara-r4-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `lte_cat_m1_shield_sara-r4-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U3 | 1 | MCP73831 | MCP73831 | `lte_cat_m1_shield_sara-r4-import-fps:SOT23-5` | unmatched |
 | U4 | 1 | TCA9406DCU | TCA9406DCU | `lte_cat_m1_shield_sara-r4-import-fps:VSSOP-8` | unmatched |
 | U5 | 1 | AP7361C-33FGE | AP7361C-33FGE | `lte_cat_m1_shield_sara-r4-import-fps:8-UDFN` | unmatched |

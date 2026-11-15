@@ -16,7 +16,7 @@
 <rect class="page" x="129.2550" y="86.0750" width="37.4000" height="37.4000" />
 <rect class="board" x="135.2550" y="92.0750" width="25.4000" height="25.4000" rx="1.0" />
 <polyline class="edge-cut" points="160.6550,92.0750 135.2550,92.0750 135.2550,117.4750 160.6550,117.4750 160.6550,92.0750" />
-<g class="board-component" data-reference="U4" data-oomp-id="electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw" tabindex="0" transform="translate(147.9550 104.7750) rotate(180.0000)">
+<g class="board-component" data-reference="U4" data-oomp-id="electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw" tabindex="0" transform="translate(147.9550 104.7750) rotate(180.0000)">
 <g transform="translate(0.0000 0.3025) rotate(0)"><svg x="-3.2000" y="-3.2000" width="6.4000" height="6.4000" viewBox="0 0 6.4000 6.4000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="6.4000" height="6.4000"  fill="none" stroke="none" />
   <rect x="0.7000" y="1.0000" width="5.0000" height="4.4000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="-0.0000" y="1.1350" width="0.7000" height="0.2800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />

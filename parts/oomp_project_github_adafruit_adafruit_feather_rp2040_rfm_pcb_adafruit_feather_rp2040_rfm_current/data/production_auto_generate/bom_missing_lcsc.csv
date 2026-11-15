@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C1,10uF,Adafruit Feather RP2040 RFM-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C4,10uF,Adafruit Feather RP2040 RFM-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C5,10uF,Adafruit Feather RP2040 RFM-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -73,7 +73,7 @@ SW1,KMR2,Adafruit Feather RP2040 RFM-import-fps:BTN_RKB2_4.6X2.8,,No verified LC
 SW2,KMR2,Adafruit Feather RP2040 RFM-import-fps:BTN_RKB2_4.6X2.8,,No verified LCSC part number
 TP3,,Adafruit Feather RP2040 RFM-import-fps:TESTPOINT_ROUND_1.5MM_NO,,No verified LCSC part number
 U1,8MB QSPI,Adafruit Feather RP2040 RFM-import-fps:USON8_4X4,,No verified LCSC part number
-U2,RT9080-3.3,Adafruit Feather RP2040 RFM-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33,No verified LCSC part number
+U2,RT9080-3.3,Adafruit Feather RP2040 RFM-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33,No verified LCSC part number
 U3,MCP73831T-2ACI/OT,Adafruit Feather RP2040 RFM-import-fps:SOT23-5,,No verified LCSC part number
 U$13,,Adafruit Feather RP2040 RFM-import-fps:PCBFEAT-REV-040,,No verified LCSC part number
 U$34,FIDUCIAL_1MM,Adafruit Feather RP2040 RFM-import-fps:FIDUCIAL_1MM,,No verified LCSC part number

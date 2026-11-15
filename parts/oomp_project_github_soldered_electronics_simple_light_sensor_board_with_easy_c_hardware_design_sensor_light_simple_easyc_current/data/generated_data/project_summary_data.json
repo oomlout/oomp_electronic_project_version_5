@@ -4958,7 +4958,7 @@
         "x": 119.8,
         "y": 127.8,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+        "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
         "bounds": {
           "min_x": 116.325,
           "min_y": 123.44,
@@ -7096,8 +7096,8 @@
       "description": "IC Microcontroller 8 Bit Avr Microchip SOIC_14",
       "value": "ATTINY404-SSNR",
       "footprint": "e-radionica.com footprinti:SOIC-14",
-      "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
       "references": [
         "U1"
       ],
@@ -7380,7 +7380,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr",
+        "oomp_id": "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

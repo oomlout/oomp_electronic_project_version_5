@@ -124,7 +124,7 @@
   <text x="6.9200" y="0.7500" font-family="Arial, sans-serif" font-size="0.4200" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,6.9200,0.7500)">vbus</text>
   <text x="7.7200" y="0.7500" font-family="Arial, sans-serif" font-size="0.4200" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,7.7200,0.7500)">gnd</text></svg></g>
 </g>
-<g class="board-component" data-reference="IC2" data-oomp-id="electronic_ic_sop_16_controller_usb_hub_controller_4_port_corechips_sl21a" tabindex="0" transform="translate(148.7511 112.6286) rotate(90.0000)">
+<g class="board-component" data-reference="IC2" data-oomp-id="electronic_ic_controller_usb_hub_controller_4_port_sop_16_corechips_sl21a" tabindex="0" transform="translate(148.7511 112.6286) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-3.0450" y="-4.9500" width="6.0900" height="9.9000" viewBox="0 0 6.0900 9.9000" preserveAspectRatio="xMidYMid meet"><rect x="0.0250" y="0.0000" width="6.0400" height="9.9000"  fill="none" stroke="none" />
   <rect x="1.0950" y="0.0000" width="3.9000" height="9.9000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.3751" width="1.1200" height="0.4872"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -188,7 +188,7 @@
   <text x="1.2500" y="11.4300" font-family="Arial, sans-serif" font-size="0.2011" text-anchor="middle" dominant-baseline="middle" fill="#000000">pin 5</text>
   <text x="1.2500" y="13.9700" font-family="Arial, sans-serif" font-size="0.2011" text-anchor="middle" dominant-baseline="middle" fill="#000000">pin 6</text></svg></g>
 </g>
-<g class="board-component" data-reference="IC1" data-oomp-id="electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p" tabindex="0" transform="translate(150.2511 103.8786) rotate(90.0000)">
+<g class="board-component" data-reference="IC1" data-oomp-id="electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p" tabindex="0" transform="translate(150.2511 103.8786) rotate(90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-1.6520" y="-1.6520" width="3.3040" height="3.3040" viewBox="0 0 3.3040 3.3040" preserveAspectRatio="xMidYMid meet"><rect x="0.1520" y="0.1520" width="3.0000" height="3.0000"  fill="none" stroke="none" />
   <rect x="0.2520" y="0.2520" width="2.8000" height="2.8000" rx="0.0700" ry="0.0700"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="1.0360" y="1.0360" width="1.2320" height="1.2320"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0493" />
@@ -261,7 +261,7 @@
   <text x="2.4241" y="1.4500" font-family="Arial, sans-serif" font-size="0.1913" text-anchor="middle" dominant-baseline="middle" fill="#000000">pin 5</text>
   <text x="2.4241" y="2.3343" font-family="Arial, sans-serif" font-size="0.1913" text-anchor="middle" dominant-baseline="middle" fill="#000000">pin 4</text></svg></g>
 </g>
-<g class="board-component" data-reference="IC3" data-oomp-id="electronic_ic_sot_23_6_logic_configurable_multi_function_gate_texas_instruments_sn74lvc1g57dbvr" tabindex="0" transform="translate(155.4386 102.2536) rotate(-90.0000)">
+<g class="board-component" data-reference="IC3" data-oomp-id="electronic_ic_logic_configurable_multi_function_gate_sot_23_6_texas_instruments_sn74lvc1g57dbvr" tabindex="0" transform="translate(155.4386 102.2536) rotate(-90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4000" y="-1.4500" width="2.8000" height="2.9000" viewBox="0 0 2.8000 2.9000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.8000" height="2.9000"  fill="none" stroke="none" />
   <rect x="0.6552" y="0.1000" width="1.4897" height="2.7000" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0716" y="0.3912" width="0.6086" height="0.3491"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -286,7 +286,7 @@
   <text x="0.2000" y="1.2500" font-family="Arial, sans-serif" font-size="0.2800" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,0.2000,1.2500)">pin 1</text>
   <text x="3.0000" y="1.2500" font-family="Arial, sans-serif" font-size="0.2800" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,3.0000,1.2500)">pin 2</text></svg></g>
 </g>
-<g class="board-component" data-reference="IC4" data-oomp-id="electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5" tabindex="0" transform="translate(155.6261 96.3786) rotate(-180.0000)">
+<g class="board-component" data-reference="IC4" data-oomp-id="electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5" tabindex="0" transform="translate(155.6261 96.3786) rotate(-180.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4478" y="-1.3978" width="2.8955" height="2.7955" viewBox="0 0 2.8955 2.7955" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.8955" height="2.7955"  fill="none" stroke="none" />
   <rect x="0.1036" y="0.6550" width="2.6883" height="1.4855" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.3679" y="2.1155" width="0.3988" height="0.6050"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />

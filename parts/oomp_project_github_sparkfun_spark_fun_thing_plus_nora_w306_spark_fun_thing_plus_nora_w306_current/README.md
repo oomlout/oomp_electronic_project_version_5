@@ -126,7 +126,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | U3 | 1 | XC6222B331MR-G | XC6222B331MR-G | `SOT23-5` | unmatched |
 | U4 | 1 | MCP73831 | MCP73831 | `SOT23-5` | unmatched |
 | U5 | 1 | MAX17048 | MAX17048 | `DFN-8` | unmatched |
-| U6 | 1 | USB-Serial CP2102N-A01-GQFN28R | CP2102N | `QFN24` | [`electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r) |
+| U6 | 1 | USB-Serial CP2102N-A01-GQFN28R | CP2102N | `QFN24` | [`electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r) |
 
 ## Main nets
 

@@ -52,7 +52,7 @@
       "reference": "U2",
       "source": "e-radionica.com footprinti:MSOP-8",
       "status": "skipped",
-      "oomp_id": "electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -117,7 +117,7 @@
       "reference": "U1",
       "source": "e-radionica.com footprinti:SOIC−8",
       "status": "skipped",
-      "oomp_id": "electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd",
+      "oomp_id": "electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -397,7 +397,7 @@
       ],
       "source": "e-radionica.com schematics:TLC555",
       "status": "skipped",
-      "oomp_id": "electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd",
+      "oomp_id": "electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },
@@ -635,7 +635,7 @@
       ],
       "source": "e-radionica.com schematics:SGM358YMS{slash}TR",
       "status": "skipped",
-      "oomp_id": "electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },

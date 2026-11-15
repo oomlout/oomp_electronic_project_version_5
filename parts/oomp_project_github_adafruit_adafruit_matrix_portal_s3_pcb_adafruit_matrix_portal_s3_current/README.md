@@ -126,7 +126,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | SENSE0 | 1 | JST PH 3 | JST PH 3 | `Adafruit MatrixPortal S3-import-fps:JSTPH3` | unmatched |
 | SW1 | 1 | KMR2 | KMR2 | `Adafruit MatrixPortal S3-import-fps:BTN_RKB2_4.6X2.8` | unmatched |
 | U1, U5 | 2 | 74AHCT245 | 74AHCT245 | `Adafruit MatrixPortal S3-import-fps:TSSOP20` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit MatrixPortal S3-import-fps:SOT23-DBV` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit MatrixPortal S3-import-fps:SOT23-DBV` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U3 | 1 | ESP32-S3-WROOM | ESP32-S3-WROOM | `Adafruit MatrixPortal S3-import-fps:S3-WROOM32` | unmatched |
 | U4 | 1 | Sensor Lga 16 St LIS3DHTR ACCELEROMETER | LIS3DHTR | `Adafruit MatrixPortal S3-import-fps:LGA16_3X3MM` | [`electronic_sensor_accelerometer_lga_16_st_lis3dhtr`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_accelerometer_lga_16_st_lis3dhtr) |
 | U6 | 1 | ALS-PT19 | ALS-PT19 | `Adafruit MatrixPortal S3-import-fps:ALS-PT19-315C` | unmatched |

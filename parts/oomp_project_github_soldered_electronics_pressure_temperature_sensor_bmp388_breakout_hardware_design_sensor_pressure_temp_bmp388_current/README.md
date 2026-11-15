@@ -91,7 +91,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R3 | 1 | Resistor 100000 Ohm 0603 | 100k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_100000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_100000_ohm) |
 | U1 | 1 | Sensor Lga 10 Bosch BMP388 PRESSURE TEMPERATURE | BMP388 | `e-radionica.com footprinti:BMP388` | [`electronic_sensor_pressure_temperature_lga_10_bosch_bmp388`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_pressure_temperature_lga_10_bosch_bmp388) |
 | U2 | 1 | Transistor Mosfet N Channel Dual SOT 363 6 | NMOS-DUAL | `e-radionica.com footprinti:SOT-363` | [`electronic_transistor_sot_363_6_mosfet_n_channel_dual`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_363_6_mosfet_n_channel_dual) |
-| U3 | 1 | IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5 | SE5218ALG | `e-radionica.com footprinti:SOT-23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg) |
+| U3 | 1 | IC Power Management Linear Voltage Regulator SE5218ALG SOT_23_5 | SE5218ALG | `e-radionica.com footprinti:SOT-23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg) |
 
 ## Main nets
 

@@ -1,39 +1,38 @@
 bip_39_2_word_array:
-- ketchup
-- erase
-bip_39_2_word_no_space: ketchuperase
-bip_39_2_word_space: ketchup erase
-bip_39_2_word_underscore: ketchup_erase
+- cup
+- top
+bip_39_2_word_no_space: cuptop
+bip_39_2_word_space: cup top
+bip_39_2_word_underscore: cup_top
 bip_39_3_word_array:
-- ketchup
-- erase
-- syrup
-bip_39_3_word_no_space: ketchuperasesyrup
-bip_39_3_word_space: ketchup erase syrup
-bip_39_3_word_underscore: ketchup_erase_syrup
+- cup
+- top
+- term
+bip_39_3_word_no_space: cuptopterm
+bip_39_3_word_space: cup top term
+bip_39_3_word_underscore: cup_top_term
 bip_39_full_array:
-- ketchup
-- erase
-- syrup
-- since
-- coffee
-- regret
-- dynamic
-- drum
-- clerk
-- prosper
-- involve
-- eyebrow
-bip_39_full_no_space: ketchuperasesyrupsincecoffeeregretdynamicdrumclerkprosperinvolveeyebrow
-bip_39_full_space: ketchup erase syrup since coffee regret dynamic drum clerk prosper
-  involve eyebrow
-bip_39_full_underscore: ketchup_erase_syrup_since_coffee_regret_dynamic_drum_clerk_prosper_involve_eyebrow
+- cup
+- top
+- term
+- angry
+- album
+- range
+- trip
+- tape
+- royal
+- panther
+- payment
+- vanish
+bip_39_full_no_space: cuptoptermangryalbumrangetriptaperoyalpantherpaymentvanish
+bip_39_full_space: cup top term angry album range trip tape royal panther payment vanish
+bip_39_full_underscore: cup_top_term_angry_album_range_trip_tape_royal_panther_payment_vanish
 category: amplifier
 category_name: Amplifier
 dimensions_mm:
   length: 2.9
   width: 1.6
-directory: parts/electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+directory: parts/electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
 distributors: []
 ic_dimensions_mm:
   body_length: 2.92
@@ -48,47 +47,41 @@ ic_dimensions_mm:
   pin_length: 0.45
   pin_pitch: 0.95
   pin_width: 0.4
-id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
-id_no_class: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
-id_no_size: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
-id_no_type: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
+id_no_class: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
+id_no_size: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
+id_no_type: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
 kicad:
   hand_solder: Package_TO_SOT_SMD:SOT-23-5
   machine_solder: Package_TO_SOT_SMD:SOT-23-5
   symbol: ''
 lcsc_search: sot 23 5 amplifier operational amplifier texas instruments opa344 ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
 manufacturers: []
-md5: 79e98f72e492d36951321c2a7591d8a8
-md5_10: 79e98f72e4
-md5_10_upper: 79E98F72E4
-md5_5: 79e98
-md5_5_upper: 79E98
-md5_6: 79e98f
-md5_6_alpha: 4r8un
-md5_6_alpha_upper: 4R8UN
-md5_6_upper: 79E98F
-name: Electronic Ic Sot 23 5 Amplifier Operational Amplifier Texas Instruments Opa344
-name_no_class: Electronic Ic Sot 23 5 Amplifier Operational Amplifier Texas Instruments
-  Opa344
-name_no_size: Electronic Ic Sot 23 5 Amplifier Operational Amplifier Texas Instruments
-  Opa344
-name_no_type: Electronic Ic Sot 23 5 Amplifier Operational Amplifier Texas Instruments
-  Opa344
+md5: 35bc9f7d84705f63ba36eebcb3fa86f8
+md5_10: 35bc9f7d84
+md5_10_upper: 35BC9F7D84
+md5_5: 35bc9
+md5_5_upper: 35BC9
+md5_6: 35bc9f
+md5_6_alpha: 23hcv
+md5_6_alpha_upper: 23HCV
+md5_6_upper: 35BC9F
+name: Electronic Ic Amplifier Operational Amplifier Sot 23 5 Texas Instruments Opa344
+name_no_class: Electronic Ic Amplifier Operational Amplifier Sot 23 5 Texas Instruments Opa344
+name_no_size: Electronic Ic Amplifier Operational Amplifier Sot 23 5 Texas Instruments Opa344
+name_no_type: Electronic Ic Amplifier Operational Amplifier Sot 23 5 Texas Instruments Opa344
 name_proper: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5
 name_readable: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5
 name_short: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5
-name_space: electronic ic sot 23 5 amplifier operational amplifier texas instruments
-  opa344
-name_upper: ELECTRONIC IC SOT 23 5 AMPLIFIER OPERATIONAL AMPLIFIER TEXAS INSTRUMENTS
-  OPA344
+name_space: electronic ic amplifier operational amplifier sot 23 5 texas instruments opa344
+name_upper: ELECTRONIC IC SOT 23 5 AMPLIFIER OPERATIONAL AMPLIFIER TEXAS INSTRUMENTS OPA344
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -101,7 +94,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+    part_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -181,8 +174,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -196,7 +188,7 @@ oomlout_ai_roboclick_3:
       dimensions_mm:
         length: 2.9
         width: 1.6
-      directory: parts\electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+      directory: parts\electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
       distributors: []
       ic_dimensions_mm:
         body_length: 2.92
@@ -215,22 +207,18 @@ oomlout_ai_roboclick_3:
         hand_solder: Package_TO_SOT_SMD:SOT-23-5
         machine_solder: Package_TO_SOT_SMD:SOT-23-5
         symbol: ''
-      lcsc_search: sot 23 5 amplifier operational amplifier texas instruments opa344
-        ic
+      lcsc_search: sot 23 5 amplifier operational amplifier texas instruments opa344 ic
       manufacturers: []
-      name: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+      name: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
       name_proper: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5
       name_readable: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5
       name_short: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5
-      name_space: electronic ic sot 23 5 amplifier operational amplifier texas instruments
-        opa344
-      name_upper: ELECTRONIC IC SOT 23 5 AMPLIFIER OPERATIONAL AMPLIFIER TEXAS INSTRUMENTS
-        OPA344
+      name_space: electronic ic amplifier operational amplifier sot 23 5 texas instruments opa344
+      name_upper: ELECTRONIC IC SOT 23 5 AMPLIFIER OPERATIONAL AMPLIFIER TEXAS INSTRUMENTS OPA344
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -240,11 +228,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+          part_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -324,8 +311,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       part_id: U1
@@ -402,33 +388,31 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sot_23_5/amplifier/operational_amplifier/texas_instruments/README.md
-        oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+        navigation_link: ../../navigation/electronic/ic/amplifier/operational_amplifier/sot_23_5/texas_instruments/README.md
+        oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
         pins: []
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+          value: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
         - title: Type
           value: Ic
         - title: Package / style
           value: sot 23 5
         - title: Nominal size
           value: 2.9 × 1.6 mm
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
-        summary: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5 is
-          an OOMP electronic ic definition. It uses the sot 23 5 package or form factor.
-          Its nominal drawing size is 2.9 × 1.6 mm.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
+        summary: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5 is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sot_23_5
-        - level: 4
           value: amplifier
-        - level: 5
+        - level: 4
           value: operational_amplifier
+        - level: 5
+          value: sot_23_5
         - level: 14
           value: texas_instruments
         - level: 15
@@ -595,9 +579,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: texas_instruments
       taxonomy_15: opa344
       taxonomy_2: ic
-      taxonomy_3: sot_23_5
-      taxonomy_4: amplifier
-      taxonomy_5: operational_amplifier
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -607,8 +588,7 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_current_sensor_30_a_acs712_breakout_hardware_design_sensor_current_acs712_30a_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Current-sensor-30A-ACS712-breakout-hardware-design
         github_url: https://github.com/SolderedElectronics/Current-sensor-30A-ACS712-breakout-hardware-design
-        name: Project soldered_electronics/Current-sensor-30A-ACS712-breakout-hardware-design
-          ACS712 30A current
+        name: Project soldered_electronics/Current-sensor-30A-ACS712-breakout-hardware-design ACS712 30A current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_current_sensor_30_a_acs712_breakout_hardware_design_sensor_current_acs712_30a_current
         project_id: oomp_project_github_soldered_electronics_current_sensor_30_a_acs712_breakout_hardware_design_sensor_current_acs712_30a_current
         quantity: 2
@@ -616,6 +596,9 @@ oomlout_ai_roboclick_3:
         - U2
         - U3
         version: current
+      taxonomy_5: sot_23_5
+      taxonomy_3: amplifier
+      taxonomy_4: operational_amplifier
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -626,8 +609,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -636,7 +618,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+oomp_key: oomp_electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
 part_id: U1
 part_page:
   datasheet_path: data/datasheet.pdf
@@ -711,33 +693,31 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sot_23_5/amplifier/operational_amplifier/texas_instruments/README.md
-  oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+  navigation_link: ../../navigation/electronic/ic/amplifier/operational_amplifier/sot_23_5/texas_instruments/README.md
+  oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
   pins: []
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+    value: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
   - title: Type
     value: Ic
   - title: Package / style
     value: sot 23 5
   - title: Nominal size
     value: 2.9 × 1.6 mm
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
-  summary: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5 is an OOMP
-    electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal
-    drawing size is 2.9 × 1.6 mm.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
+  summary: IC Amplifier Operational Amplifier Texas Instruments SOT_23_5 is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sot_23_5
-  - level: 4
     value: amplifier
-  - level: 5
+  - level: 4
     value: operational_amplifier
+  - level: 5
+    value: sot_23_5
   - level: 14
     value: texas_instruments
   - level: 15
@@ -960,51 +940,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sot_23_5
-taxonomy_3_capital: Sot 23.5
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sot
-taxonomy_3_length_4: sot_
-taxonomy_3_length_5: sot_2
-taxonomy_3_upper: SOT_23_5
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOT
-taxonomy_3_upper_length_4: SOT_
-taxonomy_3_upper_length_5: SOT_2
-taxonomy_4: amplifier
-taxonomy_4_capital: Amplifier
-taxonomy_4_first_letter: a
-taxonomy_4_first_letter_upper: A
-taxonomy_4_length_1: a
-taxonomy_4_length_2: am
-taxonomy_4_length_3: amp
-taxonomy_4_length_4: ampl
-taxonomy_4_length_5: ampli
-taxonomy_4_upper: AMPLIFIER
-taxonomy_4_upper_length_1: A
-taxonomy_4_upper_length_2: AM
-taxonomy_4_upper_length_3: AMP
-taxonomy_4_upper_length_4: AMPL
-taxonomy_4_upper_length_5: AMPLI
-taxonomy_5: operational_amplifier
-taxonomy_5_capital: Operational Amplifier
-taxonomy_5_first_letter: o
-taxonomy_5_first_letter_upper: O
-taxonomy_5_length_1: o
-taxonomy_5_length_2: op
-taxonomy_5_length_3: ope
-taxonomy_5_length_4: oper
-taxonomy_5_length_5: opera
-taxonomy_5_upper: OPERATIONAL_AMPLIFIER
-taxonomy_5_upper_length_1: O
-taxonomy_5_upper_length_2: OP
-taxonomy_5_upper_length_3: OPE
-taxonomy_5_upper_length_4: OPER
-taxonomy_5_upper_length_5: OPERA
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1015,8 +950,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_current_sensor_30_a_acs712_breakout_hardware_design_sensor_current_acs712_30a_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Current-sensor-30A-ACS712-breakout-hardware-design
   github_url: https://github.com/SolderedElectronics/Current-sensor-30A-ACS712-breakout-hardware-design
-  name: Project soldered_electronics/Current-sensor-30A-ACS712-breakout-hardware-design
-    ACS712 30A current
+  name: Project soldered_electronics/Current-sensor-30A-ACS712-breakout-hardware-design ACS712 30A current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_current_sensor_30_a_acs712_breakout_hardware_design_sensor_current_acs712_30a_current
   project_id: oomp_project_github_soldered_electronics_current_sensor_30_a_acs712_breakout_hardware_design_sensor_current_acs712_30a_current
   quantity: 2
@@ -1024,3 +958,48 @@ used_in_projects:
   - U2
   - U3
   version: current
+taxonomy_5: sot_23_5
+taxonomy_5_capital: Sot 23.5
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sot
+taxonomy_5_length_4: sot_
+taxonomy_5_length_5: sot_2
+taxonomy_5_upper: SOT_23_5
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOT
+taxonomy_5_upper_length_4: SOT_
+taxonomy_5_upper_length_5: SOT_2
+taxonomy_3: amplifier
+taxonomy_3_capital: Amplifier
+taxonomy_3_first_letter: a
+taxonomy_3_first_letter_upper: A
+taxonomy_3_length_1: a
+taxonomy_3_length_2: am
+taxonomy_3_length_3: amp
+taxonomy_3_length_4: ampl
+taxonomy_3_length_5: ampli
+taxonomy_3_upper: AMPLIFIER
+taxonomy_3_upper_length_1: A
+taxonomy_3_upper_length_2: AM
+taxonomy_3_upper_length_3: AMP
+taxonomy_3_upper_length_4: AMPL
+taxonomy_3_upper_length_5: AMPLI
+taxonomy_4: operational_amplifier
+taxonomy_4_capital: Operational Amplifier
+taxonomy_4_first_letter: o
+taxonomy_4_first_letter_upper: O
+taxonomy_4_length_1: o
+taxonomy_4_length_2: op
+taxonomy_4_length_3: ope
+taxonomy_4_length_4: oper
+taxonomy_4_length_5: opera
+taxonomy_4_upper: OPERATIONAL_AMPLIFIER
+taxonomy_4_upper_length_1: O
+taxonomy_4_upper_length_2: OP
+taxonomy_4_upper_length_3: OPE
+taxonomy_4_upper_length_4: OPER
+taxonomy_4_upper_length_5: OPERA

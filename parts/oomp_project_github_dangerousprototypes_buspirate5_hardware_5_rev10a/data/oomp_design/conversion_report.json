@@ -47,11 +47,11 @@
     "REV10a.kicad_pcb": "b9bd2cc393647d08d633a93e5ff891d2b6a90034460db2703835ded51b917b25",
     "REV10a.kicad_sch": "4cbc053f595bfdf312c64661310735991f154c2202e8cadc80fceed86df1a0fc",
     "REV10a.kicad_pro": "f476b71c32a3f2cd5c21a483446d1cb126165fcef78b7e75acfcdf6a2824cfd0",
-    "bpu-current_limiter.kicad_sch": "7f539264c24d7acf5cf42c2b7182f70a05d6230c91a4d08e3362674cce388904",
-    "bpu-iobufffer.kicad_sch": "d085fe93f7b6bd98a1c4556f5ac1ac77b29cc30eb2f254873172864f4ea06d02",
-    "IO-expand-595-mux.kicad_sch": "9a9cf79bd68d0f90359939949dd50355fcf44adba216f776fb82b0ffcae6002e",
+    "bpu-current_limiter.kicad_sch": "da5334c83271fb89a4745b7c4062827b5355cd770f7815d29448d5b983e319f0",
+    "bpu-iobufffer.kicad_sch": "c1a2bd5f7b81f941f5714b39dca19e5dba4d417c4eee957af3952d9548ec1d53",
+    "IO-expand-595-mux.kicad_sch": "6b101c17d4ca969233cd681e0eb379c6d6869e9d70e9ca7a2395c009e26dffc6",
     "leds.kicad_sch": "82be4f27524e4fb5945b5a93c7caf922c29ab139787f26caa74f5700d3eae2ec",
-    "micro-rp2040.kicad_sch": "b6adfd7c05121f8137bfe2404eb86509d8a57ee1057ca1e64411d4c357f3dfda",
+    "micro-rp2040.kicad_sch": "559a3e2a1a05839e0590c0434366d9cf52bc62272324b7e05c32bd3e240cd82b",
     "sym-lib-table": "6cb4890355f592406450361037901529461358c9cd0d845ef3dafb8205a020d1",
     "fp-lib-table": "50246c5a478069bb91da1c4e0395fbc0bbf2e6d2c458c42ae691e627e4b1521b"
   },
@@ -283,28 +283,28 @@
       "reference": "U301",
       "source": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
       "reference": "U304",
       "source": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
       "reference": "U305",
       "source": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
       "reference": "U307",
       "source": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -416,7 +416,7 @@
       "reference": "U103",
       "source": "RP_Silicon:RP2040-QFN-56",
       "status": "skipped",
-      "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+      "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -444,7 +444,7 @@
       "reference": "U501",
       "source": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
+      "oomp_id": "electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -479,7 +479,7 @@
       "reference": "U102",
       "source": "Package_SO:SOP-8_5.28x5.23mm_P1.27mm",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sop_8_5_28_mm_x_5_23_mm_memory_spi_nor_flash_128_mbit_winbond_w25q128jvsiq",
+      "oomp_id": "electronic_ic_memory_spi_nor_flash_128_mbit_sop_8_5_28_mm_x_5_23_mm_winbond_w25q128jvsiq",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -606,7 +606,7 @@
       "reference": "U503",
       "source": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr",
+      "oomp_id": "electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -885,7 +885,7 @@
       "reference": "U403",
       "source": "Package_TO_SOT_SMD:SOT-23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_diodes_ap2127k_3_3trg1",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_diodes_ap2127k_3_3trg1",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -920,14 +920,14 @@
       "reference": "U402",
       "source": "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118",
+      "oomp_id": "electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
       "reference": "U306",
       "source": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -969,7 +969,7 @@
       "reference": "U303",
       "source": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -990,7 +990,7 @@
       "reference": "U302",
       "source": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -1053,7 +1053,7 @@
       "reference": "U308",
       "source": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -1074,7 +1074,7 @@
       "reference": "U502",
       "source": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
+      "oomp_id": "electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -1228,7 +1228,7 @@
       "reference": "U401",
       "source": "Package_TO_SOT_SMD:SOT-89-3",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -1256,7 +1256,7 @@
       "reference": "U602",
       "source": "Package_TO_SOT_SMD:SOT-23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr",
+      "oomp_id": "electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -1361,21 +1361,21 @@
       "reference": "U601",
       "source": "Package_TO_SOT_SMD:SOT-23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
       "reference": "U603",
       "source": "Package_TO_SOT_SMD:SOT-23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
       "reference": "U404",
       "source": "Package_TO_SOT_SMD:SOT-23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -1410,7 +1410,7 @@
       "reference": "U105",
       "source": "dp-memory:U-PDFN-8",
       "status": "skipped",
-      "oomp_id": "electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb",
+      "oomp_id": "electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -1445,7 +1445,7 @@
       "reference": "U504",
       "source": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -1494,7 +1494,7 @@
       "reference": "U505",
       "source": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
       "status": "skipped",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -1557,7 +1557,7 @@
       "reference": "U506",
       "source": "Package_TO_SOT_SMD:SOT-23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
       "reason": "KiCad pcbnew Python is unavailable (C:\\Program Files\\KiCad\\10\\bin\\python.exe); footprint identity and annotation conversion was skipped."
     },
     {
@@ -1696,7 +1696,7 @@
       ],
       "source": "dp-vreg:MCP1824",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_diodes_ap2127k_3_3trg1",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_diodes_ap2127k_3_3trg1",
       "reason": "OOMP symbol master unavailable.",
       "file": "bpu-current_limiter.kicad_sch"
     },
@@ -2351,8 +2351,8 @@
       ],
       "source": "Comparator:LMV331",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr",
-      "target": "OOMP:electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr",
+      "oomp_id": "electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr",
+      "target": "OOMP:electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr",
       "file": "bpu-current_limiter.kicad_sch"
     },
     {
@@ -2361,8 +2361,8 @@
       ],
       "source": "Comparator:LMV331",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr",
-      "target": "OOMP:electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr",
+      "target": "OOMP:electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr",
       "file": "bpu-current_limiter.kicad_sch"
     },
     {
@@ -2371,8 +2371,8 @@
       ],
       "source": "Comparator:LMV331",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
-      "target": "OOMP:electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
+      "target": "OOMP:electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
       "file": "bpu-current_limiter.kicad_sch"
     },
     {
@@ -2464,8 +2464,8 @@
       ],
       "source": "Logic_LevelTranslator:SN74LVC1T45DCK",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
-      "target": "OOMP:electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "target": "OOMP:electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "file": "bpu-iobufffer.kicad_sch"
     },
     {
@@ -2557,8 +2557,8 @@
       ],
       "source": "Logic_LevelTranslator:SN74LVC1T45DCK",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
-      "target": "OOMP:electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "target": "OOMP:electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "file": "bpu-iobufffer.kicad_sch"
     },
     {
@@ -2650,8 +2650,8 @@
       ],
       "source": "Logic_LevelTranslator:SN74LVC1T45DCK",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
-      "target": "OOMP:electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "target": "OOMP:electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "file": "bpu-iobufffer.kicad_sch"
     },
     {
@@ -2743,8 +2743,8 @@
       ],
       "source": "Logic_LevelTranslator:SN74LVC1T45DCK",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
-      "target": "OOMP:electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "target": "OOMP:electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "file": "bpu-iobufffer.kicad_sch"
     },
     {
@@ -2836,8 +2836,8 @@
       ],
       "source": "Logic_LevelTranslator:SN74LVC1T45DCK",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
-      "target": "OOMP:electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "target": "OOMP:electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "file": "bpu-iobufffer.kicad_sch"
     },
     {
@@ -2929,8 +2929,8 @@
       ],
       "source": "Logic_LevelTranslator:SN74LVC1T45DCK",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
-      "target": "OOMP:electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "target": "OOMP:electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "file": "bpu-iobufffer.kicad_sch"
     },
     {
@@ -3022,8 +3022,8 @@
       ],
       "source": "Logic_LevelTranslator:SN74LVC1T45DCK",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
-      "target": "OOMP:electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "target": "OOMP:electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "file": "bpu-iobufffer.kicad_sch"
     },
     {
@@ -3115,8 +3115,8 @@
       ],
       "source": "Logic_LevelTranslator:SN74LVC1T45DCK",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
-      "target": "OOMP:electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "oomp_id": "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
+      "target": "OOMP:electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr",
       "file": "bpu-iobufffer.kicad_sch"
     },
     {
@@ -3630,8 +3630,8 @@
       ],
       "source": "74xx:CD74HC4067M",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118",
-      "target": "OOMP:electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118",
+      "oomp_id": "electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118",
+      "target": "OOMP:electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -3779,8 +3779,8 @@
       ],
       "source": "74xx:74AHCT595",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
-      "target": "OOMP:electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
+      "oomp_id": "electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
+      "target": "OOMP:electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -3817,8 +3817,8 @@
       ],
       "source": "74xx:74AHCT595",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
-      "target": "OOMP:electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr",
+      "oomp_id": "electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
+      "target": "OOMP:electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -3873,8 +3873,8 @@
       ],
       "source": "74xx:74HC245",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr",
-      "target": "OOMP:electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr",
+      "oomp_id": "electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr",
+      "target": "OOMP:electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4253,8 +4253,8 @@
       ],
       "source": "Comparator:LMV331",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
-      "target": "OOMP:electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
+      "target": "OOMP:electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4412,8 +4412,8 @@
       ],
       "source": "Amplifier_Operational:LM324",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "target": "OOMP:electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "target": "OOMP:electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4472,8 +4472,8 @@
       ],
       "source": "Amplifier_Operational:LM324",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "target": "OOMP:electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "target": "OOMP:electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4528,8 +4528,8 @@
       ],
       "source": "Amplifier_Operational:LM324",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "target": "OOMP:electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "target": "OOMP:electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4538,8 +4538,8 @@
       ],
       "source": "Amplifier_Operational:LM324",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "target": "OOMP:electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "target": "OOMP:electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4576,8 +4576,8 @@
       ],
       "source": "Amplifier_Operational:LM324",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "target": "OOMP:electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "target": "OOMP:electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4596,8 +4596,8 @@
       ],
       "source": "Amplifier_Operational:LM324",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "target": "OOMP:electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "target": "OOMP:electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4683,8 +4683,8 @@
       ],
       "source": "Amplifier_Operational:LM324",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "target": "OOMP:electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "target": "OOMP:electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4702,8 +4702,8 @@
       ],
       "source": "Amplifier_Operational:LM324",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "target": "OOMP:electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "target": "OOMP:electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4722,8 +4722,8 @@
       ],
       "source": "Amplifier_Operational:LM324",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "target": "OOMP:electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "target": "OOMP:electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4732,8 +4732,8 @@
       ],
       "source": "Amplifier_Operational:LM324",
       "status": "converted",
-      "oomp_id": "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
-      "target": "OOMP:electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr",
+      "oomp_id": "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
+      "target": "OOMP:electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -4781,8 +4781,8 @@
       ],
       "source": "Comparator:LMV331",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
-      "target": "OOMP:electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr",
+      "oomp_id": "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
+      "target": "OOMP:electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr",
       "file": "IO-expand-595-mux.kicad_sch"
     },
     {
@@ -5852,7 +5852,7 @@
       ],
       "source": "RP_Silicon:RP2040",
       "status": "skipped",
-      "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+      "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
       "reason": "Source is not a known official KiCad symbol.",
       "file": "micro-rp2040.kicad_sch"
     },
@@ -6214,7 +6214,7 @@
       ],
       "source": "dp-memory:xm25qh128a",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sop_8_5_28_mm_x_5_23_mm_memory_spi_nor_flash_128_mbit_winbond_w25q128jvsiq",
+      "oomp_id": "electronic_ic_memory_spi_nor_flash_128_mbit_sop_8_5_28_mm_x_5_23_mm_winbond_w25q128jvsiq",
       "reason": "OOMP symbol master unavailable.",
       "file": "micro-rp2040.kicad_sch"
     },
@@ -6338,8 +6338,8 @@
       ],
       "source": "Regulator_Linear:AP2204RA-3.3",
       "status": "converted",
-      "oomp_id": "electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n",
-      "target": "OOMP:electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n",
+      "target": "OOMP:electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n",
       "file": "micro-rp2040.kicad_sch"
     },
     {
@@ -6404,7 +6404,7 @@
       ],
       "source": "dp-memory:MT29F1G01ABAFDWB",
       "status": "skipped",
-      "oomp_id": "electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb",
+      "oomp_id": "electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb",
       "reason": "OOMP symbol master unavailable.",
       "file": "micro-rp2040.kicad_sch"
     }

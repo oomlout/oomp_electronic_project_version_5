@@ -95,7 +95,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R12, R13 | 2 | Resistor 5100 Ohm 0402 | 5.1K | `Adafruit QT Py RP2040-import-fps:_0402NO` | [`electronic_resistor_0402_5100_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_5100_ohm) |
 | R14, R15 | 2 | Resistor 27 Ohm 0402 | 27 | `Adafruit QT Py RP2040-import-fps:_0402NO` | [`electronic_resistor_0402_27_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_27_ohm) |
 | SW1, SW2 | 2 | KMR2 | KMR2 | `Adafruit QT Py RP2040-import-fps:BTN_KMR2_4.6X2.8` | unmatched |
-| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit QT Py RP2040-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit QT Py RP2040-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U5 | 1 | 8MB QSPI Flash | 8MB QSPI Flash | `Adafruit QT Py RP2040-import-fps:USON8_4X4` | unmatched |
 | X2 | 1 | USB Type C | USB Type C | `Adafruit QT Py RP2040-import-fps:USB_C_CUSB31-CFM2AX-01-X` | unmatched |
 | Y1 | 1 | 12MHZ | 12MHZ | `Adafruit QT Py RP2040-import-fps:CRYSTAL_2.5X2` | unmatched |

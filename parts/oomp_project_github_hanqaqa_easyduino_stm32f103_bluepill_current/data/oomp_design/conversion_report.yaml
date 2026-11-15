@@ -18,7 +18,7 @@ originals:
     source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_hanqaqa_easyduino_stm32f103_bluepill_current\data\fp-lib-table
 output_sha256:
   Easyduino_STM32F103.kicad_pcb: bad3225ef35e6b283ce9daa3dce9db235f9d20a8dc4d8c4b9c87bf7e8ace17ac
-  Easyduino_STM32F103.kicad_sch: a9a6c13e2c8f9366fbed0ae16f23638f359ddf0339ebbf9e68e17dee873ccbcd
+  Easyduino_STM32F103.kicad_sch: f04ccf39c2b1819748169d4cff3553644af7ed95c19e2cbe9f11bf900ab0421c
   Easyduino_STM32F103.kicad_pro: a495df2f9d77b98f613dcb16d549591975d54747beee01aa9448d76bd90eb1cf
   References.kicad_sch: ea6c60de3002e13380fb9625bb151536a8014e8c6795911208607e074cf408c9
   sym-lib-table: 21866594f2adf0f962fad1f4c2490478f63373c892f02e5291f0ca136dc6c786
@@ -44,7 +44,7 @@ footprints:
 - reference: U2
   source: Package_QFP:LQFP-48_7x7mm_P0.5mm
   status: skipped
-  oomp_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+  oomp_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
   reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
     footprint identity and annotation conversion was skipped.
 - reference: C3
@@ -169,7 +169,7 @@ footprints:
 - reference: U1
   source: Package_TO_SOT_SMD:SOT-23-3
   status: skipped
-  oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr
   reason: Source is not an available official master for this OOMP part.
 - reference: SW2
   source: Bluepill_Library:ALPSALPINE_SKRPACE010
@@ -235,7 +235,7 @@ symbols:
   - U2
   source: MCU_ST_STM32F1:STM32F103C8Tx
   status: skipped
-  oomp_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+  oomp_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
   reason: Embedded symbol differs from the installed KiCad master.
   file: kicad_file.kicad_sch
 - references:
@@ -357,8 +357,8 @@ symbols:
   - U1
   source: Regulator_Linear:XC6206PxxxMR
   status: converted
-  oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr
-  target: OOMP:electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr
+  target: OOMP:electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr
   file: kicad_file.kicad_sch
 - references:
   - C11

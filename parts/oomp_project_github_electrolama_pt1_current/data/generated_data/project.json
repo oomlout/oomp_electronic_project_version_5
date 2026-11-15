@@ -128660,9 +128660,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p",
+        "proposed_oomp_id": "electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p",
         "inferred": {
           "kind": null,
           "package_size": null,
@@ -132332,9 +132332,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_sop_16_controller_usb_hub_controller_4_port_corechips_sl21a",
+        "oomp_id": "electronic_ic_controller_usb_hub_controller_4_port_sop_16_corechips_sl21a",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_sop_16_controller_usb_hub_controller_4_port_corechips_sl21a",
+        "proposed_oomp_id": "electronic_ic_controller_usb_hub_controller_4_port_sop_16_corechips_sl21a",
         "inferred": {
           "kind": null,
           "package_size": null,
@@ -134696,9 +134696,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_sot_23_6_logic_configurable_multi_function_gate_texas_instruments_sn74lvc1g57dbvr",
+        "oomp_id": "electronic_ic_logic_configurable_multi_function_gate_sot_23_6_texas_instruments_sn74lvc1g57dbvr",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_sot_23_6_logic_configurable_multi_function_gate_texas_instruments_sn74lvc1g57dbvr",
+        "proposed_oomp_id": "electronic_ic_logic_configurable_multi_function_gate_sot_23_6_texas_instruments_sn74lvc1g57dbvr",
         "inferred": {
           "kind": null,
           "package_size": null,
@@ -136908,9 +136908,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5",
+        "oomp_id": "electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5",
+        "proposed_oomp_id": "electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5",
         "inferred": {
           "kind": null,
           "package_size": null,

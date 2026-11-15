@@ -175,7 +175,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R45, R55, R59, R60, R61 | 5 | 49.9 1/2W | 49.9 1/2W | `SparkFun_RTK_EVK-import-fps:1206` | unmatched |
 | R62 | 1 | Resistor 470 Ohm 0603 | 470 | `SparkFun_RTK_EVK-import-fps:0603` | [`electronic_resistor_0603_470_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_470_ohm) |
 | U1 | 1 | ESP32-WROVER-IE | ESP32-WROVER-IE | `SparkFun_RTK_EVK-import-fps:ESP32-WROVER-E_IE` | unmatched |
-| U2 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun_RTK_EVK-import-fps:SO016` | [`electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c) |
+| U2 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun_RTK_EVK-import-fps:SO016` | [`electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c) |
 | U3, U6 | 2 | XC6222B331MR-G | XC6222B331MR-G | `SparkFun_RTK_EVK-import-fps:SOT23-5` | unmatched |
 | U4 | 1 | U-BLOX_ZED-F9P | U-BLOX_ZED-F9P | `SparkFun_RTK_EVK-import-fps:ZED-F9P` | unmatched |
 | U5 | 1 | U-BLOX_NEO-D9S-00B | U-BLOX_NEO-D9S-00B | `SparkFun_RTK_EVK-import-fps:NEO-M9N_M8T_M8U_D9S` | unmatched |

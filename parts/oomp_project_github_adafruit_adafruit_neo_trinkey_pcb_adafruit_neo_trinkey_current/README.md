@@ -81,7 +81,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | Q2 | 1 | reset | reset | `Adafruit Neo Trinkey-import-fps:BTN_KMR2_4.6X2.8` | unmatched |
 | RST0, SWD0 | 2 | TPTP16R | TPTP16R | `Adafruit Neo Trinkey-import-fps:TP16R` | unmatched |
 | SWC0 | 1 | TPTP15R | TPTP15R | `Adafruit Neo Trinkey-import-fps:TP15R` | unmatched |
-| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Neo Trinkey-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Neo Trinkey-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 
 ## Main nets
 

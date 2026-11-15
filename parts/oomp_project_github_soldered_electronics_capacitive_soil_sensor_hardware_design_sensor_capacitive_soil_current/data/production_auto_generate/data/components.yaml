@@ -509,7 +509,7 @@ components:
 - reference: U1
   value: TLC555CD
   footprint: e-radionica.com footprinti:SOIC−8
-  oomp_id: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+  oomp_id: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null
@@ -563,7 +563,7 @@ components:
 - reference: U2
   value: SGM358YMS/TR
   footprint: e-radionica.com footprinti:MSOP-8
-  oomp_id: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+  oomp_id: electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null

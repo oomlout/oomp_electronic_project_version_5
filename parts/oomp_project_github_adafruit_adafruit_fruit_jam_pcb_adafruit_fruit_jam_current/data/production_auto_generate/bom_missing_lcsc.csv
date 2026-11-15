@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 BTN0,6MM_TACT,Adafruit Fruit Jam-import-fps:EVQ-Q2,,No verified LCSC part number
 BTN2,6MM_TACT,Adafruit Fruit Jam-import-fps:EVQ-Q2,,No verified LCSC part number
 BTN3,6MM_TACT,Adafruit Fruit Jam-import-fps:EVQ-Q2,,No verified LCSC part number
@@ -92,7 +92,7 @@ SW1,6MM_TACT,Adafruit Fruit Jam-import-fps:EVQ-Q2,,No verified LCSC part number
 SW2,SS12D07VG5,Adafruit Fruit Jam-import-fps:SPDT_SS12D07VG5,,No verified LCSC part number
 T1,DMP3098L,Adafruit Fruit Jam-import-fps:SOT23-WIDE,,No verified LCSC part number
 TP1,,Adafruit Fruit Jam-import-fps:TESTPOINT_ROUND_1.5MM_NO,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit Fruit Jam-import-fps:SOT23-DBV,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit Fruit Jam-import-fps:SOT23-DBV,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U3,AP6404,Adafruit Fruit Jam-import-fps:SOIC8_208MIL,,No verified LCSC part number
 U4,TLV320DAC3100,Adafruit Fruit Jam-import-fps:TLV320DAC3100,,No verified LCSC part number
 U5,AP2127K-1.8,Adafruit Fruit Jam-import-fps:SOT23-5,,No verified LCSC part number

@@ -429,7 +429,7 @@ components:
 - reference: U1
   value: ACS712
   footprint: e-radionica.com footprinti:SOIC-8-SWB
-  oomp_id: electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712
+  oomp_id: electronic_ic_sensor_hall_effect_current_sensor_soic_8_allegro_acs712
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null
@@ -483,7 +483,7 @@ components:
 - reference: U2
   value: OPA344
   footprint: e-radionica.com footprinti:SOT-23-5
-  oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+  oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null
@@ -522,7 +522,7 @@ components:
 - reference: U3
   value: OPA344
   footprint: e-radionica.com footprinti:SOT-23-5
-  oomp_id: electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344
+  oomp_id: electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null

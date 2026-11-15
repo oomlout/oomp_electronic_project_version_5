@@ -1,77 +1,75 @@
 bip_39_2_word_array:
-- only
-- improve
-bip_39_2_word_no_space: onlyimprove
-bip_39_2_word_space: only improve
-bip_39_2_word_underscore: only_improve
+- taxi
+- video
+bip_39_2_word_no_space: taxivideo
+bip_39_2_word_space: taxi video
+bip_39_2_word_underscore: taxi_video
 bip_39_3_word_array:
-- only
-- improve
-- patch
-bip_39_3_word_no_space: onlyimprovepatch
-bip_39_3_word_space: only improve patch
-bip_39_3_word_underscore: only_improve_patch
+- taxi
+- video
+- busy
+bip_39_3_word_no_space: taxivideobusy
+bip_39_3_word_space: taxi video busy
+bip_39_3_word_underscore: taxi_video_busy
 bip_39_full_array:
-- only
-- improve
-- patch
-- river
-- photo
-- today
-- chief
-- put
-- bamboo
-- process
-- arch
-- wall
-bip_39_full_no_space: onlyimprovepatchriverphototodaychiefputbambooprocessarchwall
-bip_39_full_space: only improve patch river photo today chief put bamboo process arch
-  wall
-bip_39_full_underscore: only_improve_patch_river_photo_today_chief_put_bamboo_process_arch_wall
+- taxi
+- video
+- busy
+- cruel
+- rate
+- cushion
+- question
+- prosper
+- snow
+- velvet
+- guess
+- school
+bip_39_full_no_space: taxivideobusycruelratecushionquestionprospersnowvelvetguessschool
+bip_39_full_space: taxi video busy cruel rate cushion question prosper snow velvet guess school
+bip_39_full_underscore: taxi_video_busy_cruel_rate_cushion_question_prosper_snow_velvet_guess_school
 category: interface
 category_name: Interface
 dimensions_mm:
   height: 0.8
   length: 4.0
   width: 4.0
-directory: parts/electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+directory: parts/electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
 distributors: []
-id: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
-id_no_class: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
-id_no_size: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
-id_no_type: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+id: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
+id_no_class: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
+id_no_size: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
+id_no_type: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
 kicad:
   hand_solder: Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
   machine_solder: Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
   symbol: ''
 lcsc_search: qfn 24 converter usb to serial converter wch ch342f ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
 manufacturers: []
-md5: 9b0e42835d6a3bc689f5761215702c7b
-md5_10: 9b0e42835d
-md5_10_upper: 9B0E42835D
-md5_5: 9b0e4
-md5_5_upper: 9B0E4
-md5_6: 9b0e42
-md5_6_alpha: 61sua
-md5_6_alpha_upper: 61SUA
-md5_6_upper: 9B0E42
-name: Electronic Ic Qfn 24 Converter Usb To Serial Converter Wch Ch342F
-name_no_class: Electronic Ic Qfn 24 Converter Usb To Serial Converter Wch Ch342F
-name_no_size: Electronic Ic Qfn 24 Converter Usb To Serial Converter Wch Ch342F
-name_no_type: Electronic Ic Qfn 24 Converter Usb To Serial Converter Wch Ch342F
+md5: de7e787c9a4b226cebe564cd9e419de0
+md5_10: de7e787c9a
+md5_10_upper: DE7E787C9A
+md5_5: de7e7
+md5_5_upper: DE7E7
+md5_6: de7e78
+md5_6_alpha: 8oj20
+md5_6_alpha_upper: 8OJ20
+md5_6_upper: DE7E78
+name: Electronic Ic Converter Usb To Serial Converter Qfn 24 Wch Ch342F
+name_no_class: Electronic Ic Converter Usb To Serial Converter Qfn 24 Wch Ch342F
+name_no_size: Electronic Ic Converter Usb To Serial Converter Qfn 24 Wch Ch342F
+name_no_type: Electronic Ic Converter Usb To Serial Converter Qfn 24 Wch Ch342F
 name_proper: IC Converter Usb To Serial Converter Wch QFN_24
 name_readable: IC Converter Usb To Serial Converter Wch QFN_24
 name_short: IC Converter Usb To Serial Converter Wch QFN_24
-name_space: electronic ic qfn 24 converter usb to serial converter wch ch342f
+name_space: electronic ic converter usb to serial converter qfn 24 wch ch342f
 name_upper: ELECTRONIC IC QFN 24 CONVERTER USB TO SERIAL CONVERTER WCH CH342F
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -84,7 +82,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+    part_id: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -164,8 +162,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -180,7 +177,7 @@ oomlout_ai_roboclick_3:
         height: 0.8
         length: 4.0
         width: 4.0
-      directory: parts\electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+      directory: parts\electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
       distributors: []
       kicad:
         hand_solder: Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
@@ -188,17 +185,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: qfn 24 converter usb to serial converter wch ch342f ic
       manufacturers: []
-      name: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+      name: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
       name_proper: IC Converter Usb To Serial Converter Wch QFN_24
       name_readable: IC Converter Usb To Serial Converter Wch QFN_24
       name_short: IC Converter Usb To Serial Converter Wch QFN_24
-      name_space: electronic ic qfn 24 converter usb to serial converter wch ch342f
+      name_space: electronic ic converter usb to serial converter qfn 24 wch ch342f
       name_upper: ELECTRONIC IC QFN 24 CONVERTER USB TO SERIAL CONVERTER WCH CH342F
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -208,11 +204,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+          part_id: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -292,8 +287,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -525,8 +519,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/qfn_24/converter/usb_to_serial_converter/wch/README.md
-        oomp_id: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+        navigation_link: ../../navigation/electronic/ic/converter/usb_to_serial_converter/qfn_24/wch/README.md
+        oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
         pins:
         - name: '1'
           number: '1'
@@ -602,7 +596,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+          value: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
         - title: Type
           value: Ic
         - title: Package / style
@@ -611,21 +605,19 @@ oomlout_ai_roboclick_3:
           value: 4.0 × 4.0 mm
         - title: Documented pins
           value: 24
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
-        summary: IC Converter Usb To Serial Converter Wch QFN_24 is an OOMP electronic
-          ic definition. It uses the qfn 24 package or form factor. Its nominal drawing
-          size is 4.0 × 4.0 mm. The definition includes 24 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
+        summary: IC Converter Usb To Serial Converter Wch QFN_24 is an OOMP electronic ic definition. It uses the qfn 24 package or form factor. Its nominal drawing size is 4.0 × 4.0 mm. The definition includes 24 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: qfn_24
-        - level: 4
           value: converter
-        - level: 5
+        - level: 4
           value: usb_to_serial_converter
+        - level: 5
+          value: qfn_24
         - level: 14
           value: wch
         - level: 15
@@ -889,9 +881,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: wch
       taxonomy_15: ch342f
       taxonomy_2: ic
-      taxonomy_3: qfn_24
-      taxonomy_4: converter
-      taxonomy_5: usb_to_serial_converter
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -908,6 +897,9 @@ oomlout_ai_roboclick_3:
         references:
         - U2
         version: current
+      taxonomy_5: qfn_24
+      taxonomy_3: converter
+      taxonomy_4: usb_to_serial_converter
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -915,7 +907,7 @@ oomlout_ai_roboclick_3:
     search_and_replace: []
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+oomp_key: oomp_electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
 package_drawing:
   body:
   - 4.0
@@ -1145,8 +1137,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/qfn_24/converter/usb_to_serial_converter/wch/README.md
-  oomp_id: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+  navigation_link: ../../navigation/electronic/ic/converter/usb_to_serial_converter/qfn_24/wch/README.md
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
   pins:
   - name: '1'
     number: '1'
@@ -1222,7 +1214,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
+    value: electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
   - title: Type
     value: Ic
   - title: Package / style
@@ -1231,21 +1223,19 @@ part_page:
     value: 4.0 × 4.0 mm
   - title: Documented pins
     value: 24
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f
-  summary: IC Converter Usb To Serial Converter Wch QFN_24 is an OOMP electronic ic
-    definition. It uses the qfn 24 package or form factor. Its nominal drawing size
-    is 4.0 × 4.0 mm. The definition includes 24 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f
+  summary: IC Converter Usb To Serial Converter Wch QFN_24 is an OOMP electronic ic definition. It uses the qfn 24 package or form factor. Its nominal drawing size is 4.0 × 4.0 mm. The definition includes 24 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: qfn_24
-  - level: 4
     value: converter
-  - level: 5
+  - level: 4
     value: usb_to_serial_converter
+  - level: 5
+    value: qfn_24
   - level: 14
     value: wch
   - level: 15
@@ -1565,51 +1555,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: qfn_24
-taxonomy_3_capital: Qfn 24
-taxonomy_3_first_letter: q
-taxonomy_3_first_letter_upper: Q
-taxonomy_3_length_1: q
-taxonomy_3_length_2: qf
-taxonomy_3_length_3: qfn
-taxonomy_3_length_4: qfn_
-taxonomy_3_length_5: qfn_2
-taxonomy_3_upper: QFN_24
-taxonomy_3_upper_length_1: Q
-taxonomy_3_upper_length_2: QF
-taxonomy_3_upper_length_3: QFN
-taxonomy_3_upper_length_4: QFN_
-taxonomy_3_upper_length_5: QFN_2
-taxonomy_4: converter
-taxonomy_4_capital: Converter
-taxonomy_4_first_letter: c
-taxonomy_4_first_letter_upper: C
-taxonomy_4_length_1: c
-taxonomy_4_length_2: co
-taxonomy_4_length_3: con
-taxonomy_4_length_4: conv
-taxonomy_4_length_5: conve
-taxonomy_4_upper: CONVERTER
-taxonomy_4_upper_length_1: C
-taxonomy_4_upper_length_2: CO
-taxonomy_4_upper_length_3: CON
-taxonomy_4_upper_length_4: CONV
-taxonomy_4_upper_length_5: CONVE
-taxonomy_5: usb_to_serial_converter
-taxonomy_5_capital: Usb To Serial Converter
-taxonomy_5_first_letter: u
-taxonomy_5_first_letter_upper: U
-taxonomy_5_length_1: u
-taxonomy_5_length_2: us
-taxonomy_5_length_3: usb
-taxonomy_5_length_4: usb_
-taxonomy_5_length_5: usb_t
-taxonomy_5_upper: USB_TO_SERIAL_CONVERTER
-taxonomy_5_upper_length_1: U
-taxonomy_5_upper_length_2: US
-taxonomy_5_upper_length_3: USB
-taxonomy_5_upper_length_4: USB_
-taxonomy_5_upper_length_5: USB_T
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1626,3 +1571,48 @@ used_in_projects:
   references:
   - U2
   version: current
+taxonomy_5: qfn_24
+taxonomy_5_capital: Qfn 24
+taxonomy_5_first_letter: q
+taxonomy_5_first_letter_upper: Q
+taxonomy_5_length_1: q
+taxonomy_5_length_2: qf
+taxonomy_5_length_3: qfn
+taxonomy_5_length_4: qfn_
+taxonomy_5_length_5: qfn_2
+taxonomy_5_upper: QFN_24
+taxonomy_5_upper_length_1: Q
+taxonomy_5_upper_length_2: QF
+taxonomy_5_upper_length_3: QFN
+taxonomy_5_upper_length_4: QFN_
+taxonomy_5_upper_length_5: QFN_2
+taxonomy_3: converter
+taxonomy_3_capital: Converter
+taxonomy_3_first_letter: c
+taxonomy_3_first_letter_upper: C
+taxonomy_3_length_1: c
+taxonomy_3_length_2: co
+taxonomy_3_length_3: con
+taxonomy_3_length_4: conv
+taxonomy_3_length_5: conve
+taxonomy_3_upper: CONVERTER
+taxonomy_3_upper_length_1: C
+taxonomy_3_upper_length_2: CO
+taxonomy_3_upper_length_3: CON
+taxonomy_3_upper_length_4: CONV
+taxonomy_3_upper_length_5: CONVE
+taxonomy_4: usb_to_serial_converter
+taxonomy_4_capital: Usb To Serial Converter
+taxonomy_4_first_letter: u
+taxonomy_4_first_letter_upper: U
+taxonomy_4_length_1: u
+taxonomy_4_length_2: us
+taxonomy_4_length_3: usb
+taxonomy_4_length_4: usb_
+taxonomy_4_length_5: usb_t
+taxonomy_4_upper: USB_TO_SERIAL_CONVERTER
+taxonomy_4_upper_length_1: U
+taxonomy_4_upper_length_2: US
+taxonomy_4_upper_length_3: USB
+taxonomy_4_upper_length_4: USB_
+taxonomy_4_upper_length_5: USB_T

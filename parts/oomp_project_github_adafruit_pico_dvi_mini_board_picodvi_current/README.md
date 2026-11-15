@@ -83,7 +83,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R3, R12, R13, R14, R15, R16, R17, R18, R19 | 9 | Resistor 270 Ohm 0402 | 270 | `Resistor_SMD:R_0402_1005Metric` | [`electronic_resistor_0402_270_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_270_ohm) |
 | R4, R5 | 2 | Resistor 27 Ohm 0402 | 27R | `Resistor_SMD:R_0402_1005Metric` | [`electronic_resistor_0402_27_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_27_ohm) |
 | SW1, SW2 | 2 | SW_Push | SW_Push | `picodvi:SW_SPST_PTS815` | unmatched |
-| U1 | 1 | IC RP2040 QFN 56 7 MM X 7 MM | RP2040 | `picodvi:QFN-56_EP_7x7_Pitch0.4mm` | [`electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040) |
+| U1 | 1 | IC RP2040 QFN 56 7 MM X 7 MM | RP2040 | `picodvi:QFN-56_EP_7x7_Pitch0.4mm` | [`electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040) |
 | U2 | 1 | NCP115ASN330 | NCP115ASN330 | `Package_TO_SOT_SMD:SOT-23-5_HandSoldering` | unmatched |
 | U3 | 1 | W25Q16JV | W25Q16JV | `Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm` | unmatched |
 | Y1 | 1 | 12 M | 12 M | `Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm` | unmatched |

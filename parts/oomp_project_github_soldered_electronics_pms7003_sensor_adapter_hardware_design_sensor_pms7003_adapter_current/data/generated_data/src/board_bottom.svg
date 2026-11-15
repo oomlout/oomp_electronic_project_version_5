@@ -37,7 +37,7 @@
   <circle cx="4.7700" cy="1.6500" r="0.3500"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
   <circle cx="6.0400" cy="1.6500" r="0.3500"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" /></svg></g>
 </g>
-<g class="board-component" data-reference="U1" data-oomp-id="electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a" tabindex="0" transform="translate(114.0000 154.5000) rotate(-0.0000)">
+<g class="board-component" data-reference="U1" data-oomp-id="electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a" tabindex="0" transform="translate(114.0000 154.5000) rotate(-0.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4000" y="-1.4600" width="2.8000" height="2.9200" viewBox="0 0 2.8000 2.9200" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="2.8000" height="2.9200"  fill="none" stroke="none" />
   <rect x="0.6548" y="0.1000" width="1.4904" height="2.7200" rx="0.0800" ry="0.0800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0709" y="0.3829" width="0.6089" height="0.3726"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />

@@ -121641,9 +121641,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+    oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+    proposed_oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
     inferred:
       kind: null
       package_size: null
@@ -124169,9 +124169,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    proposed_oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
     inferred:
       kind: null
       package_size: null

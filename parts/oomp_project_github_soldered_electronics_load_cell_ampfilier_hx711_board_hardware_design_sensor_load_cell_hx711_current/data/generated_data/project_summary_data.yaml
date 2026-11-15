@@ -3004,7 +3004,7 @@ placement:
     x: 65.0
     y: 141.4
     rotation: 90.0
-    oomp_id: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+    oomp_id: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
     bounds:
       min_x: 59.94
       min_y: 138.21
@@ -4491,8 +4491,8 @@ bom:
 - description: IC Converter Load Cell Amplifier Avia Semiconductor SOP_16
   value: HX711
   footprint: e-radionica.com footprinti:SOP-16
-  oomp_id: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+  oomp_id: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
   references:
   - U1
   quantity: 1
@@ -4703,7 +4703,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711
+  - oomp_id: electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg

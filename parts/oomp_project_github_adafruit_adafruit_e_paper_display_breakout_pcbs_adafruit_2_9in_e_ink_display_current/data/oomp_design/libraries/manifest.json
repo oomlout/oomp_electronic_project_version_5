@@ -46,14 +46,14 @@
       "file": "OOMP_HandSolder.pretty/electronic_connector_header_2_54_mm_pitch_through_hole_13_pin.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
       "kind": "machine_solder",
-      "file": "OOMP_MachineSolder.pretty/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3.kicad_mod"
+      "file": "OOMP_MachineSolder.pretty/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
       "kind": "hand_solder",
-      "file": "OOMP_HandSolder.pretty/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3.kicad_mod"
+      "file": "OOMP_HandSolder.pretty/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3.kicad_mod"
     },
     {
       "oomp_id": "electronic_resistor_0805_100000_ohm",
@@ -88,7 +88,7 @@
       "issues": []
     },
     {
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected"

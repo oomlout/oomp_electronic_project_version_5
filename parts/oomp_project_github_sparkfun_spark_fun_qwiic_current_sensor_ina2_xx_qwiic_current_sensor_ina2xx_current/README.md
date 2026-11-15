@@ -92,7 +92,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R3 | 1 | Resistor 4700 Ohm 0603 | 4.7k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_4700_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_4700_ohm) |
 | R4, R5, R6 | 3 | Resistor 2200 Ohm 0603 | 2.2k | `SparkFun-Resistor:R_0603_1608Metric` | [`electronic_resistor_0603_2200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_2200_ohm) |
 | R8 | 1 | Resistor 10000 Ohm QUARTER_WATT_THROUGH_HOLE | 10k | `SparkFun-Resistor:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal` | [`electronic_resistor_quarter_watt_through_hole_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_quarter_watt_through_hole_10000_ohm) |
-| U2 | 1 | IC Power Monitor Current Monitor Texas Instruments VSSOP_10 | INA228 | `SparkFun-Semiconductor-Standard:SOP-10_4.4x3.6mm_P0.5mm` | [`electronic_ic_vssop_10_power_monitor_current_monitor_texas_instruments_ina228`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_vssop_10_power_monitor_current_monitor_texas_instruments_ina228) |
+| U2 | 1 | IC Power Monitor Current Monitor Texas Instruments VSSOP_10 | INA228 | `SparkFun-Semiconductor-Standard:SOP-10_4.4x3.6mm_P0.5mm` | [`electronic_ic_power_monitor_current_monitor_vssop_10_texas_instruments_ina228`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_monitor_current_monitor_vssop_10_texas_instruments_ina228) |
 
 ## Main nets
 

@@ -133,25 +133,25 @@ parts:
   - 'Official symbol master unavailable: not selected'
   - 'Official machine_solder footprint unavailable: not selected'
   - 'Official hand_solder footprint unavailable: not selected'
-- oomp_id: electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s
+- oomp_id: electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s
   status: needs_review
   issues:
   - 'Official symbol master unavailable: not selected'
   - 'Official machine_solder footprint unavailable: not selected'
   - 'Official hand_solder footprint unavailable: not selected'
-- oomp_id: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+- oomp_id: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
   status: needs_review
   issues:
   - 'Official symbol master unavailable: not selected'
   - 'Official machine_solder footprint unavailable: not selected'
   - 'Official hand_solder footprint unavailable: not selected'
-- oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g
+- oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g
   status: needs_review
   issues:
   - 'Official symbol master unavailable: not selected'
   - 'Official machine_solder footprint unavailable: not selected'
   - 'Official hand_solder footprint unavailable: not selected'
-- oomp_id: electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3
+- oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3
   status: needs_review
   issues:
   - 'Official symbol master unavailable: not selected'

@@ -748,7 +748,7 @@ components:
 - reference: U1
   value: ADS1219IPW
   footprint: SparkFun-Semiconductor-Standard:TSSOP-16
-  oomp_id: electronic_ic_tssop_16_converter_analog_to_digital_converter_texas_instruments_ads1219ipw
+  oomp_id: electronic_ic_converter_analog_to_digital_converter_tssop_16_texas_instruments_ads1219ipw
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null

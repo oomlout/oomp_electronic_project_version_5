@@ -25310,7 +25310,7 @@
         "x": 148.9,
         "y": 86.05,
         "rotation": 0.0,
-        "oomp_id": "electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr",
         "bounds": {
           "min_x": 146.825,
           "min_y": 84.325,
@@ -25923,7 +25923,7 @@
         "x": 144.59,
         "y": 103.2,
         "rotation": 0.0,
-        "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+        "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
         "bounds": {
           "min_x": 140.06,
           "min_y": 99.045,
@@ -32617,7 +32617,7 @@
         "x": 143.9,
         "y": 92.075,
         "rotation": -90.0,
-        "oomp_id": "electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq",
+        "oomp_id": "electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq",
         "bounds": {
           "min_x": 142.44,
           "min_y": 90.015,
@@ -35764,8 +35764,8 @@
       "description": "Regulator XC6206P332MR 3.3V SOT-23",
       "value": "XC6206P332MR",
       "footprint": "Package_TO_SOT_SMD:SOT-23-3",
-      "oomp_id": "electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr",
       "references": [
         "U1"
       ],
@@ -35775,8 +35775,8 @@
       "description": "IC RP2040 QFN 56 7 MM X 7 MM",
       "value": "RP2040",
       "footprint": "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm",
-      "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+      "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
       "references": [
         "U2"
       ],
@@ -35786,8 +35786,8 @@
       "description": "IC Memory SPI Nor Flash Winbond USON_8",
       "value": "W25Q16JVUXIQ",
       "footprint": "RP2040:W25Q16JVUXIQ",
-      "oomp_id": "electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq",
+      "oomp_id": "electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq",
       "references": [
         "U3"
       ],
@@ -36236,7 +36236,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+        "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -36251,7 +36251,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -36266,7 +36266,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq",
+        "oomp_id": "electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

@@ -179379,9 +179379,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw",
+        "oomp_id": "electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw",
+        "proposed_oomp_id": "electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw",
         "inferred": {
           "kind": null,
           "package_size": null,
@@ -262105,9 +262105,9 @@
       "oomp": {
         "status": "matched",
         "accepted": true,
-        "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
         "confidence": 1.0,
-        "proposed_oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+        "proposed_oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
         "inferred": {
           "kind": null,
           "package_size": null,

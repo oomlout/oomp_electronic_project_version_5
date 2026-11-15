@@ -183,7 +183,7 @@
       "reference": "U2",
       "source": "Adafruit BMP280 STEMMA QT-import-fps:SOT23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
       "reason": "Source is not an available official master for this OOMP part."
     },
     {
@@ -564,7 +564,7 @@
       ],
       "source": "kicad_file-eagle-import:VREG_SOT23-5",
       "status": "skipped",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
       "reason": "OOMP symbol master unavailable.",
       "file": "kicad_file.kicad_sch"
     },

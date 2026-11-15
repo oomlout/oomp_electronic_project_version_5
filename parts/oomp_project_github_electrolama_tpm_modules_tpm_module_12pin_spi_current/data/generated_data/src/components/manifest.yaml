@@ -43,7 +43,7 @@ parts:
   - working_svg_assembly.svg
   - working_svg_assembly_pins.svg
   - working_svg_square_pins.svg
-- oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670
+- oomp_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670
   project_source_files:
   - working.yaml
   - working_svg_assembly.svg

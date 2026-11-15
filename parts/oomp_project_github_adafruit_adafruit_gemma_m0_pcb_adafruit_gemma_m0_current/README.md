@@ -110,7 +110,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | SW1 | 1 | EG1218 | EG1218 | `Adafruit Gemma M0-import-fps:EG1390` | unmatched |
 | SWC0, SWD0 | 2 | TPTP15R | TPTP15R | `Adafruit Gemma M0-import-fps:TP15R` | unmatched |
 | TP1 | 1 | TPTP16R | TPTP16R | `Adafruit Gemma M0-import-fps:TP16R` | unmatched |
-| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Gemma M0-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U1 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Gemma M0-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | X2 | 1 | MicroUSB | MicroUSB | `Adafruit Gemma M0-import-fps:4UCONN_20329_V2` | unmatched |
 
 ## Main nets

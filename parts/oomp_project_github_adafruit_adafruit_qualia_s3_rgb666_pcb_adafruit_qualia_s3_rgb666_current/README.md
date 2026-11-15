@@ -108,7 +108,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | D1 | 1 | MBR0540 | MBR0540 | `Adafruit Qualia S3 RGB666-import-fps:SOD-123` | unmatched |
 | D2 | 1 | 3.6V | 3.6V | `Adafruit Qualia S3 RGB666-import-fps:SOD-323` | unmatched |
 | DOWN0, RST0, UP0 | 3 | TL3330AF260QG | TL3330AF260QG | `Adafruit Qualia S3 RGB666-import-fps:SPST_TACTILE_RA` | unmatched |
-| IC1 | 1 | IC Logic Io Expander Texas Instruments TSSOP_16 | PCA9554PW | `Adafruit Qualia S3 RGB666-import-fps:TSSOP16` | [`electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw) |
+| IC1 | 1 | IC Logic Io Expander Texas Instruments TSSOP_16 | PCA9554PW | `Adafruit Qualia S3 RGB666-import-fps:TSSOP16` | [`electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw) |
 | J1 | 1 | 40P_FPC_BOTCON | 40P_FPC_BOTCON | `Adafruit Qualia S3 RGB666-import-fps:FPC_40` | unmatched |
 | JP1 | 1 | Connector Header PZ254-1-11-Z-8.5 |  | `Adafruit Qualia S3 RGB666-import-fps:1X11_ROUND` | [`electronic_connector_header_2_54_mm_pitch_through_hole_11_pin`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_11_pin) |
 | JP2 | 1 | Connector Header ZX-PZ2.54-1-1PZZ |  | `Adafruit Qualia S3 RGB666-import-fps:1X01_ROUND` | [`electronic_connector_header_2_54_mm_pitch_through_hole_1_pin`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_1_pin) |
@@ -164,7 +164,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R17 | 1 | Resistor 1e+06 Ohm 0603 | 1Meg | `Adafruit Qualia S3 RGB666-import-fps:0603-NO` | [`electronic_resistor_0603_1000000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_1000000_ohm) |
 | SENSE0 | 1 | JST PH 3 | JST PH 3 | `Adafruit Qualia S3 RGB666-import-fps:JSTPH3` | unmatched |
 | U1 | 1 | TPS61169 | TPS61169 | `Adafruit Qualia S3 RGB666-import-fps:SC70-5` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Qualia S3 RGB666-import-fps:SOT23-DBV` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Qualia S3 RGB666-import-fps:SOT23-DBV` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U3 | 1 | ESP32-S3-WROOM | ESP32-S3-WROOM | `Adafruit Qualia S3 RGB666-import-fps:S3-WROOM32` | unmatched |
 | UNK3VON0 | 1 | LED Green 0603 | GREEN | `Adafruit Qualia S3 RGB666-import-fps:CHIPLED_0603_NOOUTLINE` | [`electronic_led_0603_green`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_0603_green) |
 | X5 | 1 | USB TYPE C | USB TYPE C | `Adafruit Qualia S3 RGB666-import-fps:USB_C_CUSB31-CFM2AX-01-X` | unmatched |

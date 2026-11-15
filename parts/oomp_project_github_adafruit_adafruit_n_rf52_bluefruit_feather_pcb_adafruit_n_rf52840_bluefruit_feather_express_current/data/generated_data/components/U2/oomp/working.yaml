@@ -1,39 +1,38 @@
 bip_39_2_word_array:
-- blame
-- wear
-bip_39_2_word_no_space: blamewear
-bip_39_2_word_space: blame wear
-bip_39_2_word_underscore: blame_wear
+- learn
+- first
+bip_39_2_word_no_space: learnfirst
+bip_39_2_word_space: learn first
+bip_39_2_word_underscore: learn_first
 bip_39_3_word_array:
-- blame
-- wear
-- slice
-bip_39_3_word_no_space: blamewearslice
-bip_39_3_word_space: blame wear slice
-bip_39_3_word_underscore: blame_wear_slice
+- learn
+- first
+- either
+bip_39_3_word_no_space: learnfirsteither
+bip_39_3_word_space: learn first either
+bip_39_3_word_underscore: learn_first_either
 bip_39_full_array:
-- blame
-- wear
-- slice
-- hundred
-- turtle
-- soup
-- minor
+- learn
+- first
+- either
+- blade
+- spike
+- venture
+- stock
+- tonight
+- keen
+- gesture
 - flame
-- decline
-- try
-- domain
-- much
-bip_39_full_no_space: blamewearslicehundredturtlesoupminorflamedeclinetrydomainmuch
-bip_39_full_space: blame wear slice hundred turtle soup minor flame decline try domain
-  much
-bip_39_full_underscore: blame_wear_slice_hundred_turtle_soup_minor_flame_decline_try_domain_much
+- state
+bip_39_full_no_space: learnfirsteitherbladespikeventurestocktonightkeengestureflamestate
+bip_39_full_space: learn first either blade spike venture stock tonight keen gesture flame state
+bip_39_full_underscore: learn_first_either_blade_spike_venture_stock_tonight_keen_gesture_flame_state
 category: power_management
 category_name: Power management
 dimensions_mm:
   length: 2.9
   width: 1.6
-directory: parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+directory: parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
 distributors: []
 ic_dimensions_mm:
   body_length: 2.92
@@ -48,49 +47,41 @@ ic_dimensions_mm:
   pin_length: 0.45
   pin_pitch: 0.95
   pin_width: 0.4
-id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
-id_no_class: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
-id_no_size: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
-id_no_type: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
+id_no_class: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
+id_no_size: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
+id_no_type: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
 kicad:
   hand_solder: Package_TO_SOT_SMD:SOT-23-5
   machine_solder: Package_TO_SOT_SMD:SOT-23-5
   symbol: ''
-lcsc_search: sot 23 5 power management linear voltage regulator 3 3 volt richtek rt9080
-  33 ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+lcsc_search: sot 23 5 power management linear voltage regulator 3 3 volt richtek rt9080 33 ic
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
 manufacturers: []
-md5: 173f0f2db79eaf9fe34ac238fd3d03c8
-md5_10: 173f0f2db7
-md5_10_upper: 173F0F2DB7
-md5_5: 173f0
-md5_5_upper: 173F0
-md5_6: 173f0f
-md5_6_alpha: wnin
-md5_6_alpha_upper: WNIN
-md5_6_upper: 173F0F
-name: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator 3 3 Volt Richtek
-  Rt9080 33
-name_no_class: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator 3
-  3 Volt Richtek Rt9080 33
-name_no_size: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator 3 3
-  Volt Richtek Rt9080 33
-name_no_type: Electronic Ic Sot 23 5 Power Management Linear Voltage Regulator 3 3
-  Volt Richtek Rt9080 33
+md5: 7ecaed1c0b8d1de4b5872479ac2d616a
+md5_10: 7ecaed1c0b
+md5_10_upper: 7ECAED1C0B
+md5_5: 7ecae
+md5_5_upper: 7ECAE
+md5_6: 7ecaed
+md5_6_alpha: 4y3n1
+md5_6_alpha_upper: 4Y3N1
+md5_6_upper: 7ECAED
+name: Electronic Ic Power Management Linear Voltage Regulator 3 3 Volt Sot 23 5 Richtek Rt9080 33
+name_no_class: Electronic Ic Power Management Linear Voltage Regulator 3 3 Volt Sot 23 5 Richtek Rt9080 33
+name_no_size: Electronic Ic Power Management Linear Voltage Regulator 3 3 Volt Sot 23 5 Richtek Rt9080 33
+name_no_type: Electronic Ic Power Management Linear Voltage Regulator 3 3 Volt Sot 23 5 Richtek Rt9080 33
 name_proper: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5
 name_readable: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5
 name_short: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5
-name_space: electronic ic sot 23 5 power management linear voltage regulator 3 3 volt
-  richtek rt9080 33
-name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 3 3 VOLT
-  RICHTEK RT9080 33
+name_space: electronic ic power management linear voltage regulator 3 3 volt sot 23 5 richtek rt9080 33
+name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 3 3 VOLT RICHTEK RT9080 33
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -103,7 +94,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+    part_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -183,22 +174,19 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
   actions:
   - command: run_python
-    description: Render this part's KiCad symbol and footprints to SVG and PNG, and
-      build a labelled contact sheet.
+    description: Render this part's KiCad symbol and footprints to SVG and PNG, and build a labelled contact sheet.
     file_output: data/kicad/contact_sheet.png
     file_python: kicad_agents/kicad_render_action.py
-    part_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+    part_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
     regenerate_pngs: false
     timeout: '600'
-  description: Render KiCad symbol and footprint SVG and PNG views with a review contact
-    sheet.
+  description: Render KiCad symbol and footprint SVG and PNG views with a review contact sheet.
   file_test: data/kicad/contact_sheet.png
   retries_until_complete: 0
 oomlout_ai_roboclick_4:
@@ -212,7 +200,7 @@ oomlout_ai_roboclick_4:
       dimensions_mm:
         length: 2.9
         width: 1.6
-      directory: parts\electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+      directory: parts\electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
       distributors: []
       ic_dimensions_mm:
         body_length: 2.92
@@ -231,23 +219,18 @@ oomlout_ai_roboclick_4:
         hand_solder: Package_TO_SOT_SMD:SOT-23-5
         machine_solder: Package_TO_SOT_SMD:SOT-23-5
         symbol: ''
-      lcsc_search: sot 23 5 power management linear voltage regulator 3 3 volt richtek
-        rt9080 33 ic
+      lcsc_search: sot 23 5 power management linear voltage regulator 3 3 volt richtek rt9080 33 ic
       manufacturers: []
-      name: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+      name: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
       name_proper: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5
-      name_readable: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek
-        SOT_23_5
+      name_readable: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5
       name_short: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5
-      name_space: electronic ic sot 23 5 power management linear voltage regulator
-        3 3 volt richtek rt9080 33
-      name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR
-        3 3 VOLT RICHTEK RT9080 33
+      name_space: electronic ic power management linear voltage regulator 3 3 volt sot 23 5 richtek rt9080 33
+      name_upper: ELECTRONIC IC SOT 23 5 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 3 3 VOLT RICHTEK RT9080 33
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -257,11 +240,10 @@ oomlout_ai_roboclick_4:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+          part_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -341,22 +323,19 @@ oomlout_ai_roboclick_4:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       oomlout_ai_roboclick_3:
         actions:
         - command: run_python
-          description: Render this part's KiCad symbol and footprints to SVG and PNG,
-            and build a labelled contact sheet.
+          description: Render this part's KiCad symbol and footprints to SVG and PNG, and build a labelled contact sheet.
           file_output: data/kicad/contact_sheet.png
           file_python: kicad_agents/kicad_render_action.py
-          part_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+          part_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
           regenerate_pngs: false
           timeout: '600'
-        description: Render KiCad symbol and footprint SVG and PNG views with a review
-          contact sheet.
+        description: Render KiCad symbol and footprint SVG and PNG views with a review contact sheet.
         file_test: data/kicad/contact_sheet.png
         retries_until_complete: 0
       part_id: U1
@@ -433,33 +412,31 @@ oomlout_ai_roboclick_4:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sot_23_5/power_management/linear_voltage_regulator_3_3_volt/richtek/README.md
-        oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+        navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator_3_3_volt/sot_23_5/richtek/README.md
+        oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
         pins: []
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+          value: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
         - title: Type
           value: Ic
         - title: Package / style
           value: sot 23 5
         - title: Nominal size
           value: 2.9 × 1.6 mm
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
-        summary: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5
-          is an OOMP electronic ic definition. It uses the sot 23 5 package or form
-          factor. Its nominal drawing size is 2.9 × 1.6 mm.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
+        summary: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5 is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sot_23_5
-        - level: 4
           value: power_management
-        - level: 5
+        - level: 4
           value: linear_voltage_regulator_3_3_volt
+        - level: 5
+          value: sot_23_5
         - level: 14
           value: richtek
         - level: 15
@@ -626,9 +603,6 @@ oomlout_ai_roboclick_4:
       taxonomy_14: richtek
       taxonomy_15: rt9080_33
       taxonomy_2: ic
-      taxonomy_3: sot_23_5
-      taxonomy_4: power_management
-      taxonomy_5: linear_voltage_regulator_3_3_volt
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -638,8 +612,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_air_lift_feather_wing_pcb_adafruit_air_lift_feather_wing_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-AirLift-FeatherWing-PCB/blob/master/Adafruit%20AirLift%20FeatherWing%20rev%20C.brd
         github_url: https://github.com/adafruit/Adafruit-AirLift-FeatherWing-PCB
-        name: Project adafruit/Adafruit-AirLift-FeatherWing-PCB Adafruit Air Lift
-          Feather Wing current
+        name: Project adafruit/Adafruit-AirLift-FeatherWing-PCB Adafruit Air Lift Feather Wing current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_air_lift_feather_wing_pcb_adafruit_air_lift_feather_wing_current
         project_id: oomp_project_github_adafruit_adafruit_air_lift_feather_wing_pcb_adafruit_air_lift_feather_wing_current
         quantity: 1
@@ -649,8 +622,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_adalogger_pcb_adafruit_feather_rp2040_adalogger_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Feather-RP2040-Adalogger-PCB/blob/main/Adafruit%20Feather%20RP2040%20Adalogger.brd
         github_url: https://github.com/adafruit/Adafruit-Feather-RP2040-Adalogger-PCB
-        name: Project adafruit/Adafruit-Feather-RP2040-Adalogger-PCB Adafruit Feather
-          RP2040 Adalogger current
+        name: Project adafruit/Adafruit-Feather-RP2040-Adalogger-PCB Adafruit Feather RP2040 Adalogger current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_adalogger_pcb_adafruit_feather_rp2040_adalogger_current
         project_id: oomp_project_github_adafruit_adafruit_feather_rp2040_adalogger_pcb_adafruit_feather_rp2040_adalogger_current
         quantity: 1
@@ -660,8 +632,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_dvi_pcb_adafruit_feather_rp2040_dvi_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Feather-RP2040-DVI-PCB/blob/main/Adafruit%20Feather%20RP2040%20DVI.brd
         github_url: https://github.com/adafruit/Adafruit-Feather-RP2040-DVI-PCB
-        name: Project adafruit/Adafruit-Feather-RP2040-DVI-PCB Adafruit Feather RP2040
-          DVI current
+        name: Project adafruit/Adafruit-Feather-RP2040-DVI-PCB Adafruit Feather RP2040 DVI current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_dvi_pcb_adafruit_feather_rp2040_dvi_current
         project_id: oomp_project_github_adafruit_adafruit_feather_rp2040_dvi_pcb_adafruit_feather_rp2040_dvi_current
         quantity: 1
@@ -671,8 +642,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_rfm_pcb_adafruit_feather_rp2040_rfm_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Feather-RP2040-RFM-PCB/blob/main/Adafruit%20Feather%20RP2040%20RFM.brd
         github_url: https://github.com/adafruit/Adafruit-Feather-RP2040-RFM-PCB
-        name: Project adafruit/Adafruit-Feather-RP2040-RFM-PCB Adafruit Feather RP2040
-          RFM current
+        name: Project adafruit/Adafruit-Feather-RP2040-RFM-PCB Adafruit Feather RP2040 RFM current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_rfm_pcb_adafruit_feather_rp2040_rfm_current
         project_id: oomp_project_github_adafruit_adafruit_feather_rp2040_rfm_pcb_adafruit_feather_rp2040_rfm_current
         quantity: 1
@@ -682,8 +652,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_think_ink_adafruit_feather_rp2040_think_ink_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Feather-RP2040-ThinkInk/blob/main/Adafruit%20Feather%20RP2040%20ThinkInk.brd
         github_url: https://github.com/adafruit/Adafruit-Feather-RP2040-ThinkInk
-        name: Project adafruit/Adafruit-Feather-RP2040-ThinkInk Adafruit Feather RP2040
-          Think Ink current
+        name: Project adafruit/Adafruit-Feather-RP2040-ThinkInk Adafruit Feather RP2040 Think Ink current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_think_ink_adafruit_feather_rp2040_think_ink_current
         project_id: oomp_project_github_adafruit_adafruit_feather_rp2040_think_ink_adafruit_feather_rp2040_think_ink_current
         quantity: 1
@@ -693,8 +662,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_usb_host_pcb_adafruit_feather_rp2040_usb_host_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Feather-RP2040-USB-Host-PCB/blob/main/Adafruit%20Feather%20RP2040%20USB%20Host.brd
         github_url: https://github.com/adafruit/Adafruit-Feather-RP2040-USB-Host-PCB
-        name: Project adafruit/Adafruit-Feather-RP2040-USB-Host-PCB Adafruit Feather
-          RP2040 USB Host current
+        name: Project adafruit/Adafruit-Feather-RP2040-USB-Host-PCB Adafruit Feather RP2040 USB Host current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_usb_host_pcb_adafruit_feather_rp2040_usb_host_current
         project_id: oomp_project_github_adafruit_adafruit_feather_rp2040_usb_host_pcb_adafruit_feather_rp2040_usb_host_current
         quantity: 1
@@ -704,8 +672,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2350_pcb_adafruit_feather_rp2350_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Feather-RP2350-PCB/blob/main/Adafruit%20Feather%20RP2350.brd
         github_url: https://github.com/adafruit/Adafruit-Feather-RP2350-PCB
-        name: Project adafruit/Adafruit-Feather-RP2350-PCB Adafruit Feather RP2350
-          current
+        name: Project adafruit/Adafruit-Feather-RP2350-PCB Adafruit Feather RP2350 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2350_pcb_adafruit_feather_rp2350_current
         project_id: oomp_project_github_adafruit_adafruit_feather_rp2350_pcb_adafruit_feather_rp2350_current
         quantity: 1
@@ -715,8 +682,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_itsy_bitsy_esp32_pcb_adafruit_itsy_bitsy_esp32_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-ItsyBitsy-ESP32-PCB/blob/main/Adafruit%20ItsyBitsy%20ESP32.brd
         github_url: https://github.com/adafruit/Adafruit-ItsyBitsy-ESP32-PCB
-        name: Project adafruit/Adafruit-ItsyBitsy-ESP32-PCB Adafruit Itsy Bitsy ESP32
-          current
+        name: Project adafruit/Adafruit-ItsyBitsy-ESP32-PCB Adafruit Itsy Bitsy ESP32 current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_itsy_bitsy_esp32_pcb_adafruit_itsy_bitsy_esp32_current
         project_id: oomp_project_github_adafruit_adafruit_itsy_bitsy_esp32_pcb_adafruit_itsy_bitsy_esp32_current
         quantity: 1
@@ -726,8 +692,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_mini_sparkle_motion_pcb_adafruit_mini_sparkle_motion_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-Mini-Sparkle-Motion-PCB/blob/main/Adafruit%20Mini%20Sparkle%20Motion.brd
         github_url: https://github.com/adafruit/Adafruit-Mini-Sparkle-Motion-PCB
-        name: Project adafruit/Adafruit-Mini-Sparkle-Motion-PCB Adafruit Mini Sparkle
-          Motion current
+        name: Project adafruit/Adafruit-Mini-Sparkle-Motion-PCB Adafruit Mini Sparkle Motion current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_mini_sparkle_motion_pcb_adafruit_mini_sparkle_motion_current
         project_id: oomp_project_github_adafruit_adafruit_mini_sparkle_motion_pcb_adafruit_mini_sparkle_motion_current
         quantity: 1
@@ -737,8 +702,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB/blob/master/Adafruit%20nRF52840%20Bluefruit%20Feather%20Express%20Rev%20E.brd
         github_url: https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB
-        name: Project adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB Adafruit n RF52840
-          Bluefruit Feather Express current
+        name: Project adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB Adafruit n RF52840 Bluefruit Feather Express current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current
         project_id: oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current
         quantity: 1
@@ -748,8 +712,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_rp2040_can_bus_feather_pcb_adafruit_rp2040_can_bus_feather_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB/blob/main/Adafruit%20RP2040%20CAN%20Bus%20Feather.brd
         github_url: https://github.com/adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB
-        name: Project adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB Adafruit RP2040
-          CAN Bus Feather current
+        name: Project adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB Adafruit RP2040 CAN Bus Feather current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_rp2040_can_bus_feather_pcb_adafruit_rp2040_can_bus_feather_current
         project_id: oomp_project_github_adafruit_adafruit_rp2040_can_bus_feather_pcb_adafruit_rp2040_can_bus_feather_current
         quantity: 1
@@ -759,8 +722,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_rp2040_prop_maker_feather_pcb_adafruit_feather_rp2040_prop_maker_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB/blob/main/Adafruit%20Feather%20RP2040%20Prop-Maker.brd
         github_url: https://github.com/adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB
-        name: Project adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB Adafruit Feather
-          RP2040 Prop Maker current
+        name: Project adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB Adafruit Feather RP2040 Prop Maker current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_rp2040_prop_maker_feather_pcb_adafruit_feather_rp2040_prop_maker_current
         project_id: oomp_project_github_adafruit_adafruit_rp2040_prop_maker_feather_pcb_adafruit_feather_rp2040_prop_maker_current
         quantity: 1
@@ -807,6 +769,9 @@ oomlout_ai_roboclick_4:
         references:
         - U6
         version: v0.1
+      taxonomy_5: sot_23_5
+      taxonomy_3: power_management
+      taxonomy_4: linear_voltage_regulator_3_3_volt
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -817,8 +782,7 @@ oomlout_ai_roboclick_4:
 oomlout_ai_roboclick_5:
   actions:
   - command: run_python
-    description: Read current component details and prepare drawer labels; remove
-      stale label PDFs
+    description: Read current component details and prepare drawer labels; remove stale label PDFs
     file_output: data/label_drawer.yaml
     file_python: C:\gh\oomp_electronic_version_5\working_drawer_labels.py
     timeout: '120'
@@ -843,8 +807,7 @@ oomlout_ai_roboclick_5:
 oomlout_ai_roboclick_6:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -853,7 +816,7 @@ oomlout_ai_roboclick_6:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+oomp_key: oomp_electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
 part_id: U1
 part_page:
   datasheet_path: data/datasheet.pdf
@@ -928,33 +891,31 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sot_23_5/power_management/linear_voltage_regulator_3_3_volt/richtek/README.md
-  oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+  navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator_3_3_volt/sot_23_5/richtek/README.md
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
   pins: []
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
+    value: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
   - title: Type
     value: Ic
   - title: Package / style
     value: sot 23 5
   - title: Nominal size
     value: 2.9 × 1.6 mm
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33
-  summary: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5
-    is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor.
-    Its nominal drawing size is 2.9 × 1.6 mm.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33
+  summary: IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5 is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sot_23_5
-  - level: 4
     value: power_management
-  - level: 5
+  - level: 4
     value: linear_voltage_regulator_3_3_volt
+  - level: 5
+    value: sot_23_5
   - level: 14
     value: richtek
   - level: 15
@@ -1177,51 +1138,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sot_23_5
-taxonomy_3_capital: Sot 23.5
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sot
-taxonomy_3_length_4: sot_
-taxonomy_3_length_5: sot_2
-taxonomy_3_upper: SOT_23_5
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOT
-taxonomy_3_upper_length_4: SOT_
-taxonomy_3_upper_length_5: SOT_2
-taxonomy_4: power_management
-taxonomy_4_capital: Power Management
-taxonomy_4_first_letter: p
-taxonomy_4_first_letter_upper: P
-taxonomy_4_length_1: p
-taxonomy_4_length_2: po
-taxonomy_4_length_3: pow
-taxonomy_4_length_4: powe
-taxonomy_4_length_5: power
-taxonomy_4_upper: POWER_MANAGEMENT
-taxonomy_4_upper_length_1: P
-taxonomy_4_upper_length_2: PO
-taxonomy_4_upper_length_3: POW
-taxonomy_4_upper_length_4: POWE
-taxonomy_4_upper_length_5: POWER
-taxonomy_5: linear_voltage_regulator_3_3_volt
-taxonomy_5_capital: Linear Voltage Regulator 3.3 Volt
-taxonomy_5_first_letter: l
-taxonomy_5_first_letter_upper: L
-taxonomy_5_length_1: l
-taxonomy_5_length_2: li
-taxonomy_5_length_3: lin
-taxonomy_5_length_4: line
-taxonomy_5_length_5: linea
-taxonomy_5_upper: LINEAR_VOLTAGE_REGULATOR_3_3_VOLT
-taxonomy_5_upper_length_1: L
-taxonomy_5_upper_length_2: LI
-taxonomy_5_upper_length_3: LIN
-taxonomy_5_upper_length_4: LINE
-taxonomy_5_upper_length_5: LINEA
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1231,8 +1147,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_air_lift_feather_wing_pcb_adafruit_air_lift_feather_wing_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-AirLift-FeatherWing-PCB/blob/master/Adafruit%20AirLift%20FeatherWing%20rev%20C.brd
   github_url: https://github.com/adafruit/Adafruit-AirLift-FeatherWing-PCB
-  name: Project adafruit/Adafruit-AirLift-FeatherWing-PCB Adafruit Air Lift Feather
-    Wing current
+  name: Project adafruit/Adafruit-AirLift-FeatherWing-PCB Adafruit Air Lift Feather Wing current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_air_lift_feather_wing_pcb_adafruit_air_lift_feather_wing_current
   project_id: oomp_project_github_adafruit_adafruit_air_lift_feather_wing_pcb_adafruit_air_lift_feather_wing_current
   quantity: 1
@@ -1242,8 +1157,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_adalogger_pcb_adafruit_feather_rp2040_adalogger_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Feather-RP2040-Adalogger-PCB/blob/main/Adafruit%20Feather%20RP2040%20Adalogger.brd
   github_url: https://github.com/adafruit/Adafruit-Feather-RP2040-Adalogger-PCB
-  name: Project adafruit/Adafruit-Feather-RP2040-Adalogger-PCB Adafruit Feather RP2040
-    Adalogger current
+  name: Project adafruit/Adafruit-Feather-RP2040-Adalogger-PCB Adafruit Feather RP2040 Adalogger current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_adalogger_pcb_adafruit_feather_rp2040_adalogger_current
   project_id: oomp_project_github_adafruit_adafruit_feather_rp2040_adalogger_pcb_adafruit_feather_rp2040_adalogger_current
   quantity: 1
@@ -1253,8 +1167,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_dvi_pcb_adafruit_feather_rp2040_dvi_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Feather-RP2040-DVI-PCB/blob/main/Adafruit%20Feather%20RP2040%20DVI.brd
   github_url: https://github.com/adafruit/Adafruit-Feather-RP2040-DVI-PCB
-  name: Project adafruit/Adafruit-Feather-RP2040-DVI-PCB Adafruit Feather RP2040 DVI
-    current
+  name: Project adafruit/Adafruit-Feather-RP2040-DVI-PCB Adafruit Feather RP2040 DVI current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_dvi_pcb_adafruit_feather_rp2040_dvi_current
   project_id: oomp_project_github_adafruit_adafruit_feather_rp2040_dvi_pcb_adafruit_feather_rp2040_dvi_current
   quantity: 1
@@ -1264,8 +1177,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_rfm_pcb_adafruit_feather_rp2040_rfm_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Feather-RP2040-RFM-PCB/blob/main/Adafruit%20Feather%20RP2040%20RFM.brd
   github_url: https://github.com/adafruit/Adafruit-Feather-RP2040-RFM-PCB
-  name: Project adafruit/Adafruit-Feather-RP2040-RFM-PCB Adafruit Feather RP2040 RFM
-    current
+  name: Project adafruit/Adafruit-Feather-RP2040-RFM-PCB Adafruit Feather RP2040 RFM current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_rfm_pcb_adafruit_feather_rp2040_rfm_current
   project_id: oomp_project_github_adafruit_adafruit_feather_rp2040_rfm_pcb_adafruit_feather_rp2040_rfm_current
   quantity: 1
@@ -1275,8 +1187,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_think_ink_adafruit_feather_rp2040_think_ink_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Feather-RP2040-ThinkInk/blob/main/Adafruit%20Feather%20RP2040%20ThinkInk.brd
   github_url: https://github.com/adafruit/Adafruit-Feather-RP2040-ThinkInk
-  name: Project adafruit/Adafruit-Feather-RP2040-ThinkInk Adafruit Feather RP2040
-    Think Ink current
+  name: Project adafruit/Adafruit-Feather-RP2040-ThinkInk Adafruit Feather RP2040 Think Ink current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_think_ink_adafruit_feather_rp2040_think_ink_current
   project_id: oomp_project_github_adafruit_adafruit_feather_rp2040_think_ink_adafruit_feather_rp2040_think_ink_current
   quantity: 1
@@ -1286,8 +1197,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_usb_host_pcb_adafruit_feather_rp2040_usb_host_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Feather-RP2040-USB-Host-PCB/blob/main/Adafruit%20Feather%20RP2040%20USB%20Host.brd
   github_url: https://github.com/adafruit/Adafruit-Feather-RP2040-USB-Host-PCB
-  name: Project adafruit/Adafruit-Feather-RP2040-USB-Host-PCB Adafruit Feather RP2040
-    USB Host current
+  name: Project adafruit/Adafruit-Feather-RP2040-USB-Host-PCB Adafruit Feather RP2040 USB Host current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_feather_rp2040_usb_host_pcb_adafruit_feather_rp2040_usb_host_current
   project_id: oomp_project_github_adafruit_adafruit_feather_rp2040_usb_host_pcb_adafruit_feather_rp2040_usb_host_current
   quantity: 1
@@ -1317,8 +1227,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_mini_sparkle_motion_pcb_adafruit_mini_sparkle_motion_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-Mini-Sparkle-Motion-PCB/blob/main/Adafruit%20Mini%20Sparkle%20Motion.brd
   github_url: https://github.com/adafruit/Adafruit-Mini-Sparkle-Motion-PCB
-  name: Project adafruit/Adafruit-Mini-Sparkle-Motion-PCB Adafruit Mini Sparkle Motion
-    current
+  name: Project adafruit/Adafruit-Mini-Sparkle-Motion-PCB Adafruit Mini Sparkle Motion current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_mini_sparkle_motion_pcb_adafruit_mini_sparkle_motion_current
   project_id: oomp_project_github_adafruit_adafruit_mini_sparkle_motion_pcb_adafruit_mini_sparkle_motion_current
   quantity: 1
@@ -1328,8 +1237,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB/blob/master/Adafruit%20nRF52840%20Bluefruit%20Feather%20Express%20Rev%20E.brd
   github_url: https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB
-  name: Project adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB Adafruit n RF52840 Bluefruit
-    Feather Express current
+  name: Project adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB Adafruit n RF52840 Bluefruit Feather Express current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current
   project_id: oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current
   quantity: 1
@@ -1339,8 +1247,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_rp2040_can_bus_feather_pcb_adafruit_rp2040_can_bus_feather_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB/blob/main/Adafruit%20RP2040%20CAN%20Bus%20Feather.brd
   github_url: https://github.com/adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB
-  name: Project adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB Adafruit RP2040 CAN Bus
-    Feather current
+  name: Project adafruit/Adafruit-RP2040-CAN-Bus-Feather-PCB Adafruit RP2040 CAN Bus Feather current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_rp2040_can_bus_feather_pcb_adafruit_rp2040_can_bus_feather_current
   project_id: oomp_project_github_adafruit_adafruit_rp2040_can_bus_feather_pcb_adafruit_rp2040_can_bus_feather_current
   quantity: 1
@@ -1350,8 +1257,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_rp2040_prop_maker_feather_pcb_adafruit_feather_rp2040_prop_maker_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB/blob/main/Adafruit%20Feather%20RP2040%20Prop-Maker.brd
   github_url: https://github.com/adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB
-  name: Project adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB Adafruit Feather RP2040
-    Prop Maker current
+  name: Project adafruit/Adafruit-RP2040-Prop-Maker-Feather-PCB Adafruit Feather RP2040 Prop Maker current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_rp2040_prop_maker_feather_pcb_adafruit_feather_rp2040_prop_maker_current
   project_id: oomp_project_github_adafruit_adafruit_rp2040_prop_maker_feather_pcb_adafruit_feather_rp2040_prop_maker_current
   quantity: 1
@@ -1398,3 +1304,48 @@ used_in_projects:
   references:
   - U6
   version: v0.1
+taxonomy_5: sot_23_5
+taxonomy_5_capital: Sot 23.5
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sot
+taxonomy_5_length_4: sot_
+taxonomy_5_length_5: sot_2
+taxonomy_5_upper: SOT_23_5
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOT
+taxonomy_5_upper_length_4: SOT_
+taxonomy_5_upper_length_5: SOT_2
+taxonomy_3: power_management
+taxonomy_3_capital: Power Management
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: po
+taxonomy_3_length_3: pow
+taxonomy_3_length_4: powe
+taxonomy_3_length_5: power
+taxonomy_3_upper: POWER_MANAGEMENT
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PO
+taxonomy_3_upper_length_3: POW
+taxonomy_3_upper_length_4: POWE
+taxonomy_3_upper_length_5: POWER
+taxonomy_4: linear_voltage_regulator_3_3_volt
+taxonomy_4_capital: Linear Voltage Regulator 3.3 Volt
+taxonomy_4_first_letter: l
+taxonomy_4_first_letter_upper: L
+taxonomy_4_length_1: l
+taxonomy_4_length_2: li
+taxonomy_4_length_3: lin
+taxonomy_4_length_4: line
+taxonomy_4_length_5: linea
+taxonomy_4_upper: LINEAR_VOLTAGE_REGULATOR_3_3_VOLT
+taxonomy_4_upper_length_1: L
+taxonomy_4_upper_length_2: LI
+taxonomy_4_upper_length_3: LIN
+taxonomy_4_upper_length_4: LINE
+taxonomy_4_upper_length_5: LINEA

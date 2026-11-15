@@ -624,7 +624,7 @@ components:
 - reference: U3
   value: SE5218ALG
   footprint: e-radionica.com footprinti:SOT-23-5
-  oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg
   lcsc_part_number: null
   manufacturer: null
   manufacturer_part_number: null

@@ -15296,7 +15296,7 @@
         "x": 157.2511,
         "y": 145.0036,
         "rotation": -10.0,
-        "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g",
         "bounds": {
           "min_x": 151.444096,
           "min_y": 140.448215,
@@ -16952,7 +16952,7 @@
         "x": 169.5011,
         "y": 159.0036,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3",
         "bounds": {
           "min_x": 165.9451,
           "min_y": 155.0031,
@@ -17798,7 +17798,7 @@
         "x": 153.2511,
         "y": 65.2536,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16",
+        "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16",
         "bounds": {
           "min_x": 150.1011,
           "min_y": 62.1036,
@@ -23562,7 +23562,7 @@
         "x": 136.0011,
         "y": 58.2036,
         "rotation": 0.0,
-        "oomp_id": "electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s",
+        "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s",
         "bounds": {
           "min_x": 122.9376,
           "min_y": 46.1401,
@@ -39241,8 +39241,8 @@
       "description": "IC Converter Usb To Serial Converter Wch SOP_16",
       "value": "",
       "footprint": "working:_PKG_SOP16",
-      "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g",
       "references": [
         "IC1"
       ],
@@ -39252,8 +39252,8 @@
       "description": "IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4",
       "value": "LD1117-3.3",
       "footprint": "working:_PKG_SOT223-4_TI-DCY4",
-      "oomp_id": "electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3",
       "references": [
         "IC2"
       ],
@@ -39263,8 +39263,8 @@
       "description": "IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM",
       "value": "WMCU-ESP8285H16",
       "footprint": "working:QFN50P500X500X90-33N",
-      "oomp_id": "electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16",
+      "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16",
       "references": [
         "IC3"
       ],
@@ -39307,8 +39307,8 @@
       "description": "IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S",
       "value": "ESP-12S",
       "footprint": "working:ESP-12S",
-      "oomp_id": "electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s",
+      "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s",
       "references": [
         "MOD1"
       ],
@@ -39886,7 +39886,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s",
+        "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -39901,7 +39901,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16",
+        "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -39916,7 +39916,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -39931,7 +39931,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

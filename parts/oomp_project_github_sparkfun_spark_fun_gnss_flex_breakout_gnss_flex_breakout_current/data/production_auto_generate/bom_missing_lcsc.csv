@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 CH342_EN.1,~,SparkFun-Jumper:Jumper_2_NO,,No verified LCSC part number
 D2,Red,SparkFun-LED:LED_0603_1608Metric_Red,electronic_led_0603_red,No verified LCSC part number
 D3,Blue,SparkFun-LED:LED_0603_1608Metric_Blue,electronic_led_0603_blue,No verified LCSC part number
@@ -30,11 +30,11 @@ TP10,1.25mm,SparkFun-Connector:TestPoint-1.25mm,,No verified LCSC part number
 TP12,1.25mm,SparkFun-Connector:TestPoint-1.25mm,,No verified LCSC part number
 TP14,1.25mm,SparkFun-Connector:TestPoint-1.25mm,,No verified LCSC part number
 TR2,RFCMF1220100M4T,SparkFun-Coil:RFCMF1220100M4T,electronic_transformer_surface_mount_usb_coilcraft_rfcmf1220100m4t,No verified LCSC part number
-U1,RT9080-3.3,SparkFun-Semiconductor-Standard:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33,No verified LCSC part number
-U2,CH342F,SparkFun-Semiconductor-Standard:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm,electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f,No verified LCSC part number
-U3,74HC4066BQ,SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm_EP1x1.5mm,electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq,No verified LCSC part number
-U4,AP7361C-3.3V,SparkFun-Semiconductor-Standard:DFN-8_3x3mm_P0.65mm_EP2.25x1.5mm,electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v,No verified LCSC part number
-U5,74HC4066BQ,SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm_EP1x1.5mm,electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq,No verified LCSC part number
+U1,RT9080-3.3,SparkFun-Semiconductor-Standard:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33,No verified LCSC part number
+U2,CH342F,SparkFun-Semiconductor-Standard:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm,electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f,No verified LCSC part number
+U3,74HC4066BQ,SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm_EP1x1.5mm,electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq,No verified LCSC part number
+U4,AP7361C-3.3V,SparkFun-Semiconductor-Standard:DFN-8_3x3mm_P0.65mm_EP2.25x1.5mm,electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v,No verified LCSC part number
+U5,74HC4066BQ,SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm_EP1x1.5mm,electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq,No verified LCSC part number
 VBACKUP.1,~,SparkFun-Jumper:Jumper_2_NC_Trace,,No verified LCSC part number
 VOUT1,~,SparkFun-Jumper:Jumper_3_NC-1_Trace,,No verified LCSC part number
 VOUT2,~,SparkFun-Jumper:Jumper_3_NC-1_Trace,,No verified LCSC part number

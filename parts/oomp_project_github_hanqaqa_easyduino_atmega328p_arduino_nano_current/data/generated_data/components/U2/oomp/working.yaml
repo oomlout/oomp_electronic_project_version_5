@@ -1,33 +1,32 @@
 bip_39_2_word_array:
-- journey
-- pill
-bip_39_2_word_no_space: journeypill
-bip_39_2_word_space: journey pill
-bip_39_2_word_underscore: journey_pill
+- trim
+- envelope
+bip_39_2_word_no_space: trimenvelope
+bip_39_2_word_space: trim envelope
+bip_39_2_word_underscore: trim_envelope
 bip_39_3_word_array:
-- journey
-- pill
-- once
-bip_39_3_word_no_space: journeypillonce
-bip_39_3_word_space: journey pill once
-bip_39_3_word_underscore: journey_pill_once
+- trim
+- envelope
+- void
+bip_39_3_word_no_space: trimenvelopevoid
+bip_39_3_word_space: trim envelope void
+bip_39_3_word_underscore: trim_envelope_void
 bip_39_full_array:
-- journey
-- pill
-- once
-- caution
-- food
-- list
-- fence
-- video
-- frown
-- fun
-- push
-- dance
-bip_39_full_no_space: journeypilloncecautionfoodlistfencevideofrownfunpushdance
-bip_39_full_space: journey pill once caution food list fence video frown fun push
-  dance
-bip_39_full_underscore: journey_pill_once_caution_food_list_fence_video_frown_fun_push_dance
+- trim
+- envelope
+- void
+- advance
+- obey
+- basic
+- educate
+- increase
+- scrap
+- fetch
+- doctor
+- fire
+bip_39_full_no_space: trimenvelopevoidadvanceobeybasiceducateincreasescrapfetchdoctorfire
+bip_39_full_space: trim envelope void advance obey basic educate increase scrap fetch doctor fire
+bip_39_full_underscore: trim_envelope_void_advance_obey_basic_educate_increase_scrap_fetch_doctor_fire
 category: power_management
 category_name: Power management
 datasheet_url: https://www.lcsc.com/datasheet/C51490.pdf
@@ -39,58 +38,51 @@ dimension_reference:
 dimensions_mm:
   length: 2.92
   width: 2.8
-directory: parts/electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+directory: parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
 distributors:
 - key: lcsc
   part_number: C51490
   title: LCSC
   url: https://www.lcsc.com/product-detail/C51490.html
-id: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
-id_no_class: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
-id_no_size: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
-id_no_type: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
+id_no_class: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
+id_no_size: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
+id_no_type: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
 kicad:
   hand_solder: ''
   machine_solder: Package_TO_SOT_SMD:SOT-23
   symbol: Regulator_Linear:XC6206PxxxMR
 lcsc_search: XC6206P502MR
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
 manufacturer: Torex
 manufacturers:
 - manufacturer: Torex
   part_number: XC6206P502MR
-md5: 78749a6a1255ad04d5479e5d8bc2ba9b
-md5_10: 78749a6a12
-md5_10_upper: 78749A6A12
-md5_5: '78749'
-md5_5_upper: '78749'
-md5_6: 78749a
-md5_6_alpha: 4p76i
-md5_6_alpha_upper: 4P76I
-md5_6_upper: 78749A
-name: Electronic Ic Sot 23 Power Management Linear Voltage Regulator 5 Volt Torex
-  Xc6206P502Mr
-name_no_class: Electronic Ic Sot 23 Power Management Linear Voltage Regulator 5 Volt
-  Torex Xc6206P502Mr
-name_no_size: Electronic Ic Sot 23 Power Management Linear Voltage Regulator 5 Volt
-  Torex Xc6206P502Mr
-name_no_type: Electronic Ic Sot 23 Power Management Linear Voltage Regulator 5 Volt
-  Torex Xc6206P502Mr
+md5: e8a97bd601f97e2611a395c16aa9012b
+md5_10: e8a97bd601
+md5_10_upper: E8A97BD601
+md5_5: e8a97
+md5_5_upper: E8A97
+md5_6: e8a97b
+md5_6_alpha: 92t8b
+md5_6_alpha_upper: 92T8B
+md5_6_upper: E8A97B
+name: Electronic Ic Power Management Linear Voltage Regulator 5 Volt Sot 23 Torex Xc6206P502Mr
+name_no_class: Electronic Ic Power Management Linear Voltage Regulator 5 Volt Sot 23 Torex Xc6206P502Mr
+name_no_size: Electronic Ic Power Management Linear Voltage Regulator 5 Volt Sot 23 Torex Xc6206P502Mr
+name_no_type: Electronic Ic Power Management Linear Voltage Regulator 5 Volt Sot 23 Torex Xc6206P502Mr
 name_proper: Regulator XC6206P502MR 5V SOT-23
 name_readable: Regulator XC6206P502MR 5V SOT-23
 name_readable_override: Regulator XC6206P502MR 5V SOT-23
 name_short: Regulator XC6206P502MR 5V SOT-23
-name_space: electronic ic sot 23 power management linear voltage regulator 5 volt
-  torex xc6206p502mr
-name_upper: ELECTRONIC IC SOT 23 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 5 VOLT
-  TOREX XC6206P502MR
+name_space: electronic ic power management linear voltage regulator 5 volt sot 23 torex xc6206p502mr
+name_upper: ELECTRONIC IC SOT 23 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 5 VOLT TOREX XC6206P502MR
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -103,7 +95,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+    part_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -183,8 +175,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -204,7 +195,7 @@ oomlout_ai_roboclick_3:
       dimensions_mm:
         length: 2.92
         width: 2.8
-      directory: parts\electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+      directory: parts\electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
       distributors:
       - key: lcsc
         part_number: C51490
@@ -219,20 +210,17 @@ oomlout_ai_roboclick_3:
       manufacturers:
       - manufacturer: Torex
         part_number: XC6206P502MR
-      name: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+      name: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
       name_proper: Regulator XC6206P502MR 5V SOT-23
       name_readable: Regulator XC6206P502MR 5V SOT-23
       name_readable_override: Regulator XC6206P502MR 5V SOT-23
       name_short: Regulator XC6206P502MR 5V SOT-23
-      name_space: electronic ic sot 23 power management linear voltage regulator 5
-        volt torex xc6206p502mr
-      name_upper: ELECTRONIC IC SOT 23 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 5
-        VOLT TOREX XC6206P502MR
+      name_space: electronic ic power management linear voltage regulator 5 volt sot 23 torex xc6206p502mr
+      name_upper: ELECTRONIC IC SOT 23 POWER MANAGEMENT LINEAR VOLTAGE REGULATOR 5 VOLT TOREX XC6206P502MR
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -242,11 +230,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+          part_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -326,8 +313,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -438,8 +424,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sot_23/power_management/linear_voltage_regulator_5_volt/torex/README.md
-        oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+        navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator_5_volt/sot_23/torex/README.md
+        oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
         pins:
         - name: vss
           number: '1'
@@ -452,7 +438,7 @@ oomlout_ai_roboclick_3:
           type: power
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+          value: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
         - title: Type
           value: Ic
         - title: Package / style
@@ -461,21 +447,19 @@ oomlout_ai_roboclick_3:
           value: 2.92 × 2.8 mm
         - title: Documented pins
           value: 3
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
-        summary: Regulator XC6206P502MR 5V SOT-23 is an OOMP electronic ic definition.
-          It uses the sot 23 package or form factor. Its nominal drawing size is 2.92
-          × 2.8 mm. The definition includes 3 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
+        summary: Regulator XC6206P502MR 5V SOT-23 is an OOMP electronic ic definition. It uses the sot 23 package or form factor. Its nominal drawing size is 2.92 × 2.8 mm. The definition includes 3 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sot_23
-        - level: 4
           value: power_management
-        - level: 5
+        - level: 4
           value: linear_voltage_regulator_5_volt
+        - level: 5
+          value: sot_23
         - level: 14
           value: torex
         - level: 15
@@ -656,9 +640,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: torex
       taxonomy_15: xc6206p502mr
       taxonomy_2: ic
-      taxonomy_3: sot_23
-      taxonomy_4: power_management
-      taxonomy_5: linear_voltage_regulator_5_volt
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -675,6 +656,9 @@ oomlout_ai_roboclick_3:
         references:
         - U2
         version: current
+      taxonomy_5: sot_23
+      taxonomy_3: power_management
+      taxonomy_4: linear_voltage_regulator_5_volt
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -682,7 +666,7 @@ oomlout_ai_roboclick_3:
     search_and_replace: []
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+oomp_key: oomp_electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
 package_drawing:
   body:
   - 2.92
@@ -791,8 +775,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sot_23/power_management/linear_voltage_regulator_5_volt/torex/README.md
-  oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+  navigation_link: ../../navigation/electronic/ic/power_management/linear_voltage_regulator_5_volt/sot_23/torex/README.md
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
   pins:
   - name: vss
     number: '1'
@@ -805,7 +789,7 @@ part_page:
     type: power
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
+    value: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
   - title: Type
     value: Ic
   - title: Package / style
@@ -814,21 +798,19 @@ part_page:
     value: 2.92 × 2.8 mm
   - title: Documented pins
     value: 3
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr
-  summary: Regulator XC6206P502MR 5V SOT-23 is an OOMP electronic ic definition. It
-    uses the sot 23 package or form factor. Its nominal drawing size is 2.92 × 2.8
-    mm. The definition includes 3 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr
+  summary: Regulator XC6206P502MR 5V SOT-23 is an OOMP electronic ic definition. It uses the sot 23 package or form factor. Its nominal drawing size is 2.92 × 2.8 mm. The definition includes 3 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sot_23
-  - level: 4
     value: power_management
-  - level: 5
+  - level: 4
     value: linear_voltage_regulator_5_volt
+  - level: 5
+    value: sot_23
   - level: 14
     value: torex
   - level: 15
@@ -1065,51 +1047,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sot_23
-taxonomy_3_capital: Sot 23
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sot
-taxonomy_3_length_4: sot_
-taxonomy_3_length_5: sot_2
-taxonomy_3_upper: SOT_23
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOT
-taxonomy_3_upper_length_4: SOT_
-taxonomy_3_upper_length_5: SOT_2
-taxonomy_4: power_management
-taxonomy_4_capital: Power Management
-taxonomy_4_first_letter: p
-taxonomy_4_first_letter_upper: P
-taxonomy_4_length_1: p
-taxonomy_4_length_2: po
-taxonomy_4_length_3: pow
-taxonomy_4_length_4: powe
-taxonomy_4_length_5: power
-taxonomy_4_upper: POWER_MANAGEMENT
-taxonomy_4_upper_length_1: P
-taxonomy_4_upper_length_2: PO
-taxonomy_4_upper_length_3: POW
-taxonomy_4_upper_length_4: POWE
-taxonomy_4_upper_length_5: POWER
-taxonomy_5: linear_voltage_regulator_5_volt
-taxonomy_5_capital: Linear Voltage Regulator 5 Volt
-taxonomy_5_first_letter: l
-taxonomy_5_first_letter_upper: L
-taxonomy_5_length_1: l
-taxonomy_5_length_2: li
-taxonomy_5_length_3: lin
-taxonomy_5_length_4: line
-taxonomy_5_length_5: linea
-taxonomy_5_upper: LINEAR_VOLTAGE_REGULATOR_5_VOLT
-taxonomy_5_upper_length_1: L
-taxonomy_5_upper_length_2: LI
-taxonomy_5_upper_length_3: LIN
-taxonomy_5_upper_length_4: LINE
-taxonomy_5_upper_length_5: LINEA
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1126,3 +1063,48 @@ used_in_projects:
   references:
   - U2
   version: current
+taxonomy_5: sot_23
+taxonomy_5_capital: Sot 23
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sot
+taxonomy_5_length_4: sot_
+taxonomy_5_length_5: sot_2
+taxonomy_5_upper: SOT_23
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOT
+taxonomy_5_upper_length_4: SOT_
+taxonomy_5_upper_length_5: SOT_2
+taxonomy_3: power_management
+taxonomy_3_capital: Power Management
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: po
+taxonomy_3_length_3: pow
+taxonomy_3_length_4: powe
+taxonomy_3_length_5: power
+taxonomy_3_upper: POWER_MANAGEMENT
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PO
+taxonomy_3_upper_length_3: POW
+taxonomy_3_upper_length_4: POWE
+taxonomy_3_upper_length_5: POWER
+taxonomy_4: linear_voltage_regulator_5_volt
+taxonomy_4_capital: Linear Voltage Regulator 5 Volt
+taxonomy_4_first_letter: l
+taxonomy_4_first_letter_upper: L
+taxonomy_4_length_1: l
+taxonomy_4_length_2: li
+taxonomy_4_length_3: lin
+taxonomy_4_length_4: line
+taxonomy_4_length_5: linea
+taxonomy_4_upper: LINEAR_VOLTAGE_REGULATOR_5_VOLT
+taxonomy_4_upper_length_1: L
+taxonomy_4_upper_length_2: LI
+taxonomy_4_upper_length_3: LIN
+taxonomy_4_upper_length_4: LINE
+taxonomy_4_upper_length_5: LINEA

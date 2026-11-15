@@ -135,7 +135,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | SW1 | 1 | Adafruit Grand Central M4 Express rev B-import-fps:SPDT_SMT_SSSS811101 |  | `Adafruit Grand Central M4 Express rev B-import-fps:SPDT_SMT_SSSS811101` | unmatched |
 | T2, TR1 | 2 | DMP3098L-7 | DMP3098L-7 | `Adafruit Grand Central M4 Express rev B-import-fps:SOT-23` | unmatched |
 | U1 | 1 | NCP1117ST50T3G | NCP1117ST50T3G | `Adafruit Grand Central M4 Express rev B-import-fps:SOT223-R` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Grand Central M4 Express rev B-import-fps:SOT23-DBV` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Grand Central M4 Express rev B-import-fps:SOT23-DBV` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U3 | 1 | GD25Q64 | GD25Q64 | `Adafruit Grand Central M4 Express rev B-import-fps:SOIC8_208MIL` | unmatched |
 | X1 | 1 | microsd | microsd | `Adafruit Grand Central M4 Express rev B-import-fps:MICROSD` | unmatched |
 | X2 | 1 | 2x5 0.05" SWD | 2x5 0.05" SWD | `Adafruit Grand Central M4 Express rev B-import-fps:2X05_1.27MM_BOX_POSTS` | unmatched |

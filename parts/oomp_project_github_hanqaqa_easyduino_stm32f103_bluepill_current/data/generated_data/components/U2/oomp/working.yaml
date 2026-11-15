@@ -1,33 +1,32 @@
 bip_39_2_word_array:
-- balance
-- speak
-bip_39_2_word_no_space: balancespeak
-bip_39_2_word_space: balance speak
-bip_39_2_word_underscore: balance_speak
+- damp
+- snow
+bip_39_2_word_no_space: dampsnow
+bip_39_2_word_space: damp snow
+bip_39_2_word_underscore: damp_snow
 bip_39_3_word_array:
-- balance
-- speak
-- uncover
-bip_39_3_word_no_space: balancespeakuncover
-bip_39_3_word_space: balance speak uncover
-bip_39_3_word_underscore: balance_speak_uncover
+- damp
+- snow
+- kitchen
+bip_39_3_word_no_space: dampsnowkitchen
+bip_39_3_word_space: damp snow kitchen
+bip_39_3_word_underscore: damp_snow_kitchen
 bip_39_full_array:
-- balance
-- speak
-- uncover
-- sun
-- together
-- pave
-- retire
-- fruit
-- this
-- oxygen
-- table
-- tonight
-bip_39_full_no_space: balancespeakuncoversuntogetherpaveretirefruitthisoxygentabletonight
-bip_39_full_space: balance speak uncover sun together pave retire fruit this oxygen
-  table tonight
-bip_39_full_underscore: balance_speak_uncover_sun_together_pave_retire_fruit_this_oxygen_table_tonight
+- damp
+- snow
+- kitchen
+- often
+- essay
+- dice
+- salad
+- actual
+- panther
+- melt
+- spirit
+- fish
+bip_39_full_no_space: dampsnowkitchenoftenessaydicesaladactualpanthermeltspiritfish
+bip_39_full_space: damp snow kitchen often essay dice salad actual panther melt spirit fish
+bip_39_full_underscore: damp_snow_kitchen_often_essay_dice_salad_actual_panther_melt_spirit_fish
 category: mcu
 category_name: MCU
 datasheet_url: https://www.st.com/resource/en/datasheet/stm32f103c8.pdf
@@ -38,44 +37,43 @@ dimensions_mm:
   height: 1.6
   length: 9.7
   width: 9.7
-directory: parts/electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+directory: parts/electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
 distributors: []
-id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
-id_no_class: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
-id_no_size: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
-id_no_type: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
+id_no_class: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
+id_no_size: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
+id_no_type: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
 kicad:
   hand_solder: Package_QFP:LQFP-48_7x7mm_P0.5mm
   machine_solder: Package_QFP:LQFP-48_7x7mm_P0.5mm
   symbol: ''
 lcsc_search: lqfp 48 microcontroller stm32 st stm32f103c8tx ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
 manufacturers: []
-md5: 11ba1bb2ecae3b432dfaeee0d3cb73f2
-md5_10: 11ba1bb2ec
-md5_10_upper: 11BA1BB2EC
-md5_5: 11ba1
-md5_5_upper: 11BA1
-md5_6: 11ba1b
-md5_6_alpha: owez
-md5_6_alpha_upper: OWEZ
-md5_6_upper: 11BA1B
-name: Electronic Ic Lqfp 48 Microcontroller Stm32 St Stm32F103C8Tx
-name_no_class: Electronic Ic Lqfp 48 Microcontroller Stm32 St Stm32F103C8Tx
-name_no_size: Electronic Ic Lqfp 48 Microcontroller Stm32 St Stm32F103C8Tx
-name_no_type: Electronic Ic Lqfp 48 Microcontroller Stm32 St Stm32F103C8Tx
+md5: 3739b1ec4cd4d27aef90179fd157482b
+md5_10: 3739b1ec4c
+md5_10_upper: 3739B1EC4C
+md5_5: 3739b
+md5_5_upper: 3739B
+md5_6: 3739b1
+md5_6_alpha: 25kmp
+md5_6_alpha_upper: 25KMP
+md5_6_upper: 3739B1
+name: Electronic Ic Microcontroller Stm32 Lqfp 48 St Stm32F103C8Tx
+name_no_class: Electronic Ic Microcontroller Stm32 Lqfp 48 St Stm32F103C8Tx
+name_no_size: Electronic Ic Microcontroller Stm32 Lqfp 48 St Stm32F103C8Tx
+name_no_type: Electronic Ic Microcontroller Stm32 Lqfp 48 St Stm32F103C8Tx
 name_proper: IC Microcontroller STM32 St LQFP_48
 name_readable: IC Microcontroller STM32 St LQFP_48
 name_short: IC Microcontroller STM32 St LQFP_48
-name_space: electronic ic lqfp 48 microcontroller stm32 st stm32f103c8tx
+name_space: electronic ic microcontroller stm32 lqfp 48 st stm32f103c8tx
 name_upper: ELECTRONIC IC LQFP 48 MICROCONTROLLER STM32 ST STM32F103C8TX
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -88,7 +86,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+    part_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
     regenerate_pngs: true
     timeout: '600'
   - allow_upscale: false
@@ -168,8 +166,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: true
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -188,7 +185,7 @@ oomlout_ai_roboclick_3:
         height: 1.6
         length: 9.7
         width: 9.7
-      directory: parts\electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+      directory: parts\electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
       distributors: []
       kicad:
         hand_solder: Package_QFP:LQFP-48_7x7mm_P0.5mm
@@ -196,17 +193,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: lqfp 48 microcontroller stm32 st stm32f103c8tx ic
       manufacturers: []
-      name: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+      name: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
       name_proper: IC Microcontroller STM32 St LQFP_48
       name_readable: IC Microcontroller STM32 St LQFP_48
       name_short: IC Microcontroller STM32 St LQFP_48
-      name_space: electronic ic lqfp 48 microcontroller stm32 st stm32f103c8tx
+      name_space: electronic ic microcontroller stm32 lqfp 48 st stm32f103c8tx
       name_upper: ELECTRONIC IC LQFP 48 MICROCONTROLLER STM32 ST STM32F103C8TX
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -216,11 +212,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+          part_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
           regenerate_pngs: true
           timeout: '600'
         - allow_upscale: false
@@ -300,8 +295,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: true
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -677,8 +671,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/lqfp_48/microcontroller/stm32/st/README.md
-        oomp_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+        navigation_link: ../../navigation/electronic/ic/microcontroller/stm32/lqfp_48/st/README.md
+        oomp_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
         pins:
         - name: VBAT
           number: '1'
@@ -826,7 +820,7 @@ oomlout_ai_roboclick_3:
           type: power
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+          value: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
         - title: Type
           value: Ic
         - title: Package / style
@@ -835,21 +829,19 @@ oomlout_ai_roboclick_3:
           value: 9.7 × 9.7 mm
         - title: Documented pins
           value: 48
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
-        summary: IC Microcontroller STM32 St LQFP_48 is an OOMP electronic ic definition.
-          It uses the lqfp 48 package or form factor. Its nominal drawing size is
-          9.7 × 9.7 mm. The definition includes 48 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
+        summary: IC Microcontroller STM32 St LQFP_48 is an OOMP electronic ic definition. It uses the lqfp 48 package or form factor. Its nominal drawing size is 9.7 × 9.7 mm. The definition includes 48 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: lqfp_48
-        - level: 4
           value: microcontroller
-        - level: 5
+        - level: 4
           value: stm32
+        - level: 5
+          value: lqfp_48
         - level: 14
           value: st
         - level: 15
@@ -1209,9 +1201,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: st
       taxonomy_15: stm32f103c8tx
       taxonomy_2: ic
-      taxonomy_3: lqfp_48
-      taxonomy_4: microcontroller
-      taxonomy_5: stm32
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -1228,6 +1217,9 @@ oomlout_ai_roboclick_3:
         references:
         - U2
         version: current
+      taxonomy_5: lqfp_48
+      taxonomy_3: microcontroller
+      taxonomy_4: stm32
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -1235,7 +1227,7 @@ oomlout_ai_roboclick_3:
     search_and_replace: []
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+oomp_key: oomp_electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
 package_drawing:
   body:
   - 7.0
@@ -1609,8 +1601,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/lqfp_48/microcontroller/stm32/st/README.md
-  oomp_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+  navigation_link: ../../navigation/electronic/ic/microcontroller/stm32/lqfp_48/st/README.md
+  oomp_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
   pins:
   - name: VBAT
     number: '1'
@@ -1758,7 +1750,7 @@ part_page:
     type: power
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+    value: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
   - title: Type
     value: Ic
   - title: Package / style
@@ -1767,21 +1759,19 @@ part_page:
     value: 9.7 × 9.7 mm
   - title: Documented pins
     value: 48
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
-  summary: IC Microcontroller STM32 St LQFP_48 is an OOMP electronic ic definition.
-    It uses the lqfp 48 package or form factor. Its nominal drawing size is 9.7 ×
-    9.7 mm. The definition includes 48 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
+  summary: IC Microcontroller STM32 St LQFP_48 is an OOMP electronic ic definition. It uses the lqfp 48 package or form factor. Its nominal drawing size is 9.7 × 9.7 mm. The definition includes 48 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: lqfp_48
-  - level: 4
     value: microcontroller
-  - level: 5
+  - level: 4
     value: stm32
+  - level: 5
+    value: lqfp_48
   - level: 14
     value: st
   - level: 15
@@ -2197,51 +2187,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: lqfp_48
-taxonomy_3_capital: Lqfp 48
-taxonomy_3_first_letter: l
-taxonomy_3_first_letter_upper: L
-taxonomy_3_length_1: l
-taxonomy_3_length_2: lq
-taxonomy_3_length_3: lqf
-taxonomy_3_length_4: lqfp
-taxonomy_3_length_5: lqfp_
-taxonomy_3_upper: LQFP_48
-taxonomy_3_upper_length_1: L
-taxonomy_3_upper_length_2: LQ
-taxonomy_3_upper_length_3: LQF
-taxonomy_3_upper_length_4: LQFP
-taxonomy_3_upper_length_5: LQFP_
-taxonomy_4: microcontroller
-taxonomy_4_capital: Microcontroller
-taxonomy_4_first_letter: m
-taxonomy_4_first_letter_upper: M
-taxonomy_4_length_1: m
-taxonomy_4_length_2: mi
-taxonomy_4_length_3: mic
-taxonomy_4_length_4: micr
-taxonomy_4_length_5: micro
-taxonomy_4_upper: MICROCONTROLLER
-taxonomy_4_upper_length_1: M
-taxonomy_4_upper_length_2: MI
-taxonomy_4_upper_length_3: MIC
-taxonomy_4_upper_length_4: MICR
-taxonomy_4_upper_length_5: MICRO
-taxonomy_5: stm32
-taxonomy_5_capital: Stm32
-taxonomy_5_first_letter: s
-taxonomy_5_first_letter_upper: S
-taxonomy_5_length_1: s
-taxonomy_5_length_2: st
-taxonomy_5_length_3: stm
-taxonomy_5_length_4: stm3
-taxonomy_5_length_5: stm32
-taxonomy_5_upper: STM32
-taxonomy_5_upper_length_1: S
-taxonomy_5_upper_length_2: ST
-taxonomy_5_upper_length_3: STM
-taxonomy_5_upper_length_4: STM3
-taxonomy_5_upper_length_5: STM32
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -2258,3 +2203,48 @@ used_in_projects:
   references:
   - U2
   version: current
+taxonomy_5: lqfp_48
+taxonomy_5_capital: Lqfp 48
+taxonomy_5_first_letter: l
+taxonomy_5_first_letter_upper: L
+taxonomy_5_length_1: l
+taxonomy_5_length_2: lq
+taxonomy_5_length_3: lqf
+taxonomy_5_length_4: lqfp
+taxonomy_5_length_5: lqfp_
+taxonomy_5_upper: LQFP_48
+taxonomy_5_upper_length_1: L
+taxonomy_5_upper_length_2: LQ
+taxonomy_5_upper_length_3: LQF
+taxonomy_5_upper_length_4: LQFP
+taxonomy_5_upper_length_5: LQFP_
+taxonomy_3: microcontroller
+taxonomy_3_capital: Microcontroller
+taxonomy_3_first_letter: m
+taxonomy_3_first_letter_upper: M
+taxonomy_3_length_1: m
+taxonomy_3_length_2: mi
+taxonomy_3_length_3: mic
+taxonomy_3_length_4: micr
+taxonomy_3_length_5: micro
+taxonomy_3_upper: MICROCONTROLLER
+taxonomy_3_upper_length_1: M
+taxonomy_3_upper_length_2: MI
+taxonomy_3_upper_length_3: MIC
+taxonomy_3_upper_length_4: MICR
+taxonomy_3_upper_length_5: MICRO
+taxonomy_4: stm32
+taxonomy_4_capital: Stm32
+taxonomy_4_first_letter: s
+taxonomy_4_first_letter_upper: S
+taxonomy_4_length_1: s
+taxonomy_4_length_2: st
+taxonomy_4_length_3: stm
+taxonomy_4_length_4: stm3
+taxonomy_4_length_5: stm32
+taxonomy_4_upper: STM32
+taxonomy_4_upper_length_1: S
+taxonomy_4_upper_length_2: ST
+taxonomy_4_upper_length_3: STM
+taxonomy_4_upper_length_4: STM3
+taxonomy_4_upper_length_5: STM32

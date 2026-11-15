@@ -93,7 +93,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R2 | 1 | Resistor 8200 Ohm 0603 | 8.2K | `SparkFun_HX711_Load_Cell-import-fps:0603-RES` | [`electronic_resistor_0603_8200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_8200_ohm) |
 | R3, R4 | 2 | Resistor 100 Ohm 0603 | 100 | `SparkFun_HX711_Load_Cell-import-fps:0603-RES` | [`electronic_resistor_0603_100_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_100_ohm) |
 | R5 | 1 | electronic resistor 0603 10000 ohm | 10K | `SparkFun_HX711_Load_Cell-import-fps:0603-RES` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
-| U1 | 1 | IC Converter Load Cell Amplifier Avia Semiconductor SOP_16 | HX711 | `SparkFun_HX711_Load_Cell-import-fps:SO16` | [`electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711) |
+| U1 | 1 | IC Converter Load Cell Amplifier Avia Semiconductor SOP_16 | HX711 | `SparkFun_HX711_Load_Cell-import-fps:SO16` | [`electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711) |
 
 ## Main nets
 

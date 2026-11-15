@@ -161,14 +161,14 @@
       "file": "OOMP_HandSolder.pretty/electronic_diode_tvs_array_sot_26_diodes_incorporated_dt1042_04so.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s",
+      "oomp_id": "electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s",
       "kind": "machine_solder",
-      "file": "OOMP_MachineSolder.pretty/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s.kicad_mod"
+      "file": "OOMP_MachineSolder.pretty/electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s.kicad_mod"
     },
     {
-      "oomp_id": "electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s",
+      "oomp_id": "electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s",
       "kind": "hand_solder",
-      "file": "OOMP_HandSolder.pretty/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s.kicad_mod"
+      "file": "OOMP_HandSolder.pretty/electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s.kicad_mod"
     },
     {
       "oomp_id": "electronic_led_0603_green",
@@ -369,7 +369,7 @@
       "issues": []
     },
     {
-      "oomp_id": "electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s",
+      "oomp_id": "electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s",
       "status": "needs_review",
       "issues": [
         "Official symbol master unavailable: not selected"

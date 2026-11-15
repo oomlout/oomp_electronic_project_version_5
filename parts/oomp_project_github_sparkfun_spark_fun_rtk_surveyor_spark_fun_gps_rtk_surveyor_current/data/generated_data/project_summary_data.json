@@ -122831,7 +122831,7 @@
         "x": 10.16,
         "y": -88.9,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
         "bounds": {
           "min_x": 6.7945,
           "min_y": -94.869,
@@ -133219,8 +133219,8 @@
       "description": "USB-Serial CH340C SOP-16",
       "value": "CH340C",
       "footprint": "SparkFun GPS RTK Surveyor-import-fps:SO016",
-      "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
       "references": [
         "U6"
       ],
@@ -133716,7 +133716,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

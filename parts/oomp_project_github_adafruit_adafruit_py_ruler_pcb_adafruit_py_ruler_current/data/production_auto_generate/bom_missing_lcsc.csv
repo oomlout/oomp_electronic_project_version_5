@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C1,10uF,Adafruit_PyRuler-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C8,10uF,Adafruit_PyRuler-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 CN1,4U#20329,Adafruit_PyRuler-import-fps:4UCONN_20329_NARROW,,No verified LCSC part number
@@ -76,7 +76,7 @@ Q2,reset,Adafruit_PyRuler-import-fps:BTN_KMR2_4.6X2.8,,No verified LCSC part num
 R7,2M,Adafruit_PyRuler-import-fps:0603-NO,,No verified LCSC part number
 SWC0,"TPB1,27","Adafruit_PyRuler-import-fps:B1,27",,No verified LCSC part number
 SWD0,"TPB1,27","Adafruit_PyRuler-import-fps:B1,27",,No verified LCSC part number
-U1,AP2112K-3.3,Adafruit_PyRuler-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U1,AP2112K-3.3,Adafruit_PyRuler-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U$1,FIDUCIAL_1MM,Adafruit_PyRuler-import-fps:FIDUCIAL_1MM,,No verified LCSC part number
 U$2,,Adafruit_PyRuler-import-fps:PYRULER_BOTTOM,,No verified LCSC part number
 U$6,FIDUCIAL_1MM,Adafruit_PyRuler-import-fps:FIDUCIAL_1MM,,No verified LCSC part number

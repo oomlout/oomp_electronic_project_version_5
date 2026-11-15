@@ -1,39 +1,38 @@
 bip_39_2_word_array:
-- month
-- message
-bip_39_2_word_no_space: monthmessage
-bip_39_2_word_space: month message
-bip_39_2_word_underscore: month_message
+- seven
+- addict
+bip_39_2_word_no_space: sevenaddict
+bip_39_2_word_space: seven addict
+bip_39_2_word_underscore: seven_addict
 bip_39_3_word_array:
-- month
-- message
-- dinner
-bip_39_3_word_no_space: monthmessagedinner
-bip_39_3_word_space: month message dinner
-bip_39_3_word_underscore: month_message_dinner
+- seven
+- addict
+- hand
+bip_39_3_word_no_space: sevenaddicthand
+bip_39_3_word_space: seven addict hand
+bip_39_3_word_underscore: seven_addict_hand
 bip_39_full_array:
-- month
-- message
-- dinner
-- journey
-- blossom
-- space
-- stuff
-- lake
-- scatter
-- step
-- hello
-- child
-bip_39_full_no_space: monthmessagedinnerjourneyblossomspacestufflakescatterstephellochild
-bip_39_full_space: month message dinner journey blossom space stuff lake scatter step
-  hello child
-bip_39_full_underscore: month_message_dinner_journey_blossom_space_stuff_lake_scatter_step_hello_child
+- seven
+- addict
+- hand
+- online
+- sun
+- raven
+- poem
+- unlock
+- box
+- dial
+- season
+- wet
+bip_39_full_no_space: sevenaddicthandonlinesunravenpoemunlockboxdialseasonwet
+bip_39_full_space: seven addict hand online sun raven poem unlock box dial season wet
+bip_39_full_underscore: seven_addict_hand_online_sun_raven_poem_unlock_box_dial_season_wet
 category: interface
 category_name: Interface
 dimensions_mm:
   length: 3.0
   width: 3.0
-directory: parts/electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+directory: parts/electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
 distributors:
 - key: lcsc
   part_number: C2846043
@@ -41,54 +40,48 @@ distributors:
   url: https://www.lcsc.com/product-detail/C2846043.html
 file_copy:
 - file_destination: datasheet.pdf
-  file_source: parts_source/electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p/datasheet.pdf
+  file_source: parts_source/electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p/datasheet.pdf
 ic_dimensions_mm:
   body_length: 3.0
   body_width: 3.0
   pin_pitch: 0.5
-id: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
-id_no_class: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
-id_no_size: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
-id_no_type: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+id: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
+id_no_class: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
+id_no_size: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
+id_no_type: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
 lcsc_search: CH343P
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
 manufacturers:
 - manufacturer: ''
   part_number: CH343P
-md5: 8f717cf93c3181a0b5e3e5c07aadab13
-md5_10: 8f717cf93c
-md5_10_upper: 8F717CF93C
-md5_5: 8f717
-md5_5_upper: 8F717
-md5_6: 8f717c
-md5_6_alpha: 5lhmk
-md5_6_alpha_upper: 5LHMK
-md5_6_upper: 8F717C
-name: Electronic Ic Qfn 16 3 Mm X 3 Mm Converter Usb To Serial Converter Wch Ch343P
-name_no_class: Electronic Ic Qfn 16 3 Mm X 3 Mm Converter Usb To Serial Converter
-  Wch Ch343P
-name_no_size: Electronic Ic Qfn 16 3 Mm X 3 Mm Converter Usb To Serial Converter Wch
-  Ch343P
-name_no_type: Electronic Ic Qfn 16 3 Mm X 3 Mm Converter Usb To Serial Converter Wch
-  Ch343P
+md5: c4a069a34d7d9564e9c7701a87a308fc
+md5_10: c4a069a34d
+md5_10_upper: C4A069A34D
+md5_5: c4a06
+md5_5_upper: C4A06
+md5_6: c4a069
+md5_6_alpha: 7o6zt
+md5_6_alpha_upper: 7O6ZT
+md5_6_upper: C4A069
+name: Electronic Ic Converter Usb To Serial Converter Qfn 16 3 Mm X 3 Mm Wch Ch343P
+name_no_class: Electronic Ic Converter Usb To Serial Converter Qfn 16 3 Mm X 3 Mm Wch Ch343P
+name_no_size: Electronic Ic Converter Usb To Serial Converter Qfn 16 3 Mm X 3 Mm Wch Ch343P
+name_no_type: Electronic Ic Converter Usb To Serial Converter Qfn 16 3 Mm X 3 Mm Wch Ch343P
 name_proper: IC CH343P QFN 16 3 MM X 3 MM
 name_readable: IC CH343P QFN 16 3 MM X 3 MM
 name_short: IC CH343P QFN 16 3 MM X 3 MM
-name_space: electronic ic qfn 16 3 mm x 3 mm converter usb to serial converter wch
-  ch343p
-name_upper: ELECTRONIC IC QFN 16 3 MM X 3 MM CONVERTER USB TO SERIAL CONVERTER WCH
-  CH343P
+name_space: electronic ic converter usb to serial converter qfn 16 3 mm x 3 mm wch ch343p
+name_upper: ELECTRONIC IC QFN 16 3 MM X 3 MM CONVERTER USB TO SERIAL CONVERTER WCH CH343P
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -101,7 +94,7 @@ oomlout_ai_roboclick_2:
     delete_before_copy: true
     exit_on_missing: true
     file_destination: data/datasheet.pdf
-    file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p/datasheet.pdf
+    file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p/datasheet.pdf
   description: Copy part-specific source files into the working data directory.
   file_test: data/datasheet.pdf
   retries_until_complete: 0
@@ -111,7 +104,7 @@ oomlout_ai_roboclick_3:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+    part_id: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -191,8 +184,7 @@ oomlout_ai_roboclick_3:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_4:
@@ -206,7 +198,7 @@ oomlout_ai_roboclick_4:
       dimensions_mm:
         length: 3.0
         width: 3.0
-      directory: parts\electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+      directory: parts\electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
       distributors:
       - key: lcsc
         part_number: C2846043
@@ -214,7 +206,7 @@ oomlout_ai_roboclick_4:
         url: https://www.lcsc.com/product-detail/C2846043.html
       file_copy:
       - file_destination: datasheet.pdf
-        file_source: parts_source/electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p/datasheet.pdf
+        file_source: parts_source/electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p/datasheet.pdf
       ic_dimensions_mm:
         body_length: 3.0
         body_width: 3.0
@@ -227,19 +219,16 @@ oomlout_ai_roboclick_4:
       manufacturers:
       - manufacturer: ''
         part_number: CH343P
-      name: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+      name: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
       name_proper: IC CH343P QFN 16 3 MM X 3 MM
       name_readable: IC CH343P QFN 16 3 MM X 3 MM
       name_short: IC CH343P QFN 16 3 MM X 3 MM
-      name_space: electronic ic qfn 16 3 mm x 3 mm converter usb to serial converter
-        wch ch343p
-      name_upper: ELECTRONIC IC QFN 16 3 MM X 3 MM CONVERTER USB TO SERIAL CONVERTER
-        WCH CH343P
+      name_space: electronic ic converter usb to serial converter qfn 16 3 mm x 3 mm wch ch343p
+      name_upper: ELECTRONIC IC QFN 16 3 MM X 3 MM CONVERTER USB TO SERIAL CONVERTER WCH CH343P
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -252,18 +241,17 @@ oomlout_ai_roboclick_4:
           delete_before_copy: true
           exit_on_missing: true
           file_destination: data/datasheet.pdf
-          file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p/datasheet.pdf
+          file_source: C:\gh\oomp_electronic_version_5\parts_source/electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p/datasheet.pdf
         description: Copy part-specific source files into the working data directory.
         file_test: data/datasheet.pdf
         retries_until_complete: 0
       oomlout_ai_roboclick_3:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+          part_id: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -343,8 +331,7 @@ oomlout_ai_roboclick_4:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       part_id: U1
@@ -429,8 +416,8 @@ oomlout_ai_roboclick_4:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/qfn_16_3_mm_x_3_mm/converter/usb_to_serial_converter/wch/README.md
-        oomp_id: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+        navigation_link: ../../navigation/electronic/ic/converter/usb_to_serial_converter/qfn_16_3_mm_x_3_mm/wch/README.md
+        oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
         pins:
         - name: gnd
           number: '0'
@@ -485,7 +472,7 @@ oomlout_ai_roboclick_4:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+          value: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
         - title: Type
           value: Ic
         - title: Package / style
@@ -494,21 +481,19 @@ oomlout_ai_roboclick_4:
           value: 3.0 × 3.0 mm
         - title: Documented pins
           value: 17
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
-        summary: IC CH343P QFN 16 3 MM X 3 MM is an OOMP electronic ic definition.
-          It uses the qfn 16 3 mm x 3 mm package or form factor. Its nominal drawing
-          size is 3.0 × 3.0 mm. The definition includes 17 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
+        summary: IC CH343P QFN 16 3 MM X 3 MM is an OOMP electronic ic definition. It uses the qfn 16 3 mm x 3 mm package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 17 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: qfn_16_3_mm_x_3_mm
-        - level: 4
           value: converter
-        - level: 5
+        - level: 4
           value: usb_to_serial_converter
+        - level: 5
+          value: qfn_16_3_mm_x_3_mm
         - level: 14
           value: wch
         - level: 15
@@ -744,9 +729,6 @@ oomlout_ai_roboclick_4:
       taxonomy_14: wch
       taxonomy_15: ch343p
       taxonomy_2: ic
-      taxonomy_3: qfn_16_3_mm_x_3_mm
-      taxonomy_4: converter
-      taxonomy_5: usb_to_serial_converter
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -763,6 +745,9 @@ oomlout_ai_roboclick_4:
         references:
         - IC1
         version: current
+      taxonomy_5: qfn_16_3_mm_x_3_mm
+      taxonomy_3: converter
+      taxonomy_4: usb_to_serial_converter
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -773,8 +758,7 @@ oomlout_ai_roboclick_4:
 oomlout_ai_roboclick_5:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -783,7 +767,7 @@ oomlout_ai_roboclick_5:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+oomp_key: oomp_electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
 part_id: U1
 part_number_lcsc: C2846043
 part_number_manufacturer: CH343P
@@ -866,8 +850,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/qfn_16_3_mm_x_3_mm/converter/usb_to_serial_converter/wch/README.md
-  oomp_id: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+  navigation_link: ../../navigation/electronic/ic/converter/usb_to_serial_converter/qfn_16_3_mm_x_3_mm/wch/README.md
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
   pins:
   - name: gnd
     number: '0'
@@ -922,7 +906,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
+    value: electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
   - title: Type
     value: Ic
   - title: Package / style
@@ -931,21 +915,19 @@ part_page:
     value: 3.0 × 3.0 mm
   - title: Documented pins
     value: 17
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p
-  summary: IC CH343P QFN 16 3 MM X 3 MM is an OOMP electronic ic definition. It uses
-    the qfn 16 3 mm x 3 mm package or form factor. Its nominal drawing size is 3.0
-    × 3.0 mm. The definition includes 17 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p
+  summary: IC CH343P QFN 16 3 MM X 3 MM is an OOMP electronic ic definition. It uses the qfn 16 3 mm x 3 mm package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 17 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: qfn_16_3_mm_x_3_mm
-  - level: 4
     value: converter
-  - level: 5
+  - level: 4
     value: usb_to_serial_converter
+  - level: 5
+    value: qfn_16_3_mm_x_3_mm
   - level: 14
     value: wch
   - level: 15
@@ -1237,51 +1219,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: qfn_16_3_mm_x_3_mm
-taxonomy_3_capital: Qfn 16.3 mm x 3 mm
-taxonomy_3_first_letter: q
-taxonomy_3_first_letter_upper: Q
-taxonomy_3_length_1: q
-taxonomy_3_length_2: qf
-taxonomy_3_length_3: qfn
-taxonomy_3_length_4: qfn_
-taxonomy_3_length_5: qfn_1
-taxonomy_3_upper: QFN_16_3_MM_X_3_MM
-taxonomy_3_upper_length_1: Q
-taxonomy_3_upper_length_2: QF
-taxonomy_3_upper_length_3: QFN
-taxonomy_3_upper_length_4: QFN_
-taxonomy_3_upper_length_5: QFN_1
-taxonomy_4: converter
-taxonomy_4_capital: Converter
-taxonomy_4_first_letter: c
-taxonomy_4_first_letter_upper: C
-taxonomy_4_length_1: c
-taxonomy_4_length_2: co
-taxonomy_4_length_3: con
-taxonomy_4_length_4: conv
-taxonomy_4_length_5: conve
-taxonomy_4_upper: CONVERTER
-taxonomy_4_upper_length_1: C
-taxonomy_4_upper_length_2: CO
-taxonomy_4_upper_length_3: CON
-taxonomy_4_upper_length_4: CONV
-taxonomy_4_upper_length_5: CONVE
-taxonomy_5: usb_to_serial_converter
-taxonomy_5_capital: Usb To Serial Converter
-taxonomy_5_first_letter: u
-taxonomy_5_first_letter_upper: U
-taxonomy_5_length_1: u
-taxonomy_5_length_2: us
-taxonomy_5_length_3: usb
-taxonomy_5_length_4: usb_
-taxonomy_5_length_5: usb_t
-taxonomy_5_upper: USB_TO_SERIAL_CONVERTER
-taxonomy_5_upper_length_1: U
-taxonomy_5_upper_length_2: US
-taxonomy_5_upper_length_3: USB
-taxonomy_5_upper_length_4: USB_
-taxonomy_5_upper_length_5: USB_T
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1299,3 +1236,48 @@ used_in_projects:
   references:
   - IC1
   version: current
+taxonomy_5: qfn_16_3_mm_x_3_mm
+taxonomy_5_capital: Qfn 16.3 mm x 3 mm
+taxonomy_5_first_letter: q
+taxonomy_5_first_letter_upper: Q
+taxonomy_5_length_1: q
+taxonomy_5_length_2: qf
+taxonomy_5_length_3: qfn
+taxonomy_5_length_4: qfn_
+taxonomy_5_length_5: qfn_1
+taxonomy_5_upper: QFN_16_3_MM_X_3_MM
+taxonomy_5_upper_length_1: Q
+taxonomy_5_upper_length_2: QF
+taxonomy_5_upper_length_3: QFN
+taxonomy_5_upper_length_4: QFN_
+taxonomy_5_upper_length_5: QFN_1
+taxonomy_3: converter
+taxonomy_3_capital: Converter
+taxonomy_3_first_letter: c
+taxonomy_3_first_letter_upper: C
+taxonomy_3_length_1: c
+taxonomy_3_length_2: co
+taxonomy_3_length_3: con
+taxonomy_3_length_4: conv
+taxonomy_3_length_5: conve
+taxonomy_3_upper: CONVERTER
+taxonomy_3_upper_length_1: C
+taxonomy_3_upper_length_2: CO
+taxonomy_3_upper_length_3: CON
+taxonomy_3_upper_length_4: CONV
+taxonomy_3_upper_length_5: CONVE
+taxonomy_4: usb_to_serial_converter
+taxonomy_4_capital: Usb To Serial Converter
+taxonomy_4_first_letter: u
+taxonomy_4_first_letter_upper: U
+taxonomy_4_length_1: u
+taxonomy_4_length_2: us
+taxonomy_4_length_3: usb
+taxonomy_4_length_4: usb_
+taxonomy_4_length_5: usb_t
+taxonomy_4_upper: USB_TO_SERIAL_CONVERTER
+taxonomy_4_upper_length_1: U
+taxonomy_4_upper_length_2: US
+taxonomy_4_upper_length_3: USB
+taxonomy_4_upper_length_4: USB_
+taxonomy_4_upper_length_5: USB_T

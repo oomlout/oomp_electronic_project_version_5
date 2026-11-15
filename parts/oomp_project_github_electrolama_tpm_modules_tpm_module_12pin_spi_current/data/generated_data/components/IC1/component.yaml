@@ -3770,9 +3770,9 @@ connectivity_cross_check:
 oomp:
   status: matched
   accepted: true
-  oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670
+  oomp_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670
   confidence: 1.0
-  proposed_oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670
+  proposed_oomp_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670
   inferred:
     kind: null
     package_size: null

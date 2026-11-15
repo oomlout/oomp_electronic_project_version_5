@@ -939,7 +939,7 @@ components:
 - reference: U1
   value: XC6206P332MR
   footprint: Package_TO_SOT_SMD:SOT-23-3
-  oomp_id: electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr
   lcsc_part_number: C347376
   manufacturer: Torex
   manufacturer_part_number: XC6206P332MR
@@ -968,7 +968,7 @@ components:
 - reference: U2
   value: STM32F103C8Tx
   footprint: Package_QFP:LQFP-48_7x7mm_P0.5mm
-  oomp_id: electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx
+  oomp_id: electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx
   lcsc_part_number: C8734
   manufacturer: null
   manufacturer_part_number: null

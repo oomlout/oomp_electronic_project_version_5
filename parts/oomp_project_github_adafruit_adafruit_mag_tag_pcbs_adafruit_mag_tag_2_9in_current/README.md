@@ -145,7 +145,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | U1 | 1 | Adafruit MagTag 2.9in-import-fps:ALS-PT19-315C |  | `Adafruit MagTag 2.9in-import-fps:ALS-PT19-315C` | unmatched |
 | U2 | 1 | MCP73831T-2ACI/OT | MCP73831T-2ACI/OT | `Adafruit MagTag 2.9in-import-fps:SOT23-5` | unmatched |
 | U3 | 1 | ESP32-S2-WROVER | ESP32-S2-WROVER | `Adafruit MagTag 2.9in-import-fps:MODULE_ESP32-S2-WROVER` | unmatched |
-| U4 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit MagTag 2.9in-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U4 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit MagTag 2.9in-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | X1 | 1 | JSTPH | JSTPH | `Adafruit MagTag 2.9in-import-fps:JSTPH2_BATT` | unmatched |
 | X4 | 1 | USB C | USB C | `Adafruit MagTag 2.9in-import-fps:USB_C_CUSB31-CFM2AX-01-X` | unmatched |
 

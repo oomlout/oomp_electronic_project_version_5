@@ -1,33 +1,32 @@
 bip_39_2_word_array:
-- proud
-- donor
-bip_39_2_word_no_space: prouddonor
-bip_39_2_word_space: proud donor
-bip_39_2_word_underscore: proud_donor
+- rain
+- police
+bip_39_2_word_no_space: rainpolice
+bip_39_2_word_space: rain police
+bip_39_2_word_underscore: rain_police
 bip_39_3_word_array:
-- proud
-- donor
-- rifle
-bip_39_3_word_no_space: prouddonorrifle
-bip_39_3_word_space: proud donor rifle
-bip_39_3_word_underscore: proud_donor_rifle
+- rain
+- police
+- post
+bip_39_3_word_no_space: rainpolicepost
+bip_39_3_word_space: rain police post
+bip_39_3_word_underscore: rain_police_post
 bip_39_full_array:
-- proud
-- donor
-- rifle
-- school
-- like
-- prepare
-- senior
-- buyer
-- vacuum
-- boring
-- direct
-- sugar
-bip_39_full_no_space: prouddonorrifleschoollikeprepareseniorbuyervacuumboringdirectsugar
-bip_39_full_space: proud donor rifle school like prepare senior buyer vacuum boring
-  direct sugar
-bip_39_full_underscore: proud_donor_rifle_school_like_prepare_senior_buyer_vacuum_boring_direct_sugar
+- rain
+- police
+- post
+- fragile
+- wealth
+- aerobic
+- double
+- swift
+- cover
+- shrimp
+- pill
+- advance
+bip_39_full_no_space: rainpolicepostfragilewealthaerobicdoubleswiftcovershrimppilladvance
+bip_39_full_space: rain police post fragile wealth aerobic double swift cover shrimp pill advance
+bip_39_full_underscore: rain_police_post_fragile_wealth_aerobic_double_swift_cover_shrimp_pill_advance
 category: mcu
 category_name: MCU
 datasheet_url: https://www.espressif.com/sites/default/files/documentation/0a-esp8285_datasheet_en.pdf
@@ -38,50 +37,43 @@ dimensions_mm:
   height: 1.0
   length: 5.0
   width: 5.0
-directory: parts/electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+directory: parts/electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
 distributors: []
-id: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
-id_no_class: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
-id_no_size: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
-id_no_type: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+id: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
+id_no_class: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
+id_no_size: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
+id_no_type: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
-lcsc_search: qfn 33 5 mm x 5 mm microcontroller wifi bluetooth espressif esp8285h16
-  ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+lcsc_search: qfn 33 5 mm x 5 mm microcontroller wifi bluetooth espressif esp8285h16 ic
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
 manufacturers: []
-md5: acc82ae6e0681b53f0e8fbf0833cfa6c
-md5_10: acc82ae6e0
-md5_10_upper: ACC82AE6E0
-md5_5: acc82
-md5_5_upper: ACC82
-md5_6: acc82a
-md5_6_alpha: 6qp7u
-md5_6_alpha_upper: 6QP7U
-md5_6_upper: ACC82A
-name: Electronic Ic Qfn 33 5 Mm X 5 Mm Microcontroller Wifi Bluetooth Espressif Esp8285H16
-name_no_class: Electronic Ic Qfn 33 5 Mm X 5 Mm Microcontroller Wifi Bluetooth Espressif
-  Esp8285H16
-name_no_size: Electronic Ic Qfn 33 5 Mm X 5 Mm Microcontroller Wifi Bluetooth Espressif
-  Esp8285H16
-name_no_type: Electronic Ic Qfn 33 5 Mm X 5 Mm Microcontroller Wifi Bluetooth Espressif
-  Esp8285H16
+md5: b114f6a2ae3f8208506ede3198e69301
+md5_10: b114f6a2ae
+md5_10_upper: B114F6A2AE
+md5_5: b114f
+md5_5_upper: B114F
+md5_6: b114f6
+md5_6_alpha: 6wqnq
+md5_6_alpha_upper: 6WQNQ
+md5_6_upper: B114F6
+name: Electronic Ic Microcontroller Wifi Bluetooth Qfn 33 5 Mm X 5 Mm Espressif Esp8285H16
+name_no_class: Electronic Ic Microcontroller Wifi Bluetooth Qfn 33 5 Mm X 5 Mm Espressif Esp8285H16
+name_no_size: Electronic Ic Microcontroller Wifi Bluetooth Qfn 33 5 Mm X 5 Mm Espressif Esp8285H16
+name_no_type: Electronic Ic Microcontroller Wifi Bluetooth Qfn 33 5 Mm X 5 Mm Espressif Esp8285H16
 name_proper: IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM
 name_readable: IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM
 name_short: IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM
-name_space: electronic ic qfn 33 5 mm x 5 mm microcontroller wifi bluetooth espressif
-  esp8285h16
-name_upper: ELECTRONIC IC QFN 33 5 MM X 5 MM MICROCONTROLLER WIFI BLUETOOTH ESPRESSIF
-  ESP8285H16
+name_space: electronic ic microcontroller wifi bluetooth qfn 33 5 mm x 5 mm espressif esp8285h16
+name_upper: ELECTRONIC IC QFN 33 5 MM X 5 MM MICROCONTROLLER WIFI BLUETOOTH ESPRESSIF ESP8285H16
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -94,7 +86,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+    part_id: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -174,8 +166,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -194,28 +185,24 @@ oomlout_ai_roboclick_3:
         height: 1.0
         length: 5.0
         width: 5.0
-      directory: parts\electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+      directory: parts\electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
       distributors: []
       kicad:
         hand_solder: ''
         machine_solder: ''
         symbol: ''
-      lcsc_search: qfn 33 5 mm x 5 mm microcontroller wifi bluetooth espressif esp8285h16
-        ic
+      lcsc_search: qfn 33 5 mm x 5 mm microcontroller wifi bluetooth espressif esp8285h16 ic
       manufacturers: []
-      name: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+      name: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
       name_proper: IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM
       name_readable: IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM
       name_short: IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM
-      name_space: electronic ic qfn 33 5 mm x 5 mm microcontroller wifi bluetooth
-        espressif esp8285h16
-      name_upper: ELECTRONIC IC QFN 33 5 MM X 5 MM MICROCONTROLLER WIFI BLUETOOTH
-        ESPRESSIF ESP8285H16
+      name_space: electronic ic microcontroller wifi bluetooth qfn 33 5 mm x 5 mm espressif esp8285h16
+      name_upper: ELECTRONIC IC QFN 33 5 MM X 5 MM MICROCONTROLLER WIFI BLUETOOTH ESPRESSIF ESP8285H16
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -225,11 +212,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+          part_id: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -309,8 +295,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -601,8 +586,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/qfn_33_5_mm_x_5_mm/microcontroller/wifi_bluetooth/espressif/README.md
-        oomp_id: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+        navigation_link: ../../navigation/electronic/ic/microcontroller/wifi_bluetooth/qfn_33_5_mm_x_5_mm/espressif/README.md
+        oomp_id: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
         pins:
         - name: '1'
           number: '1'
@@ -705,7 +690,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+          value: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
         - title: Type
           value: Ic
         - title: Package / style
@@ -714,22 +699,19 @@ oomlout_ai_roboclick_3:
           value: 5.0 × 5.0 mm
         - title: Documented pins
           value: 33
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
-        summary: IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM is
-          an OOMP electronic ic definition. It uses the qfn 33 5 mm x 5 mm package
-          or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition
-          includes 33 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
+        summary: IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM is an OOMP electronic ic definition. It uses the qfn 33 5 mm x 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 33 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: qfn_33_5_mm_x_5_mm
-        - level: 4
           value: microcontroller
-        - level: 5
+        - level: 4
           value: wifi_bluetooth
+        - level: 5
+          value: qfn_33_5_mm_x_5_mm
         - level: 14
           value: espressif
         - level: 15
@@ -1029,9 +1011,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: espressif
       taxonomy_15: esp8285h16
       taxonomy_2: ic
-      taxonomy_3: qfn_33_5_mm_x_5_mm
-      taxonomy_4: microcontroller
-      taxonomy_5: wifi_bluetooth
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -1049,6 +1028,9 @@ oomlout_ai_roboclick_3:
         - IC3
         - IC4
         version: current
+      taxonomy_5: qfn_33_5_mm_x_5_mm
+      taxonomy_3: microcontroller
+      taxonomy_4: wifi_bluetooth
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -1059,8 +1041,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -1069,7 +1050,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+oomp_key: oomp_electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
 package_drawing:
   body:
   - 5.0
@@ -1358,8 +1339,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/qfn_33_5_mm_x_5_mm/microcontroller/wifi_bluetooth/espressif/README.md
-  oomp_id: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+  navigation_link: ../../navigation/electronic/ic/microcontroller/wifi_bluetooth/qfn_33_5_mm_x_5_mm/espressif/README.md
+  oomp_id: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
   pins:
   - name: '1'
     number: '1'
@@ -1462,7 +1443,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
+    value: electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
   - title: Type
     value: Ic
   - title: Package / style
@@ -1471,22 +1452,19 @@ part_page:
     value: 5.0 × 5.0 mm
   - title: Documented pins
     value: 33
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16
-  summary: IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM is an OOMP
-    electronic ic definition. It uses the qfn 33 5 mm x 5 mm package or form factor.
-    Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 33 documented
-    pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16
+  summary: IC Microcontroller Wifi Bluetooth Espressif QFN_33_5_MM_X_5_MM is an OOMP electronic ic definition. It uses the qfn 33 5 mm x 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 33 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: qfn_33_5_mm_x_5_mm
-  - level: 4
     value: microcontroller
-  - level: 5
+  - level: 4
     value: wifi_bluetooth
+  - level: 5
+    value: qfn_33_5_mm_x_5_mm
   - level: 14
     value: espressif
   - level: 15
@@ -1842,51 +1820,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: qfn_33_5_mm_x_5_mm
-taxonomy_3_capital: Qfn 33.5 mm x 5 mm
-taxonomy_3_first_letter: q
-taxonomy_3_first_letter_upper: Q
-taxonomy_3_length_1: q
-taxonomy_3_length_2: qf
-taxonomy_3_length_3: qfn
-taxonomy_3_length_4: qfn_
-taxonomy_3_length_5: qfn_3
-taxonomy_3_upper: QFN_33_5_MM_X_5_MM
-taxonomy_3_upper_length_1: Q
-taxonomy_3_upper_length_2: QF
-taxonomy_3_upper_length_3: QFN
-taxonomy_3_upper_length_4: QFN_
-taxonomy_3_upper_length_5: QFN_3
-taxonomy_4: microcontroller
-taxonomy_4_capital: Microcontroller
-taxonomy_4_first_letter: m
-taxonomy_4_first_letter_upper: M
-taxonomy_4_length_1: m
-taxonomy_4_length_2: mi
-taxonomy_4_length_3: mic
-taxonomy_4_length_4: micr
-taxonomy_4_length_5: micro
-taxonomy_4_upper: MICROCONTROLLER
-taxonomy_4_upper_length_1: M
-taxonomy_4_upper_length_2: MI
-taxonomy_4_upper_length_3: MIC
-taxonomy_4_upper_length_4: MICR
-taxonomy_4_upper_length_5: MICRO
-taxonomy_5: wifi_bluetooth
-taxonomy_5_capital: Wifi Bluetooth
-taxonomy_5_first_letter: w
-taxonomy_5_first_letter_upper: W
-taxonomy_5_length_1: w
-taxonomy_5_length_2: wi
-taxonomy_5_length_3: wif
-taxonomy_5_length_4: wifi
-taxonomy_5_length_5: wifi_
-taxonomy_5_upper: WIFI_BLUETOOTH
-taxonomy_5_upper_length_1: W
-taxonomy_5_upper_length_2: WI
-taxonomy_5_upper_length_3: WIF
-taxonomy_5_upper_length_4: WIFI
-taxonomy_5_upper_length_5: WIFI_
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1905,3 +1838,48 @@ used_in_projects:
   - IC3
   - IC4
   version: current
+taxonomy_5: qfn_33_5_mm_x_5_mm
+taxonomy_5_capital: Qfn 33.5 mm x 5 mm
+taxonomy_5_first_letter: q
+taxonomy_5_first_letter_upper: Q
+taxonomy_5_length_1: q
+taxonomy_5_length_2: qf
+taxonomy_5_length_3: qfn
+taxonomy_5_length_4: qfn_
+taxonomy_5_length_5: qfn_3
+taxonomy_5_upper: QFN_33_5_MM_X_5_MM
+taxonomy_5_upper_length_1: Q
+taxonomy_5_upper_length_2: QF
+taxonomy_5_upper_length_3: QFN
+taxonomy_5_upper_length_4: QFN_
+taxonomy_5_upper_length_5: QFN_3
+taxonomy_3: microcontroller
+taxonomy_3_capital: Microcontroller
+taxonomy_3_first_letter: m
+taxonomy_3_first_letter_upper: M
+taxonomy_3_length_1: m
+taxonomy_3_length_2: mi
+taxonomy_3_length_3: mic
+taxonomy_3_length_4: micr
+taxonomy_3_length_5: micro
+taxonomy_3_upper: MICROCONTROLLER
+taxonomy_3_upper_length_1: M
+taxonomy_3_upper_length_2: MI
+taxonomy_3_upper_length_3: MIC
+taxonomy_3_upper_length_4: MICR
+taxonomy_3_upper_length_5: MICRO
+taxonomy_4: wifi_bluetooth
+taxonomy_4_capital: Wifi Bluetooth
+taxonomy_4_first_letter: w
+taxonomy_4_first_letter_upper: W
+taxonomy_4_length_1: w
+taxonomy_4_length_2: wi
+taxonomy_4_length_3: wif
+taxonomy_4_length_4: wifi
+taxonomy_4_length_5: wifi_
+taxonomy_4_upper: WIFI_BLUETOOTH
+taxonomy_4_upper_length_1: W
+taxonomy_4_upper_length_2: WI
+taxonomy_4_upper_length_3: WIF
+taxonomy_4_upper_length_4: WIFI
+taxonomy_4_upper_length_5: WIFI_

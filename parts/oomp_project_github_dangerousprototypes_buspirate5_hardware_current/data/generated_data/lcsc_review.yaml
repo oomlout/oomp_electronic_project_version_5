@@ -130,7 +130,7 @@ items:
   references:
   - U105
   historical_supplier_link: ''
-  current_oomp_match: electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb
+  current_oomp_match: electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb
   review_reason: LCSC C2905686 is MT29F1G01ABAFDWB-IT:F; confirm that temperature/order
     suffix.
   resolution: ''
@@ -141,7 +141,7 @@ items:
   - U506
   - U603
   historical_supplier_link: ''
-  current_oomp_match: electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr
+  current_oomp_match: electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr
   review_reason: Generic value has many manufacturers and order suffixes.
   resolution: ''
 - value: LMV324
@@ -150,7 +150,7 @@ items:
   - U504
   - U505
   historical_supplier_link: ''
-  current_oomp_match: electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr
+  current_oomp_match: electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr
   review_reason: Generic value has many manufacturers and order suffixes.
   resolution: ''
 - value: LMV321A
@@ -158,7 +158,7 @@ items:
   references:
   - U601
   historical_supplier_link: ''
-  current_oomp_match: electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr
+  current_oomp_match: electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr
   review_reason: Generic value has many manufacturers and order suffixes.
   resolution: ''
 - value: LMV331
@@ -166,7 +166,7 @@ items:
   references:
   - U602
   historical_supplier_link: ''
-  current_oomp_match: electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr
+  current_oomp_match: electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr
   review_reason: Generic value has many manufacturers and order suffixes.
   resolution: ''
 - value: 12Mhz

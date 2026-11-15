@@ -1023953,9 +1023953,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sop_8_5_28_mm_x_5_23_mm_memory_spi_nor_flash_128_mbit_winbond_w25q128jvsiq
+    oomp_id: electronic_ic_memory_spi_nor_flash_128_mbit_sop_8_5_28_mm_x_5_23_mm_winbond_w25q128jvsiq
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sop_8_5_28_mm_x_5_23_mm_memory_spi_nor_flash_128_mbit_winbond_w25q128jvsiq
+    proposed_oomp_id: electronic_ic_memory_spi_nor_flash_128_mbit_sop_8_5_28_mm_x_5_23_mm_winbond_w25q128jvsiq
     inferred:
       kind: null
       package_size: null
@@ -1040935,9 +1040935,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+    oomp_id: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040
+    proposed_oomp_id: electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040
     inferred:
       kind: null
       package_size: null
@@ -1045652,9 +1045652,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb
+    oomp_id: electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb
+    proposed_oomp_id: electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb
     inferred:
       kind: null
       package_size: null
@@ -1049664,9 +1049664,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    proposed_oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     inferred:
       kind: null
       package_size: null
@@ -1053676,9 +1053676,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    proposed_oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     inferred:
       kind: null
       package_size: null
@@ -1057688,9 +1057688,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    proposed_oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     inferred:
       kind: null
       package_size: null
@@ -1061700,9 +1061700,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    proposed_oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     inferred:
       kind: null
       package_size: null
@@ -1065712,9 +1065712,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    proposed_oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     inferred:
       kind: null
       package_size: null
@@ -1069724,9 +1069724,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    proposed_oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     inferred:
       kind: null
       package_size: null
@@ -1073736,9 +1073736,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    proposed_oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     inferred:
       kind: null
       package_size: null
@@ -1077748,9 +1077748,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr
+    proposed_oomp_id: electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr
     inferred:
       kind: null
       package_size: null
@@ -1082071,9 +1082071,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n
+    oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n
+    proposed_oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n
     inferred:
       kind: null
       package_size: null
@@ -1093069,9 +1093069,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118
+    oomp_id: electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118
+    proposed_oomp_id: electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118
     inferred:
       kind: null
       package_size: null
@@ -1096323,9 +1096323,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_diodes_ap2127k_3_3trg1
+    oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_diodes_ap2127k_3_3trg1
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_diodes_ap2127k_3_3trg1
+    proposed_oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_diodes_ap2127k_3_3trg1
     inferred:
       kind: null
       package_size: null
@@ -1100279,9 +1100279,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr
+    oomp_id: electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr
+    proposed_oomp_id: electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr
     inferred:
       kind: null
       package_size: null
@@ -1105450,9 +1105450,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr
+    oomp_id: electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr
+    proposed_oomp_id: electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr
     inferred:
       kind: null
       package_size: null
@@ -1110569,9 +1110569,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr
+    oomp_id: electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr
+    proposed_oomp_id: electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr
     inferred:
       kind: null
       package_size: null
@@ -1117803,9 +1117803,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+    oomp_id: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr
+    proposed_oomp_id: electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr
     inferred:
       kind: null
       package_size: null
@@ -1122897,9 +1122897,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr
+    oomp_id: electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr
+    proposed_oomp_id: electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr
     inferred:
       kind: null
       package_size: null
@@ -1127991,9 +1127991,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr
+    oomp_id: electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr
+    proposed_oomp_id: electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr
     inferred:
       kind: null
       package_size: null
@@ -1131960,9 +1131960,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr
+    oomp_id: electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr
+    proposed_oomp_id: electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr
     inferred:
       kind: null
       package_size: null
@@ -1135938,9 +1135938,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr
+    oomp_id: electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr
+    proposed_oomp_id: electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr
     inferred:
       kind: null
       package_size: null
@@ -1139325,9 +1139325,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr
+    oomp_id: electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr
+    proposed_oomp_id: electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr
     inferred:
       kind: null
       package_size: null
@@ -1142691,9 +1142691,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr
+    oomp_id: electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr
+    proposed_oomp_id: electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr
     inferred:
       kind: null
       package_size: null

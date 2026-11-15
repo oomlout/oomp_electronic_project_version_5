@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C1,10u,Adafruit NeoTrellis M4-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C2,10u,Adafruit NeoTrellis M4-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C3,10u,Adafruit NeoTrellis M4-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -139,7 +139,7 @@ TP47,,Adafruit NeoTrellis M4-import-fps:TESTPOINT_ROUND_1.5MM,,No verified LCSC 
 TP48,,Adafruit NeoTrellis M4-import-fps:TESTPOINT_ROUND_1.5MM,,No verified LCSC part number
 TP49,,Adafruit NeoTrellis M4-import-fps:TESTPOINT_ROUND_1.5MM,,No verified LCSC part number
 TP50,,Adafruit NeoTrellis M4-import-fps:TESTPOINT_ROUND_1.5MM,,No verified LCSC part number
-U1,AP2112K-3.3,Adafruit NeoTrellis M4-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U1,AP2112K-3.3,Adafruit NeoTrellis M4-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U2,MAX4466EXK+T,Adafruit NeoTrellis M4-import-fps:SC70-5,,No verified LCSC part number
 U3,GD25x16,Adafruit NeoTrellis M4-import-fps:SOIC8_208MIL,,No verified LCSC part number
 U4,,Adafruit NeoTrellis M4-import-fps:LGA14,electronic_sensor_accelerometer_lga_14_analog_devices_adxl343,No verified LCSC part number

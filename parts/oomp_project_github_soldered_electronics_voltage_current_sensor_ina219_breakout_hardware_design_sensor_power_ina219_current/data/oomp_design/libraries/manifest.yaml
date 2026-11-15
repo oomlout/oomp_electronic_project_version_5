@@ -17,12 +17,12 @@ entries:
 - oomp_id: electronic_connector_header_2_54_mm_pitch_through_hole_4_pin
   kind: hand_solder
   file: OOMP_HandSolder.pretty/electronic_connector_header_2_54_mm_pitch_through_hole_4_pin.kicad_mod
-- oomp_id: electronic_ic_sot_23_8_power_monitor_current_monitor_texas_instruments_ina219
+- oomp_id: electronic_ic_power_monitor_current_monitor_sot_23_8_texas_instruments_ina219
   kind: machine_solder
-  file: OOMP_MachineSolder.pretty/electronic_ic_sot_23_8_power_monitor_current_monitor_texas_instruments_ina219.kicad_mod
-- oomp_id: electronic_ic_sot_23_8_power_monitor_current_monitor_texas_instruments_ina219
+  file: OOMP_MachineSolder.pretty/electronic_ic_power_monitor_current_monitor_sot_23_8_texas_instruments_ina219.kicad_mod
+- oomp_id: electronic_ic_power_monitor_current_monitor_sot_23_8_texas_instruments_ina219
   kind: hand_solder
-  file: OOMP_HandSolder.pretty/electronic_ic_sot_23_8_power_monitor_current_monitor_texas_instruments_ina219.kicad_mod
+  file: OOMP_HandSolder.pretty/electronic_ic_power_monitor_current_monitor_sot_23_8_texas_instruments_ina219.kicad_mod
 - oomp_id: electronic_resistor_0603_10000_ohm
   kind: symbol
   file: OOMP.kicad_sym
@@ -69,7 +69,7 @@ parts:
   - 'Official symbol master unavailable: not selected'
   - 'Official machine_solder footprint unavailable: not selected'
   - 'Official hand_solder footprint unavailable: not selected'
-- oomp_id: electronic_ic_sot_23_8_power_monitor_current_monitor_texas_instruments_ina219
+- oomp_id: electronic_ic_power_monitor_current_monitor_sot_23_8_texas_instruments_ina219
   status: needs_review
   issues:
   - 'Official symbol master unavailable: not selected'

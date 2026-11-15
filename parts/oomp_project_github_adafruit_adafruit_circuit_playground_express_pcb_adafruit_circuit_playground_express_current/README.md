@@ -134,7 +134,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | THM1 | 1 | THERM | THERM | `Adafruit Circuit Playground Express-import-fps:_0402` | unmatched |
 | U1 | 1 | VSOP383 | VSOP383 | `Adafruit Circuit Playground Express-import-fps:VSOP383` | unmatched |
 | U2 | 1 | ALS-PT19-315C | ALS-PT19-315C | `Adafruit Circuit Playground Express-import-fps:ALS-PT19-315C` | unmatched |
-| U3 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Circuit Playground Express-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U3 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafruit Circuit Playground Express-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U4 | 1 | SPI FLASH | SPI FLASH | `Adafruit Circuit Playground Express-import-fps:SOIC8_150MIL` | unmatched |
 
 ## Main nets

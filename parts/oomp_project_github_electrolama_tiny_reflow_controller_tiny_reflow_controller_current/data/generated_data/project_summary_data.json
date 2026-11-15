@@ -18859,7 +18859,7 @@
         "x": 170.701,
         "y": 77.14,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu",
+        "oomp_id": "electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu",
         "bounds": {
           "min_x": 167.551,
           "min_y": 73.87129,
@@ -22514,7 +22514,7 @@
         "x": 174.384,
         "y": 68.504,
         "rotation": 0.0,
-        "oomp_id": "electronic_ic_sot_23_3_power_management_linear_voltage_regulator_3_3_volt_microchip_mcp1700t_3302e_tt",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_3_microchip_mcp1700t_3302e_tt",
         "bounds": {
           "min_x": 172.609,
           "min_y": 66.529,
@@ -23055,7 +23055,7 @@
         "x": 159.652,
         "y": 81.966,
         "rotation": -90.0,
-        "oomp_id": "electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856",
+        "oomp_id": "electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856",
         "bounds": {
           "min_x": 156.775,
           "min_y": 78.116,
@@ -24777,7 +24777,7 @@
         "x": 170.066,
         "y": 57.328,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e",
         "bounds": {
           "min_x": 168.266,
           "min_y": 54.403,
@@ -27090,8 +27090,8 @@
       "description": "IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM",
       "value": "ATMEGA328P-MU",
       "footprint": "RocketScreamKiCadLib:QFN-32_5x5mm_Pitch0.5mm",
-      "oomp_id": "electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu",
+      "oomp_id": "electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu",
       "references": [
         "U1"
       ],
@@ -27101,8 +27101,8 @@
       "description": "IC Power Management Linear Voltage Regulator 3 3 Volt Microchip SOT_23_3",
       "value": "MCP1700T-3302E-TT",
       "footprint": "RocketScreamKiCadLib:SOT-23",
-      "oomp_id": "electronic_ic_sot_23_3_power_management_linear_voltage_regulator_3_3_volt_microchip_mcp1700t_3302e_tt",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_3_power_management_linear_voltage_regulator_3_3_volt_microchip_mcp1700t_3302e_tt",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_3_microchip_mcp1700t_3302e_tt",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_3_microchip_mcp1700t_3302e_tt",
       "references": [
         "U2"
       ],
@@ -27112,8 +27112,8 @@
       "description": "IC Converter Thermocouple To Digital Converter Maxim TSSOP_14",
       "value": "MAX31856",
       "footprint": "RocketScreamKiCadLib:TSSOP-14",
-      "oomp_id": "electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856",
+      "oomp_id": "electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856",
       "references": [
         "U3"
       ],
@@ -27123,8 +27123,8 @@
       "description": "IC Converter Usb To Serial Converter Wch MSOP_10",
       "value": "CH340E",
       "footprint": "RocketScreamKiCadLib:MSOP-10",
-      "oomp_id": "electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e",
+      "oomp_id": "electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e",
       "references": [
         "U4"
       ],
@@ -27642,7 +27642,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e",
+        "oomp_id": "electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -27657,7 +27657,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu",
+        "oomp_id": "electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -27672,7 +27672,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_3_power_management_linear_voltage_regulator_3_3_volt_microchip_mcp1700t_3302e_tt",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_3_microchip_mcp1700t_3302e_tt",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",
@@ -27687,7 +27687,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856",
+        "oomp_id": "electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

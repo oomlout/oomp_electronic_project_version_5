@@ -11726,7 +11726,7 @@ placement:
     x: 127.905
     y: 79.825
     rotation: -90.0
-    oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+    oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
     bounds:
       min_x: 122.485
       min_y: 76.1
@@ -12881,7 +12881,7 @@ placement:
     x: 147.45
     y: 88.3
     rotation: -180.0
-    oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+    oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
     bounds:
       min_x: 142.275
       min_y: 83.125
@@ -15322,7 +15322,7 @@ placement:
     x: 117.7
     y: 95.4
     rotation: 0.0
-    oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+    oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
     bounds:
       min_x: 113.275
       min_y: 91.7
@@ -15735,7 +15735,7 @@ placement:
     x: 133.85
     y: 95.7
     rotation: 0.0
-    oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+    oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
     bounds:
       min_x: 129.425
       min_y: 92.0
@@ -17174,32 +17174,32 @@ bom:
 - description: USB-Serial CH340C SOP-16
   value: CH340C
   footprint: Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
-  oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
   references:
   - U1
   quantity: 1
 - description: MCU ATmega328P-AU 8-bit AVR TQFP-32
   value: ATmega328P-A
   footprint: Package_QFP:TQFP-32_7x7mm_P0.8mm
-  oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+  oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
   references:
   - U2
   quantity: 1
 - description: Regulator AMS1117-5.0 5V SOT-223
   value: AMS1117-5V
   footprint: Package_TO_SOT_SMD:SOT-223-3_TabPin2
-  oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
   references:
   - U3
   quantity: 1
 - description: Regulator AMS1117-3.3 3.3V SOT-223
   value: AMS1117-3.3V
   footprint: Package_TO_SOT_SMD:SOT-223-3_TabPin2
-  oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
   references:
   - U4
   quantity: 1
@@ -17535,7 +17535,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c
+  - oomp_id: electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg
@@ -17546,7 +17546,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+  - oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg
@@ -17557,7 +17557,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5
+  - oomp_id: electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg
@@ -17568,7 +17568,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au
+  - oomp_id: electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg

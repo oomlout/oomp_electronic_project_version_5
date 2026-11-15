@@ -111,7 +111,7 @@
   <text x="2.2500" y="6.8000" font-family="Arial, sans-serif" font-size="0.4400" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,2.2500,6.8000)">pin 1</text>
   <text x="5.7500" y="6.8000" font-family="Arial, sans-serif" font-size="0.4400" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,5.7500,6.8000)">pin 2</text></svg></g>
 </g>
-<g class="board-component" data-reference="U3" data-oomp-id="electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856" tabindex="0" transform="translate(159.6520 81.9660) rotate(-90.0000)">
+<g class="board-component" data-reference="U3" data-oomp-id="electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856" tabindex="0" transform="translate(159.6520 81.9660) rotate(-90.0000)">
 <g transform="translate(0.0000 -0.0510) rotate(0)"><svg x="-3.2000" y="-3.2000" width="6.4000" height="6.4000" viewBox="0 0 6.4000 6.4000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="6.4000" height="6.4000"  fill="none" stroke="none" />
   <rect x="0.7000" y="1.0000" width="5.0000" height="4.4000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="-0.0000" y="1.1743" width="0.7000" height="0.2800"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -163,7 +163,7 @@
   <text x="1.2500" y="6.3500" font-family="Arial, sans-serif" font-size="0.2011" text-anchor="middle" dominant-baseline="middle" fill="#000000">pin 3</text>
   <text x="1.2500" y="8.8900" font-family="Arial, sans-serif" font-size="0.2011" text-anchor="middle" dominant-baseline="middle" fill="#000000">pin 4</text></svg></g>
 </g>
-<g class="board-component" data-reference="U1" data-oomp-id="electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu" tabindex="0" transform="translate(170.7010 77.1400) rotate(90.0000)">
+<g class="board-component" data-reference="U1" data-oomp-id="electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu" tabindex="0" transform="translate(170.7010 77.1400) rotate(90.0000)">
 <g transform="translate(-0.0594 0.0000) rotate(0)"><svg x="-3.1000" y="-3.1000" width="6.2000" height="6.2000" viewBox="0 0 6.2000 6.2000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="6.2000" height="6.2000"  fill="none" stroke="none" />
   <rect x="0.6000" y="0.6000" width="5.0000" height="5.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="2.0500" y="2.0500" width="2.1000" height="2.1000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
@@ -280,7 +280,7 @@
   <text x="1.2500" y="1.2700" font-family="Arial, sans-serif" font-size="0.2011" text-anchor="middle" dominant-baseline="middle" fill="#000000">pin 1</text>
   <text x="1.2500" y="3.8100" font-family="Arial, sans-serif" font-size="0.2011" text-anchor="middle" dominant-baseline="middle" fill="#000000">pin 2</text></svg></g>
 </g>
-<g class="board-component" data-reference="U4" data-oomp-id="electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e" tabindex="0" transform="translate(170.0660 57.3280) rotate(-180.0000)">
+<g class="board-component" data-reference="U4" data-oomp-id="electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e" tabindex="0" transform="translate(170.0660 57.3280) rotate(-180.0000)">
 <g transform="translate(0.0000 0.0000) rotate(-90)"><svg x="-2.4000" y="-1.6000" width="4.8000" height="3.2000" viewBox="0 0 4.8000 3.2000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="4.8000" height="3.2000"  fill="none" stroke="none" />
   <rect x="0.9000" y="0.1000" width="3.0000" height="3.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.0000" y="0.1900" width="0.9000" height="0.4200"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -338,7 +338,7 @@
   <text x="0.3188" y="0.5002" font-family="Arial, sans-serif" font-size="0.2004" text-anchor="middle" dominant-baseline="middle" fill="#000000">pin 2</text>
   <text x="2.3313" y="1.4500" font-family="Arial, sans-serif" font-size="0.2004" text-anchor="middle" dominant-baseline="middle" fill="#000000">pin 3</text></svg></g>
 </g>
-<g class="board-component" data-reference="U2" data-oomp-id="electronic_ic_sot_23_3_power_management_linear_voltage_regulator_3_3_volt_microchip_mcp1700t_3302e_tt" tabindex="0" transform="translate(174.3840 68.5040) rotate(0.0000)">
+<g class="board-component" data-reference="U2" data-oomp-id="electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_3_microchip_mcp1700t_3302e_tt" tabindex="0" transform="translate(174.3840 68.5040) rotate(0.0000)">
 <g transform="translate(0.0000 0.0000) rotate(-90)"><svg x="-2.1000" y="-1.6000" width="4.2000" height="3.2000" viewBox="0 0 4.2000 3.2000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="4.2000" height="3.2000"  fill="none" stroke="none" />
   <rect x="0.6500" y="0.8000" width="2.9000" height="1.6000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="-0.0000" y="0.9900" width="0.6500" height="0.4200"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />

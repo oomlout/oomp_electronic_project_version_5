@@ -4638,7 +4638,7 @@
         "x": 15.24,
         "y": -11.43,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711",
+        "oomp_id": "electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711",
         "bounds": {
           "min_x": 12.14,
           "min_y": -16.6116,
@@ -7009,8 +7009,8 @@
       "description": "IC Converter Load Cell Amplifier Avia Semiconductor SOP_16",
       "value": "HX711",
       "footprint": "SparkFun_HX711_Load_Cell-import-fps:SO16",
-      "oomp_id": "electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711",
+      "oomp_id": "electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711",
       "references": [
         "U1"
       ],
@@ -7284,7 +7284,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711",
+        "oomp_id": "electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

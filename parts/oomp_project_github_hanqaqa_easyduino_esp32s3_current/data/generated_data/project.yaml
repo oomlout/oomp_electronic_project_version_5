@@ -126650,9 +126650,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_esp32_s3_wroom_1_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_s3_wroom_1_n8
+    oomp_id: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_s3_wroom_1_espressif_esp32_s3_wroom_1_n8
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_esp32_s3_wroom_1_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_s3_wroom_1_n8
+    proposed_oomp_id: electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_s3_wroom_1_espressif_esp32_s3_wroom_1_n8
     inferred:
       kind: null
       package_size: null
@@ -137757,9 +137757,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+    oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+    proposed_oomp_id: electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r
     inferred:
       kind: connector
       package_size: null
@@ -139127,9 +139127,9 @@ components:
   oomp:
     status: matched
     accepted: true
-    oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+    oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
     confidence: 1.0
-    proposed_oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+    proposed_oomp_id: electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3
     inferred:
       kind: null
       package_size: null

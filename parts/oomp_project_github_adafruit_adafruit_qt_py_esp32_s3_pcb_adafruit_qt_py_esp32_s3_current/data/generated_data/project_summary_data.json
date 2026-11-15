@@ -16340,7 +16340,7 @@
         "x": 0.0,
         "y": -9.1059,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
         "bounds": {
           "min_x": -1.7516,
           "min_y": -11.006,
@@ -25457,8 +25457,8 @@
       "description": "IC Power Management Linear Voltage Regulator Diodes SOT_23_5",
       "value": "AP2112K-3.3",
       "footprint": "Adafruit QT Py ESP32-S3-import-fps:SOT23-5",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
       "references": [
         "U1"
       ],
@@ -25850,7 +25850,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

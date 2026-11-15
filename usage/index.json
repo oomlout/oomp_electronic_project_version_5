@@ -49936,7 +49936,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_dfn_8_power_management_linear_voltage_regulator_diodes_ap7361c_3_3v": [
+    "electronic_ic_power_management_linear_voltage_regulator_dfn_8_diodes_ap7361c_3_3v": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_sparkfun_spark_fun_gnss_flex_breakout_gnss_flex_breakout_current/board_explorer.html",
         "board_url": "https://github.com/sparkfun/SparkFun_GNSS_Flex_Breakout",
@@ -49951,7 +49951,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_esp32_s3_wroom_1_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_s3_wroom_1_n8": [
+    "electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_s3_wroom_1_espressif_esp32_s3_wroom_1_n8": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_esp32s3_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/ESP32S3",
@@ -49966,7 +49966,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8": [
+    "electronic_ic_microcontroller_wifi_bluetooth_8_mb_flash_esp32_wroom_32e_espressif_esp32_wroom_32e_n8": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_esp32_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/ESP32",
@@ -49981,7 +49981,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx": [
+    "electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_stm32f103_bluepill_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/STM32F103%20Bluepill",
@@ -49996,7 +49996,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s": [
+    "electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_oshcamp23_badge_oshcamp23_badge_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/oshcamp23-badge/tree/main/oomp/version_current/working",
@@ -50012,7 +50012,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e": [
+    "electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current/board_explorer.html",
         "board_url": "https://github.com/adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB/blob/main/Adafruit%20High%20Voltage%20UPDI%20Friend.brd",
@@ -50092,7 +50092,7 @@
         "version": "v0.1"
       }
     ],
-    "electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr": [
+    "electronic_ic_amplifier_operational_amplifier_msop_8_sg_micro_sgm358yms_tr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Capacitive-soil-sensor-hardware-design",
@@ -50107,7 +50107,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_msop_8_amplifier_thermocouple_amplifier_texas_instruments_ad8495armz": [
+    "electronic_ic_amplifier_thermocouple_amplifier_msop_8_texas_instruments_ad8495armz": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_thermocouple_sensor_ad8495_breakout_hardware_design_sensor_thermocouple_ad8495_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Thermocouple-sensor-AD8495-breakout-hardware-design",
@@ -50122,7 +50122,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq": [
+    "electronic_ic_logic_analog_switch_qfn_14_nexperia_74hc4066bq": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_sparkfun_spark_fun_gnss_flex_breakout_gnss_flex_breakout_current/board_explorer.html",
         "board_url": "https://github.com/sparkfun/SparkFun_GNSS_Flex_Breakout",
@@ -50138,7 +50138,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_qfn_16_3_mm_x_3_mm_converter_usb_to_serial_converter_wch_ch343p": [
+    "electronic_ic_converter_usb_to_serial_converter_qfn_16_3_mm_x_3_mm_wch_ch343p": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_pt1_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/pt1",
@@ -50153,7 +50153,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f": [
+    "electronic_ic_converter_usb_to_serial_converter_qfn_24_wch_ch342f": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_sparkfun_spark_fun_gnss_flex_breakout_gnss_flex_breakout_current/board_explorer.html",
         "board_url": "https://github.com/sparkfun/SparkFun_GNSS_Flex_Breakout",
@@ -50168,7 +50168,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r": [
+    "electronic_ic_converter_usb_to_serial_converter_qfn_28_5_mm_x_5_mm_silicon_labs_cp2102n_a01_gqfn28r": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_nano_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/Atmega328p%20Arduino%20Nano",
@@ -50222,7 +50222,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_qfn_28_power_meter_energy_metering_analog_devices_ade7953acpz": [
+    "electronic_ic_power_meter_energy_metering_qfn_28_analog_devices_ade7953acpz": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_sparkfun_spark_fun_qwiic_current_sensor_ade7953_qwiic_current_sensor_ade7953_current/board_explorer.html",
         "board_url": "https://github.com/sparkfun/SparkFun_Qwiic_Current_Sensor_ADE7953",
@@ -50237,7 +50237,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu": [
+    "electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_tiny_reflow_controller_tiny_reflow_controller_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/TinyReflowController/tree/master/hardware/Revision%20A1",
@@ -50252,7 +50252,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665": [
+    "electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_tpm_modules_tpm_module_14pin_lpc_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/tpm-modules/tree/main/tpm-module-14pin-lpc/Revision%20A1",
@@ -50267,7 +50267,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9670": [
+    "electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9670": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_tpm_modules_tpm_module_12pin_spi_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/tpm-modules/tree/main/tpm-module-12pin-spi/Revision%20A1",
@@ -50282,7 +50282,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_qfn_33_5_mm_x_5_mm_microcontroller_wifi_bluetooth_espressif_esp8285h16": [
+    "electronic_ic_microcontroller_wifi_bluetooth_qfn_33_5_mm_x_5_mm_espressif_esp8285h16": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_oshcamp23_badge_oshcamp23_badge_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/oshcamp23-badge/tree/main/oomp/version_current/working",
@@ -50298,7 +50298,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040": [
+    "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_pico_dvi_mini_board_picodvi_current/board_explorer.html",
         "board_url": "https://github.com/adafruit/PicoDVI/blob/master/hardware/mini_board/picodvi.kicad_pcb",
@@ -50404,7 +50404,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s": [
+    "electronic_ic_audio_audio_player_so_16_my_semi_my1690x_16s": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_sparkfun_spark_fun_audio_player_breakout_my1690_x_16_s_audio_player_breakout_my1690x_16s_current/board_explorer.html",
         "board_url": "https://github.com/sparkfun/SparkFun_Audio_Player_Breakout_MY1690X-16S",
@@ -50419,7 +50419,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny1604_ssnr": [
+    "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny1604_ssnr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_gnss_gps_l86_m33_breakout_with_easy_c_hardware_design_sensor_gnss_l86m33_easyc_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/GNSS-GPS-L86-M33-breakout-with-easyC-hardware-design",
@@ -50434,7 +50434,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_soic_14_microcontroller_8_bit_avr_microchip_attiny404_ssnr": [
+    "electronic_ic_microcontroller_8_bit_avr_soic_14_microchip_attiny404_ssnr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_air_quality_sensor_mq135_breakout_qwiic_hardware_design_sensor_gas_mq135_qwiic_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Air-quality-sensor-MQ135-breakout-qwiic-hardware-design",
@@ -50995,7 +50995,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_soic_8_capacitive_touch_controller_controller_infineon_cy8cmbr3102": [
+    "electronic_ic_capacitive_touch_controller_controller_soic_8_infineon_cy8cmbr3102": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_sparkfun_spark_fun_capacitive_soil_moisture_sensor_cy8_cmbr3102_capacitive_soil_moisture_cy8cmbr3102_current/board_explorer.html",
         "board_url": "https://github.com/sparkfun/SparkFun_Capacitive_Soil_Moisture_Sensor_CY8CMBR3102",
@@ -51010,7 +51010,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_soic_8_logic_comparator_lm393": [
+    "electronic_ic_logic_comparator_soic_8_lm393": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_air_quality_sensor_mq135_breakout_hardware_design_sensor_gas_mq135_breakout_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Air-quality-sensor-MQ135-breakout-hardware-design",
@@ -51246,7 +51246,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712": [
+    "electronic_ic_sensor_hall_effect_current_sensor_soic_8_allegro_acs712": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_current_sensor_30_a_acs712_breakout_hardware_design_sensor_current_acs712_30a_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Current-sensor-30A-ACS712-breakout-hardware-design",
@@ -51261,7 +51261,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_soic_8_timer_555_timer_texas_instruments_ne555dr": [
+    "electronic_ic_timer_555_timer_soic_8_texas_instruments_ne555dr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_pir_movement_sensor_board_hardware_design_sensor_pir_movement_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/PIR-Movement-sensor-board-hardware-design",
@@ -51276,7 +51276,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd": [
+    "electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_capacitive_soil_sensor_hardware_design_sensor_capacitive_soil_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Capacitive-soil-sensor-hardware-design",
@@ -51291,7 +51291,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sop_16_controller_usb_hub_controller_4_port_corechips_sl21a": [
+    "electronic_ic_controller_usb_hub_controller_4_port_sop_16_corechips_sl21a": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_pt1_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/pt1",
@@ -51306,7 +51306,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sop_16_converter_load_cell_amplifier_avia_semiconductor_hx711": [
+    "electronic_ic_converter_load_cell_amplifier_sop_16_avia_semiconductor_hx711": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_hardware_design_sensor_load_cell_hx711_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-hardware-design",
@@ -51373,7 +51373,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c": [
+    "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_uno_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/Atmega328p%20Arduino%20Uno",
@@ -51557,7 +51557,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g": [
+    "electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch343g": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_oshcamp23_badge_oshcamp23_badge_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/oshcamp23-badge/tree/main/oomp/version_current/working",
@@ -51572,7 +51572,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sop_8_5_28_mm_x_5_23_mm_memory_spi_nor_flash_128_mbit_winbond_w25q128jvsiq": [
+    "electronic_ic_memory_spi_nor_flash_128_mbit_sop_8_5_28_mm_x_5_23_mm_winbond_w25q128jvsiq": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -51600,7 +51600,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3": [
+    "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_3_advanced_monolithic_systems_ams1117_3_3": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_uno_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/Atmega328p%20Arduino%20Uno",
@@ -51641,7 +51641,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5": [
+    "electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_223_3_advanced_monolithic_systems_ams1117_5": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_uno_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/Atmega328p%20Arduino%20Uno",
@@ -51656,7 +51656,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3": [
+    "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_223_4_st_ld1117_3_3": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_oshcamp23_badge_oshcamp23_badge_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/oshcamp23-badge/tree/main/oomp/version_current/working",
@@ -51671,7 +51671,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_3_power_management_linear_voltage_regulator_3_3_volt_microchip_mcp1700t_3302e_tt": [
+    "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_3_microchip_mcp1700t_3302e_tt": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_tiny_reflow_controller_tiny_reflow_controller_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/TinyReflowController/tree/master/hardware/Revision%20A1",
@@ -51686,7 +51686,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz": [
+    "electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_thermocouple_sensor_ad8495_breakout_hardware_design_sensor_thermocouple_ad8495_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Thermocouple-sensor-AD8495-breakout-hardware-design",
@@ -51701,7 +51701,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344": [
+    "electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_current_sensor_30_a_acs712_breakout_hardware_design_sensor_current_acs712_30a_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Current-sensor-30A-ACS712-breakout-hardware-design",
@@ -51717,7 +51717,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr": [
+    "electronic_ic_amplifier_operational_single_precision_rail_to_rail_input_output_sot_23_5_gainsil_gs321a_tr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -51745,7 +51745,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_5_amplifier_operational_single_rail_to_rail_input_output_gainsil_lmv321_tr": [
+    "electronic_ic_amplifier_operational_single_rail_to_rail_input_output_sot_23_5_gainsil_lmv321_tr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -51777,7 +51777,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_5_comparator_single_open_collector_texas_instruments_lmv331idbvr": [
+    "electronic_ic_comparator_single_open_collector_sot_23_5_texas_instruments_lmv331idbvr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -51805,7 +51805,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_5_power_management_boost_converter_texas_instruments_tps613222a": [
+    "electronic_ic_power_management_boost_converter_sot_23_5_texas_instruments_tps613222a": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_air_quality_sensor_mq135_breakout_qwiic_hardware_design_sensor_gas_mq135_qwiic_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Air-quality-sensor-MQ135-breakout-qwiic-hardware-design",
@@ -52171,7 +52171,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_diodes_ap2127k_3_3trg1": [
+    "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_diodes_ap2127k_3_3trg1": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -52199,7 +52199,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33": [
+    "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_adafruit_air_lift_feather_wing_pcb_adafruit_air_lift_feather_wing_current/board_explorer.html",
         "board_url": "https://github.com/adafruit/Adafruit-AirLift-FeatherWing-PCB/blob/master/Adafruit%20AirLift%20FeatherWing%20rev%20C.brd",
@@ -52409,7 +52409,7 @@
         "version": "v0.1"
       }
     ],
-    "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3": [
+    "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_adafruit_128x32_i2_c_oled_breakout_pcb_adafruit_oled_128x32_mono_i2_c_stemma_qt_current/board_explorer.html",
         "board_url": "https://github.com/adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB/blob/master/Adafruit%20OLED%20128x32%20Mono%20I2C%20STEMMA%20QT%20rev%20B.brd",
@@ -53438,7 +53438,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218": [
+    "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_accelerometer_gyroscope_magnetometer_lsm9_ds1_tr_breakout_hardware_design_sensor_imu_lsm9ds1tr_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Accelerometer---Gyroscope---Magnetometer-LSM9DS1TR-breakout-hardware-design",
@@ -53531,7 +53531,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_se5218alg": [
+    "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_se5218alg": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_pressure_temperature_sensor_bmp388_breakout_hardware_design_sensor_pressure_temp_bmp388_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Pressure---temperature-sensor-BMP388-breakout-hardware-design",
@@ -53546,7 +53546,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv": [
+    "electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_analog_output_easy_c_hardware_design_sensor_hall_analog_easyc_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-analog-output---easyC-hardware-design",
@@ -53587,7 +53587,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_6_logic_configurable_multi_function_gate_texas_instruments_sn74lvc1g57dbvr": [
+    "electronic_ic_logic_configurable_multi_function_gate_sot_23_6_texas_instruments_sn74lvc1g57dbvr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_pt1_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/pt1",
@@ -53602,7 +53602,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_8_power_monitor_current_monitor_texas_instruments_ina219": [
+    "electronic_ic_power_monitor_current_monitor_sot_23_8_texas_instruments_ina219": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_voltage_current_sensor_ina219_breakout_hardware_design_sensor_power_ina219_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Voltage---current-sensor-INA219-breakout-hardware-design",
@@ -53617,7 +53617,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr": [
+    "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_raspberry_pi_pico_2040_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/Raspberry%20Pi%20Pico%202040",
@@ -53645,7 +53645,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_power_management_linear_voltage_regulator_5_volt_torex_xc6206p502mr": [
+    "electronic_ic_power_management_linear_voltage_regulator_5_volt_sot_23_torex_xc6206p502mr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_nano_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/Atmega328p%20Arduino%20Nano",
@@ -53660,7 +53660,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv": [
+    "electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_easy_c_hardware_design_sensor_hall_digital_easyc_current/board_explorer.html",
         "board_url": "https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output---easyC-hardware-design",
@@ -53701,7 +53701,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr": [
+    "electronic_ic_logic_single_bit_dual_supply_transceiver_sot_363_6_wuxi_i_core_elec_aip74lvc1t45gc363_tr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -53743,7 +53743,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n": [
+    "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_89_3_microne_me6211a33pg_n": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -53771,7 +53771,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au": [
+    "electronic_ic_microcontroller_8_bit_avr_tqfp_32_7_mm_x_7_mm_microchip_atmega328p_au": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_nano_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/Atmega328p%20Arduino%20Nano",
@@ -53799,7 +53799,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5": [
+    "electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_pt1_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/pt1",
@@ -53814,7 +53814,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_tssop_14_amplifier_operational_quad_rail_to_rail_output_texas_instruments_lmv324ipwr": [
+    "electronic_ic_amplifier_operational_quad_rail_to_rail_output_tssop_14_texas_instruments_lmv324ipwr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -53844,7 +53844,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856": [
+    "electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_electrolama_tiny_reflow_controller_tiny_reflow_controller_current/board_explorer.html",
         "board_url": "https://github.com/electrolama/TinyReflowController/tree/master/hardware/Revision%20A1",
@@ -53859,7 +53859,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_tssop_16_converter_analog_to_digital_converter_texas_instruments_ads1219ipw": [
+    "electronic_ic_converter_analog_to_digital_converter_tssop_16_texas_instruments_ads1219ipw": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_sparkfun_spark_fun_qwiic_adc_ads1219_qwiic_adc_ads1219_current/board_explorer.html",
         "board_url": "https://github.com/sparkfun/SparkFun_Qwiic_ADC_ADS1219",
@@ -53874,7 +53874,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw": [
+    "electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_adafruit_qualia_s3_rgb666_pcb_adafruit_qualia_s3_rgb666_current/board_explorer.html",
         "board_url": "https://github.com/adafruit/Adafruit-Qualia-S3-RGB666-PCB/blob/main/Adafruit%20Qualia%20S3%20RGB666.brd",
@@ -53915,7 +53915,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr": [
+    "electronic_ic_logic_serial_in_parallel_out_shift_register_tssop_16_wuxi_i_core_elec_aip74hc595ta16_tr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -53945,7 +53945,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr": [
+    "electronic_ic_logic_octal_bus_transceiver_tssop_20_wuxi_i_core_elec_aip74hct245ta20_tr": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -53973,7 +53973,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118": [
+    "electronic_ic_logic_16_channel_analog_multiplexer_tssop_24_nexperia_74hct4067pw118": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -54001,7 +54001,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb": [
+    "electronic_ic_memory_spi_nand_flash_1_gbit_updfn_8_micron_mt29f1g01abafdwb": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a/board_explorer.html",
         "board_url": "https://github.com/DangerousPrototypes/BusPirate5-hardware",
@@ -54029,7 +54029,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq": [
+    "electronic_ic_memory_spi_nor_flash_uson_8_winbond_w25q16jvuxiq": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_hanqaqa_easyduino_raspberry_pi_pico_2040_current/board_explorer.html",
         "board_url": "https://github.com/Hanqaqa/Easyduino/tree/master/Raspberry%20Pi%20Pico%202040",
@@ -54044,7 +54044,7 @@
         "version": "current"
       }
     ],
-    "electronic_ic_vssop_10_power_monitor_current_monitor_texas_instruments_ina228": [
+    "electronic_ic_power_monitor_current_monitor_vssop_10_texas_instruments_ina228": [
       {
         "board_explorer_url": "https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_adafruit_ina228_pcb_adafruit_ina228_i2_c_power_monitor_current/board_explorer.html",
         "board_url": "https://github.com/adafruit/Adafruit-INA228-PCB/blob/main/Adafruit%20INA228%20I2C%20Power%20Monitor.brd",

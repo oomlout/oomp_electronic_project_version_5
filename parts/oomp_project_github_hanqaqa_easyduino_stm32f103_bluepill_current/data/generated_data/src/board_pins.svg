@@ -27,7 +27,7 @@
 <polyline class="edge-cut" points="127.0000,126.0000 126.8695,125.9914 126.7412,125.9659 126.6173,125.9239 126.5000,125.8660 126.3912,125.7934 126.2929,125.7071 126.2066,125.6088 126.1340,125.5000 126.0761,125.3827 126.0341,125.2588 126.0086,125.1305 126.0000,125.0000" />
 <polyline class="edge-cut" points="148.0000,73.0000 148.1305,73.0086 148.2588,73.0341 148.3827,73.0761 148.5000,73.1340 148.6088,73.2066 148.7071,73.2929 148.7934,73.3912 148.8660,73.5000 148.9239,73.6173 148.9659,73.7412 148.9914,73.8695 149.0000,74.0000" />
 <polyline class="edge-cut" points="149.0000,125.0000 148.9914,125.1305 148.9659,125.2588 148.9239,125.3827 148.8660,125.5000 148.7934,125.6088 148.7071,125.7071 148.6088,125.7934 148.5000,125.8660 148.3827,125.9239 148.2588,125.9659 148.1305,125.9914 148.0000,126.0000" />
-<g class="board-component" data-reference="U2" data-oomp-id="electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx" tabindex="0" transform="translate(137.4406 100.3472) rotate(-135.0000)">
+<g class="board-component" data-reference="U2" data-oomp-id="electronic_ic_microcontroller_stm32_lqfp_48_st_stm32f103c8tx" tabindex="0" transform="translate(137.4406 100.3472) rotate(-135.0000)">
 <g transform="translate(0.0000 0.0000) rotate(0)"><svg x="-4.8500" y="-4.8500" width="9.7000" height="9.7000" viewBox="0 0 9.7000 9.7000" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.0000" width="9.7000" height="9.7000"  fill="none" stroke="none" />
   <rect x="1.3500" y="1.3500" width="7.0000" height="7.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.3375" y="1.4817" width="0.6750" height="0.3200"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />
@@ -223,7 +223,7 @@
   <text x="0.2000" y="1.5000" font-family="Arial, sans-serif" font-size="0.2270" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,0.2000,1.5000)">contact_1</text>
   <text x="4.6000" y="1.5000" font-family="Arial, sans-serif" font-size="0.2270" text-anchor="middle" dominant-baseline="middle" fill="#000000" transform="rotate(-90.000,4.6000,1.5000)">contact_2</text></svg></g>
 </g>
-<g class="board-component" data-reference="U1" data-oomp-id="electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr" tabindex="0" transform="translate(140.5000 85.8000) rotate(-90.0000)">
+<g class="board-component" data-reference="U1" data-oomp-id="electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_torex_xc6206p332mr" tabindex="0" transform="translate(140.5000 85.8000) rotate(-90.0000)">
 <g transform="translate(0.0000 0.0000) rotate(90)"><svg x="-1.4600" y="-1.9250" width="2.9200" height="3.8500" viewBox="0 0 2.9200 3.8500" preserveAspectRatio="xMidYMid meet"><rect x="0.0000" y="0.5250" width="2.9200" height="2.8000"  fill="none" stroke="none" />
   <rect x="0.0000" y="1.1250" width="2.9200" height="1.6000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0716" />
   <rect x="0.2600" y="2.9000" width="0.5000" height="0.9500"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0537" class="pad" />

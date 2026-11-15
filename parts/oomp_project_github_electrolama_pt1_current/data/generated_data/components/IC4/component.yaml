@@ -1451,9 +1451,9 @@ connectivity_cross_check:
 oomp:
   status: matched
   accepted: true
-  oomp_id: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+  oomp_id: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
   confidence: 1.0
-  proposed_oomp_id: electronic_ic_tsot_23_5_power_management_high_side_power_switch_with_flag_richtek_rt9742cgj5
+  proposed_oomp_id: electronic_ic_power_management_high_side_power_switch_with_flag_tsot_23_5_richtek_rt9742cgj5
   inferred:
     kind: null
     package_size: null

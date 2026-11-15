@@ -3087,7 +3087,7 @@
       "reference": "U2",
       "value": "AP2112K-3.3",
       "footprint": "Adafruit Metro RP2040-import-fps:SOT23-DBV",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3",
       "lcsc_part_number": null,
       "manufacturer": null,
       "manufacturer_part_number": null,

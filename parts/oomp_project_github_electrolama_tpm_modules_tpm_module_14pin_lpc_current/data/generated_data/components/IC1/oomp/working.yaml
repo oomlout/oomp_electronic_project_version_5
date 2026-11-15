@@ -1,88 +1,78 @@
 bip_39_2_word_array:
-- elevator
-- intact
-bip_39_2_word_no_space: elevatorintact
-bip_39_2_word_space: elevator intact
-bip_39_2_word_underscore: elevator_intact
+- sister
+- rifle
+bip_39_2_word_no_space: sisterrifle
+bip_39_2_word_space: sister rifle
+bip_39_2_word_underscore: sister_rifle
 bip_39_3_word_array:
-- elevator
-- intact
-- patrol
-bip_39_3_word_no_space: elevatorintactpatrol
-bip_39_3_word_space: elevator intact patrol
-bip_39_3_word_underscore: elevator_intact_patrol
+- sister
+- rifle
+- usage
+bip_39_3_word_no_space: sisterrifleusage
+bip_39_3_word_space: sister rifle usage
+bip_39_3_word_underscore: sister_rifle_usage
 bip_39_full_array:
-- elevator
-- intact
-- patrol
-- change
-- trick
-- bag
-- label
-- wild
-- resource
-- cradle
-- boy
-- excess
-bip_39_full_no_space: elevatorintactpatrolchangetrickbaglabelwildresourcecradleboyexcess
-bip_39_full_space: elevator intact patrol change trick bag label wild resource cradle
-  boy excess
-bip_39_full_underscore: elevator_intact_patrol_change_trick_bag_label_wild_resource_cradle_boy_excess
+- sister
+- rifle
+- usage
+- excite
+- gun
+- road
+- cream
+- depart
+- cycle
+- captain
+- tree
+- lunch
+bip_39_full_no_space: sisterrifleusageexcitegunroadcreamdepartcyclecaptaintreelunch
+bip_39_full_space: sister rifle usage excite gun road cream depart cycle captain tree lunch
+bip_39_full_underscore: sister_rifle_usage_excite_gun_road_cream_depart_cycle_captain_tree_lunch
 category: ic
 category_name: IC
 dimension_reference:
   document: Infineon SLB9665 package information
-  notes: 32-pin 5 x 5 mm QFN with exposed pad; board source uses the standard 0.5
-    mm pitch footprint.
+  notes: 32-pin 5 x 5 mm QFN with exposed pad; board source uses the standard 0.5 mm pitch footprint.
 dimensions_mm:
   height: 0.9
   length: 5.0
   width: 5.0
-directory: parts/electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+directory: parts/electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
 distributors: []
-id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
-id_no_class: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
-id_no_size: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
-id_no_type: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
+id_no_class: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
+id_no_size: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
+id_no_type: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
-lcsc_search: qfn 32 5 mm x 5 mm trusted platform module trusted platform module infineon
-  slb9665 ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+lcsc_search: qfn 32 5 mm x 5 mm trusted platform module trusted platform module infineon slb9665 ic
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
 manufacturers: []
-md5: 47eeb284931e86231f0fd8b7863c6aa7
-md5_10: 47eeb28493
-md5_10_upper: 47EEB28493
-md5_5: 47eeb
-md5_5_upper: 47EEB
-md5_6: 47eeb2
-md5_6_alpha: 2t1gy
-md5_6_alpha_upper: 2T1GY
-md5_6_upper: 47EEB2
-name: Electronic Ic Qfn 32 5 Mm X 5 Mm Trusted Platform Module Trusted Platform Module
-  Infineon Slb9665
-name_no_class: Electronic Ic Qfn 32 5 Mm X 5 Mm Trusted Platform Module Trusted Platform
-  Module Infineon Slb9665
-name_no_size: Electronic Ic Qfn 32 5 Mm X 5 Mm Trusted Platform Module Trusted Platform
-  Module Infineon Slb9665
-name_no_type: Electronic Ic Qfn 32 5 Mm X 5 Mm Trusted Platform Module Trusted Platform
-  Module Infineon Slb9665
+md5: c99737be27667f75ccb9d636c4479fc2
+md5_10: c99737be27
+md5_10_upper: C99737BE27
+md5_5: c9973
+md5_5_upper: C9973
+md5_6: c99737
+md5_6_alpha: 7v60n
+md5_6_alpha_upper: 7V60N
+md5_6_upper: C99737
+name: Electronic Ic Trusted Platform Module Trusted Platform Module Qfn 32 5 Mm X 5 Mm Infineon Slb9665
+name_no_class: Electronic Ic Trusted Platform Module Trusted Platform Module Qfn 32 5 Mm X 5 Mm Infineon Slb9665
+name_no_size: Electronic Ic Trusted Platform Module Trusted Platform Module Qfn 32 5 Mm X 5 Mm Infineon Slb9665
+name_no_type: Electronic Ic Trusted Platform Module Trusted Platform Module Qfn 32 5 Mm X 5 Mm Infineon Slb9665
 name_proper: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM
 name_readable: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM
 name_short: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM
-name_space: electronic ic qfn 32 5 mm x 5 mm trusted platform module trusted platform
-  module infineon slb9665
-name_upper: ELECTRONIC IC QFN 32 5 MM X 5 MM TRUSTED PLATFORM MODULE TRUSTED PLATFORM
-  MODULE INFINEON SLB9665
+name_space: electronic ic trusted platform module trusted platform module qfn 32 5 mm x 5 mm infineon slb9665
+name_upper: ELECTRONIC IC QFN 32 5 MM X 5 MM TRUSTED PLATFORM MODULE TRUSTED PLATFORM MODULE INFINEON SLB9665
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -95,7 +85,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+    part_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -175,8 +165,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -189,34 +178,29 @@ oomlout_ai_roboclick_3:
       category_name: IC
       dimension_reference:
         document: Infineon SLB9665 package information
-        notes: 32-pin 5 x 5 mm QFN with exposed pad; board source uses the standard
-          0.5 mm pitch footprint.
+        notes: 32-pin 5 x 5 mm QFN with exposed pad; board source uses the standard 0.5 mm pitch footprint.
       dimensions_mm:
         height: 0.9
         length: 5.0
         width: 5.0
-      directory: parts\electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+      directory: parts\electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
       distributors: []
       kicad:
         hand_solder: ''
         machine_solder: ''
         symbol: ''
-      lcsc_search: qfn 32 5 mm x 5 mm trusted platform module trusted platform module
-        infineon slb9665 ic
+      lcsc_search: qfn 32 5 mm x 5 mm trusted platform module trusted platform module infineon slb9665 ic
       manufacturers: []
-      name: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+      name: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
       name_proper: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM
       name_readable: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM
       name_short: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM
-      name_space: electronic ic qfn 32 5 mm x 5 mm trusted platform module trusted
-        platform module infineon slb9665
-      name_upper: ELECTRONIC IC QFN 32 5 MM X 5 MM TRUSTED PLATFORM MODULE TRUSTED
-        PLATFORM MODULE INFINEON SLB9665
+      name_space: electronic ic trusted platform module trusted platform module qfn 32 5 mm x 5 mm infineon slb9665
+      name_upper: ELECTRONIC IC QFN 32 5 MM X 5 MM TRUSTED PLATFORM MODULE TRUSTED PLATFORM MODULE INFINEON SLB9665
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -226,11 +210,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+          part_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -310,8 +293,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -596,8 +578,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/qfn_32_5_mm_x_5_mm/trusted_platform_module/trusted_platform_module/infineon/README.md
-        oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+        navigation_link: ../../navigation/electronic/ic/trusted_platform_module/trusted_platform_module/qfn_32_5_mm_x_5_mm/infineon/README.md
+        oomp_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
         pins:
         - name: '1'
           number: '1'
@@ -697,7 +679,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+          value: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
         - title: Type
           value: Ic
         - title: Package / style
@@ -706,22 +688,19 @@ oomlout_ai_roboclick_3:
           value: 5.0 × 5.0 mm
         - title: Documented pins
           value: 32
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
-        summary: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM
-          is an OOMP electronic ic definition. It uses the qfn 32 5 mm x 5 mm package
-          or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition
-          includes 32 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
+        summary: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM is an OOMP electronic ic definition. It uses the qfn 32 5 mm x 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 32 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: qfn_32_5_mm_x_5_mm
+          value: trusted_platform_module
         - level: 4
           value: trusted_platform_module
         - level: 5
-          value: trusted_platform_module
+          value: qfn_32_5_mm_x_5_mm
         - level: 14
           value: infineon
         - level: 15
@@ -1017,9 +996,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: infineon
       taxonomy_15: slb9665
       taxonomy_2: ic
-      taxonomy_3: qfn_32_5_mm_x_5_mm
-      taxonomy_4: trusted_platform_module
-      taxonomy_5: trusted_platform_module
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -1036,6 +1012,9 @@ oomlout_ai_roboclick_3:
         references:
         - IC1
         version: current
+      taxonomy_5: qfn_32_5_mm_x_5_mm
+      taxonomy_3: trusted_platform_module
+      taxonomy_4: trusted_platform_module
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -1046,8 +1025,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -1056,7 +1034,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+oomp_key: oomp_electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
 package_drawing:
   body:
   - 5.0
@@ -1339,8 +1317,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/qfn_32_5_mm_x_5_mm/trusted_platform_module/trusted_platform_module/infineon/README.md
-  oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+  navigation_link: ../../navigation/electronic/ic/trusted_platform_module/trusted_platform_module/qfn_32_5_mm_x_5_mm/infineon/README.md
+  oomp_id: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
   pins:
   - name: '1'
     number: '1'
@@ -1440,7 +1418,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
+    value: electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
   - title: Type
     value: Ic
   - title: Package / style
@@ -1449,22 +1427,19 @@ part_page:
     value: 5.0 × 5.0 mm
   - title: Documented pins
     value: 32
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665
-  summary: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM
-    is an OOMP electronic ic definition. It uses the qfn 32 5 mm x 5 mm package or
-    form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes
-    32 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_trusted_platform_module_trusted_platform_module_qfn_32_5_mm_x_5_mm_infineon_slb9665
+  summary: IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM is an OOMP electronic ic definition. It uses the qfn 32 5 mm x 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 32 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: qfn_32_5_mm_x_5_mm
+    value: trusted_platform_module
   - level: 4
     value: trusted_platform_module
   - level: 5
-    value: trusted_platform_module
+    value: qfn_32_5_mm_x_5_mm
   - level: 14
     value: infineon
   - level: 15
@@ -1816,51 +1791,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: qfn_32_5_mm_x_5_mm
-taxonomy_3_capital: Qfn 32.5 mm x 5 mm
-taxonomy_3_first_letter: q
-taxonomy_3_first_letter_upper: Q
-taxonomy_3_length_1: q
-taxonomy_3_length_2: qf
-taxonomy_3_length_3: qfn
-taxonomy_3_length_4: qfn_
-taxonomy_3_length_5: qfn_3
-taxonomy_3_upper: QFN_32_5_MM_X_5_MM
-taxonomy_3_upper_length_1: Q
-taxonomy_3_upper_length_2: QF
-taxonomy_3_upper_length_3: QFN
-taxonomy_3_upper_length_4: QFN_
-taxonomy_3_upper_length_5: QFN_3
-taxonomy_4: trusted_platform_module
-taxonomy_4_capital: Trusted Platform Module
-taxonomy_4_first_letter: t
-taxonomy_4_first_letter_upper: T
-taxonomy_4_length_1: t
-taxonomy_4_length_2: tr
-taxonomy_4_length_3: tru
-taxonomy_4_length_4: trus
-taxonomy_4_length_5: trust
-taxonomy_4_upper: TRUSTED_PLATFORM_MODULE
-taxonomy_4_upper_length_1: T
-taxonomy_4_upper_length_2: TR
-taxonomy_4_upper_length_3: TRU
-taxonomy_4_upper_length_4: TRUS
-taxonomy_4_upper_length_5: TRUST
-taxonomy_5: trusted_platform_module
-taxonomy_5_capital: Trusted Platform Module
-taxonomy_5_first_letter: t
-taxonomy_5_first_letter_upper: T
-taxonomy_5_length_1: t
-taxonomy_5_length_2: tr
-taxonomy_5_length_3: tru
-taxonomy_5_length_4: trus
-taxonomy_5_length_5: trust
-taxonomy_5_upper: TRUSTED_PLATFORM_MODULE
-taxonomy_5_upper_length_1: T
-taxonomy_5_upper_length_2: TR
-taxonomy_5_upper_length_3: TRU
-taxonomy_5_upper_length_4: TRUS
-taxonomy_5_upper_length_5: TRUST
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1878,3 +1808,48 @@ used_in_projects:
   references:
   - IC1
   version: current
+taxonomy_5: qfn_32_5_mm_x_5_mm
+taxonomy_5_capital: Qfn 32.5 mm x 5 mm
+taxonomy_5_first_letter: q
+taxonomy_5_first_letter_upper: Q
+taxonomy_5_length_1: q
+taxonomy_5_length_2: qf
+taxonomy_5_length_3: qfn
+taxonomy_5_length_4: qfn_
+taxonomy_5_length_5: qfn_3
+taxonomy_5_upper: QFN_32_5_MM_X_5_MM
+taxonomy_5_upper_length_1: Q
+taxonomy_5_upper_length_2: QF
+taxonomy_5_upper_length_3: QFN
+taxonomy_5_upper_length_4: QFN_
+taxonomy_5_upper_length_5: QFN_3
+taxonomy_3: trusted_platform_module
+taxonomy_3_capital: Trusted Platform Module
+taxonomy_3_first_letter: t
+taxonomy_3_first_letter_upper: T
+taxonomy_3_length_1: t
+taxonomy_3_length_2: tr
+taxonomy_3_length_3: tru
+taxonomy_3_length_4: trus
+taxonomy_3_length_5: trust
+taxonomy_3_upper: TRUSTED_PLATFORM_MODULE
+taxonomy_3_upper_length_1: T
+taxonomy_3_upper_length_2: TR
+taxonomy_3_upper_length_3: TRU
+taxonomy_3_upper_length_4: TRUS
+taxonomy_3_upper_length_5: TRUST
+taxonomy_4: trusted_platform_module
+taxonomy_4_capital: Trusted Platform Module
+taxonomy_4_first_letter: t
+taxonomy_4_first_letter_upper: T
+taxonomy_4_length_1: t
+taxonomy_4_length_2: tr
+taxonomy_4_length_3: tru
+taxonomy_4_length_4: trus
+taxonomy_4_length_5: trust
+taxonomy_4_upper: TRUSTED_PLATFORM_MODULE
+taxonomy_4_upper_length_1: T
+taxonomy_4_upper_length_2: TR
+taxonomy_4_upper_length_3: TRU
+taxonomy_4_upper_length_4: TRUS
+taxonomy_4_upper_length_5: TRUST

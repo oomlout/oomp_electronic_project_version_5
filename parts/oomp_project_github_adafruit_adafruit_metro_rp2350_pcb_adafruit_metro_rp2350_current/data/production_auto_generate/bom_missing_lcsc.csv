@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C3,10uF,Adafruit Metro RP2350-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C5,10uF,Adafruit Metro RP2350-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C9,10uF,Adafruit Metro RP2350-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -104,7 +104,7 @@ SW4,DPDT,Adafruit Metro RP2350-import-fps:EG1390,,No verified LCSC part number
 T1,DMP3098L,Adafruit Metro RP2350-import-fps:SOT23-WIDE,,No verified LCSC part number
 T2,DMP3098L,Adafruit Metro RP2350-import-fps:SOT23-WIDE,,No verified LCSC part number
 TP1,,Adafruit Metro RP2350-import-fps:TESTPOINT_ROUND_1.5MM_NO,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit Metro RP2350-import-fps:SOT23-DBV,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit Metro RP2350-import-fps:SOT23-DBV,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U3,DNP,Adafruit Metro RP2350-import-fps:SOIC8_208MIL,,No verified LCSC part number
 U6,W25Q128,Adafruit Metro RP2350-import-fps:SOIC8_208MIL,,No verified LCSC part number
 U$3,,Adafruit Metro RP2350-import-fps:STEMMAQT,,No verified LCSC part number

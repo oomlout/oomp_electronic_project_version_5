@@ -1,33 +1,32 @@
 bip_39_2_word_array:
-- employ
-- oak
-bip_39_2_word_no_space: employoak
-bip_39_2_word_space: employ oak
-bip_39_2_word_underscore: employ_oak
+- clock
+- fit
+bip_39_2_word_no_space: clockfit
+bip_39_2_word_space: clock fit
+bip_39_2_word_underscore: clock_fit
 bip_39_3_word_array:
-- employ
-- oak
-- blossom
-bip_39_3_word_no_space: employoakblossom
-bip_39_3_word_space: employ oak blossom
-bip_39_3_word_underscore: employ_oak_blossom
-bip_39_full_array:
-- employ
-- oak
-- blossom
-- swear
+- clock
+- fit
 - category
-- fabric
-- rice
-- promote
-- giggle
-- ceiling
-- woman
-- pupil
-bip_39_full_no_space: employoakblossomswearcategoryfabricricepromotegiggleceilingwomanpupil
-bip_39_full_space: employ oak blossom swear category fabric rice promote giggle ceiling
-  woman pupil
-bip_39_full_underscore: employ_oak_blossom_swear_category_fabric_rice_promote_giggle_ceiling_woman_pupil
+bip_39_3_word_no_space: clockfitcategory
+bip_39_3_word_space: clock fit category
+bip_39_3_word_underscore: clock_fit_category
+bip_39_full_array:
+- clock
+- fit
+- category
+- year
+- divert
+- enable
+- heavy
+- girl
+- firm
+- sunny
+- home
+- confirm
+bip_39_full_no_space: clockfitcategoryyeardivertenableheavygirlfirmsunnyhomeconfirm
+bip_39_full_space: clock fit category year divert enable heavy girl firm sunny home confirm
+bip_39_full_underscore: clock_fit_category_year_divert_enable_heavy_girl_firm_sunny_home_confirm
 category: interface
 category_name: Interface
 datasheet_url: https://www.analog.com/media/en/technical-documentation/data-sheets/max31856.pdf
@@ -38,7 +37,7 @@ dimensions_mm:
   height: 1.2
   length: 5.0
   width: 4.4
-directory: parts/electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+directory: parts/electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
 distributors: []
 ic_dimensions_mm:
   body_length: 5.0
@@ -53,47 +52,41 @@ ic_dimensions_mm:
   pin_length: 0.625
   pin_pitch: 0.65
   pin_width: 0.235
-id: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
-id_no_class: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
-id_no_size: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
-id_no_type: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+id: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
+id_no_class: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
+id_no_size: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
+id_no_type: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
 lcsc_search: tssop 14 converter thermocouple to digital converter maxim max31856 ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
 manufacturers: []
-md5: 48f2f8606dc242a2ee4d6161e49ff3d6
-md5_10: 48f2f8606d
-md5_10_upper: 48F2F8606D
-md5_5: 48f2f
-md5_5_upper: 48F2F
-md5_6: 48f2f8
-md5_6_alpha: 2ugvs
-md5_6_alpha_upper: 2UGVS
-md5_6_upper: 48F2F8
-name: Electronic Ic Tssop 14 Converter Thermocouple To Digital Converter Maxim Max31856
-name_no_class: Electronic Ic Tssop 14 Converter Thermocouple To Digital Converter
-  Maxim Max31856
-name_no_size: Electronic Ic Tssop 14 Converter Thermocouple To Digital Converter Maxim
-  Max31856
-name_no_type: Electronic Ic Tssop 14 Converter Thermocouple To Digital Converter Maxim
-  Max31856
+md5: 2b6af890ff73fc929a9b12575b2db417
+md5_10: 2b6af890ff
+md5_10_upper: 2B6AF890FF
+md5_5: 2b6af
+md5_5_upper: 2B6AF
+md5_6: 2b6af8
+md5_6_alpha: 1ozjs
+md5_6_alpha_upper: 1OZJS
+md5_6_upper: 2B6AF8
+name: Electronic Ic Converter Thermocouple To Digital Converter Tssop 14 Maxim Max31856
+name_no_class: Electronic Ic Converter Thermocouple To Digital Converter Tssop 14 Maxim Max31856
+name_no_size: Electronic Ic Converter Thermocouple To Digital Converter Tssop 14 Maxim Max31856
+name_no_type: Electronic Ic Converter Thermocouple To Digital Converter Tssop 14 Maxim Max31856
 name_proper: IC Converter Thermocouple To Digital Converter Maxim TSSOP_14
 name_readable: IC Converter Thermocouple To Digital Converter Maxim TSSOP_14
 name_short: IC Converter Thermocouple To Digital Converter Maxim TSSOP_14
-name_space: electronic ic tssop 14 converter thermocouple to digital converter maxim
-  max31856
-name_upper: ELECTRONIC IC TSSOP 14 CONVERTER THERMOCOUPLE TO DIGITAL CONVERTER MAXIM
-  MAX31856
+name_space: electronic ic converter thermocouple to digital converter tssop 14 maxim max31856
+name_upper: ELECTRONIC IC TSSOP 14 CONVERTER THERMOCOUPLE TO DIGITAL CONVERTER MAXIM MAX31856
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -106,7 +99,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+    part_id: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -186,8 +179,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -206,7 +198,7 @@ oomlout_ai_roboclick_3:
         height: 1.2
         length: 5.0
         width: 4.4
-      directory: parts\electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+      directory: parts\electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
       distributors: []
       ic_dimensions_mm:
         body_length: 5.0
@@ -225,22 +217,18 @@ oomlout_ai_roboclick_3:
         hand_solder: ''
         machine_solder: ''
         symbol: ''
-      lcsc_search: tssop 14 converter thermocouple to digital converter maxim max31856
-        ic
+      lcsc_search: tssop 14 converter thermocouple to digital converter maxim max31856 ic
       manufacturers: []
-      name: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+      name: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
       name_proper: IC Converter Thermocouple To Digital Converter Maxim TSSOP_14
       name_readable: IC Converter Thermocouple To Digital Converter Maxim TSSOP_14
       name_short: IC Converter Thermocouple To Digital Converter Maxim TSSOP_14
-      name_space: electronic ic tssop 14 converter thermocouple to digital converter
-        maxim max31856
-      name_upper: ELECTRONIC IC TSSOP 14 CONVERTER THERMOCOUPLE TO DIGITAL CONVERTER
-        MAXIM MAX31856
+      name_space: electronic ic converter thermocouple to digital converter tssop 14 maxim max31856
+      name_upper: ELECTRONIC IC TSSOP 14 CONVERTER THERMOCOUPLE TO DIGITAL CONVERTER MAXIM MAX31856
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -250,11 +238,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+          part_id: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -334,8 +321,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -507,8 +493,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/tssop_14/converter/thermocouple_to_digital_converter/maxim/README.md
-        oomp_id: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+        navigation_link: ../../navigation/electronic/ic/converter/thermocouple_to_digital_converter/tssop_14/maxim/README.md
+        oomp_id: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
         pins:
         - name: '1'
           number: '1'
@@ -554,7 +540,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+          value: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
         - title: Type
           value: Ic
         - title: Package / style
@@ -563,22 +549,19 @@ oomlout_ai_roboclick_3:
           value: 5.0 × 4.4 mm
         - title: Documented pins
           value: 14
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
-        summary: IC Converter Thermocouple To Digital Converter Maxim TSSOP_14 is
-          an OOMP electronic ic definition. It uses the tssop 14 package or form factor.
-          Its nominal drawing size is 5.0 × 4.4 mm. The definition includes 14 documented
-          pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
+        summary: IC Converter Thermocouple To Digital Converter Maxim TSSOP_14 is an OOMP electronic ic definition. It uses the tssop 14 package or form factor. Its nominal drawing size is 5.0 × 4.4 mm. The definition includes 14 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: tssop_14
-        - level: 4
           value: converter
-        - level: 5
+        - level: 4
           value: thermocouple_to_digital_converter
+        - level: 5
+          value: tssop_14
         - level: 14
           value: maxim
         - level: 15
@@ -802,9 +785,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: maxim
       taxonomy_15: max31856
       taxonomy_2: ic
-      taxonomy_3: tssop_14
-      taxonomy_4: converter
-      taxonomy_5: thermocouple_to_digital_converter
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -821,6 +801,9 @@ oomlout_ai_roboclick_3:
         references:
         - U3
         version: current
+      taxonomy_5: tssop_14
+      taxonomy_3: converter
+      taxonomy_4: thermocouple_to_digital_converter
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -831,8 +814,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -841,7 +823,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+oomp_key: oomp_electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
 package_drawing:
   body:
   - 5.0
@@ -1011,8 +993,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/tssop_14/converter/thermocouple_to_digital_converter/maxim/README.md
-  oomp_id: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+  navigation_link: ../../navigation/electronic/ic/converter/thermocouple_to_digital_converter/tssop_14/maxim/README.md
+  oomp_id: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
   pins:
   - name: '1'
     number: '1'
@@ -1058,7 +1040,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
+    value: electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
   - title: Type
     value: Ic
   - title: Package / style
@@ -1067,21 +1049,19 @@ part_page:
     value: 5.0 × 4.4 mm
   - title: Documented pins
     value: 14
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856
-  summary: IC Converter Thermocouple To Digital Converter Maxim TSSOP_14 is an OOMP
-    electronic ic definition. It uses the tssop 14 package or form factor. Its nominal
-    drawing size is 5.0 × 4.4 mm. The definition includes 14 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_thermocouple_to_digital_converter_tssop_14_maxim_max31856
+  summary: IC Converter Thermocouple To Digital Converter Maxim TSSOP_14 is an OOMP electronic ic definition. It uses the tssop 14 package or form factor. Its nominal drawing size is 5.0 × 4.4 mm. The definition includes 14 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: tssop_14
-  - level: 4
     value: converter
-  - level: 5
+  - level: 4
     value: thermocouple_to_digital_converter
+  - level: 5
+    value: tssop_14
   - level: 14
     value: maxim
   - level: 15
@@ -1361,51 +1341,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: tssop_14
-taxonomy_3_capital: Tssop 14
-taxonomy_3_first_letter: t
-taxonomy_3_first_letter_upper: T
-taxonomy_3_length_1: t
-taxonomy_3_length_2: ts
-taxonomy_3_length_3: tss
-taxonomy_3_length_4: tsso
-taxonomy_3_length_5: tssop
-taxonomy_3_upper: TSSOP_14
-taxonomy_3_upper_length_1: T
-taxonomy_3_upper_length_2: TS
-taxonomy_3_upper_length_3: TSS
-taxonomy_3_upper_length_4: TSSO
-taxonomy_3_upper_length_5: TSSOP
-taxonomy_4: converter
-taxonomy_4_capital: Converter
-taxonomy_4_first_letter: c
-taxonomy_4_first_letter_upper: C
-taxonomy_4_length_1: c
-taxonomy_4_length_2: co
-taxonomy_4_length_3: con
-taxonomy_4_length_4: conv
-taxonomy_4_length_5: conve
-taxonomy_4_upper: CONVERTER
-taxonomy_4_upper_length_1: C
-taxonomy_4_upper_length_2: CO
-taxonomy_4_upper_length_3: CON
-taxonomy_4_upper_length_4: CONV
-taxonomy_4_upper_length_5: CONVE
-taxonomy_5: thermocouple_to_digital_converter
-taxonomy_5_capital: Thermocouple To Digital Converter
-taxonomy_5_first_letter: t
-taxonomy_5_first_letter_upper: T
-taxonomy_5_length_1: t
-taxonomy_5_length_2: th
-taxonomy_5_length_3: the
-taxonomy_5_length_4: ther
-taxonomy_5_length_5: therm
-taxonomy_5_upper: THERMOCOUPLE_TO_DIGITAL_CONVERTER
-taxonomy_5_upper_length_1: T
-taxonomy_5_upper_length_2: TH
-taxonomy_5_upper_length_3: THE
-taxonomy_5_upper_length_4: THER
-taxonomy_5_upper_length_5: THERM
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1423,3 +1358,48 @@ used_in_projects:
   references:
   - U3
   version: current
+taxonomy_5: tssop_14
+taxonomy_5_capital: Tssop 14
+taxonomy_5_first_letter: t
+taxonomy_5_first_letter_upper: T
+taxonomy_5_length_1: t
+taxonomy_5_length_2: ts
+taxonomy_5_length_3: tss
+taxonomy_5_length_4: tsso
+taxonomy_5_length_5: tssop
+taxonomy_5_upper: TSSOP_14
+taxonomy_5_upper_length_1: T
+taxonomy_5_upper_length_2: TS
+taxonomy_5_upper_length_3: TSS
+taxonomy_5_upper_length_4: TSSO
+taxonomy_5_upper_length_5: TSSOP
+taxonomy_3: converter
+taxonomy_3_capital: Converter
+taxonomy_3_first_letter: c
+taxonomy_3_first_letter_upper: C
+taxonomy_3_length_1: c
+taxonomy_3_length_2: co
+taxonomy_3_length_3: con
+taxonomy_3_length_4: conv
+taxonomy_3_length_5: conve
+taxonomy_3_upper: CONVERTER
+taxonomy_3_upper_length_1: C
+taxonomy_3_upper_length_2: CO
+taxonomy_3_upper_length_3: CON
+taxonomy_3_upper_length_4: CONV
+taxonomy_3_upper_length_5: CONVE
+taxonomy_4: thermocouple_to_digital_converter
+taxonomy_4_capital: Thermocouple To Digital Converter
+taxonomy_4_first_letter: t
+taxonomy_4_first_letter_upper: T
+taxonomy_4_length_1: t
+taxonomy_4_length_2: th
+taxonomy_4_length_3: the
+taxonomy_4_length_4: ther
+taxonomy_4_length_5: therm
+taxonomy_4_upper: THERMOCOUPLE_TO_DIGITAL_CONVERTER
+taxonomy_4_upper_length_1: T
+taxonomy_4_upper_length_2: TH
+taxonomy_4_upper_length_3: THE
+taxonomy_4_upper_length_4: THER
+taxonomy_4_upper_length_5: THERM

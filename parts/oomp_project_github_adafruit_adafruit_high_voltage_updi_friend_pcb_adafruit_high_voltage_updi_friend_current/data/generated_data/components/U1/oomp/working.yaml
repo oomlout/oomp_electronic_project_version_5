@@ -1,77 +1,75 @@
 bip_39_2_word_array:
-- improve
-- inherit
-bip_39_2_word_no_space: improveinherit
-bip_39_2_word_space: improve inherit
-bip_39_2_word_underscore: improve_inherit
+- fabric
+- solar
+bip_39_2_word_no_space: fabricsolar
+bip_39_2_word_space: fabric solar
+bip_39_2_word_underscore: fabric_solar
 bip_39_3_word_array:
-- improve
-- inherit
-- huge
-bip_39_3_word_no_space: improveinherithuge
-bip_39_3_word_space: improve inherit huge
-bip_39_3_word_underscore: improve_inherit_huge
+- fabric
+- solar
+- fish
+bip_39_3_word_no_space: fabricsolarfish
+bip_39_3_word_space: fabric solar fish
+bip_39_3_word_underscore: fabric_solar_fish
 bip_39_full_array:
-- improve
-- inherit
-- huge
-- aim
-- fragile
-- junior
-- fatigue
-- tray
-- swear
-- rocket
-- jaguar
-- lucky
-bip_39_full_no_space: improveinherithugeaimfragilejuniorfatiguetrayswearrocketjaguarlucky
-bip_39_full_space: improve inherit huge aim fragile junior fatigue tray swear rocket
-  jaguar lucky
-bip_39_full_underscore: improve_inherit_huge_aim_fragile_junior_fatigue_tray_swear_rocket_jaguar_lucky
+- fabric
+- solar
+- fish
+- steak
+- glue
+- orbit
+- version
+- awake
+- shoot
+- era
+- exotic
+- alien
+bip_39_full_no_space: fabricsolarfishsteakglueorbitversionawakeshooteraexoticalien
+bip_39_full_space: fabric solar fish steak glue orbit version awake shoot era exotic alien
+bip_39_full_underscore: fabric_solar_fish_steak_glue_orbit_version_awake_shoot_era_exotic_alien
 category: interface
 category_name: Interface
 dimensions_mm:
   height: 1.1
   length: 3.0
   width: 3.0
-directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+directory: parts/electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
 distributors: []
-id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
-id_no_class: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
-id_no_size: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
-id_no_type: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+id: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
+id_no_class: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
+id_no_size: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
+id_no_type: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
 kicad:
   hand_solder: Package_SO:MSOP-10_3x3mm_P0.5mm
   machine_solder: Package_SO:MSOP-10_3x3mm_P0.5mm
   symbol: ''
 lcsc_search: msop 10 converter usb to serial converter wch ch340e ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
 manufacturers: []
-md5: 720e79ba82a5c6f254f73ddb976ddcc2
-md5_10: 720e79ba82
-md5_10_upper: 720E79BA82
-md5_5: 720e7
-md5_5_upper: 720E7
-md5_6: 720e79
-md5_6_alpha: 4g7ll
-md5_6_alpha_upper: 4G7LL
-md5_6_upper: 720E79
-name: Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340E
-name_no_class: Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340E
-name_no_size: Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340E
-name_no_type: Electronic Ic Msop 10 Converter Usb To Serial Converter Wch Ch340E
+md5: 5179cd5eea863f37fcb081c689894003
+md5_10: 5179cd5eea
+md5_10_upper: 5179CD5EEA
+md5_5: 5179c
+md5_5_upper: 5179C
+md5_6: 5179cd
+md5_6_alpha: 36g25
+md5_6_alpha_upper: 36G25
+md5_6_upper: 5179CD
+name: Electronic Ic Converter Usb To Serial Converter Msop 10 Wch Ch340E
+name_no_class: Electronic Ic Converter Usb To Serial Converter Msop 10 Wch Ch340E
+name_no_size: Electronic Ic Converter Usb To Serial Converter Msop 10 Wch Ch340E
+name_no_type: Electronic Ic Converter Usb To Serial Converter Msop 10 Wch Ch340E
 name_proper: IC Converter Usb To Serial Converter Wch MSOP_10
 name_readable: IC Converter Usb To Serial Converter Wch MSOP_10
 name_short: IC Converter Usb To Serial Converter Wch MSOP_10
-name_space: electronic ic msop 10 converter usb to serial converter wch ch340e
+name_space: electronic ic converter usb to serial converter msop 10 wch ch340e
 name_upper: ELECTRONIC IC MSOP 10 CONVERTER USB TO SERIAL CONVERTER WCH CH340E
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -84,7 +82,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+    part_id: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -164,22 +162,19 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
   actions:
   - command: run_python
-    description: Render this part's KiCad symbol and footprints to SVG and PNG, and
-      build a labelled contact sheet.
+    description: Render this part's KiCad symbol and footprints to SVG and PNG, and build a labelled contact sheet.
     file_output: data/kicad/contact_sheet.png
     file_python: kicad_agents/kicad_render_action.py
-    part_id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+    part_id: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
     regenerate_pngs: false
     timeout: '600'
-  description: Render KiCad symbol and footprint SVG and PNG views with a review contact
-    sheet.
+  description: Render KiCad symbol and footprint SVG and PNG views with a review contact sheet.
   file_test: data/kicad/contact_sheet.png
   retries_until_complete: 0
 oomlout_ai_roboclick_4:
@@ -194,7 +189,7 @@ oomlout_ai_roboclick_4:
         height: 1.1
         length: 3.0
         width: 3.0
-      directory: parts\electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+      directory: parts\electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
       distributors: []
       kicad:
         hand_solder: Package_SO:MSOP-10_3x3mm_P0.5mm
@@ -202,17 +197,16 @@ oomlout_ai_roboclick_4:
         symbol: ''
       lcsc_search: msop 10 converter usb to serial converter wch ch340e ic
       manufacturers: []
-      name: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+      name: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
       name_proper: IC Converter Usb To Serial Converter Wch MSOP_10
       name_readable: IC Converter Usb To Serial Converter Wch MSOP_10
       name_short: IC Converter Usb To Serial Converter Wch MSOP_10
-      name_space: electronic ic msop 10 converter usb to serial converter wch ch340e
+      name_space: electronic ic converter usb to serial converter msop 10 wch ch340e
       name_upper: ELECTRONIC IC MSOP 10 CONVERTER USB TO SERIAL CONVERTER WCH CH340E
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -222,11 +216,10 @@ oomlout_ai_roboclick_4:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+          part_id: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -306,22 +299,19 @@ oomlout_ai_roboclick_4:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       oomlout_ai_roboclick_3:
         actions:
         - command: run_python
-          description: Render this part's KiCad symbol and footprints to SVG and PNG,
-            and build a labelled contact sheet.
+          description: Render this part's KiCad symbol and footprints to SVG and PNG, and build a labelled contact sheet.
           file_output: data/kicad/contact_sheet.png
           file_python: kicad_agents/kicad_render_action.py
-          part_id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+          part_id: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
           regenerate_pngs: false
           timeout: '600'
-        description: Render KiCad symbol and footprint SVG and PNG views with a review
-          contact sheet.
+        description: Render KiCad symbol and footprint SVG and PNG views with a review contact sheet.
         file_test: data/kicad/contact_sheet.png
         retries_until_complete: 0
       package_drawing:
@@ -469,8 +459,8 @@ oomlout_ai_roboclick_4:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/msop_10/converter/usb_to_serial_converter/wch/README.md
-        oomp_id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+        navigation_link: ../../navigation/electronic/ic/converter/usb_to_serial_converter/msop_10/wch/README.md
+        oomp_id: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
         pins:
         - name: '1'
           number: '1'
@@ -504,7 +494,7 @@ oomlout_ai_roboclick_4:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+          value: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
         - title: Type
           value: Ic
         - title: Package / style
@@ -513,21 +503,19 @@ oomlout_ai_roboclick_4:
           value: 3.0 × 3.0 mm
         - title: Documented pins
           value: 10
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
-        summary: IC Converter Usb To Serial Converter Wch MSOP_10 is an OOMP electronic
-          ic definition. It uses the msop 10 package or form factor. Its nominal drawing
-          size is 3.0 × 3.0 mm. The definition includes 10 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
+        summary: IC Converter Usb To Serial Converter Wch MSOP_10 is an OOMP electronic ic definition. It uses the msop 10 package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 10 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: msop_10
-        - level: 4
           value: converter
-        - level: 5
+        - level: 4
           value: usb_to_serial_converter
+        - level: 5
+          value: msop_10
         - level: 14
           value: wch
         - level: 15
@@ -735,9 +723,6 @@ oomlout_ai_roboclick_4:
       taxonomy_14: wch
       taxonomy_15: ch340e
       taxonomy_2: ic
-      taxonomy_3: msop_10
-      taxonomy_4: converter
-      taxonomy_5: usb_to_serial_converter
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -747,8 +732,7 @@ oomlout_ai_roboclick_4:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current/board_explorer.html
         board_url: https://github.com/adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB/blob/main/Adafruit%20High%20Voltage%20UPDI%20Friend.brd
         github_url: https://github.com/adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB
-        name: Project adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB Adafruit High
-          Voltage UPDI Friend current
+        name: Project adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB Adafruit High Voltage UPDI Friend current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current
         project_id: oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current
         quantity: 1
@@ -805,6 +789,9 @@ oomlout_ai_roboclick_4:
         references:
         - U4
         version: v0.1
+      taxonomy_5: msop_10
+      taxonomy_3: converter
+      taxonomy_4: usb_to_serial_converter
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -815,8 +802,7 @@ oomlout_ai_roboclick_4:
 oomlout_ai_roboclick_5:
   actions:
   - command: run_python
-    description: Read current component details and prepare drawer labels; remove
-      stale label PDFs
+    description: Read current component details and prepare drawer labels; remove stale label PDFs
     file_output: data/label_drawer.yaml
     file_python: C:\gh\oomp_electronic_version_5\working_drawer_labels.py
     timeout: '120'
@@ -841,8 +827,7 @@ oomlout_ai_roboclick_5:
 oomlout_ai_roboclick_6:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -851,7 +836,7 @@ oomlout_ai_roboclick_6:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+oomp_key: oomp_electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
 package_drawing:
   body:
   - 3.0
@@ -997,8 +982,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/msop_10/converter/usb_to_serial_converter/wch/README.md
-  oomp_id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+  navigation_link: ../../navigation/electronic/ic/converter/usb_to_serial_converter/msop_10/wch/README.md
+  oomp_id: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
   pins:
   - name: '1'
     number: '1'
@@ -1032,7 +1017,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
+    value: electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
   - title: Type
     value: Ic
   - title: Package / style
@@ -1041,21 +1026,19 @@ part_page:
     value: 3.0 × 3.0 mm
   - title: Documented pins
     value: 10
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e
-  summary: IC Converter Usb To Serial Converter Wch MSOP_10 is an OOMP electronic
-    ic definition. It uses the msop 10 package or form factor. Its nominal drawing
-    size is 3.0 × 3.0 mm. The definition includes 10 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_msop_10_wch_ch340e
+  summary: IC Converter Usb To Serial Converter Wch MSOP_10 is an OOMP electronic ic definition. It uses the msop 10 package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 10 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: msop_10
-  - level: 4
     value: converter
-  - level: 5
+  - level: 4
     value: usb_to_serial_converter
+  - level: 5
+    value: msop_10
   - level: 14
     value: wch
   - level: 15
@@ -1319,51 +1302,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: msop_10
-taxonomy_3_capital: Msop 10
-taxonomy_3_first_letter: m
-taxonomy_3_first_letter_upper: M
-taxonomy_3_length_1: m
-taxonomy_3_length_2: ms
-taxonomy_3_length_3: mso
-taxonomy_3_length_4: msop
-taxonomy_3_length_5: msop_
-taxonomy_3_upper: MSOP_10
-taxonomy_3_upper_length_1: M
-taxonomy_3_upper_length_2: MS
-taxonomy_3_upper_length_3: MSO
-taxonomy_3_upper_length_4: MSOP
-taxonomy_3_upper_length_5: MSOP_
-taxonomy_4: converter
-taxonomy_4_capital: Converter
-taxonomy_4_first_letter: c
-taxonomy_4_first_letter_upper: C
-taxonomy_4_length_1: c
-taxonomy_4_length_2: co
-taxonomy_4_length_3: con
-taxonomy_4_length_4: conv
-taxonomy_4_length_5: conve
-taxonomy_4_upper: CONVERTER
-taxonomy_4_upper_length_1: C
-taxonomy_4_upper_length_2: CO
-taxonomy_4_upper_length_3: CON
-taxonomy_4_upper_length_4: CONV
-taxonomy_4_upper_length_5: CONVE
-taxonomy_5: usb_to_serial_converter
-taxonomy_5_capital: Usb To Serial Converter
-taxonomy_5_first_letter: u
-taxonomy_5_first_letter_upper: U
-taxonomy_5_length_1: u
-taxonomy_5_length_2: us
-taxonomy_5_length_3: usb
-taxonomy_5_length_4: usb_
-taxonomy_5_length_5: usb_t
-taxonomy_5_upper: USB_TO_SERIAL_CONVERTER
-taxonomy_5_upper_length_1: U
-taxonomy_5_upper_length_2: US
-taxonomy_5_upper_length_3: USB
-taxonomy_5_upper_length_4: USB_
-taxonomy_5_upper_length_5: USB_T
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1373,8 +1311,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current/board_explorer.html
   board_url: https://github.com/adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB/blob/main/Adafruit%20High%20Voltage%20UPDI%20Friend.brd
   github_url: https://github.com/adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB
-  name: Project adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB Adafruit High Voltage
-    UPDI Friend current
+  name: Project adafruit/Adafruit-High-Voltage-UPDI-Friend-PCB Adafruit High Voltage UPDI Friend current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current
   project_id: oomp_project_github_adafruit_adafruit_high_voltage_updi_friend_pcb_adafruit_high_voltage_updi_friend_current
   quantity: 1
@@ -1431,3 +1368,48 @@ used_in_projects:
   references:
   - U4
   version: v0.1
+taxonomy_5: msop_10
+taxonomy_5_capital: Msop 10
+taxonomy_5_first_letter: m
+taxonomy_5_first_letter_upper: M
+taxonomy_5_length_1: m
+taxonomy_5_length_2: ms
+taxonomy_5_length_3: mso
+taxonomy_5_length_4: msop
+taxonomy_5_length_5: msop_
+taxonomy_5_upper: MSOP_10
+taxonomy_5_upper_length_1: M
+taxonomy_5_upper_length_2: MS
+taxonomy_5_upper_length_3: MSO
+taxonomy_5_upper_length_4: MSOP
+taxonomy_5_upper_length_5: MSOP_
+taxonomy_3: converter
+taxonomy_3_capital: Converter
+taxonomy_3_first_letter: c
+taxonomy_3_first_letter_upper: C
+taxonomy_3_length_1: c
+taxonomy_3_length_2: co
+taxonomy_3_length_3: con
+taxonomy_3_length_4: conv
+taxonomy_3_length_5: conve
+taxonomy_3_upper: CONVERTER
+taxonomy_3_upper_length_1: C
+taxonomy_3_upper_length_2: CO
+taxonomy_3_upper_length_3: CON
+taxonomy_3_upper_length_4: CONV
+taxonomy_3_upper_length_5: CONVE
+taxonomy_4: usb_to_serial_converter
+taxonomy_4_capital: Usb To Serial Converter
+taxonomy_4_first_letter: u
+taxonomy_4_first_letter_upper: U
+taxonomy_4_length_1: u
+taxonomy_4_length_2: us
+taxonomy_4_length_3: usb
+taxonomy_4_length_4: usb_
+taxonomy_4_length_5: usb_t
+taxonomy_4_upper: USB_TO_SERIAL_CONVERTER
+taxonomy_4_upper_length_1: U
+taxonomy_4_upper_length_2: US
+taxonomy_4_upper_length_3: USB
+taxonomy_4_upper_length_4: USB_
+taxonomy_4_upper_length_5: USB_T

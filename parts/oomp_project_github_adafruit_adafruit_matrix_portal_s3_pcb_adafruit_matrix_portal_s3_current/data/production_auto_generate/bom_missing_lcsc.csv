@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 C2,10uF,Adafruit MatrixPortal S3-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C3,10uF,Adafruit MatrixPortal S3-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
 C4,10uF,Adafruit MatrixPortal S3-import-fps:0805-NO,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -19,7 +19,7 @@ RST0,TL3330AF260QG,Adafruit MatrixPortal S3-import-fps:SPST_TACTILE_RA,,No verif
 SENSE0,JST PH 3,Adafruit MatrixPortal S3-import-fps:JSTPH3,,No verified LCSC part number
 SW1,KMR2,Adafruit MatrixPortal S3-import-fps:BTN_RKB2_4.6X2.8,,No verified LCSC part number
 U1,74AHCT245,Adafruit MatrixPortal S3-import-fps:TSSOP20,,No verified LCSC part number
-U2,AP2112K-3.3,Adafruit MatrixPortal S3-import-fps:SOT23-DBV,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U2,AP2112K-3.3,Adafruit MatrixPortal S3-import-fps:SOT23-DBV,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U3,ESP32-S3-WROOM,Adafruit MatrixPortal S3-import-fps:S3-WROOM32,,No verified LCSC part number
 U4,LIS3DHTR,Adafruit MatrixPortal S3-import-fps:LGA16_3X3MM,electronic_sensor_accelerometer_lga_16_st_lis3dhtr,No verified LCSC part number
 U5,74AHCT245,Adafruit MatrixPortal S3-import-fps:TSSOP20,,No verified LCSC part number

@@ -1,6 +1,7 @@
 """Shared, deterministic display names, distributor links, and navigation data."""
 
 import re
+from component_taxonomy import package_token
 from pathlib import PurePosixPath
 
 
@@ -152,9 +153,10 @@ def readable_name(part):
             details.append(_connector_detail(taxonomy_value))
         return f"Connector {connector_type} {' '.join(details)}".strip()
     if component_type == "ic":
+        package = package_token(part)
         if manufacturer_part_number != "":
             return f"IC {manufacturer_part_number} {package.replace('_', ' ').upper()}".strip()
-        details = [_pretty_token(value_text) for value_text in taxonomy[3:6]]
+        details = [_pretty_token(part.get(f"taxonomy_{n}", "")) for n in (3, 4)]
         return f"IC {' '.join(details)} {package.upper()}".strip()
     if component_type == "led":
         if manufacturer_part_number != "":

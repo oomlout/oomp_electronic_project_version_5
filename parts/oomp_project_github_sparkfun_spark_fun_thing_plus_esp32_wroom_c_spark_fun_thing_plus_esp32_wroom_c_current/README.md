@@ -115,7 +115,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | U2 | 1 | ESP-WROOM-3232D-NARROW | ESP-WROOM-3232D-NARROW | `SparkFun_Thing_Plus_ESP32_WROOM_C-import-fps:ESP-WROOM-32D-NARROW` | unmatched |
 | U3, U5 | 2 | 3.3V | 3.3V | `SparkFun_Thing_Plus_ESP32_WROOM_C-import-fps:SOT23-5` | unmatched |
 | U4 | 1 | MAX17048 | MAX17048 | `SparkFun_Thing_Plus_ESP32_WROOM_C-import-fps:DFN-8` | unmatched |
-| U7 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun_Thing_Plus_ESP32_WROOM_C-import-fps:SO016` | [`electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c) |
+| U7 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun_Thing_Plus_ESP32_WROOM_C-import-fps:SO016` | [`electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c) |
 
 ## Main nets
 

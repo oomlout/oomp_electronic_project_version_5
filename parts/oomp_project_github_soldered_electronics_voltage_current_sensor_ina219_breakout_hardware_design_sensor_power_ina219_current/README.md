@@ -86,7 +86,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | K3 | 1 | Connector Header PZ2.54-S04P-A60 | HEADER_MALE_4X1 | `e-radionica.com footprinti:HEADER_MALE_4X1` | [`electronic_connector_header_2_54_mm_pitch_through_hole_4_pin`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_4_pin) |
 | R1, R2, R3, R4 | 4 | electronic resistor 0603 10000 ohm | 10k | `e-radionica.com footprinti:0603R` | [`electronic_resistor_0603_10000_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0603_10000_ohm) |
 | R5 | 1 | Resistor 0.1 Ohm 1210 | 0R1 | `e-radionica.com footprinti:1210R` | [`electronic_resistor_1210_0_1_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_1210_0_1_ohm) |
-| U1 | 1 | IC Power Monitor Current Monitor Texas Instruments SOT_23_8 | INA219 | `e-radionica.com footprinti:SOT23-8` | [`electronic_ic_sot_23_8_power_monitor_current_monitor_texas_instruments_ina219`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_8_power_monitor_current_monitor_texas_instruments_ina219) |
+| U1 | 1 | IC Power Monitor Current Monitor Texas Instruments SOT_23_8 | INA219 | `e-radionica.com footprinti:SOT23-8` | [`electronic_ic_power_monitor_current_monitor_sot_23_8_texas_instruments_ina219`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_monitor_current_monitor_sot_23_8_texas_instruments_ina219) |
 
 ## Main nets
 

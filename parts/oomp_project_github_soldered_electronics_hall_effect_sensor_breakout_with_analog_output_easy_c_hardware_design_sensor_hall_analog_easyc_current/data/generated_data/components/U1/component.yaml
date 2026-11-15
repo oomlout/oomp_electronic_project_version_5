@@ -730,9 +730,9 @@ connectivity_cross_check:
 oomp:
   status: matched
   accepted: true
-  oomp_id: electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv
+  oomp_id: electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv
   confidence: 1.0
-  proposed_oomp_id: electronic_ic_sot_23_5_sensor_hall_effect_silicon_labs_si7211_b_00_iv
+  proposed_oomp_id: electronic_ic_sensor_hall_effect_sot_23_5_silicon_labs_si7211_b_00_iv
   inferred:
     kind: null
     package_size: null

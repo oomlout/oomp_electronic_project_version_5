@@ -1216,9 +1216,9 @@
   "oomp": {
     "status": "matched",
     "accepted": true,
-    "oomp_id": "electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344",
+    "oomp_id": "electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344",
     "confidence": 1.0,
-    "proposed_oomp_id": "electronic_ic_sot_23_5_amplifier_operational_amplifier_texas_instruments_opa344",
+    "proposed_oomp_id": "electronic_ic_amplifier_operational_amplifier_sot_23_5_texas_instruments_opa344",
     "inferred": {
       "kind": null,
       "package_size": null,

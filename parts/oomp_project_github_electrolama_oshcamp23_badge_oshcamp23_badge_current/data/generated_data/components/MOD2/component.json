@@ -2827,9 +2827,9 @@
   "oomp": {
     "status": "matched",
     "accepted": true,
-    "oomp_id": "electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s",
+    "oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s",
     "confidence": 1.0,
-    "proposed_oomp_id": "electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s",
+    "proposed_oomp_id": "electronic_ic_microcontroller_wifi_bluetooth_module_esp_12s_espressif_esp_12s",
     "inferred": {
       "kind": null,
       "package_size": null,

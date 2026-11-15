@@ -4796,7 +4796,7 @@ placement:
     x: 24.4475
     y: -1.651
     rotation: 0.0
-    oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+    oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
     bounds:
       min_x: 22.6959
       min_y: -3.5511
@@ -5397,8 +5397,8 @@ bom:
 - description: IC Power Management Linear Voltage Regulator Diodes SOT_23_5
   value: AP2112K-3.3
   footprint: Adafruit Slider Trinkey-import-fps:SOT23-5
-  oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
-  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+  oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
+  oomp_link: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
   references:
   - U1
   quantity: 1
@@ -5562,7 +5562,7 @@ source_manifest:
     - working_svg_assembly.svg
     - working_svg_assembly_pins.svg
     - working_svg_square_pins.svg
-  - oomp_id: electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3
+  - oomp_id: electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3
     project_source_files:
     - working.yaml
     - working_svg_assembly.svg

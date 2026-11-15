@@ -104,7 +104,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | SW1 | 1 | KMR2 | KMR2 | `Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:BTN_KMR2_4.6X2.8` | unmatched |
 | SW2 | 1 | EG1213 | EG1213 | `Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:EG1390` | unmatched |
 | U1 | 1 | MDBT40 | MDBT40 | `Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:BLE_MODULE_RAYTAC_MDBT40` | unmatched |
-| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:SOT23-5` | [`electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3) |
+| U2 | 1 | IC Power Management Linear Voltage Regulator Diodes SOT_23_5 | AP2112K-3.3 | `Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:SOT23-5` | [`electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3) |
 | U3 | 1 | CP210x | CP210x | `Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:QFN24_4MM_SMSC` | unmatched |
 | X1 | 1 | USB-A | USB-A | `Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:USB_A-THM` | unmatched |
 | Y1 | 1 | DNC | DNC | `Adafrruit Bluefruit LE USB Friend CP2102N-import-fps:CRYSTAL_CYL_2X6MM_SMT` | unmatched |

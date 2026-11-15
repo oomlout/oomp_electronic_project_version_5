@@ -87,7 +87,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | R2 | 1 | Potentiometer Through Hole 10 Kilo Ohm Bourns TC33X 2 103E TRIMMER | TC33X-2-103E | `e-radionica.com footprinti:tc33x-2-103e` | [`electronic_potentiometer_trimmer_through_hole_10_kilo_ohm_bourns_tc33x_2_103e`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_potentiometer_trimmer_through_hole_10_kilo_ohm_bourns_tc33x_2_103e) |
 | R4 | 1 | Resistor 2200 Ohm 0402 | 2k2 | `e-radionica.com footprinti:0402R` | [`electronic_resistor_0402_2200_ohm`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_2200_ohm) |
 | U1 | 1 | Sensor 6 Pin MQ | MQ-X | `e-radionica.com footprinti:MQ` | [`electronic_sensor_mq_6_pin`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_mq_6_pin) |
-| U2 | 1 | IC Logic Comparator LM393 SOIC_8 | LM393 | `e-radionica.com footprinti:SOIC−8` | [`electronic_ic_soic_8_logic_comparator_lm393`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_logic_comparator_lm393) |
+| U2 | 1 | IC Logic Comparator LM393 SOIC_8 | LM393 | `e-radionica.com footprinti:SOIC−8` | [`electronic_ic_logic_comparator_soic_8_lm393`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_logic_comparator_soic_8_lm393) |
 
 ## Main nets
 

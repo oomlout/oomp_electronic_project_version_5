@@ -1,33 +1,32 @@
 bip_39_2_word_array:
-- course
-- manage
-bip_39_2_word_no_space: coursemanage
-bip_39_2_word_space: course manage
-bip_39_2_word_underscore: course_manage
+- cheese
+- soft
+bip_39_2_word_no_space: cheesesoft
+bip_39_2_word_space: cheese soft
+bip_39_2_word_underscore: cheese_soft
 bip_39_3_word_array:
-- course
-- manage
-- hawk
-bip_39_3_word_no_space: coursemanagehawk
-bip_39_3_word_space: course manage hawk
-bip_39_3_word_underscore: course_manage_hawk
+- cheese
+- soft
+- resource
+bip_39_3_word_no_space: cheesesoftresource
+bip_39_3_word_space: cheese soft resource
+bip_39_3_word_underscore: cheese_soft_resource
 bip_39_full_array:
-- course
-- manage
-- hawk
-- accuse
-- plastic
-- slow
-- grape
-- clown
-- spread
-- spare
-- pipe
-- fat
-bip_39_full_no_space: coursemanagehawkaccuseplasticslowgrapeclownspreadsparepipefat
-bip_39_full_space: course manage hawk accuse plastic slow grape clown spread spare
-  pipe fat
-bip_39_full_underscore: course_manage_hawk_accuse_plastic_slow_grape_clown_spread_spare_pipe_fat
+- cheese
+- soft
+- resource
+- verify
+- life
+- upset
+- insect
+- island
+- number
+- nose
+- electric
+- bike
+bip_39_full_no_space: cheesesoftresourceverifylifeupsetinsectislandnumbernoseelectricbike
+bip_39_full_space: cheese soft resource verify life upset insect island number nose electric bike
+bip_39_full_underscore: cheese_soft_resource_verify_life_upset_insect_island_number_nose_electric_bike
 category: mcu
 category_name: MCU
 datasheet_url: https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS40002061B.pdf
@@ -38,51 +37,43 @@ dimensions_mm:
   height: 1.0
   length: 5.0
   width: 5.0
-directory: parts/electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+directory: parts/electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
 distributors: []
-id: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
-id_no_class: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
-id_no_size: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
-id_no_type: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+id: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
+id_no_class: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
+id_no_size: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
+id_no_type: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
 kicad:
   hand_solder: ''
   machine_solder: ''
   symbol: ''
-lcsc_search: qfn 32 5 mm x 5 mm microcontroller 8 bit avr microchip atmega328p mu
-  ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+lcsc_search: qfn 32 5 mm x 5 mm microcontroller 8 bit avr microchip atmega328p mu ic
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
 manufacturers: []
-md5: 3150dda700da6198597160d31a0e9529
-md5_10: 3150dda700
-md5_10_upper: 3150DDA700
-md5_5: 3150d
-md5_5_upper: 3150D
-md5_6: 3150dd
-md5_6_alpha: 1x9st
-md5_6_alpha_upper: 1X9ST
-md5_6_upper: 3150DD
-name: Electronic Ic Qfn 32 5 Mm X 5 Mm Microcontroller 8 Bit Avr Microchip Atmega328P
-  Mu
-name_no_class: Electronic Ic Qfn 32 5 Mm X 5 Mm Microcontroller 8 Bit Avr Microchip
-  Atmega328P Mu
-name_no_size: Electronic Ic Qfn 32 5 Mm X 5 Mm Microcontroller 8 Bit Avr Microchip
-  Atmega328P Mu
-name_no_type: Electronic Ic Qfn 32 5 Mm X 5 Mm Microcontroller 8 Bit Avr Microchip
-  Atmega328P Mu
+md5: 2739cade795815de5d43b39772cd1d8b
+md5_10: 2739cade79
+md5_10_upper: 2739CADE79
+md5_5: 2739c
+md5_5_upper: 2739C
+md5_6: 2739ca
+md5_6_alpha: 1j3ka
+md5_6_alpha_upper: 1J3KA
+md5_6_upper: 2739CA
+name: Electronic Ic Microcontroller 8 Bit Avr Qfn 32 5 Mm X 5 Mm Microchip Atmega328P Mu
+name_no_class: Electronic Ic Microcontroller 8 Bit Avr Qfn 32 5 Mm X 5 Mm Microchip Atmega328P Mu
+name_no_size: Electronic Ic Microcontroller 8 Bit Avr Qfn 32 5 Mm X 5 Mm Microchip Atmega328P Mu
+name_no_type: Electronic Ic Microcontroller 8 Bit Avr Qfn 32 5 Mm X 5 Mm Microchip Atmega328P Mu
 name_proper: IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM
 name_readable: IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM
 name_short: IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM
-name_space: electronic ic qfn 32 5 mm x 5 mm microcontroller 8 bit avr microchip atmega328p
-  mu
-name_upper: ELECTRONIC IC QFN 32 5 MM X 5 MM MICROCONTROLLER 8 BIT AVR MICROCHIP ATMEGA328P
-  MU
+name_space: electronic ic microcontroller 8 bit avr qfn 32 5 mm x 5 mm microchip atmega328p mu
+name_upper: ELECTRONIC IC QFN 32 5 MM X 5 MM MICROCONTROLLER 8 BIT AVR MICROCHIP ATMEGA328P MU
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -95,7 +86,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+    part_id: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -175,8 +166,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -195,28 +185,24 @@ oomlout_ai_roboclick_3:
         height: 1.0
         length: 5.0
         width: 5.0
-      directory: parts\electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+      directory: parts\electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
       distributors: []
       kicad:
         hand_solder: ''
         machine_solder: ''
         symbol: ''
-      lcsc_search: qfn 32 5 mm x 5 mm microcontroller 8 bit avr microchip atmega328p
-        mu ic
+      lcsc_search: qfn 32 5 mm x 5 mm microcontroller 8 bit avr microchip atmega328p mu ic
       manufacturers: []
-      name: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+      name: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
       name_proper: IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM
       name_readable: IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM
       name_short: IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM
-      name_space: electronic ic qfn 32 5 mm x 5 mm microcontroller 8 bit avr microchip
-        atmega328p mu
-      name_upper: ELECTRONIC IC QFN 32 5 MM X 5 MM MICROCONTROLLER 8 BIT AVR MICROCHIP
-        ATMEGA328P MU
+      name_space: electronic ic microcontroller 8 bit avr qfn 32 5 mm x 5 mm microchip atmega328p mu
+      name_upper: ELECTRONIC IC QFN 32 5 MM X 5 MM MICROCONTROLLER 8 BIT AVR MICROCHIP ATMEGA328P MU
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -226,11 +212,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+          part_id: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -310,8 +295,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -596,8 +580,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/qfn_32_5_mm_x_5_mm/microcontroller/8_bit_avr/microchip/README.md
-        oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+        navigation_link: ../../navigation/electronic/ic/microcontroller/8_bit_avr/qfn_32_5_mm_x_5_mm/microchip/README.md
+        oomp_id: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
         pins:
         - name: '1'
           number: '1'
@@ -697,7 +681,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+          value: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
         - title: Type
           value: Ic
         - title: Package / style
@@ -706,22 +690,19 @@ oomlout_ai_roboclick_3:
           value: 5.0 × 5.0 mm
         - title: Documented pins
           value: 32
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
-        summary: IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM is an OOMP
-          electronic ic definition. It uses the qfn 32 5 mm x 5 mm package or form
-          factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes
-          32 documented pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
+        summary: IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM is an OOMP electronic ic definition. It uses the qfn 32 5 mm x 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 32 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: qfn_32_5_mm_x_5_mm
-        - level: 4
           value: microcontroller
-        - level: 5
+        - level: 4
           value: 8_bit_avr
+        - level: 5
+          value: qfn_32_5_mm_x_5_mm
         - level: 14
           value: microchip
         - level: 15
@@ -1017,9 +998,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: microchip
       taxonomy_15: atmega328p_mu
       taxonomy_2: ic
-      taxonomy_3: qfn_32_5_mm_x_5_mm
-      taxonomy_4: microcontroller
-      taxonomy_5: 8_bit_avr
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -1036,6 +1014,9 @@ oomlout_ai_roboclick_3:
         references:
         - U1
         version: current
+      taxonomy_5: qfn_32_5_mm_x_5_mm
+      taxonomy_3: microcontroller
+      taxonomy_4: 8_bit_avr
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -1046,8 +1027,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -1056,7 +1036,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+oomp_key: oomp_electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
 package_drawing:
   body:
   - 5.0
@@ -1339,8 +1319,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/qfn_32_5_mm_x_5_mm/microcontroller/8_bit_avr/microchip/README.md
-  oomp_id: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+  navigation_link: ../../navigation/electronic/ic/microcontroller/8_bit_avr/qfn_32_5_mm_x_5_mm/microchip/README.md
+  oomp_id: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
   pins:
   - name: '1'
     number: '1'
@@ -1440,7 +1420,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
+    value: electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
   - title: Type
     value: Ic
   - title: Package / style
@@ -1449,21 +1429,19 @@ part_page:
     value: 5.0 × 5.0 mm
   - title: Documented pins
     value: 32
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_microcontroller_8_bit_avr_microchip_atmega328p_mu
-  summary: IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM is an OOMP electronic
-    ic definition. It uses the qfn 32 5 mm x 5 mm package or form factor. Its nominal
-    drawing size is 5.0 × 5.0 mm. The definition includes 32 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_8_bit_avr_qfn_32_5_mm_x_5_mm_microchip_atmega328p_mu
+  summary: IC Microcontroller 8 Bit Avr Microchip QFN_32_5_MM_X_5_MM is an OOMP electronic ic definition. It uses the qfn 32 5 mm x 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 32 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: qfn_32_5_mm_x_5_mm
-  - level: 4
     value: microcontroller
-  - level: 5
+  - level: 4
     value: 8_bit_avr
+  - level: 5
+    value: qfn_32_5_mm_x_5_mm
   - level: 14
     value: microchip
   - level: 15
@@ -1815,51 +1793,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: qfn_32_5_mm_x_5_mm
-taxonomy_3_capital: Qfn 32.5 mm x 5 mm
-taxonomy_3_first_letter: q
-taxonomy_3_first_letter_upper: Q
-taxonomy_3_length_1: q
-taxonomy_3_length_2: qf
-taxonomy_3_length_3: qfn
-taxonomy_3_length_4: qfn_
-taxonomy_3_length_5: qfn_3
-taxonomy_3_upper: QFN_32_5_MM_X_5_MM
-taxonomy_3_upper_length_1: Q
-taxonomy_3_upper_length_2: QF
-taxonomy_3_upper_length_3: QFN
-taxonomy_3_upper_length_4: QFN_
-taxonomy_3_upper_length_5: QFN_3
-taxonomy_4: microcontroller
-taxonomy_4_capital: Microcontroller
-taxonomy_4_first_letter: m
-taxonomy_4_first_letter_upper: M
-taxonomy_4_length_1: m
-taxonomy_4_length_2: mi
-taxonomy_4_length_3: mic
-taxonomy_4_length_4: micr
-taxonomy_4_length_5: micro
-taxonomy_4_upper: MICROCONTROLLER
-taxonomy_4_upper_length_1: M
-taxonomy_4_upper_length_2: MI
-taxonomy_4_upper_length_3: MIC
-taxonomy_4_upper_length_4: MICR
-taxonomy_4_upper_length_5: MICRO
-taxonomy_5: 8_bit_avr
-taxonomy_5_capital: 8 Bit Avr
-taxonomy_5_first_letter: '8'
-taxonomy_5_first_letter_upper: '8'
-taxonomy_5_length_1: '8'
-taxonomy_5_length_2: '8_'
-taxonomy_5_length_3: 8_b
-taxonomy_5_length_4: 8_bi
-taxonomy_5_length_5: 8_bit
-taxonomy_5_upper: 8_BIT_AVR
-taxonomy_5_upper_length_1: '8'
-taxonomy_5_upper_length_2: '8_'
-taxonomy_5_upper_length_3: 8_B
-taxonomy_5_upper_length_4: 8_BI
-taxonomy_5_upper_length_5: 8_BIT
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1877,3 +1810,48 @@ used_in_projects:
   references:
   - U1
   version: current
+taxonomy_5: qfn_32_5_mm_x_5_mm
+taxonomy_5_capital: Qfn 32.5 mm x 5 mm
+taxonomy_5_first_letter: q
+taxonomy_5_first_letter_upper: Q
+taxonomy_5_length_1: q
+taxonomy_5_length_2: qf
+taxonomy_5_length_3: qfn
+taxonomy_5_length_4: qfn_
+taxonomy_5_length_5: qfn_3
+taxonomy_5_upper: QFN_32_5_MM_X_5_MM
+taxonomy_5_upper_length_1: Q
+taxonomy_5_upper_length_2: QF
+taxonomy_5_upper_length_3: QFN
+taxonomy_5_upper_length_4: QFN_
+taxonomy_5_upper_length_5: QFN_3
+taxonomy_3: microcontroller
+taxonomy_3_capital: Microcontroller
+taxonomy_3_first_letter: m
+taxonomy_3_first_letter_upper: M
+taxonomy_3_length_1: m
+taxonomy_3_length_2: mi
+taxonomy_3_length_3: mic
+taxonomy_3_length_4: micr
+taxonomy_3_length_5: micro
+taxonomy_3_upper: MICROCONTROLLER
+taxonomy_3_upper_length_1: M
+taxonomy_3_upper_length_2: MI
+taxonomy_3_upper_length_3: MIC
+taxonomy_3_upper_length_4: MICR
+taxonomy_3_upper_length_5: MICRO
+taxonomy_4: 8_bit_avr
+taxonomy_4_capital: 8 Bit Avr
+taxonomy_4_first_letter: '8'
+taxonomy_4_first_letter_upper: '8'
+taxonomy_4_length_1: '8'
+taxonomy_4_length_2: '8_'
+taxonomy_4_length_3: 8_b
+taxonomy_4_length_4: 8_bi
+taxonomy_4_length_5: 8_bit
+taxonomy_4_upper: 8_BIT_AVR
+taxonomy_4_upper_length_1: '8'
+taxonomy_4_upper_length_2: '8_'
+taxonomy_4_upper_length_3: 8_B
+taxonomy_4_upper_length_4: 8_BI
+taxonomy_4_upper_length_5: 8_BIT

@@ -1,8 +1,8 @@
 status: matched
 accepted: true
-oomp_id: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+oomp_id: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
 confidence: 1.0
-proposed_oomp_id: electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd
+proposed_oomp_id: electronic_ic_timer_555_timer_soic_8_texas_instruments_tlc555cd
 inferred:
   kind: null
   package_size: null

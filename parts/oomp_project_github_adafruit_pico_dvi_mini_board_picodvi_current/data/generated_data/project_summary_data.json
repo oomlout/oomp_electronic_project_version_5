@@ -12734,7 +12734,7 @@
         "x": 213.6,
         "y": 111.8,
         "rotation": 90.0,
-        "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+        "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
         "bounds": {
           "min_x": 209.325,
           "min_y": 107.525,
@@ -21990,8 +21990,8 @@
       "description": "IC RP2040 QFN 56 7 MM X 7 MM",
       "value": "RP2040",
       "footprint": "picodvi:QFN-56_EP_7x7_Pitch0.4mm",
-      "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+      "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
       "references": [
         "U1"
       ],
@@ -22326,7 +22326,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_qfn_56_7_mm_x_7_mm_microcontroller_dual_core_arm_cortex_m0_plus_raspberry_pi_rp2040",
+        "oomp_id": "electronic_ic_microcontroller_dual_core_arm_cortex_m0_plus_qfn_56_7_mm_x_7_mm_raspberry_pi_rp2040",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

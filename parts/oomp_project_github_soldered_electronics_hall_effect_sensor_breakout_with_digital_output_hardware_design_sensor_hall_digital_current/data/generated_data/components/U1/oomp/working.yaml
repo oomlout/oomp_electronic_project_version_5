@@ -1,76 +1,74 @@
 bip_39_2_word_array:
-- arena
-- length
-bip_39_2_word_no_space: arenalength
-bip_39_2_word_space: arena length
-bip_39_2_word_underscore: arena_length
+- laugh
+- suffer
+bip_39_2_word_no_space: laughsuffer
+bip_39_2_word_space: laugh suffer
+bip_39_2_word_underscore: laugh_suffer
 bip_39_3_word_array:
-- arena
-- length
-- sword
-bip_39_3_word_no_space: arenalengthsword
-bip_39_3_word_space: arena length sword
-bip_39_3_word_underscore: arena_length_sword
+- laugh
+- suffer
+- leader
+bip_39_3_word_no_space: laughsufferleader
+bip_39_3_word_space: laugh suffer leader
+bip_39_3_word_underscore: laugh_suffer_leader
 bip_39_full_array:
-- arena
-- length
-- sword
-- elite
-- embody
-- mirror
-- rug
-- list
-- honey
-- fragile
-- offer
-- wrist
-bip_39_full_no_space: arenalengthswordeliteembodymirrorruglisthoneyfragileofferwrist
-bip_39_full_space: arena length sword elite embody mirror rug list honey fragile offer
-  wrist
-bip_39_full_underscore: arena_length_sword_elite_embody_mirror_rug_list_honey_fragile_offer_wrist
+- laugh
+- suffer
+- leader
+- axis
+- below
+- problem
+- usage
+- slim
+- right
+- coin
+- minor
+- odor
+bip_39_full_no_space: laughsufferleaderaxisbelowproblemusageslimrightcoinminorodor
+bip_39_full_space: laugh suffer leader axis below problem usage slim right coin minor odor
+bip_39_full_underscore: laugh_suffer_leader_axis_below_problem_usage_slim_right_coin_minor_odor
 category: ic
 category_name: IC
 dimensions_mm:
   length: 2.9
   width: 2.6
-directory: parts/electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+directory: parts/electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
 distributors: []
-id: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
-id_no_class: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
-id_no_size: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
-id_no_type: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+id: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
+id_no_class: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
+id_no_size: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
+id_no_type: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
 kicad:
   hand_solder: Package_TO_SOT_SMD:SOT-23
   machine_solder: Package_TO_SOT_SMD:SOT-23
   symbol: ''
 lcsc_search: sot 23 sensor hall effect silicon labs si7201 b 06 iv ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
 manufacturers: []
-md5: 0b7003712404871b2f44136d2b8e65ff
-md5_10: 0b70037124
-md5_10_upper: 0B70037124
-md5_5: 0b700
-md5_5_upper: 0B700
-md5_6: 0b7003
-md5_6_alpha: g2df
-md5_6_alpha_upper: G2DF
-md5_6_upper: 0B7003
-name: Electronic Ic Sot 23 Sensor Hall Effect Silicon Labs Si7201 B 06 Iv
-name_no_class: Electronic Ic Sot 23 Sensor Hall Effect Silicon Labs Si7201 B 06 Iv
-name_no_size: Electronic Ic Sot 23 Sensor Hall Effect Silicon Labs Si7201 B 06 Iv
-name_no_type: Electronic Ic Sot 23 Sensor Hall Effect Silicon Labs Si7201 B 06 Iv
+md5: 7d9b15fa08714d56fbe65eb9c5ae34cc
+md5_10: 7d9b15fa08
+md5_10_upper: 7D9B15FA08
+md5_5: 7d9b1
+md5_5_upper: 7D9B1
+md5_6: 7d9b15
+md5_6_alpha: 4wfmd
+md5_6_alpha_upper: 4WFMD
+md5_6_upper: 7D9B15
+name: Electronic Ic Sensor Hall Effect Sot 23 Silicon Labs Si7201 B 06 Iv
+name_no_class: Electronic Ic Sensor Hall Effect Sot 23 Silicon Labs Si7201 B 06 Iv
+name_no_size: Electronic Ic Sensor Hall Effect Sot 23 Silicon Labs Si7201 B 06 Iv
+name_no_type: Electronic Ic Sensor Hall Effect Sot 23 Silicon Labs Si7201 B 06 Iv
 name_proper: IC Sensor Hall Effect Silicon Labs SOT_23
 name_readable: IC Sensor Hall Effect Silicon Labs SOT_23
 name_short: IC Sensor Hall Effect Silicon Labs SOT_23
-name_space: electronic ic sot 23 sensor hall effect silicon labs si7201 b 06 iv
+name_space: electronic ic sensor hall effect sot 23 silicon labs si7201 b 06 iv
 name_upper: ELECTRONIC IC SOT 23 SENSOR HALL EFFECT SILICON LABS SI7201 B 06 IV
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -83,7 +81,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+    part_id: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -163,8 +161,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -178,7 +175,7 @@ oomlout_ai_roboclick_3:
       dimensions_mm:
         length: 2.9
         width: 2.6
-      directory: parts\electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+      directory: parts\electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
       distributors: []
       kicad:
         hand_solder: Package_TO_SOT_SMD:SOT-23
@@ -186,19 +183,16 @@ oomlout_ai_roboclick_3:
         symbol: ''
       lcsc_search: sot 23 sensor hall effect silicon labs si7201 b 06 iv ic
       manufacturers: []
-      name: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+      name: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
       name_proper: IC Sensor Hall Effect Silicon Labs SOT_23
       name_readable: IC Sensor Hall Effect Silicon Labs SOT_23
       name_short: IC Sensor Hall Effect Silicon Labs SOT_23
-      name_space: electronic ic sot 23 sensor hall effect silicon labs si7201 b 06
-        iv
-      name_upper: ELECTRONIC IC SOT 23 SENSOR HALL EFFECT SILICON LABS SI7201 B 06
-        IV
+      name_space: electronic ic sensor hall effect sot 23 silicon labs si7201 b 06 iv
+      name_upper: ELECTRONIC IC SOT 23 SENSOR HALL EFFECT SILICON LABS SI7201 B 06 IV
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -208,11 +202,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+          part_id: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -292,8 +285,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       part_id: U1
@@ -370,33 +362,31 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sot_23/sensor/hall_effect/silicon_labs/README.md
-        oomp_id: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+        navigation_link: ../../navigation/electronic/ic/sensor/hall_effect/sot_23/silicon_labs/README.md
+        oomp_id: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
         pins: []
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+          value: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
         - title: Type
           value: Ic
         - title: Package / style
           value: sot 23
         - title: Nominal size
           value: 2.9 × 2.6 mm
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
-        summary: IC Sensor Hall Effect Silicon Labs SOT_23 is an OOMP electronic ic
-          definition. It uses the sot 23 package or form factor. Its nominal drawing
-          size is 2.9 × 2.6 mm.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
+        summary: IC Sensor Hall Effect Silicon Labs SOT_23 is an OOMP electronic ic definition. It uses the sot 23 package or form factor. Its nominal drawing size is 2.9 × 2.6 mm.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sot_23
-        - level: 4
           value: sensor
-        - level: 5
+        - level: 4
           value: hall_effect
+        - level: 5
+          value: sot_23
         - level: 14
           value: silicon_labs
         - level: 15
@@ -563,9 +553,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: silicon_labs
       taxonomy_15: si7201_b_06_iv
       taxonomy_2: ic
-      taxonomy_3: sot_23
-      taxonomy_4: sensor
-      taxonomy_5: hall_effect
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -575,8 +562,7 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_easy_c_hardware_design_sensor_hall_digital_easyc_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output---easyC-hardware-design
         github_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output---easyC-hardware-design
-        name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output---easyC-hardware-design
-          Hall Effect Digital Output easyC current
+        name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output---easyC-hardware-design Hall Effect Digital Output easyC current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_easy_c_hardware_design_sensor_hall_digital_easyc_current
         project_id: oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_easy_c_hardware_design_sensor_hall_digital_easyc_current
         quantity: 1
@@ -586,8 +572,7 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_hardware_design_sensor_hall_digital_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output-hardware-design
         github_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output-hardware-design
-        name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output-hardware-design
-          Hall Effect Digital Output current
+        name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output-hardware-design Hall Effect Digital Output current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_hardware_design_sensor_hall_digital_current
         project_id: oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_hardware_design_sensor_hall_digital_current
         quantity: 1
@@ -597,14 +582,16 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_qwiic_hardware_design_sensor_hall_digital_qwiic_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output---qwiic-hardware-design
         github_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output---qwiic-hardware-design
-        name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output---qwiic-hardware-design
-          Hall Effect Digital Output qwiic current
+        name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output---qwiic-hardware-design Hall Effect Digital Output qwiic current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_qwiic_hardware_design_sensor_hall_digital_qwiic_current
         project_id: oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_qwiic_hardware_design_sensor_hall_digital_qwiic_current
         quantity: 1
         references:
         - U1
         version: current
+      taxonomy_5: sot_23
+      taxonomy_3: sensor
+      taxonomy_4: hall_effect
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -615,8 +602,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -625,7 +611,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+oomp_key: oomp_electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
 part_id: U1
 part_page:
   datasheet_path: data/datasheet.pdf
@@ -700,33 +686,31 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sot_23/sensor/hall_effect/silicon_labs/README.md
-  oomp_id: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+  navigation_link: ../../navigation/electronic/ic/sensor/hall_effect/sot_23/silicon_labs/README.md
+  oomp_id: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
   pins: []
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
+    value: electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
   - title: Type
     value: Ic
   - title: Package / style
     value: sot 23
   - title: Nominal size
     value: 2.9 × 2.6 mm
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv
-  summary: IC Sensor Hall Effect Silicon Labs SOT_23 is an OOMP electronic ic definition.
-    It uses the sot 23 package or form factor. Its nominal drawing size is 2.9 × 2.6
-    mm.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sensor_hall_effect_sot_23_silicon_labs_si7201_b_06_iv
+  summary: IC Sensor Hall Effect Silicon Labs SOT_23 is an OOMP electronic ic definition. It uses the sot 23 package or form factor. Its nominal drawing size is 2.9 × 2.6 mm.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sot_23
-  - level: 4
     value: sensor
-  - level: 5
+  - level: 4
     value: hall_effect
+  - level: 5
+    value: sot_23
   - level: 14
     value: silicon_labs
   - level: 15
@@ -949,51 +933,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sot_23
-taxonomy_3_capital: Sot 23
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sot
-taxonomy_3_length_4: sot_
-taxonomy_3_length_5: sot_2
-taxonomy_3_upper: SOT_23
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOT
-taxonomy_3_upper_length_4: SOT_
-taxonomy_3_upper_length_5: SOT_2
-taxonomy_4: sensor
-taxonomy_4_capital: Sensor
-taxonomy_4_first_letter: s
-taxonomy_4_first_letter_upper: S
-taxonomy_4_length_1: s
-taxonomy_4_length_2: se
-taxonomy_4_length_3: sen
-taxonomy_4_length_4: sens
-taxonomy_4_length_5: senso
-taxonomy_4_upper: SENSOR
-taxonomy_4_upper_length_1: S
-taxonomy_4_upper_length_2: SE
-taxonomy_4_upper_length_3: SEN
-taxonomy_4_upper_length_4: SENS
-taxonomy_4_upper_length_5: SENSO
-taxonomy_5: hall_effect
-taxonomy_5_capital: Hall Effect
-taxonomy_5_first_letter: h
-taxonomy_5_first_letter_upper: H
-taxonomy_5_length_1: h
-taxonomy_5_length_2: ha
-taxonomy_5_length_3: hal
-taxonomy_5_length_4: hall
-taxonomy_5_length_5: hall_
-taxonomy_5_upper: HALL_EFFECT
-taxonomy_5_upper_length_1: H
-taxonomy_5_upper_length_2: HA
-taxonomy_5_upper_length_3: HAL
-taxonomy_5_upper_length_4: HALL
-taxonomy_5_upper_length_5: HALL_
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1004,8 +943,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_easy_c_hardware_design_sensor_hall_digital_easyc_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output---easyC-hardware-design
   github_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output---easyC-hardware-design
-  name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output---easyC-hardware-design
-    Hall Effect Digital Output easyC current
+  name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output---easyC-hardware-design Hall Effect Digital Output easyC current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_easy_c_hardware_design_sensor_hall_digital_easyc_current
   project_id: oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_easy_c_hardware_design_sensor_hall_digital_easyc_current
   quantity: 1
@@ -1015,8 +953,7 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_hardware_design_sensor_hall_digital_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output-hardware-design
   github_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output-hardware-design
-  name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output-hardware-design
-    Hall Effect Digital Output current
+  name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output-hardware-design Hall Effect Digital Output current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_hardware_design_sensor_hall_digital_current
   project_id: oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_hardware_design_sensor_hall_digital_current
   quantity: 1
@@ -1026,11 +963,55 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_qwiic_hardware_design_sensor_hall_digital_qwiic_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output---qwiic-hardware-design
   github_url: https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output---qwiic-hardware-design
-  name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output---qwiic-hardware-design
-    Hall Effect Digital Output qwiic current
+  name: Project soldered_electronics/Hall-effect-sensor-breakout-with-digital-output---qwiic-hardware-design Hall Effect Digital Output qwiic current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_qwiic_hardware_design_sensor_hall_digital_qwiic_current
   project_id: oomp_project_github_soldered_electronics_hall_effect_sensor_breakout_with_digital_output_qwiic_hardware_design_sensor_hall_digital_qwiic_current
   quantity: 1
   references:
   - U1
   version: current
+taxonomy_5: sot_23
+taxonomy_5_capital: Sot 23
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sot
+taxonomy_5_length_4: sot_
+taxonomy_5_length_5: sot_2
+taxonomy_5_upper: SOT_23
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOT
+taxonomy_5_upper_length_4: SOT_
+taxonomy_5_upper_length_5: SOT_2
+taxonomy_3: sensor
+taxonomy_3_capital: Sensor
+taxonomy_3_first_letter: s
+taxonomy_3_first_letter_upper: S
+taxonomy_3_length_1: s
+taxonomy_3_length_2: se
+taxonomy_3_length_3: sen
+taxonomy_3_length_4: sens
+taxonomy_3_length_5: senso
+taxonomy_3_upper: SENSOR
+taxonomy_3_upper_length_1: S
+taxonomy_3_upper_length_2: SE
+taxonomy_3_upper_length_3: SEN
+taxonomy_3_upper_length_4: SENS
+taxonomy_3_upper_length_5: SENSO
+taxonomy_4: hall_effect
+taxonomy_4_capital: Hall Effect
+taxonomy_4_first_letter: h
+taxonomy_4_first_letter_upper: H
+taxonomy_4_length_1: h
+taxonomy_4_length_2: ha
+taxonomy_4_length_3: hal
+taxonomy_4_length_4: hall
+taxonomy_4_length_5: hall_
+taxonomy_4_upper: HALL_EFFECT
+taxonomy_4_upper_length_1: H
+taxonomy_4_upper_length_2: HA
+taxonomy_4_upper_length_3: HAL
+taxonomy_4_upper_length_4: HALL
+taxonomy_4_upper_length_5: HALL_

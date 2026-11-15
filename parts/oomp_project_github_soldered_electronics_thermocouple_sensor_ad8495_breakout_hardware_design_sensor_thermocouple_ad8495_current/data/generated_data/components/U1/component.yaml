@@ -621,9 +621,9 @@ connectivity_cross_check:
 oomp:
   status: matched
   accepted: true
-  oomp_id: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+  oomp_id: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
   confidence: 1.0
-  proposed_oomp_id: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+  proposed_oomp_id: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
   inferred:
     kind: null
     package_size: null

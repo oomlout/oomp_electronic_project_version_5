@@ -141,7 +141,7 @@ footprints:
 - reference: U4
   source: SparkFun-Semiconductor-Standard:TSSOP-16_4.4x5mm_P0.65mm
   status: skipped
-  oomp_id: electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw
+  oomp_id: electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw
   reason: Source is not an available official master for this OOMP part.
 - reference: JP1
   source: SparkFun-Jumper:Jumper_2_NO
@@ -631,7 +631,7 @@ symbols:
   - U4
   source: SparkFun-IC-Special-Function:PCA9554PW
   status: skipped
-  oomp_id: electronic_ic_tssop_16_logic_io_expander_texas_instruments_pca9554pw
+  oomp_id: electronic_ic_logic_io_expander_tssop_16_texas_instruments_pca9554pw
   reason: OOMP symbol master unavailable.
   file: kicad_file.kicad_sch
 - references:

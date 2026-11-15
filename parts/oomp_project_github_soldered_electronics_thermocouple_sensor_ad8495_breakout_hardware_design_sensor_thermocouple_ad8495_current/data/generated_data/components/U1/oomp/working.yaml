@@ -1,83 +1,75 @@
 bip_39_2_word_array:
-- west
-- fiction
-bip_39_2_word_no_space: westfiction
-bip_39_2_word_space: west fiction
-bip_39_2_word_underscore: west_fiction
+- trigger
+- prepare
+bip_39_2_word_no_space: triggerprepare
+bip_39_2_word_space: trigger prepare
+bip_39_2_word_underscore: trigger_prepare
 bip_39_3_word_array:
-- west
-- fiction
-- cause
-bip_39_3_word_no_space: westfictioncause
-bip_39_3_word_space: west fiction cause
-bip_39_3_word_underscore: west_fiction_cause
+- trigger
+- prepare
+- obscure
+bip_39_3_word_no_space: triggerprepareobscure
+bip_39_3_word_space: trigger prepare obscure
+bip_39_3_word_underscore: trigger_prepare_obscure
 bip_39_full_array:
-- west
-- fiction
-- cause
-- decrease
-- surprise
-- place
-- glance
-- loop
-- scout
-- aerobic
-- hawk
-- drink
-bip_39_full_no_space: westfictioncausedecreasesurpriseplaceglanceloopscoutaerobichawkdrink
-bip_39_full_space: west fiction cause decrease surprise place glance loop scout aerobic
-  hawk drink
-bip_39_full_underscore: west_fiction_cause_decrease_surprise_place_glance_loop_scout_aerobic_hawk_drink
+- trigger
+- prepare
+- obscure
+- pepper
+- weird
+- mesh
+- human
+- smile
+- immune
+- bleak
+- lyrics
+- gospel
+bip_39_full_no_space: triggerprepareobscurepepperweirdmeshhumansmileimmunebleaklyricsgospel
+bip_39_full_space: trigger prepare obscure pepper weird mesh human smile immune bleak lyrics gospel
+bip_39_full_underscore: trigger_prepare_obscure_pepper_weird_mesh_human_smile_immune_bleak_lyrics_gospel
 category: power_management
 category_name: Power management
 dimensions_mm:
   height: 1.1
   length: 2.9
   width: 1.6
-directory: parts/electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+directory: parts/electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
 distributors: []
-id: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
-id_no_class: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
-id_no_size: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
-id_no_type: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+id: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
+id_no_class: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
+id_no_size: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
+id_no_type: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
 kicad:
   hand_solder: Package_TO_SOT_SMD:SOT-23
   machine_solder: Package_TO_SOT_SMD:SOT-23
   symbol: ''
-lcsc_search: sot 23 3 power management shunt regulator texas instruments tl431acdbz
-  ic
-link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
-link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
-link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+lcsc_search: sot 23 3 power management shunt regulator texas instruments tl431acdbz ic
+link_github: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
+link_main: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
+link_redirect: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
 manufacturers: []
-md5: f96ab8921c9da74b98ac1fc14085a721
-md5_10: f96ab8921c
-md5_10_upper: F96AB8921C
-md5_5: f96ab
-md5_5_upper: F96AB
-md5_6: f96ab8
-md5_6_alpha: 9qchk
-md5_6_alpha_upper: 9QCHK
-md5_6_upper: F96AB8
-name: Electronic Ic Sot 23 3 Power Management Shunt Regulator Texas Instruments Tl431Acdbz
-name_no_class: Electronic Ic Sot 23 3 Power Management Shunt Regulator Texas Instruments
-  Tl431Acdbz
-name_no_size: Electronic Ic Sot 23 3 Power Management Shunt Regulator Texas Instruments
-  Tl431Acdbz
-name_no_type: Electronic Ic Sot 23 3 Power Management Shunt Regulator Texas Instruments
-  Tl431Acdbz
+md5: e8953e61517f93179bb66571a2f215b2
+md5_10: e8953e6151
+md5_10_upper: E8953E6151
+md5_5: e8953
+md5_5_upper: E8953
+md5_6: e8953e
+md5_6_alpha: 92p8e
+md5_6_alpha_upper: 92P8E
+md5_6_upper: E8953E
+name: Electronic Ic Power Management Shunt Regulator Sot 23 3 Texas Instruments Tl431Acdbz
+name_no_class: Electronic Ic Power Management Shunt Regulator Sot 23 3 Texas Instruments Tl431Acdbz
+name_no_size: Electronic Ic Power Management Shunt Regulator Sot 23 3 Texas Instruments Tl431Acdbz
+name_no_type: Electronic Ic Power Management Shunt Regulator Sot 23 3 Texas Instruments Tl431Acdbz
 name_proper: IC Power Management Shunt Regulator Texas Instruments SOT_23_3
 name_readable: IC Power Management Shunt Regulator Texas Instruments SOT_23_3
 name_short: IC Power Management Shunt Regulator Texas Instruments SOT_23_3
-name_space: electronic ic sot 23 3 power management shunt regulator texas instruments
-  tl431acdbz
-name_upper: ELECTRONIC IC SOT 23 3 POWER MANAGEMENT SHUNT REGULATOR TEXAS INSTRUMENTS
-  TL431ACDBZ
+name_space: electronic ic power management shunt regulator sot 23 3 texas instruments tl431acdbz
+name_upper: ELECTRONIC IC SOT 23 3 POWER MANAGEMENT SHUNT REGULATOR TEXAS INSTRUMENTS TL431ACDBZ
 oomlout_ai_roboclick_1:
   actions:
   - command: run_python
-    description: Copy official KiCad masters into per-part OOMP symbols and verified
-      soldering footprint variants.
+    description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
     file_output: data/kicad/manifest.yaml
     file_python: kicad_agents/kicad_library_agent.py
     timeout: '600'
@@ -90,7 +82,7 @@ oomlout_ai_roboclick_2:
     description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
     file_output: data/working_svg_assembly.svg
     file_python: kicad_agents/component_svg_action.py
-    part_id: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+    part_id: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
     regenerate_pngs: false
     timeout: '600'
   - allow_upscale: false
@@ -170,8 +162,7 @@ oomlout_ai_roboclick_2:
     maximum_dimension: 300
     regenerate_pngs: false
     resample: lanczos
-  description: Build component diagrams and proportional 300-pixel README previews
-    with deterministic Python actions.
+  description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
   file_test: data/working_svg_square_pins_300.png
   retries_until_complete: 0
 oomlout_ai_roboclick_3:
@@ -186,28 +177,24 @@ oomlout_ai_roboclick_3:
         height: 1.1
         length: 2.9
         width: 1.6
-      directory: parts\electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+      directory: parts\electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
       distributors: []
       kicad:
         hand_solder: Package_TO_SOT_SMD:SOT-23
         machine_solder: Package_TO_SOT_SMD:SOT-23
         symbol: ''
-      lcsc_search: sot 23 3 power management shunt regulator texas instruments tl431acdbz
-        ic
+      lcsc_search: sot 23 3 power management shunt regulator texas instruments tl431acdbz ic
       manufacturers: []
-      name: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+      name: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
       name_proper: IC Power Management Shunt Regulator Texas Instruments SOT_23_3
       name_readable: IC Power Management Shunt Regulator Texas Instruments SOT_23_3
       name_short: IC Power Management Shunt Regulator Texas Instruments SOT_23_3
-      name_space: electronic ic sot 23 3 power management shunt regulator texas instruments
-        tl431acdbz
-      name_upper: ELECTRONIC IC SOT 23 3 POWER MANAGEMENT SHUNT REGULATOR TEXAS INSTRUMENTS
-        TL431ACDBZ
+      name_space: electronic ic power management shunt regulator sot 23 3 texas instruments tl431acdbz
+      name_upper: ELECTRONIC IC SOT 23 3 POWER MANAGEMENT SHUNT REGULATOR TEXAS INSTRUMENTS TL431ACDBZ
       oomlout_ai_roboclick_1:
         actions:
         - command: run_python
-          description: Copy official KiCad masters into per-part OOMP symbols and
-            verified soldering footprint variants.
+          description: Copy official KiCad masters into per-part OOMP symbols and verified soldering footprint variants.
           file_output: data/kicad/manifest.yaml
           file_python: kicad_agents/kicad_library_agent.py
           timeout: '600'
@@ -217,11 +204,10 @@ oomlout_ai_roboclick_3:
       oomlout_ai_roboclick_2:
         actions:
         - command: run_python
-          description: Generate this component's standard SVG and PNG diagrams with
-            working_svg.py.
+          description: Generate this component's standard SVG and PNG diagrams with working_svg.py.
           file_output: data/working_svg_assembly.svg
           file_python: kicad_agents/component_svg_action.py
-          part_id: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+          part_id: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
           regenerate_pngs: false
           timeout: '600'
         - allow_upscale: false
@@ -301,8 +287,7 @@ oomlout_ai_roboclick_3:
           maximum_dimension: 300
           regenerate_pngs: false
           resample: lanczos
-        description: Build component diagrams and proportional 300-pixel README previews
-          with deterministic Python actions.
+        description: Build component diagrams and proportional 300-pixel README previews with deterministic Python actions.
         file_test: data/working_svg_square_pins_300.png
         retries_until_complete: 0
       package_drawing:
@@ -408,8 +393,8 @@ oomlout_ai_roboclick_3:
           preview: data/working_svg_square_pins_300.png
           svg: data/working_svg_square_pins.svg
           title: Pinout
-        navigation_link: ../../navigation/electronic/ic/sot_23_3/power_management/shunt_regulator/texas_instruments/README.md
-        oomp_id: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+        navigation_link: ../../navigation/electronic/ic/power_management/shunt_regulator/sot_23_3/texas_instruments/README.md
+        oomp_id: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
         pins:
         - name: REF
           number: '1'
@@ -422,7 +407,7 @@ oomlout_ai_roboclick_3:
           type: signal
         quick_facts:
         - title: OOMP ID
-          value: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+          value: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
         - title: Type
           value: Ic
         - title: Package / style
@@ -431,22 +416,19 @@ oomlout_ai_roboclick_3:
           value: 2.9 × 1.6 mm
         - title: Documented pins
           value: 3
-        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
-        summary: IC Power Management Shunt Regulator Texas Instruments SOT_23_3 is
-          an OOMP electronic ic definition. It uses the sot 23 3 package or form factor.
-          Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 3 documented
-          pins.
+        repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
+        summary: IC Power Management Shunt Regulator Texas Instruments SOT_23_3 is an OOMP electronic ic definition. It uses the sot 23 3 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 3 documented pins.
         taxonomy:
         - level: 1
           value: electronic
         - level: 2
           value: ic
         - level: 3
-          value: sot_23_3
-        - level: 4
           value: power_management
-        - level: 5
+        - level: 4
           value: shunt_regulator
+        - level: 5
+          value: sot_23_3
         - level: 14
           value: texas_instruments
         - level: 15
@@ -626,9 +608,6 @@ oomlout_ai_roboclick_3:
       taxonomy_14: texas_instruments
       taxonomy_15: tl431acdbz
       taxonomy_2: ic
-      taxonomy_3: sot_23_3
-      taxonomy_4: power_management
-      taxonomy_5: shunt_regulator
       taxonomy_6: ''
       taxonomy_7: ''
       taxonomy_8: ''
@@ -638,14 +617,16 @@ oomlout_ai_roboclick_3:
       - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_thermocouple_sensor_ad8495_breakout_hardware_design_sensor_thermocouple_ad8495_current/board_explorer.html
         board_url: https://github.com/SolderedElectronics/Thermocouple-sensor-AD8495-breakout-hardware-design
         github_url: https://github.com/SolderedElectronics/Thermocouple-sensor-AD8495-breakout-hardware-design
-        name: Project soldered_electronics/Thermocouple-sensor-AD8495-breakout-hardware-design
-          AD8495 Breakout current
+        name: Project soldered_electronics/Thermocouple-sensor-AD8495-breakout-hardware-design AD8495 Breakout current
         oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_thermocouple_sensor_ad8495_breakout_hardware_design_sensor_thermocouple_ad8495_current
         project_id: oomp_project_github_soldered_electronics_thermocouple_sensor_ad8495_breakout_hardware_design_sensor_thermocouple_ad8495_current
         quantity: 1
         references:
         - U1
         version: current
+      taxonomy_5: sot_23_3
+      taxonomy_3: power_management
+      taxonomy_4: shunt_regulator
     dict_data_files: {}
     dict_data_files_exists: {}
     file_output: README.md
@@ -656,8 +637,7 @@ oomlout_ai_roboclick_3:
 oomlout_ai_roboclick_4:
   actions:
   - command: run_python
-    description: Summarize working.yaml and inventory every available part file for
-      website generators.
+    description: Summarize working.yaml and inventory every available part file for website generators.
     file_output: web.yaml
     file_python: kicad_agents/web_manifest_action.py
     manifest_config: config_web_manifest.yaml
@@ -666,7 +646,7 @@ oomlout_ai_roboclick_4:
   description: Regenerate the deterministic web.yaml after every other part action.
   file_test: ''
   retries_until_complete: 0
-oomp_key: oomp_electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+oomp_key: oomp_electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
 package_drawing:
   body:
   - 2.9
@@ -770,8 +750,8 @@ part_page:
     preview: data/working_svg_square_pins_300.png
     svg: data/working_svg_square_pins.svg
     title: Pinout
-  navigation_link: ../../navigation/electronic/ic/sot_23_3/power_management/shunt_regulator/texas_instruments/README.md
-  oomp_id: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+  navigation_link: ../../navigation/electronic/ic/power_management/shunt_regulator/sot_23_3/texas_instruments/README.md
+  oomp_id: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
   pins:
   - name: REF
     number: '1'
@@ -784,7 +764,7 @@ part_page:
     type: signal
   quick_facts:
   - title: OOMP ID
-    value: electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
+    value: electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
   - title: Type
     value: Ic
   - title: Package / style
@@ -793,21 +773,19 @@ part_page:
     value: 2.9 × 1.6 mm
   - title: Documented pins
     value: 3
-  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_3_power_management_shunt_regulator_texas_instruments_tl431acdbz
-  summary: IC Power Management Shunt Regulator Texas Instruments SOT_23_3 is an OOMP
-    electronic ic definition. It uses the sot 23 3 package or form factor. Its nominal
-    drawing size is 2.9 × 1.6 mm. The definition includes 3 documented pins.
+  repository_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_shunt_regulator_sot_23_3_texas_instruments_tl431acdbz
+  summary: IC Power Management Shunt Regulator Texas Instruments SOT_23_3 is an OOMP electronic ic definition. It uses the sot 23 3 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 3 documented pins.
   taxonomy:
   - level: 1
     value: electronic
   - level: 2
     value: ic
   - level: 3
-    value: sot_23_3
-  - level: 4
     value: power_management
-  - level: 5
+  - level: 4
     value: shunt_regulator
+  - level: 5
+    value: sot_23_3
   - level: 14
     value: texas_instruments
   - level: 15
@@ -1043,51 +1021,6 @@ taxonomy_2_upper_length_2: IC
 taxonomy_2_upper_length_3: IC
 taxonomy_2_upper_length_4: IC
 taxonomy_2_upper_length_5: IC
-taxonomy_3: sot_23_3
-taxonomy_3_capital: Sot 23.3
-taxonomy_3_first_letter: s
-taxonomy_3_first_letter_upper: S
-taxonomy_3_length_1: s
-taxonomy_3_length_2: so
-taxonomy_3_length_3: sot
-taxonomy_3_length_4: sot_
-taxonomy_3_length_5: sot_2
-taxonomy_3_upper: SOT_23_3
-taxonomy_3_upper_length_1: S
-taxonomy_3_upper_length_2: SO
-taxonomy_3_upper_length_3: SOT
-taxonomy_3_upper_length_4: SOT_
-taxonomy_3_upper_length_5: SOT_2
-taxonomy_4: power_management
-taxonomy_4_capital: Power Management
-taxonomy_4_first_letter: p
-taxonomy_4_first_letter_upper: P
-taxonomy_4_length_1: p
-taxonomy_4_length_2: po
-taxonomy_4_length_3: pow
-taxonomy_4_length_4: powe
-taxonomy_4_length_5: power
-taxonomy_4_upper: POWER_MANAGEMENT
-taxonomy_4_upper_length_1: P
-taxonomy_4_upper_length_2: PO
-taxonomy_4_upper_length_3: POW
-taxonomy_4_upper_length_4: POWE
-taxonomy_4_upper_length_5: POWER
-taxonomy_5: shunt_regulator
-taxonomy_5_capital: Shunt Regulator
-taxonomy_5_first_letter: s
-taxonomy_5_first_letter_upper: S
-taxonomy_5_length_1: s
-taxonomy_5_length_2: sh
-taxonomy_5_length_3: shu
-taxonomy_5_length_4: shun
-taxonomy_5_length_5: shunt
-taxonomy_5_upper: SHUNT_REGULATOR
-taxonomy_5_upper_length_1: S
-taxonomy_5_upper_length_2: SH
-taxonomy_5_upper_length_3: SHU
-taxonomy_5_upper_length_4: SHUN
-taxonomy_5_upper_length_5: SHUNT
 taxonomy_6: ''
 taxonomy_7: ''
 taxonomy_8: ''
@@ -1098,11 +1031,55 @@ used_in_projects:
 - board_explorer_url: https://oomlout.github.io/oomp_electronic_version_5/parts/oomp_project_github_soldered_electronics_thermocouple_sensor_ad8495_breakout_hardware_design_sensor_thermocouple_ad8495_current/board_explorer.html
   board_url: https://github.com/SolderedElectronics/Thermocouple-sensor-AD8495-breakout-hardware-design
   github_url: https://github.com/SolderedElectronics/Thermocouple-sensor-AD8495-breakout-hardware-design
-  name: Project soldered_electronics/Thermocouple-sensor-AD8495-breakout-hardware-design
-    AD8495 Breakout current
+  name: Project soldered_electronics/Thermocouple-sensor-AD8495-breakout-hardware-design AD8495 Breakout current
   oomp_url: https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_thermocouple_sensor_ad8495_breakout_hardware_design_sensor_thermocouple_ad8495_current
   project_id: oomp_project_github_soldered_electronics_thermocouple_sensor_ad8495_breakout_hardware_design_sensor_thermocouple_ad8495_current
   quantity: 1
   references:
   - U1
   version: current
+taxonomy_5: sot_23_3
+taxonomy_5_capital: Sot 23.3
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: so
+taxonomy_5_length_3: sot
+taxonomy_5_length_4: sot_
+taxonomy_5_length_5: sot_2
+taxonomy_5_upper: SOT_23_3
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SO
+taxonomy_5_upper_length_3: SOT
+taxonomy_5_upper_length_4: SOT_
+taxonomy_5_upper_length_5: SOT_2
+taxonomy_3: power_management
+taxonomy_3_capital: Power Management
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: po
+taxonomy_3_length_3: pow
+taxonomy_3_length_4: powe
+taxonomy_3_length_5: power
+taxonomy_3_upper: POWER_MANAGEMENT
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PO
+taxonomy_3_upper_length_3: POW
+taxonomy_3_upper_length_4: POWE
+taxonomy_3_upper_length_5: POWER
+taxonomy_4: shunt_regulator
+taxonomy_4_capital: Shunt Regulator
+taxonomy_4_first_letter: s
+taxonomy_4_first_letter_upper: S
+taxonomy_4_length_1: s
+taxonomy_4_length_2: sh
+taxonomy_4_length_3: shu
+taxonomy_4_length_4: shun
+taxonomy_4_length_5: shunt
+taxonomy_4_upper: SHUNT_REGULATOR
+taxonomy_4_upper_length_1: S
+taxonomy_4_upper_length_2: SH
+taxonomy_4_upper_length_3: SHU
+taxonomy_4_upper_length_4: SHUN
+taxonomy_4_upper_length_5: SHUNT

@@ -134,7 +134,7 @@ The table uses a board-relative origin at the minimum X/Y point of `Edge.Cuts`. 
 | S1 | 1 | RESET | RESET | `SparkFun_DataLogger_IoT_9DOF-import-fps:TACTILE_SWITCH_SMD_RIGHT_ANGLE` | unmatched |
 | S2 | 1 | BOOT | BOOT | `SparkFun_DataLogger_IoT_9DOF-import-fps:TACTILE_SWITCH_SMD_RIGHT_ANGLE` | unmatched |
 | U1 | 1 | ESP-WROOM-32E | ESP-WROOM-32E | `SparkFun_DataLogger_IoT_9DOF-import-fps:ESP-WROOM-32D-NARROW` | unmatched |
-| U2 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun_DataLogger_IoT_9DOF-import-fps:SO016` | [`electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340c) |
+| U2 | 1 | USB-Serial CH340C SOP-16 | CH340C | `SparkFun_DataLogger_IoT_9DOF-import-fps:SO016` | [`electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c`](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_converter_usb_to_serial_converter_sop_16_wch_ch340c) |
 | U3, U6 | 2 | 3.3V | 3.3V | `SparkFun_DataLogger_IoT_9DOF-import-fps:SOT23-5` | unmatched |
 | U4 | 1 | MAX17048 | MAX17048 | `SparkFun_DataLogger_IoT_9DOF-import-fps:DFN-8` | unmatched |
 | U5 | 1 | MCP73831 | MCP73831 | `SparkFun_DataLogger_IoT_9DOF-import-fps:SOT23-5` | unmatched |

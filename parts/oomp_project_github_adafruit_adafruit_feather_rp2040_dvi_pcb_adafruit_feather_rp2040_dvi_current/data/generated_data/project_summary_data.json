@@ -35185,7 +35185,7 @@
         "x": 16.891,
         "y": -16.4465,
         "rotation": -180.0,
-        "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33",
         "bounds": {
           "min_x": 15.1394,
           "min_y": -18.3466,
@@ -46421,8 +46421,8 @@
       "description": "IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5",
       "value": "RT9080-3.3",
       "footprint": "Adafruit Feather RP2040 DVI-import-fps:SOT23-5",
-      "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33",
-      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33",
+      "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33",
+      "oomp_link": "https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33",
       "references": [
         "U2"
       ],
@@ -46935,7 +46935,7 @@
         ]
       },
       {
-        "oomp_id": "electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33",
+        "oomp_id": "electronic_ic_power_management_linear_voltage_regulator_3_3_volt_sot_23_5_richtek_rt9080_33",
         "project_source_files": [
           "working.yaml",
           "working_svg_assembly.svg",

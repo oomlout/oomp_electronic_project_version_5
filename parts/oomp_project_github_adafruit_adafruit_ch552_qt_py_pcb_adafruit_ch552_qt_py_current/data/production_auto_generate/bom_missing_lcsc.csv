@@ -1,4 +1,4 @@
-﻿Designator,Comment,Footprint,OOMP ID,Reason
+Designator,Comment,Footprint,OOMP ID,Reason
 B1,BTN_RST,Adafruit CH552 QT Py-import-fps:BTN_RKB2_4.6X2.8,,No verified LCSC part number
 B2,BTN_BOOT,Adafruit CH552 QT Py-import-fps:BTN_RKB2_4.6X2.8,,No verified LCSC part number
 C1,10uF,Adafruit CH552 QT Py-import-fps:_0805MP,electronic_capacitor_0805_10_micro_farad,No verified LCSC part number
@@ -26,7 +26,7 @@ SWC1,"TPB1,27","Adafruit CH552 QT Py-import-fps:B1,27",,No verified LCSC part nu
 SWC2,TPTP15R,Adafruit CH552 QT Py-import-fps:TP15R,,No verified LCSC part number
 TP1,,Adafruit CH552 QT Py-import-fps:TESTPOINT_PLUS_1X3MM,,No verified LCSC part number
 TP2,,Adafruit CH552 QT Py-import-fps:TESTPOINT_MINUS_1X3MM,,No verified LCSC part number
-U1,AP2112K-3.3,Adafruit CH552 QT Py-import-fps:SOT23-5,electronic_ic_sot_23_5_power_management_linear_voltage_regulator_diodes_ap2112k_3_3,No verified LCSC part number
+U1,AP2112K-3.3,Adafruit CH552 QT Py-import-fps:SOT23-5,electronic_ic_power_management_linear_voltage_regulator_sot_23_5_diodes_ap2112k_3_3,No verified LCSC part number
 U$6,FIDUCIAL_1MM,Adafruit CH552 QT Py-import-fps:FIDUCIAL_1MM,,No verified LCSC part number
 U$8,FIDUCIAL_1MM,Adafruit CH552 QT Py-import-fps:FIDUCIAL_1MM,,No verified LCSC part number
 U$11,,Adafruit CH552 QT Py-import-fps:ADAFRUIT_3.5MM,,No verified LCSC part number
