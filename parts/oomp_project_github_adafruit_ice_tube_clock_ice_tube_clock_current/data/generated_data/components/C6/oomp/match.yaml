@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: null
+  value: dset1
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_capacitor_0805_1_nano_farad_samsung_electro_mechanics_cl21c102jbcnnnc
+  score: 0.0773
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0603_10_nano_farad_samsung_electro_mechanics_cl10b103kb8nnnc
+  score: 0.0768
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0805_1_micro_farad_samsung_electro_mechanics_cl21f105zafnnne
+  score: 0.0768
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0805_1_micro_farad_samsung_electro_mechanics_cl21f105zbfnnne
+  score: 0.0768
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0603_100_nano_farad_samsung_electro_mechanics_cl10b104kb8nnnc
+  score: 0.0763
+  reasons:
+  - same component family

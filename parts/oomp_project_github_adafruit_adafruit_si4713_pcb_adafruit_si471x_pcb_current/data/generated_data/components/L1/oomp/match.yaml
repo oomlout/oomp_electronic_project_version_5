@@ -1,0 +1,36 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: electronic_inductor_0805_120_nano_henry
+inferred:
+  kind: inductor
+  package_size: 0805
+  value: 120nH
+  mpn: null
+reasons:
+- The exact normalized component is not present in the OOMP parts directory.
+candidates:
+- oomp_id: electronic_inductor_0805_1_micro_henry
+  score: 0.4273
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_inductor_0805_2_2_micro_henry
+  score: 0.4194
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_inductor_0805_5_6_micro_henry
+  score: 0.4007
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_inductor_0603_33_nano_henry
+  score: 0.3633
+  reasons:
+  - same component family
+- oomp_id: electronic_inductor_0603_10_micro_henry
+  score: 0.3503
+  reasons:
+  - same component family

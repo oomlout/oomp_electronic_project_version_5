@@ -1,0 +1,38 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: '0603'
+  value: .1u
+  mpn: null
+reasons:
+- The component value could not be normalized into an OOMP ID.
+candidates:
+- oomp_id: electronic_capacitor_0603_1_nano_farad
+  score: 0.1104
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0603_10_nano_farad
+  score: 0.1099
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0603_10_pico_farad
+  score: 0.1099
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0603_11_pico_farad
+  score: 0.1099
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0603_12_nano_farad
+  score: 0.1099
+  reasons:
+  - same component family
+  - same package size

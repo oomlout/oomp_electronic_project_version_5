@@ -1,0 +1,273 @@
+{
+  "count": 8,
+  "components": [
+    {
+      "reference": "LED1",
+      "fields": {
+        "reference": "LED1",
+        "value": "45-21/LK2C-B38452C4CB2/2T",
+        "footprint": "EVERLIGHT_45-21",
+        "library_id": "kicad_file-eagle-import:LEDEV45-21",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "led",
+          "package_size": null,
+          "value": "45-21/LK2C-B38452C4CB2/2T",
+          "mpn": null
+        },
+        "reasons": [
+          "Component family was inferred, but package size was not."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_led_0402_tint",
+            "score": 0.1433,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_led_0402_white",
+            "score": 0.1413,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_led_0402_red_tint",
+            "score": 0.1331,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_led_0201_blue_tint",
+            "score": 0.1314,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_led_0402_blue_tint",
+            "score": 0.1314,
+            "reasons": [
+              "same component family"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/LED1"
+    },
+    {
+      "reference": "TP1",
+      "fields": {
+        "reference": "TP1",
+        "value": "SEWTAP0.5IN",
+        "footprint": "SEWINGTAP_0.5",
+        "library_id": "kicad_file-eagle-import:SEWTAP0.5IN",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "SEWTAP0.5IN",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/TP1"
+    },
+    {
+      "reference": "TP2",
+      "fields": {
+        "reference": "TP2",
+        "value": "SEWTAP0.5IN",
+        "footprint": "SEWINGTAP_0.5",
+        "library_id": "kicad_file-eagle-import:SEWTAP0.5IN",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "SEWTAP0.5IN",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/TP2"
+    },
+    {
+      "reference": "TP3",
+      "fields": {
+        "reference": "TP3",
+        "value": "SEWTAP0.5IN",
+        "footprint": "SEWINGTAP_0.5",
+        "library_id": "kicad_file-eagle-import:SEWTAP0.5IN",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "SEWTAP0.5IN",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/TP3"
+    },
+    {
+      "reference": "TP4",
+      "fields": {
+        "reference": "TP4",
+        "value": "SEWTAP0.5IN",
+        "footprint": "SEWINGTAP_0.5",
+        "library_id": "kicad_file-eagle-import:SEWTAP0.5IN",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "SEWTAP0.5IN",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/TP4"
+    },
+    {
+      "reference": "TP5",
+      "fields": {
+        "reference": "TP5",
+        "value": "SEWTAP0.5IN",
+        "footprint": "SEWINGTAP_0.5",
+        "library_id": "kicad_file-eagle-import:SEWTAP0.5IN",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "SEWTAP0.5IN",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/TP5"
+    },
+    {
+      "reference": "TP6",
+      "fields": {
+        "reference": "TP6",
+        "value": "SEWTAP0.5IN",
+        "footprint": "SEWINGTAP_0.5",
+        "library_id": "kicad_file-eagle-import:SEWTAP0.5IN",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "SEWTAP0.5IN",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/TP6"
+    },
+    {
+      "reference": "U1",
+      "fields": {
+        "reference": "U1",
+        "value": "TCS34725",
+        "footprint": "TCS3472_FN6",
+        "library_id": "kicad_file-eagle-import:LIGHT_TCS3472",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "TCS34725",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/U1"
+    }
+  ]
+}

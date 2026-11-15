@@ -1,0 +1,32 @@
+{
+  "files": {
+    "kicad_file.kicad_pcb": {
+      "sha256": "083eee8f99309a869960b857c97b61aa9a1703b3ec1a3265a56e1c467c37299f",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_metro_328_pcb_metro_thm_ldo_current\\data\\kicad_file.kicad_pcb"
+    },
+    "kicad_file.kicad_sch": {
+      "sha256": "6fc8f3733944c83d3bc6f3fe9c3a7fc96354d2eac43bc80fac04d57b1b4a47a8",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_metro_328_pcb_metro_thm_ldo_current\\data\\kicad_file.kicad_sch"
+    },
+    "kicad_file.kicad_pro": {
+      "sha256": "8e74edef756453ad21f1413eb399a28e60ff51f7d28b46c8403bee33306fc444",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_metro_328_pcb_metro_thm_ldo_current\\data\\kicad_file.kicad_pro"
+    },
+    "source_eagle.brd": {
+      "sha256": "5a164696bf0856920f7d81ef5a4c55a630fc9f80e39a6f8144c1ea97111825ab",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_metro_328_pcb_metro_thm_ldo_current\\data\\source_eagle.brd"
+    },
+    "source_eagle.sch": {
+      "sha256": "fd4017b8d065dec007c2f14188bec2a7a15c98b22c911a6e0885800bbdc9a5c9",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_metro_328_pcb_metro_thm_ldo_current\\data\\source_eagle.sch"
+    },
+    "sym-lib-table": {
+      "sha256": "69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_metro_328_pcb_metro_thm_ldo_current\\data\\sym-lib-table"
+    },
+    "fp-lib-table": {
+      "sha256": "170364166bd8f44fcaf58734c04910aa928c039cacbdb2e84b99ee2203538fdd",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_metro_328_pcb_metro_thm_ldo_current\\data\\fp-lib-table"
+    }
+  }
+}

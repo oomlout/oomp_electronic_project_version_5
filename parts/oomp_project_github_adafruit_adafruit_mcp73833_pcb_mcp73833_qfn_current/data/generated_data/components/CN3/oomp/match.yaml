@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: null
+  value: LOAD_JST
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_capacitor_0603_1_micro_farad_16_volt
+  score: 0.117
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0805_1_micro_farad_25_volt
+  score: 0.117
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_1206_100_nano_farad_100_volt
+  score: 0.117
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_1206_1_nano_farad_500_volt
+  score: 0.117
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0402_100_nano_farad_50_volt
+  score: 0.1156
+  reasons:
+  - same component family

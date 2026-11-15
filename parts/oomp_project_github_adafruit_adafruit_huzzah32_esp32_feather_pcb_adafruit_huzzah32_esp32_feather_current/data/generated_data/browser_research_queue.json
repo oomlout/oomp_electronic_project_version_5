@@ -1,0 +1,307 @@
+{
+  "format_version": 1,
+  "generated_by": "kicad_agents.browser_research_agent",
+  "network_policy": {
+    "research_surface": "available interactive browser",
+    "python_http_clients_allowed": false,
+    "download_method": "browser download followed by validated local import"
+  },
+  "instructions": [
+    "Open the supplied URLs with the available browser; do not replace this with requests, urllib, curl, or an unofficial API.",
+    "Confirm exact package, suffix, pinout, and dimensions from the manufacturer datasheet before accepting a match.",
+    "Record uncertain results as unresolved instead of guessing.",
+    "Download PDFs with the browser, then import them with the import-datasheet command documented in AGENT_GUIDE.md."
+  ],
+  "task_count": 10,
+  "tasks": [
+    {
+      "task_id": "component_research_1",
+      "status": "needs_browser_research",
+      "priority": "high",
+      "references": [
+        "X4"
+      ],
+      "value": "20329",
+      "footprint": "Adafruit HUZZAH32 ESP32 Feather-import-fps:4UCONN_20329_V2",
+      "query": "20329 Adafruit HUZZAH32 ESP32 Feather-import-fps:4UCONN_20329_V2",
+      "browser_urls": {
+        "lcsc_search": "https://www.lcsc.com/search?q=20329+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3A4UCONN_20329_V2",
+        "datasheet_search": "https://www.google.com/search?q=20329+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3A4UCONN_20329_V2+datasheet+pdf"
+      },
+      "current_match_status": "unmatched",
+      "proposed_oomp_id": "",
+      "candidate_oomp_ids": [],
+      "required_result": {
+        "manufacturer": "",
+        "manufacturer_part_number": "",
+        "lcsc_part_number": "",
+        "datasheet_url": "",
+        "confirmed_oomp_id": "",
+        "confidence": "",
+        "evidence_notes": ""
+      }
+    },
+    {
+      "task_id": "component_research_2",
+      "status": "needs_browser_research",
+      "priority": "high",
+      "references": [
+        "U2"
+      ],
+      "value": "AP2112-3.3",
+      "footprint": "Adafruit HUZZAH32 ESP32 Feather-import-fps:SOT23-5",
+      "query": "AP2112-3.3 Adafruit HUZZAH32 ESP32 Feather-import-fps:SOT23-5",
+      "browser_urls": {
+        "lcsc_search": "https://www.lcsc.com/search?q=AP2112-3.3+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ASOT23-5",
+        "datasheet_search": "https://www.google.com/search?q=AP2112-3.3+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ASOT23-5+datasheet+pdf"
+      },
+      "current_match_status": "unmatched",
+      "proposed_oomp_id": "",
+      "candidate_oomp_ids": [],
+      "required_result": {
+        "manufacturer": "",
+        "manufacturer_part_number": "",
+        "lcsc_part_number": "",
+        "datasheet_url": "",
+        "confirmed_oomp_id": "",
+        "confidence": "",
+        "evidence_notes": ""
+      }
+    },
+    {
+      "task_id": "component_research_3",
+      "status": "needs_browser_research",
+      "priority": "high",
+      "references": [
+        "IC1"
+      ],
+      "value": "CP2104",
+      "footprint": "Adafruit HUZZAH32 ESP32 Feather-import-fps:QFN24_4MM_SMSC",
+      "query": "CP2104 Adafruit HUZZAH32 ESP32 Feather-import-fps:QFN24_4MM_SMSC",
+      "browser_urls": {
+        "lcsc_search": "https://www.lcsc.com/search?q=CP2104+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3AQFN24_4MM_SMSC",
+        "datasheet_search": "https://www.google.com/search?q=CP2104+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3AQFN24_4MM_SMSC+datasheet+pdf"
+      },
+      "current_match_status": "unmatched",
+      "proposed_oomp_id": "",
+      "candidate_oomp_ids": [],
+      "required_result": {
+        "manufacturer": "",
+        "manufacturer_part_number": "",
+        "lcsc_part_number": "",
+        "datasheet_url": "",
+        "confirmed_oomp_id": "",
+        "confidence": "",
+        "evidence_notes": ""
+      }
+    },
+    {
+      "task_id": "component_research_4",
+      "status": "needs_browser_research",
+      "priority": "high",
+      "references": [
+        "Q3"
+      ],
+      "value": "DMG3415U",
+      "footprint": "Adafruit HUZZAH32 ESP32 Feather-import-fps:SOT23-R",
+      "query": "DMG3415U Adafruit HUZZAH32 ESP32 Feather-import-fps:SOT23-R",
+      "browser_urls": {
+        "lcsc_search": "https://www.lcsc.com/search?q=DMG3415U+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ASOT23-R",
+        "datasheet_search": "https://www.google.com/search?q=DMG3415U+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ASOT23-R+datasheet+pdf"
+      },
+      "current_match_status": "unmatched",
+      "proposed_oomp_id": "",
+      "candidate_oomp_ids": [
+        "electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_30_volt_alpha_omega_semicon_ao3401a",
+        "electronic_transistor_so_8_mosfet_p_channel_enhancement_mode_30_volt_10_amp_infineon_technologies_irf7416trpbf",
+        "electronic_transistor_to_220ab_mosfet_p_channel_enhancement_mode_55_volt_31_amp_infineon_technologies_irf5305pbf",
+        "electronic_transistor_to_220ab_mosfet_p_channel_enhancement_mode_55_volt_74_amp_infineon_technologies_irf4905pbf",
+        "electronic_transistor_to_251_mosfet_p_channel_enhancement_mode_100_volt_13_amp_infineon_technologies_irfu5410pbf"
+      ],
+      "required_result": {
+        "manufacturer": "",
+        "manufacturer_part_number": "",
+        "lcsc_part_number": "",
+        "datasheet_url": "",
+        "confirmed_oomp_id": "",
+        "confidence": "",
+        "evidence_notes": ""
+      }
+    },
+    {
+      "task_id": "component_research_5",
+      "status": "needs_browser_research",
+      "priority": "high",
+      "references": [
+        "X2"
+      ],
+      "value": "ESP32_WROOM32_SKINNY",
+      "footprint": "Adafruit HUZZAH32 ESP32 Feather-import-fps:WROOM32_SKINNY",
+      "query": "ESP32_WROOM32_SKINNY Adafruit HUZZAH32 ESP32 Feather-import-fps:WROOM32_SKINNY",
+      "browser_urls": {
+        "lcsc_search": "https://www.lcsc.com/search?q=ESP32_WROOM32_SKINNY+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3AWROOM32_SKINNY",
+        "datasheet_search": "https://www.google.com/search?q=ESP32_WROOM32_SKINNY+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3AWROOM32_SKINNY+datasheet+pdf"
+      },
+      "current_match_status": "unmatched",
+      "proposed_oomp_id": "",
+      "candidate_oomp_ids": [],
+      "required_result": {
+        "manufacturer": "",
+        "manufacturer_part_number": "",
+        "lcsc_part_number": "",
+        "datasheet_url": "",
+        "confirmed_oomp_id": "",
+        "confidence": "",
+        "evidence_notes": ""
+      }
+    },
+    {
+      "task_id": "component_research_6",
+      "status": "needs_browser_research",
+      "priority": "high",
+      "references": [
+        "X1"
+      ],
+      "value": "JSTPH",
+      "footprint": "Adafruit HUZZAH32 ESP32 Feather-import-fps:JSTPH2",
+      "query": "JSTPH Adafruit HUZZAH32 ESP32 Feather-import-fps:JSTPH2",
+      "browser_urls": {
+        "lcsc_search": "https://www.lcsc.com/search?q=JSTPH+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3AJSTPH2",
+        "datasheet_search": "https://www.google.com/search?q=JSTPH+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3AJSTPH2+datasheet+pdf"
+      },
+      "current_match_status": "unmatched",
+      "proposed_oomp_id": "",
+      "candidate_oomp_ids": [],
+      "required_result": {
+        "manufacturer": "",
+        "manufacturer_part_number": "",
+        "lcsc_part_number": "",
+        "datasheet_url": "",
+        "confirmed_oomp_id": "",
+        "confidence": "",
+        "evidence_notes": ""
+      }
+    },
+    {
+      "task_id": "component_research_7",
+      "status": "needs_browser_research",
+      "priority": "high",
+      "references": [
+        "SW2"
+      ],
+      "value": "KMR2",
+      "footprint": "Adafruit HUZZAH32 ESP32 Feather-import-fps:BTN_KMR2_4.6X2.8",
+      "query": "KMR2 Adafruit HUZZAH32 ESP32 Feather-import-fps:BTN_KMR2_4.6X2.8",
+      "browser_urls": {
+        "lcsc_search": "https://www.lcsc.com/search?q=KMR2+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ABTN_KMR2_4.6X2.8",
+        "datasheet_search": "https://www.google.com/search?q=KMR2+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ABTN_KMR2_4.6X2.8+datasheet+pdf"
+      },
+      "current_match_status": "unmatched",
+      "proposed_oomp_id": "",
+      "candidate_oomp_ids": [],
+      "required_result": {
+        "manufacturer": "",
+        "manufacturer_part_number": "",
+        "lcsc_part_number": "",
+        "datasheet_url": "",
+        "confirmed_oomp_id": "",
+        "confidence": "",
+        "evidence_notes": ""
+      }
+    },
+    {
+      "task_id": "component_research_8",
+      "status": "needs_browser_research",
+      "priority": "high",
+      "references": [
+        "D4"
+      ],
+      "value": "MBR120",
+      "footprint": "Adafruit HUZZAH32 ESP32 Feather-import-fps:SOD-123",
+      "query": "MBR120 Adafruit HUZZAH32 ESP32 Feather-import-fps:SOD-123",
+      "browser_urls": {
+        "lcsc_search": "https://www.lcsc.com/search?q=MBR120+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ASOD-123",
+        "datasheet_search": "https://www.google.com/search?q=MBR120+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ASOD-123+datasheet+pdf"
+      },
+      "current_match_status": "unmatched",
+      "proposed_oomp_id": "electronic_diode_schottky_sod_123",
+      "candidate_oomp_ids": [
+        "electronic_diode_schottky_sod_123_ss14",
+        "electronic_diode_schottky_sod_323_bat54w",
+        "electronic_diode_schottky_sod_523_1ss400",
+        "electronic_diode_switching_sod_123_onsemi_1n4148w",
+        "electronic_diode_switching_sod_123_st_semtech_1n4148w"
+      ],
+      "required_result": {
+        "manufacturer": "",
+        "manufacturer_part_number": "",
+        "lcsc_part_number": "",
+        "datasheet_url": "",
+        "confirmed_oomp_id": "",
+        "confidence": "",
+        "evidence_notes": ""
+      }
+    },
+    {
+      "task_id": "component_research_9",
+      "status": "needs_browser_research",
+      "priority": "high",
+      "references": [
+        "U3"
+      ],
+      "value": "MCP73831T-2ACI/OT",
+      "footprint": "Adafruit HUZZAH32 ESP32 Feather-import-fps:SOT23-5",
+      "query": "MCP73831T-2ACI/OT Adafruit HUZZAH32 ESP32 Feather-import-fps:SOT23-5",
+      "browser_urls": {
+        "lcsc_search": "https://www.lcsc.com/search?q=MCP73831T-2ACI%2FOT+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ASOT23-5",
+        "datasheet_search": "https://www.google.com/search?q=MCP73831T-2ACI%2FOT+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ASOT23-5+datasheet+pdf"
+      },
+      "current_match_status": "unmatched",
+      "proposed_oomp_id": "",
+      "candidate_oomp_ids": [],
+      "required_result": {
+        "manufacturer": "",
+        "manufacturer_part_number": "",
+        "lcsc_part_number": "",
+        "datasheet_url": "",
+        "confirmed_oomp_id": "",
+        "confidence": "",
+        "evidence_notes": ""
+      }
+    },
+    {
+      "task_id": "component_research_10",
+      "status": "needs_browser_research",
+      "priority": "high",
+      "references": [
+        "Q1",
+        "Q2"
+      ],
+      "value": "mmbt2222",
+      "footprint": "Adafruit HUZZAH32 ESP32 Feather-import-fps:SOT23-3",
+      "query": "mmbt2222 Adafruit HUZZAH32 ESP32 Feather-import-fps:SOT23-3",
+      "browser_urls": {
+        "lcsc_search": "https://www.lcsc.com/search?q=mmbt2222+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ASOT23-3",
+        "datasheet_search": "https://www.google.com/search?q=mmbt2222+Adafruit+HUZZAH32+ESP32+Feather-import-fps%3ASOT23-3+datasheet+pdf"
+      },
+      "current_match_status": "unmatched",
+      "proposed_oomp_id": "",
+      "candidate_oomp_ids": [
+        "electronic_transistor_to_3p_3_mosfet_n_channel_enhancement_mode_500_volt_28_4_amp_onsemi_fqa28n50",
+        "electronic_transistor_to_252_mosfet_p_channel_enhancement_mode_200_volt_3_6_amp_vishay_intertech_irfr9220trpbf",
+        "electronic_transistor_sot_89_3_bipolar_pnp_50_volt_2_amp_jiangsu_changjing_electronics_technology_co_ltd_2sa1213_range_120_240",
+        "electronic_transistor_to_220ab_mosfet_n_channel_enhancement_mode_200_volt_9_3_amp_infineon_technologies_irf630npbf",
+        "electronic_transistor_to_220_3_mosfet_n_channel_enhancement_mode_100_volt_127_amp_infineon_technologies_irfb4310zpbf"
+      ],
+      "required_result": {
+        "manufacturer": "",
+        "manufacturer_part_number": "",
+        "lcsc_part_number": "",
+        "datasheet_url": "",
+        "confirmed_oomp_id": "",
+        "confidence": "",
+        "evidence_notes": ""
+      }
+    }
+  ]
+}

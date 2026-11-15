@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: fe67dfc9a109a69ffee1058a3b2c0fc80feeec59620b713deda7263254301577
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mosfet_driver_stemma_pcb_adafruit_mosfet_driver_stemma_breakout_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: 5697d548057f3d08fbb60fed985f2a1ff1386813c414f26814408a836f06f4c8
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mosfet_driver_stemma_pcb_adafruit_mosfet_driver_stemma_breakout_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: 8453b7fdff784acd64db70255174bdddca02d2b9c80d6f162637a75018907f27
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mosfet_driver_stemma_pcb_adafruit_mosfet_driver_stemma_breakout_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: 62bfc52e9d8aeeb84c29684d9708e18b0cc14a81674135083231bc8ceb0519f9
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mosfet_driver_stemma_pcb_adafruit_mosfet_driver_stemma_breakout_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: f3e7f088b9048832411213ea00b64629885cbe98362de2045a2d99ef74fe33be
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mosfet_driver_stemma_pcb_adafruit_mosfet_driver_stemma_breakout_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mosfet_driver_stemma_pcb_adafruit_mosfet_driver_stemma_breakout_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: 4309bc33fb8914d7954f367fc0b37cb4f34dca24eb1b29c5a98cbee5bff1664b
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mosfet_driver_stemma_pcb_adafruit_mosfet_driver_stemma_breakout_current\data\fp-lib-table

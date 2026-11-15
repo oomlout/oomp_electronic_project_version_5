@@ -1,0 +1,38 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: null
+  value: 22uF/50V
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  score: 0.7085
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt_avx_taja226m010rnej
+  score: 0.7066
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_3528_avx_b_tantalum_22_micro_farad_10_volt_avx_tajb226k010rnej
+  score: 0.7066
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_3528_avx_b_tantalum_22_micro_farad_20_volt_avx_tajb226k020rnej
+  score: 0.7066
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_6032_avx_c_tantalum_22_micro_farad_25_volt_avx_tajc226k025rnej
+  score: 0.7066
+  reasons:
+  - same component family
+  - same normalized value

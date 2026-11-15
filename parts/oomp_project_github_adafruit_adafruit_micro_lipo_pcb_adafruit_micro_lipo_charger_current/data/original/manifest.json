@@ -1,0 +1,32 @@
+{
+  "files": {
+    "kicad_file.kicad_pcb": {
+      "sha256": "b5e0d5186304eb3dc96c681289eaeaf66dbd8344dc06bfd5662cf85340338ab4",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_micro_lipo_pcb_adafruit_micro_lipo_charger_current\\data\\kicad_file.kicad_pcb"
+    },
+    "kicad_file.kicad_sch": {
+      "sha256": "1b11842c45c0b2d7a192937abba15e82b9f92bea4fb70c01a33ddc658dde1644",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_micro_lipo_pcb_adafruit_micro_lipo_charger_current\\data\\kicad_file.kicad_sch"
+    },
+    "kicad_file.kicad_pro": {
+      "sha256": "70ab5a9fe12db39a6bd2822e90c1aba0416212052ecc2deac23ffa8798985a5e",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_micro_lipo_pcb_adafruit_micro_lipo_charger_current\\data\\kicad_file.kicad_pro"
+    },
+    "source_eagle.brd": {
+      "sha256": "2c6e3a4cac29bd854072653d110c034408ea6d19e6770056e4395d6ddec054cc",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_micro_lipo_pcb_adafruit_micro_lipo_charger_current\\data\\source_eagle.brd"
+    },
+    "source_eagle.sch": {
+      "sha256": "a116f087fdd9c77e71f1a78ab1a80b2b8c87e1601ccd34d896a82849e8deaf3d",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_micro_lipo_pcb_adafruit_micro_lipo_charger_current\\data\\source_eagle.sch"
+    },
+    "sym-lib-table": {
+      "sha256": "69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_micro_lipo_pcb_adafruit_micro_lipo_charger_current\\data\\sym-lib-table"
+    },
+    "fp-lib-table": {
+      "sha256": "1ace0c5a87499660f53fb5bb012e2ff706ae57ecc2c075c71ddeca19675ee03d",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_micro_lipo_pcb_adafruit_micro_lipo_charger_current\\data\\fp-lib-table"
+    }
+  }
+}

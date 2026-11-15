@@ -1,0 +1,43 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: electronic_resistor_0603_4_3_ohm
+inferred:
+  kind: resistor
+  package_size: '0603'
+  value: 4.3 ohm
+  mpn: null
+reasons:
+- The exact normalized component is not present in the OOMP parts directory.
+candidates:
+- oomp_id: electronic_resistor_0603_4_7_ohm
+  score: 0.9714
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_resistor_0603_5_1_ohm
+  score: 0.945
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_resistor_0603_5_6_ohm
+  score: 0.9166
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_resistor_0603_2_7_ohm
+  score: 0.8554
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_resistor_0603_2_2_ohm
+  score: 0.7931
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value

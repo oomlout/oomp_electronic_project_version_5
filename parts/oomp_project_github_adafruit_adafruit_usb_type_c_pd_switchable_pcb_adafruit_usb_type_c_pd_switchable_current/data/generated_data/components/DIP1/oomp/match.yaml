@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: diode
+  package_size: null
+  value: DIPSWITCH_6PIN
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_diode_zener_do_27_onsemi_1n5338brlg
+  score: 0.1629
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_zener_do_27_onsemi_1n5339brlg
+  score: 0.1629
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_zener_do_27_onsemi_1n5350brlg
+  score: 0.1629
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_switching_sod_123_onsemi_1n4148w
+  score: 0.1544
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_switching_sod_323_onsemi_1n4148ws
+  score: 0.1527
+  reasons:
+  - same component family

@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: diode
+  package_size: null
+  value: 6mm
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_diode_rectifier_sma_m4
+  score: 0.0822
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_rectifier_r_6_mdd_microdiode_semiconductor_6a10
+  score: 0.0656
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_rectifier_r_6_mdd_microdiode_semiconductor_10a10
+  score: 0.0651
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_tvs_smb_brightking_p6smb6_8ca_tr13
+  score: 0.062
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_bridge_rectifier_br_6_mdd_microdiode_semiconductor_kbpc608
+  score: 0.0594
+  reasons:
+  - same component family

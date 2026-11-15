@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: null
+  value: 1X4-CLEANBIG
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_capacitor_1206_4_pico_farad
+  score: 0.12
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_1206_4_7_nano_farad
+  score: 0.1137
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_1206_4_7_micro_farad
+  score: 0.1125
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0402_1_nano_farad
+  score: 0.106
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0402_1_pico_farad
+  score: 0.106
+  reasons:
+  - same component family

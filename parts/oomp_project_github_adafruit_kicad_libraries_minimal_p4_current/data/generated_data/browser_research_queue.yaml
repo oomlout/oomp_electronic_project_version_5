@@ -1,0 +1,164 @@
+format_version: 1
+generated_by: kicad_agents.browser_research_agent
+network_policy:
+  research_surface: available interactive browser
+  python_http_clients_allowed: false
+  download_method: browser download followed by validated local import
+instructions:
+- Open the supplied URLs with the available browser; do not replace this with requests,
+  urllib, curl, or an unofficial API.
+- Confirm exact package, suffix, pinout, and dimensions from the manufacturer datasheet
+  before accepting a match.
+- Record uncertain results as unresolved instead of guessing.
+- Download PDFs with the browser, then import them with the import-datasheet command
+  documented in AGENT_GUIDE.md.
+task_count: 6
+tasks:
+- task_id: component_research_1
+  status: needs_browser_research
+  priority: high
+  references:
+  - L1
+  value: 2.2uH
+  footprint: Inductor_SMD:L_1008_2520Metric
+  query: 2.2uH Inductor_SMD:L_1008_2520Metric
+  browser_urls:
+    lcsc_search: https://www.lcsc.com/search?q=2.2uH+Inductor_SMD%3AL_1008_2520Metric
+    datasheet_search: https://www.google.com/search?q=2.2uH+Inductor_SMD%3AL_1008_2520Metric+datasheet+pdf
+  current_match_status: unmatched
+  proposed_oomp_id: ''
+  candidate_oomp_ids:
+  - electronic_inductor_0805_2_2_micro_henry
+  - electronic_inductor_0806_2_2_micro_henry
+  - electronic_inductor_1206_2_2_micro_henry
+  - electronic_inductor_0603_30_ohm
+  - electronic_inductor_0603_470_ohm
+  required_result:
+    manufacturer: ''
+    manufacturer_part_number: ''
+    lcsc_part_number: ''
+    datasheet_url: ''
+    confirmed_oomp_id: ''
+    confidence: ''
+    evidence_notes: ''
+- task_id: component_research_2
+  status: needs_browser_research
+  priority: high
+  references:
+  - Y1
+  value: 40MHz(+-10 ppm) C501798
+  footprint: Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm
+  query: 40MHz(+-10 ppm) C501798 Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm
+  browser_urls:
+    lcsc_search: https://www.lcsc.com/search?q=40MHz%28%2B-10+ppm%29+C501798+Crystal%3ACrystal_SMD_2016-4Pin_2.0x1.6mm
+    datasheet_search: https://www.google.com/search?q=40MHz%28%2B-10+ppm%29+C501798+Crystal%3ACrystal_SMD_2016-4Pin_2.0x1.6mm+datasheet+pdf
+  current_match_status: unmatched
+  proposed_oomp_id: electronic_crystal_2016_surface_mount_4_pin_40_mhz_20_pf
+  candidate_oomp_ids:
+  - electronic_crystal_5032_surface_mount_2_pin_8_mhz_20_pf
+  - electronic_crystal_hc_49s_smd_surface_mount_2_pin_10_mhz_20_pf_60_ohm_esr
+  - electronic_crystal_2016_surface_mount_4_pin_26_mhz_20_pf_txc_nx3225gd
+  - electronic_crystal_3225_surface_mount_4_pin_12_mhz_20_pf
+  - electronic_crystal_3225_surface_mount_4_pin_16_mhz_20_pf
+  required_result:
+    manufacturer: ''
+    manufacturer_part_number: ''
+    lcsc_part_number: ''
+    datasheet_url: ''
+    confirmed_oomp_id: ''
+    confidence: ''
+    evidence_notes: ''
+- task_id: component_research_3
+  status: needs_browser_research
+  priority: high
+  references:
+  - R1
+  - R2
+  value: 499k
+  footprint: Resistor_SMD:R_0402_1005Metric
+  query: 499k Resistor_SMD:R_0402_1005Metric
+  browser_urls:
+    lcsc_search: https://www.lcsc.com/search?q=499k+Resistor_SMD%3AR_0402_1005Metric
+    datasheet_search: https://www.google.com/search?q=499k+Resistor_SMD%3AR_0402_1005Metric+datasheet+pdf
+  current_match_status: unmatched
+  proposed_oomp_id: electronic_resistor_0402_499000_ohm
+  candidate_oomp_ids:
+  - electronic_resistor_quarter_watt_through_hole_510000_ohm
+  - electronic_resistor_quarter_watt_through_hole_470000_ohm
+  - electronic_resistor_quarter_watt_through_hole_560000_ohm
+  - electronic_resistor_quarter_watt_through_hole_390000_ohm
+  - electronic_resistor_quarter_watt_through_hole_680000_ohm
+  required_result:
+    manufacturer: ''
+    manufacturer_part_number: ''
+    lcsc_part_number: ''
+    datasheet_url: ''
+    confirmed_oomp_id: ''
+    confidence: ''
+    evidence_notes: ''
+- task_id: component_research_4
+  status: needs_browser_research
+  priority: high
+  references:
+  - U1
+  value: TLV62569DBV
+  footprint: Package_TO_SOT_SMD:SOT-23-5
+  query: TLV62569DBV Package_TO_SOT_SMD:SOT-23-5
+  browser_urls:
+    lcsc_search: https://www.lcsc.com/search?q=TLV62569DBV+Package_TO_SOT_SMD%3ASOT-23-5
+    datasheet_search: https://www.google.com/search?q=TLV62569DBV+Package_TO_SOT_SMD%3ASOT-23-5+datasheet+pdf
+  current_match_status: unmatched
+  proposed_oomp_id: ''
+  candidate_oomp_ids: []
+  required_result:
+    manufacturer: ''
+    manufacturer_part_number: ''
+    lcsc_part_number: ''
+    datasheet_url: ''
+    confirmed_oomp_id: ''
+    confidence: ''
+    evidence_notes: ''
+- task_id: component_research_5
+  status: needs_browser_research
+  priority: high
+  references:
+  - U3
+  value: W25Q128JVS
+  footprint: Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm
+  query: W25Q128JVS Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm
+  browser_urls:
+    lcsc_search: https://www.lcsc.com/search?q=W25Q128JVS+Package_SON%3AWSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm
+    datasheet_search: https://www.google.com/search?q=W25Q128JVS+Package_SON%3AWSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm+datasheet+pdf
+  current_match_status: unmatched
+  proposed_oomp_id: ''
+  candidate_oomp_ids: []
+  required_result:
+    manufacturer: ''
+    manufacturer_part_number: ''
+    lcsc_part_number: ''
+    datasheet_url: ''
+    confirmed_oomp_id: ''
+    confidence: ''
+    evidence_notes: ''
+- task_id: component_research_6
+  status: needs_browser_research
+  priority: high
+  references:
+  - U2
+  value: '~'
+  footprint: Espressif:ESP32-P4
+  query: ~ Espressif:ESP32-P4
+  browser_urls:
+    lcsc_search: https://www.lcsc.com/search?q=~+Espressif%3AESP32-P4
+    datasheet_search: https://www.google.com/search?q=~+Espressif%3AESP32-P4+datasheet+pdf
+  current_match_status: unmatched
+  proposed_oomp_id: ''
+  candidate_oomp_ids: []
+  required_result:
+    manufacturer: ''
+    manufacturer_part_number: ''
+    lcsc_part_number: ''
+    datasheet_url: ''
+    confirmed_oomp_id: ''
+    confidence: ''
+    evidence_notes: ''

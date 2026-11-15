@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: null
+  value: HEADER-1X1ROUND
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_capacitor_1206_1_micro_farad
+  score: 0.1631
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_1206_10_micro_farad
+  score: 0.161
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_1210_68_micro_farad
+  score: 0.161
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_1210_2_2_micro_farad
+  score: 0.1589
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_1206_1_nano_farad
+  score: 0.1521
+  reasons:
+  - same component family

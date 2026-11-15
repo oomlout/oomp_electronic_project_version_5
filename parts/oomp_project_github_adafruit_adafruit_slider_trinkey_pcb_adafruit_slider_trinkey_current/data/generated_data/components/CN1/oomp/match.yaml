@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: null
+  value: USB A
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  score: 0.089
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+  score: 0.0853
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_10_micro_farad_10_volt_avx_taja106k010rnej
+  score: 0.0843
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_1_micro_farad_16_volt_avx_taja105k016rnej
+  score: 0.0811
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_1_micro_farad_25_volt_avx_taja105k025rnej
+  score: 0.0811
+  reasons:
+  - same component family

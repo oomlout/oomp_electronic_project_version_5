@@ -1,0 +1,362 @@
+{
+  "count": 7,
+  "components": [
+    {
+      "reference": "L1",
+      "fields": {
+        "reference": "L1",
+        "value": "2.2uH",
+        "footprint": "Inductor_SMD:L_1008_2520Metric",
+        "library_id": "Device:L_Small",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "inductor",
+          "package_size": null,
+          "value": "2.2uH",
+          "mpn": null
+        },
+        "reasons": [
+          "Component family was inferred, but package size was not."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_inductor_0805_2_2_micro_henry",
+            "score": 0.1622,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_inductor_0806_2_2_micro_henry",
+            "score": 0.1622,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_inductor_1206_2_2_micro_henry",
+            "score": 0.1622,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_inductor_0603_30_ohm",
+            "score": 0.1083,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_inductor_0603_470_ohm",
+            "score": 0.1068,
+            "reasons": [
+              "same component family"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/L1"
+    },
+    {
+      "reference": "R1",
+      "fields": {
+        "reference": "R1",
+        "value": "499k",
+        "footprint": "Resistor_SMD:R_0402_1005Metric",
+        "library_id": "Device:R_Small",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": "electronic_resistor_0402_499000_ohm",
+        "inferred": {
+          "kind": "resistor",
+          "package_size": "0402",
+          "value": "499k",
+          "mpn": null
+        },
+        "reasons": [
+          "The exact normalized component is not present in the OOMP parts directory."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_resistor_quarter_watt_through_hole_510000_ohm",
+            "score": 0.7241,
+            "reasons": [
+              "same component family",
+              "nearby normalized value"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_quarter_watt_through_hole_470000_ohm",
+            "score": 0.7137,
+            "reasons": [
+              "same component family",
+              "nearby normalized value"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_quarter_watt_through_hole_560000_ohm",
+            "score": 0.6957,
+            "reasons": [
+              "same component family",
+              "nearby normalized value"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_quarter_watt_through_hole_390000_ohm",
+            "score": 0.6558,
+            "reasons": [
+              "same component family",
+              "nearby normalized value"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_quarter_watt_through_hole_680000_ohm",
+            "score": 0.6367,
+            "reasons": [
+              "same component family",
+              "nearby normalized value"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/R1"
+    },
+    {
+      "reference": "R2",
+      "fields": {
+        "reference": "R2",
+        "value": "499k",
+        "footprint": "Resistor_SMD:R_0402_1005Metric",
+        "library_id": "Device:R_Small",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": "electronic_resistor_0402_499000_ohm",
+        "inferred": {
+          "kind": "resistor",
+          "package_size": "0402",
+          "value": "499k",
+          "mpn": null
+        },
+        "reasons": [
+          "The exact normalized component is not present in the OOMP parts directory."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_resistor_quarter_watt_through_hole_510000_ohm",
+            "score": 0.7241,
+            "reasons": [
+              "same component family",
+              "nearby normalized value"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_quarter_watt_through_hole_470000_ohm",
+            "score": 0.7137,
+            "reasons": [
+              "same component family",
+              "nearby normalized value"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_quarter_watt_through_hole_560000_ohm",
+            "score": 0.6957,
+            "reasons": [
+              "same component family",
+              "nearby normalized value"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_quarter_watt_through_hole_390000_ohm",
+            "score": 0.6558,
+            "reasons": [
+              "same component family",
+              "nearby normalized value"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_quarter_watt_through_hole_680000_ohm",
+            "score": 0.6367,
+            "reasons": [
+              "same component family",
+              "nearby normalized value"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/R2"
+    },
+    {
+      "reference": "U1",
+      "fields": {
+        "reference": "U1",
+        "value": "TLV62569DBV",
+        "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+        "library_id": "Regulator_Switching:TLV62569DBV",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "TLV62569DBV",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/U1"
+    },
+    {
+      "reference": "U2",
+      "fields": {
+        "reference": "U2",
+        "value": "~",
+        "footprint": "Espressif:ESP32-P4",
+        "library_id": "Espressif:ESP32-P4",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "~",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/U2"
+    },
+    {
+      "reference": "U3",
+      "fields": {
+        "reference": "U3",
+        "value": "W25Q128JVS",
+        "footprint": "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm",
+        "library_id": "Memory_Flash:W25Q128JVS",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "W25Q128JVS",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/U3"
+    },
+    {
+      "reference": "Y1",
+      "fields": {
+        "reference": "Y1",
+        "value": "40MHz(+-10 ppm) C501798",
+        "footprint": "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm",
+        "library_id": "Device:Crystal_GND24_Small",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": "electronic_crystal_2016_surface_mount_4_pin_40_mhz_20_pf",
+        "inferred": {
+          "kind": "crystal",
+          "package_size": null,
+          "value": "40MHz(+-10 ppm) C501798",
+          "mpn": null
+        },
+        "reasons": [
+          "Component family was inferred, but package size was not."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_crystal_5032_surface_mount_2_pin_8_mhz_20_pf",
+            "score": 0.3718,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_crystal_hc_49s_smd_surface_mount_2_pin_10_mhz_20_pf_60_ohm_esr",
+            "score": 0.3713,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_crystal_2016_surface_mount_4_pin_26_mhz_20_pf_txc_nx3225gd",
+            "score": 0.3544,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_crystal_3225_surface_mount_4_pin_12_mhz_20_pf",
+            "score": 0.3458,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_crystal_3225_surface_mount_4_pin_16_mhz_20_pf",
+            "score": 0.3458,
+            "reasons": [
+              "same component family"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/Y1"
+    }
+  ]
+}

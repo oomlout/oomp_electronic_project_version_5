@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: electronic_crystal_2016_surface_mount_4_pin_40_mhz_20_pf
+inferred:
+  kind: crystal
+  package_size: null
+  value: 40MHz(+-10 ppm) C501798
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_crystal_5032_surface_mount_2_pin_8_mhz_20_pf
+  score: 0.3718
+  reasons:
+  - same component family
+- oomp_id: electronic_crystal_hc_49s_smd_surface_mount_2_pin_10_mhz_20_pf_60_ohm_esr
+  score: 0.3713
+  reasons:
+  - same component family
+- oomp_id: electronic_crystal_2016_surface_mount_4_pin_26_mhz_20_pf_txc_nx3225gd
+  score: 0.3544
+  reasons:
+  - same component family
+- oomp_id: electronic_crystal_3225_surface_mount_4_pin_12_mhz_20_pf
+  score: 0.3458
+  reasons:
+  - same component family
+- oomp_id: electronic_crystal_3225_surface_mount_4_pin_16_mhz_20_pf
+  score: 0.3458
+  reasons:
+  - same component family

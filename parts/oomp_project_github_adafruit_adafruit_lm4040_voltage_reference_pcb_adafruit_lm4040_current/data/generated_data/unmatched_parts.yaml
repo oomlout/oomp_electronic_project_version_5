@@ -1,0 +1,88 @@
+count: 2
+components:
+- reference: D1
+  fields:
+    reference: D1
+    value: LM4040AIM3-2.0/NOPB
+    footprint: SOT23-R
+    library_id: kicad_file-eagle-import:VREF_SHUNT
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: diode
+      package_size: null
+      value: LM4040AIM3-2.0/NOPB
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_diode_zener_do_27_onsemi_1n5338brlg
+      score: 0.1204
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_zener_do_27_onsemi_1n5339brlg
+      score: 0.1204
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_esd_0402_littelfuse_pesd0402
+      score: 0.1127
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_schottky_0402
+      score: 0.1121
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_zener_do_27_onsemi_1n5350brlg
+      score: 0.1096
+      reasons:
+      - same component family
+  generated_directory: components/D1
+- reference: D2
+  fields:
+    reference: D2
+    value: LM4040AIM3-4.1/NOPB
+    footprint: SOT23-R
+    library_id: kicad_file-eagle-import:VREF_SHUNT
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: diode
+      package_size: null
+      value: LM4040AIM3-4.1/NOPB
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_diode_rectifier_r_1_mdd_microdiode_semiconductor_1a7g
+      score: 0.1701
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_bridge_rectifier_dip_4_mdd_microdiode_semiconductor_w06
+      score: 0.1234
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_esd_0402_littelfuse_pesd0402
+      score: 0.1127
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_zener_do_27_onsemi_1n5338brlg
+      score: 0.1096
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_zener_do_27_onsemi_1n5339brlg
+      score: 0.1096
+      reasons:
+      - same component family
+  generated_directory: components/D2

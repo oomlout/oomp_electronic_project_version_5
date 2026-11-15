@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: ALS-PT19
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_sot_23_bipolar_npn
+  score: 0.1048
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_23_bipolar_pnp
+  score: 0.1048
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_252_bipolar_pnp_80_volt_8_amp_onsemi_mjd45h11g
+  score: 0.0857
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_204_bipolar_pnp_140_volt_20_amp_onsemi_mj15004g
+  score: 0.085
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_204_bipolar_pnp_250_volt_16_amp_onsemi_mj15025g
+  score: 0.085
+  reasons:
+  - same component family

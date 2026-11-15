@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: 22bbd847bfa52d94845c4741fb5238b0dadf9680ab215a804f38df14416f339c
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_pixel_ring_adafruit_neo_pixel_ring_12_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: ae1901e07b927c0179304c90048a98518aa425e7a939c917ee23415c81518a8d
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_pixel_ring_adafruit_neo_pixel_ring_12_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: 0e92ba7b9737f79031e375dcd2c680add5cb002cb2c45c3478423584f2b94d87
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_pixel_ring_adafruit_neo_pixel_ring_12_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: 51cb78f747f5b359f9f8ce42152482cf451cb840a1741a619c70359d3b6ee0cb
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_pixel_ring_adafruit_neo_pixel_ring_12_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: ee264d2f356b30447b6d617d58b70e4c2bce344d1efefa139ab37d5089f230de
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_pixel_ring_adafruit_neo_pixel_ring_12_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_pixel_ring_adafruit_neo_pixel_ring_12_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: 8c11dc3a6d16b156c96fa6c6b9ba3dde1d56713c14b36da1d0328f0ec36c2119
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_pixel_ring_adafruit_neo_pixel_ring_12_current\data\fp-lib-table

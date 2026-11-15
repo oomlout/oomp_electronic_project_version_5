@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: 04d398abc6b483b00c6aea35518ae1918357b6f6aa32f61ce21de2b4e84b19a7
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: 0505da4179b7d0fbaf6060befbb85b609217cad995e0e30f9b4d23a8ccb57061
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: 927fe24d3f2855f87690d2dbaad66921c4ca3b26586aeac3db24cbdeeedcf425
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: 15691a3d20999fb061b5548ec62da87e642a881326eade7c387ef8eac0c21fbf
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: 59513be2dcfde2595404c85a51b5f86e4d24057b53502a1d18cb41cf79cf48c0
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: 3c3fea721b2aa109688601cc4a44b501b3e834ae55e6d953aa94bde92953ee06
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_trellis_m4_pcb_and_enclosure_adafruit_neo_trellis_m4_current\data\fp-lib-table

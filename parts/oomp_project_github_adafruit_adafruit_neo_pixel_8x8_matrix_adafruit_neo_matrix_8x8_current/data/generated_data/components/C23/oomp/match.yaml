@@ -1,0 +1,38 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: 0805
+  value: CAP_CERAMIC0805-NOOUTLINE
+  mpn: null
+reasons:
+- The component value could not be normalized into an OOMP ID.
+candidates:
+- oomp_id: electronic_capacitor_0805_1_nano_farad
+  score: 0.2151
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_2_nano_farad
+  score: 0.2151
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_3_nano_farad
+  score: 0.2151
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_5_nano_farad
+  score: 0.2151
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_10_nano_farad
+  score: 0.2132
+  reasons:
+  - same component family
+  - same package size

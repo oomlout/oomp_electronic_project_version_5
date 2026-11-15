@@ -1,0 +1,184 @@
+available: true
+units:
+- reference: R1
+  source_file: data/kicad_file.kicad_sch
+  uuid: 03e2d65a-0da9-4d4a-8477-1316cec9ad94
+  library_id: Device:R_Small
+  unit: 1
+  body_style: 1
+  position:
+    x: 220.98
+    y: 41.91
+    rotation: 180.0
+    mirror: null
+    units: mm
+  properties:
+    Reference: R1
+    Value: 499k
+    Footprint: Resistor_SMD:R_0402_1005Metric
+    Datasheet: ''
+    Description: Resistor, small symbol
+  in_bom: true
+  on_board: true
+  in_position_files: true
+  dnp: false
+  pins:
+  - number: '1'
+    name: ''
+    electrical_type: passive
+    graphic_style: line
+    local_position:
+      x: 0.0
+      y: 2.54
+      rotation: 270.0
+    length: 0.762
+    position:
+      x: 220.98
+      y: 44.45
+    net: FB_DCDC
+    net_aliases:
+    - FB_DCDC
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C2
+      pin_number: '2'
+      pin_name: ''
+    - reference: R2
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '5'
+      pin_name: FB
+    - reference: U2
+      pin_number: '78'
+      pin_name: FB_DCDC
+  - number: '2'
+    name: ''
+    electrical_type: passive
+    graphic_style: line
+    local_position:
+      x: 0.0
+      y: -2.54
+      rotation: 90.0
+    length: 0.762
+    position:
+      x: 220.98
+      y: 39.37
+    net: VDD_HP
+    net_aliases:
+    - VDD_HP
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C2
+      pin_number: '1'
+      pin_name: ''
+    - reference: C3
+      pin_number: '1'
+      pin_name: ''
+    - reference: C8
+      pin_number: '1'
+      pin_name: ''
+    - reference: C15
+      pin_number: '1'
+      pin_name: ''
+    - reference: C28
+      pin_number: '1'
+      pin_name: ''
+    - reference: C29
+      pin_number: '1'
+      pin_name: ''
+    - reference: L1
+      pin_number: '2'
+      pin_name: ''
+    - reference: R39
+      pin_number: '1'
+      pin_name: ''
+    - reference: U2
+      pin_number: '26'
+      pin_name: VDD_HP_0
+    - reference: U2
+      pin_number: '76'
+      pin_name: VDD_HP_2
+    - reference: U2
+      pin_number: '91'
+      pin_name: VDD_HP_3
+  size:
+    local_graphics:
+      measurement: symbol graphics only; excludes pins, properties, and text
+      units: mm
+      available: true
+      min:
+        x: -0.8636
+        y: -1.8796
+      max:
+        x: 0.8636
+        y: 1.8796
+      width: 1.7272
+      height: 3.7592
+      center:
+        x: 0.0
+        y: 0.0
+    placed_graphics:
+      measurement: axis-aligned bounds after schematic placement, rotation, and mirroring
+      units: mm
+      available: true
+      min:
+        x: 220.1164
+        y: 40.0304
+      max:
+        x: 221.8436
+        y: 43.7896
+      width: 1.7272
+      height: 3.7592
+      center:
+        x: 220.98
+        y: 41.91
+  warnings: []
+connected_components:
+- reference: C2
+  pin_number: '1'
+  pin_name: ''
+- reference: C2
+  pin_number: '2'
+  pin_name: ''
+- reference: C3
+  pin_number: '1'
+  pin_name: ''
+- reference: C8
+  pin_number: '1'
+  pin_name: ''
+- reference: C15
+  pin_number: '1'
+  pin_name: ''
+- reference: C28
+  pin_number: '1'
+  pin_name: ''
+- reference: C29
+  pin_number: '1'
+  pin_name: ''
+- reference: L1
+  pin_number: '2'
+  pin_name: ''
+- reference: R2
+  pin_number: '2'
+  pin_name: ''
+- reference: R39
+  pin_number: '1'
+  pin_name: ''
+- reference: U1
+  pin_number: '5'
+  pin_name: FB
+- reference: U2
+  pin_number: '26'
+  pin_name: VDD_HP_0
+- reference: U2
+  pin_number: '76'
+  pin_name: VDD_HP_2
+- reference: U2
+  pin_number: '78'
+  pin_name: FB_DCDC
+- reference: U2
+  pin_number: '91'
+  pin_name: VDD_HP_3

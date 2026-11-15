@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: 08a2c6b93859cba73bf54b0b6ab608411e2936183f1041be83087684ca452fa3
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_flora_mainboard_adafruit_flora_mainboard_2_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: c4e9c42b900fb495fd1dbec9c21d84c217c9c52e2ca8493b680180a5bee24a38
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_flora_mainboard_adafruit_flora_mainboard_2_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: e0c9f49d783c193ec8268adcb66fecfb4d335b9425542a2971e646d31f6eca5e
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_flora_mainboard_adafruit_flora_mainboard_2_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: e23f18df95088712010a5f0bd38a96fdad7972c797877fe4a68cfa300edd6941
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_flora_mainboard_adafruit_flora_mainboard_2_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: 6257a235fab9fe987efef29ebf34f62db44779763ef37cf0f6313433d569b039
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_flora_mainboard_adafruit_flora_mainboard_2_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_flora_mainboard_adafruit_flora_mainboard_2_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: ff6ba1f5e640ae27591520032842c0b275f2d403b8902e1b5a4dd66e1774cde3
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_flora_mainboard_adafruit_flora_mainboard_2_current\data\fp-lib-table

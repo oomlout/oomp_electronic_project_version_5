@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: DMG3415
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_30_volt_alpha_omega_semicon_ao3401a
+  score: 0.1286
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_so_8_mosfet_p_channel_enhancement_mode_30_volt_10_amp_infineon_technologies_irf7416trpbf
+  score: 0.1147
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_220ab_mosfet_p_channel_enhancement_mode_55_volt_31_amp_infineon_technologies_irf5305pbf
+  score: 0.1142
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_220ab_mosfet_p_channel_enhancement_mode_55_volt_74_amp_infineon_technologies_irf4905pbf
+  score: 0.1142
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_251_mosfet_p_channel_enhancement_mode_100_volt_13_amp_infineon_technologies_irfu5410pbf
+  score: 0.1142
+  reasons:
+  - same component family

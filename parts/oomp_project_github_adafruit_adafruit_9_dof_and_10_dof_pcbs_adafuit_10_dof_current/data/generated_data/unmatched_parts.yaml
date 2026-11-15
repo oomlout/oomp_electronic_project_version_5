@@ -1,0 +1,94 @@
+count: 4
+components:
+- reference: U1
+  fields:
+    reference: U1
+    value: L3GD20
+    footprint: L3G4200D_LGA16L
+    library_id: kicad_file-eagle-import:GYRO_L3G2400D
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: L3GD20
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/U1
+- reference: U2
+  fields:
+    reference: U2
+    value: LSM303DLHC
+    footprint: LGA14
+    library_id: kicad_file-eagle-import:LSM303DLHC
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: LSM303DLHC
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/U2
+- reference: U3
+  fields:
+    reference: U3
+    value: BMP180
+    footprint: BMP180_EXTENDED
+    library_id: kicad_file-eagle-import:BMP180EXT
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: BMP180
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/U3
+- reference: U4
+  fields:
+    reference: U4
+    value: MIC5225-3.3
+    footprint: SOT23-5
+    library_id: kicad_file-eagle-import:VREG_SOT23-5
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: MIC5225-3.3
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/U4

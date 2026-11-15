@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "components": [
+    {
+      "reference": "A1",
+      "fields": {
+        "reference": "A1",
+        "value": "Arduino_Nano_v3.x",
+        "footprint": "Module:Arduino_Nano_WithMountingHoles",
+        "library_id": "MCU_Module:Arduino_Nano_v3.x",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "Arduino_Nano_v3.x",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/A1"
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+count: 10
+components:
+- reference: D1
+  fields:
+    reference: D1
+    value: MBR0530
+    footprint: SOD-123
+    library_id: kicad_file-eagle-import:DIODE-SCHOTTKYSOD-123
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: electronic_diode_schottky_sod_123
+    inferred:
+      kind: diode
+      package_size: null
+      value: MBR0530
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_diode_schottky_sod_123_ss14
+      score: 0.4879
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_schottky_sod_323_bat54w
+      score: 0.4068
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_schottky_sod_523_1ss400
+      score: 0.4068
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_switching_sod_123_onsemi_1n4148w
+      score: 0.389
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_switching_sod_123_st_semtech_1n4148w
+      score: 0.3672
+      reasons:
+      - same component family
+  generated_directory: components/D1
+- reference: D2
+  fields:
+    reference: D2
+    value: MBR0530
+    footprint: SOD-123
+    library_id: kicad_file-eagle-import:DIODE-SCHOTTKYSOD-123
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: electronic_diode_schottky_sod_123
+    inferred:
+      kind: diode
+      package_size: null
+      value: MBR0530
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_diode_schottky_sod_123_ss14
+      score: 0.4879
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_schottky_sod_323_bat54w
+      score: 0.4068
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_schottky_sod_523_1ss400
+      score: 0.4068
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_switching_sod_123_onsemi_1n4148w
+      score: 0.389
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_switching_sod_123_st_semtech_1n4148w
+      score: 0.3672
+      reasons:
+      - same component family
+  generated_directory: components/D2
+- reference: D3
+  fields:
+    reference: D3
+    value: MBR0530
+    footprint: SOD-123
+    library_id: kicad_file-eagle-import:DIODE-SCHOTTKYSOD-123
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: electronic_diode_schottky_sod_123
+    inferred:
+      kind: diode
+      package_size: null
+      value: MBR0530
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_diode_schottky_sod_123_ss14
+      score: 0.4879
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_schottky_sod_323_bat54w
+      score: 0.4068
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_schottky_sod_523_1ss400
+      score: 0.4068
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_switching_sod_123_onsemi_1n4148w
+      score: 0.389
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_switching_sod_123_st_semtech_1n4148w
+      score: 0.3672
+      reasons:
+      - same component family
+  generated_directory: components/D3
+- reference: EINK1
+  fields:
+    reference: EINK1
+    value: EINK_EPD0231EINK_270IN
+    footprint: EINK_270IN
+    library_id: kicad_file-eagle-import:EINK_EPD0231EINK_270IN
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: EINK_EPD0231EINK_270IN
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/EINK1
+- reference: IC1
+  fields:
+    reference: IC1
+    value: 74245DWHCT
+    footprint: SO20W
+    library_id: kicad_file-eagle-import:74245DWHCT
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: 74245DWHCT
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/IC1
+- reference: L1
+  fields:
+    reference: L1
+    value: 10uH
+    footprint: INDUCTOR_4X4MM_NR401
+    library_id: kicad_file-eagle-import:INDUCTORNR401
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: inductor
+      package_size: null
+      value: 10uH
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_inductor_0603_10_micro_henry
+      score: 0.0953
+      reasons:
+      - same component family
+    - oomp_id: electronic_inductor_1206_10_micro_henry
+      score: 0.0953
+      reasons:
+      - same component family
+    - oomp_id: electronic_inductor_1206_2_2_micro_henry
+      score: 0.0942
+      reasons:
+      - same component family
+    - oomp_id: electronic_inductor_1206_4_7_micro_henry
+      score: 0.0911
+      reasons:
+      - same component family
+    - oomp_id: electronic_inductor_1206_5_6_micro_henry
+      score: 0.0911
+      reasons:
+      - same component family
+  generated_directory: components/L1
+- reference: Q5
+  fields:
+    reference: Q5
+    value: IRLML0100
+    footprint: SOT23-3
+    library_id: kicad_file-eagle-import:IRLML2060TRPBF
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: transistor
+      package_size: null
+      value: IRLML0100
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_transistor_to_220_mosfet_n_channel_enhancement_mode_1000_volt_3_1_amp_vishay_intertech_irfbg30pbf
+      score: 0.096
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_3p_3_mosfet_n_channel_enhancement_mode_500_volt_28_4_amp_onsemi_fqa28n50
+      score: 0.0938
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_12_volt_4_3_amp_infineon_technologies_irlml6401trpbf
+      score: 0.0937
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_220_3_mosfet_n_channel_enhancement_mode_100_volt_127_amp_infineon_technologies_irfb4310zpbf
+      score: 0.0934
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_204_bipolar_pnp_140_volt_20_amp_onsemi_mj15004g
+      score: 0.093
+      reasons:
+      - same component family
+  generated_directory: components/Q5
+- reference: R4
+  fields:
+    reference: R4
+    value: 0.47ohm
+    footprint: 0805_10MGAP
+    library_id: kicad_file-eagle-import:RESISTOR0805_10MGAP
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: electronic_resistor_0805_0_47_ohm
+    inferred:
+      kind: resistor
+      package_size: 0805
+      value: 0.47ohm
+      mpn: null
+    reasons:
+    - The exact normalized component is not present in the OOMP parts directory.
+    candidates:
+    - oomp_id: electronic_resistor_0805_1_8_ohm
+      score: 0.5879
+      reasons:
+      - same component family
+      - same package size
+      - nearby normalized value
+    - oomp_id: electronic_resistor_0805_2_2_ohm
+      score: 0.5269
+      reasons:
+      - same component family
+      - same package size
+      - nearby normalized value
+    - oomp_id: electronic_resistor_2512_0_2_ohm
+      score: 0.4833
+      reasons:
+      - same component family
+      - nearby normalized value
+    - oomp_id: electronic_resistor_0805_180_ohm_5_percent
+      score: 0.3667
+      reasons:
+      - same component family
+      - same package size
+    - oomp_id: electronic_resistor_0805_1800_ohm_5_percent
+      score: 0.363
+      reasons:
+      - same component family
+      - same package size
+  generated_directory: components/R4
+- reference: U4
+  fields:
+    reference: U4
+    value: 23K256-I/SN
+    footprint: SOIC8_150MIL
+    library_id: kicad_file-eagle-import:SRAM_SPI_SOIC8
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: 23K256-I/SN
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/U4
+- reference: X1
+  fields:
+    reference: X1
+    value: MICROSD
+    footprint: MICROSD
+    library_id: kicad_file-eagle-import:MICROSD
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: MICROSD
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/X1

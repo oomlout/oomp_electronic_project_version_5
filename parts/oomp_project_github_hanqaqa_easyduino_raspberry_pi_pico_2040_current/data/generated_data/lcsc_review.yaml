@@ -1,0 +1,36 @@
+format_version: 1
+help: Fill resolution after checking the fitted BOM or purchase records, then add
+  reusable evidence-based identities to kicad_agents/oomp_matching_agent.py and any
+  required populate-extra file.
+item_count: 2
+items:
+- value: Conn_01x03
+  footprint: Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical
+  references:
+  - J5
+  historical_supplier_link: ''
+  current_oomp_match: electronic_connector_header_2_54_mm_pitch_through_hole_3_pin
+  review_reason: Generic 2.54 mm socket; manufacturer and height are unspecified.
+  resolution: ''
+- value: '~'
+  footprint: rp2040_lib:TestPoint_pad
+  references:
+  - TP1
+  - TP2
+  - TP3
+  - TP4
+  - TP5
+  - TP6
+  - TP7
+  - TP8
+  - TP9
+  - TP10
+  - TP11
+  - TP12
+  - TP13
+  - TP14
+  historical_supplier_link: ''
+  current_oomp_match: ''
+  review_reason: No high-confidence OOMP/LCSC identity was found from the available
+    value and footprint.
+  resolution: ''

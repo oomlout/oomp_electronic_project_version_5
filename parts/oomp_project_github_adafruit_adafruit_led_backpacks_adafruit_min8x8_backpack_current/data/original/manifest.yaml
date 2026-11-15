@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: e3076a11685c1d9a8b1ebdc33b45a5bf5e1f41c513dc7cf1637d97d7e08ad61f
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_led_backpacks_adafruit_min8x8_backpack_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: 374b865b4dc0d4c9939eea880069f47c7b14d5520d5ba952f390c9a26f77771f
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_led_backpacks_adafruit_min8x8_backpack_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: 090f10181954d1779408d209b8596487d24247582d3e8e48c3bebe633abc2993
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_led_backpacks_adafruit_min8x8_backpack_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: e2c68ab7fa0d4da3b8dc147fe51ef8edfb842a99a48b0b2afef08193be68bdd3
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_led_backpacks_adafruit_min8x8_backpack_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: ccdda384ae66abe5e4c051ea10f606b78488eadeb94b86c22a6c27f6ab3400b1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_led_backpacks_adafruit_min8x8_backpack_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_led_backpacks_adafruit_min8x8_backpack_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: f1465b177b4ccaa3992f6f76312ae064d9392eeee33b2234cd517b7affdbffd4
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_led_backpacks_adafruit_min8x8_backpack_current\data\fp-lib-table

@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: 9226d78b9259ac686d619429e4e40b4f7c9734cf4780a1858e22e28b6f22bc13
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_micro_sd_card_bff_pcb_adafruit_micro_sd_bff_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: 6cfd49b93c4b3da0f381839b95d6619bcafdf3762bf5fda7d07fcfe1d2a749f0
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_micro_sd_card_bff_pcb_adafruit_micro_sd_bff_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: 89b150d24a46fa055498fb5a546a95bf5173e1481e9bd4fc975766902b74d082
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_micro_sd_card_bff_pcb_adafruit_micro_sd_bff_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: cb5682ee72e086863684346ddfe2dc0681e4962a6cb7941b219bbd33a11230ac
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_micro_sd_card_bff_pcb_adafruit_micro_sd_bff_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: 975dff37ac73a89257cecde1721861f80a08aedd3b51e55932b0ff6d877dec38
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_micro_sd_card_bff_pcb_adafruit_micro_sd_bff_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_micro_sd_card_bff_pcb_adafruit_micro_sd_bff_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: 2d89b5e49f1944fece0ae4c72134e424232cc49db21cd9b3f768216236cdc360
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_micro_sd_card_bff_pcb_adafruit_micro_sd_bff_current\data\fp-lib-table

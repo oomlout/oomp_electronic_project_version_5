@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: diode
+  package_size: null
+  value: MBR160
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_diode_schottky_sod_523_1ss400
+  score: 0.0863
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_schottky_0402
+  score: 0.0853
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_tvs_smb_brightking_p6smb6_8ca_tr13
+  score: 0.0852
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_schottky_do_41_mdd_microdiode_semiconductor_sr160
+  score: 0.0828
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_zener_do_27_onsemi_1n5338brlg
+  score: 0.0786
+  reasons:
+  - same component family

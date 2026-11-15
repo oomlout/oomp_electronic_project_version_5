@@ -1,0 +1,32 @@
+{
+  "files": {
+    "kicad_file.kicad_pcb": {
+      "sha256": "cc122eadbc1606f5ccda37aa2416dc425321d82974461c40610f296c6e34b95a",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_ov5640_camera_breakout_pcb_adafruit_ov5640_breakout_current\\data\\kicad_file.kicad_pcb"
+    },
+    "kicad_file.kicad_sch": {
+      "sha256": "395db170890e9f598cf38b1c4ccbf399b8584448bc3a7acb926e4e2060d56cd4",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_ov5640_camera_breakout_pcb_adafruit_ov5640_breakout_current\\data\\kicad_file.kicad_sch"
+    },
+    "kicad_file.kicad_pro": {
+      "sha256": "4a2425f87725b8f45714b2cdfba884f65b834c0a7fb1ac86a1ea8ac1f6c08047",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_ov5640_camera_breakout_pcb_adafruit_ov5640_breakout_current\\data\\kicad_file.kicad_pro"
+    },
+    "source_eagle.brd": {
+      "sha256": "7bf52320727d508834749f9744d07a22a4d25cbe9482f4fb2ae2a79359c5094e",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_ov5640_camera_breakout_pcb_adafruit_ov5640_breakout_current\\data\\source_eagle.brd"
+    },
+    "source_eagle.sch": {
+      "sha256": "b220a7e18520c4b5f18f140c437e5c4c8a023e1dbd3b20b3c2a27f513bd38e3d",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_ov5640_camera_breakout_pcb_adafruit_ov5640_breakout_current\\data\\source_eagle.sch"
+    },
+    "sym-lib-table": {
+      "sha256": "69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_ov5640_camera_breakout_pcb_adafruit_ov5640_breakout_current\\data\\sym-lib-table"
+    },
+    "fp-lib-table": {
+      "sha256": "400a621860db4fc6ddef71af57734e11a9495b4177865c5536eae2ee70d2f0ce",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_ov5640_camera_breakout_pcb_adafruit_ov5640_breakout_current\\data\\fp-lib-table"
+    }
+  }
+}

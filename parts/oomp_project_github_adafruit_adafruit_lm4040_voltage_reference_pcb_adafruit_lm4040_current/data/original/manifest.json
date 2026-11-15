@@ -1,0 +1,32 @@
+{
+  "files": {
+    "kicad_file.kicad_pcb": {
+      "sha256": "fae46732b35983e6a1659061cb5427595abaa8428802541fd4f95ac8a4ab4952",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_lm4040_voltage_reference_pcb_adafruit_lm4040_current\\data\\kicad_file.kicad_pcb"
+    },
+    "kicad_file.kicad_sch": {
+      "sha256": "9730025ac530ca430a6f8b2a87f16ad4ff562c4073e6bdaa554a073162aff7c0",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_lm4040_voltage_reference_pcb_adafruit_lm4040_current\\data\\kicad_file.kicad_sch"
+    },
+    "kicad_file.kicad_pro": {
+      "sha256": "c3922e52e6fc32396a424e664508e67b528bc2e334687da9e9a51927809dceec",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_lm4040_voltage_reference_pcb_adafruit_lm4040_current\\data\\kicad_file.kicad_pro"
+    },
+    "source_eagle.brd": {
+      "sha256": "a40992e1a3f021ad5706494b6744020bffc47b96141cebdeb2af41ae8cf0f651",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_lm4040_voltage_reference_pcb_adafruit_lm4040_current\\data\\source_eagle.brd"
+    },
+    "source_eagle.sch": {
+      "sha256": "b8054040e8ecb9f35f6440bd513633b11e649bef326cd477accfe58b8a3aba8f",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_lm4040_voltage_reference_pcb_adafruit_lm4040_current\\data\\source_eagle.sch"
+    },
+    "sym-lib-table": {
+      "sha256": "69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_lm4040_voltage_reference_pcb_adafruit_lm4040_current\\data\\sym-lib-table"
+    },
+    "fp-lib-table": {
+      "sha256": "d8a61bff624378ba867e38e3d22a0b93753cbb32bccb2092970e54a2fe98c265",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_lm4040_voltage_reference_pcb_adafruit_lm4040_current\\data\\fp-lib-table"
+    }
+  }
+}

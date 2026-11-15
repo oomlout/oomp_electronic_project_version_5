@@ -1,0 +1,63 @@
+{
+  "count": 2,
+  "components": [
+    {
+      "reference": "IC1",
+      "fields": {
+        "reference": "IC1",
+        "value": "ADXL33X",
+        "footprint": "16LCSP",
+        "library_id": "kicad_file-eagle-import:ADXL33X",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "ADXL33X",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/IC1"
+    },
+    {
+      "reference": "IC2",
+      "fields": {
+        "reference": "IC2",
+        "value": "LP298XS",
+        "footprint": "SOT23-5L",
+        "library_id": "kicad_file-eagle-import:LP298XS",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "LP298XS",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/IC2"
+    }
+  ]
+}

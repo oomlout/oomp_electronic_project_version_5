@@ -1,0 +1,110 @@
+available: true
+units:
+- reference: R3
+  source_file: data/kicad_file.kicad_sch
+  uuid: e5f60c61-aad1-4815-b485-b0bfe703b1d6
+  library_id: Device:R_Small
+  unit: 1
+  body_style: 1
+  position:
+    x: 99.06
+    y: 54.61
+    rotation: 180.0
+    mirror: null
+    units: mm
+  properties:
+    Reference: R3
+    Value: '0'
+    Footprint: Resistor_SMD:R_0402_1005Metric
+    Datasheet: ''
+    Description: Resistor, small symbol
+  in_bom: true
+  on_board: true
+  in_position_files: true
+  dnp: false
+  pins:
+  - number: '1'
+    name: ''
+    electrical_type: passive
+    graphic_style: line
+    local_position:
+      x: 0.0
+      y: 2.54
+      rotation: 270.0
+    length: 0.762
+    position:
+      x: 99.06
+      y: 57.15
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: U2
+      pin_number: '100'
+      pin_name: XTAL_P
+  - number: '2'
+    name: ''
+    electrical_type: passive
+    graphic_style: line
+    local_position:
+      x: 0.0
+      y: -2.54
+      rotation: 90.0
+    length: 0.762
+    position:
+      x: 99.06
+      y: 52.07
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C4
+      pin_number: '2'
+      pin_name: ''
+    - reference: Y1
+      pin_number: '1'
+      pin_name: '1'
+  size:
+    local_graphics:
+      measurement: symbol graphics only; excludes pins, properties, and text
+      units: mm
+      available: true
+      min:
+        x: -0.8636
+        y: -1.8796
+      max:
+        x: 0.8636
+        y: 1.8796
+      width: 1.7272
+      height: 3.7592
+      center:
+        x: 0.0
+        y: 0.0
+    placed_graphics:
+      measurement: axis-aligned bounds after schematic placement, rotation, and mirroring
+      units: mm
+      available: true
+      min:
+        x: 98.1964
+        y: 52.7304
+      max:
+        x: 99.9236
+        y: 56.4896
+      width: 1.7272
+      height: 3.7592
+      center:
+        x: 99.06
+        y: 54.61
+  warnings: []
+connected_components:
+- reference: C4
+  pin_number: '2'
+  pin_name: ''
+- reference: U2
+  pin_number: '100'
+  pin_name: XTAL_P
+- reference: Y1
+  pin_number: '1'
+  pin_name: '1'

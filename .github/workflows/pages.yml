@@ -1,0 +1,54 @@
+name: Publish project browser pages
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'parts/**/board_explorer.html'
+      - 'parts/**/ibom.html'
+      - 'usage/**'
+      - 'index.html'
+      - 'tools/package_pages.py'
+      - 'project_config.*'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /tools/package_pages.py
+            /project_config.py
+            /project_config.json
+            /usage/
+            /index.html
+            /.nojekyll
+            /parts/*/board_explorer.html
+            /parts/*/data/interactivehtmlbom/ibom.html
+      - uses: actions/configure-pages@v5
+      - run: python tools/package_pages.py
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: build/pages
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: 7efaf106dc9a9ec7d9f3376bc22df84af60824ecf6e56ee833859c73cf2a8a59
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52_bluefruit_feather_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: 1f4cf9dc3d1a5d675719dec323f9a1e39cb9ac139a4a8b7451bfa25506695b52
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52_bluefruit_feather_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: 54edf0efc2f3c0c63c33ea0b6fcf6ea9aa9e8ed39699af7e3a1d88d80b9f256a
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52_bluefruit_feather_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: d6500578246d32f542905c149c5f11630f1ce5c3374f1cbca4a89fea0cfee252
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52_bluefruit_feather_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: 85408746f70e6148c9d514ab30d47033f13da2cad7edc19950d74f9c41a7d4cc
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52_bluefruit_feather_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52_bluefruit_feather_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: 1a331543a412c987151cd7fec3654e90593a3acfb2931365931463a4f19ab448
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52_bluefruit_feather_current\data\fp-lib-table

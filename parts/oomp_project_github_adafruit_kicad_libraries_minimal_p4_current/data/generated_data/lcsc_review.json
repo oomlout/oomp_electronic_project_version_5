@@ -1,0 +1,74 @@
+{
+  "format_version": 1,
+  "help": "Fill resolution after checking the fitted BOM or purchase records, then add reusable evidence-based identities to kicad_agents/oomp_matching_agent.py and any required populate-extra file.",
+  "item_count": 6,
+  "items": [
+    {
+      "value": "2.2uH",
+      "footprint": "Inductor_SMD:L_1008_2520Metric",
+      "references": [
+        "L1"
+      ],
+      "historical_supplier_link": "",
+      "current_oomp_match": "",
+      "review_reason": "No high-confidence OOMP/LCSC identity was found from the available value and footprint.",
+      "resolution": ""
+    },
+    {
+      "value": "499k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "references": [
+        "R1",
+        "R2"
+      ],
+      "historical_supplier_link": "",
+      "current_oomp_match": "",
+      "review_reason": "No high-confidence OOMP/LCSC identity was found from the available value and footprint.",
+      "resolution": ""
+    },
+    {
+      "value": "TLV62569DBV",
+      "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+      "references": [
+        "U1"
+      ],
+      "historical_supplier_link": "",
+      "current_oomp_match": "",
+      "review_reason": "No high-confidence OOMP/LCSC identity was found from the available value and footprint.",
+      "resolution": ""
+    },
+    {
+      "value": "~",
+      "footprint": "Espressif:ESP32-P4",
+      "references": [
+        "U2"
+      ],
+      "historical_supplier_link": "",
+      "current_oomp_match": "",
+      "review_reason": "No high-confidence OOMP/LCSC identity was found from the available value and footprint.",
+      "resolution": ""
+    },
+    {
+      "value": "W25Q128JVS",
+      "footprint": "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm",
+      "references": [
+        "U3"
+      ],
+      "historical_supplier_link": "",
+      "current_oomp_match": "",
+      "review_reason": "No high-confidence OOMP/LCSC identity was found from the available value and footprint.",
+      "resolution": ""
+    },
+    {
+      "value": "40MHz(+-10 ppm) C501798",
+      "footprint": "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm",
+      "references": [
+        "Y1"
+      ],
+      "historical_supplier_link": "",
+      "current_oomp_match": "",
+      "review_reason": "No high-confidence OOMP/LCSC identity was found from the available value and footprint.",
+      "resolution": ""
+    }
+  ]
+}

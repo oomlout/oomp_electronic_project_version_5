@@ -1,0 +1,5 @@
+[2026-11-14T23:03:08.299422+00:00] kicad_processing_agent
+Message: No modern .kicad_sch files found under C:\Users\aaron\AppData\Local\Temp\tmpg7wvzrqv\part
+Traceback:
+NoneType: None
+

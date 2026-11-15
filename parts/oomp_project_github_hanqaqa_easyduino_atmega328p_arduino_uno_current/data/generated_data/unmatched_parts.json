@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "components": [
+    {
+      "reference": "A1",
+      "fields": {
+        "reference": "A1",
+        "value": "Arduino_UNO_Connects",
+        "footprint": "Module:Arduino_UNO_R3_WithMountingHoles",
+        "library_id": "MCU_Module:Arduino_UNO_R3",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "Arduino_UNO_Connects",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/A1"
+    }
+  ]
+}

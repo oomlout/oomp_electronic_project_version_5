@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: diode
+  package_size: null
+  value: DISP_LCD_ST7789_1.3IN
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_diode_rectifier_r_1_mdd_microdiode_semiconductor_1a7g
+  score: 0.1474
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_schottky_0402
+  score: 0.1367
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_switching_sod_123_st_semtech_1n4148w
+  score: 0.1366
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_zener_do_41_st_semtech_1n4731a
+  score: 0.1354
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_zener_do_41_st_semtech_1n4732a
+  score: 0.1354
+  reasons:
+  - same component family

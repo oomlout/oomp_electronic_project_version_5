@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: 77718fb10ea31334a3c6e4c7c46ff84644c19e11fe9aebc2a7c8c6adf458b0aa
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mcp73833_pcb_mcp73833_qfn_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: 320980d0b3b18a35e55dc6ca5fb331e2b08fe2996938e15ad95615dcf18efe23
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mcp73833_pcb_mcp73833_qfn_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: 0b074ca46c95095224514cb17a5721d6f4c00e053c9cb09690f1b5dd9228bd0b
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mcp73833_pcb_mcp73833_qfn_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: dc040367391c16c9ddf5b7b263aa0bc7228c1f83831374171dd32e00a0efbcea
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mcp73833_pcb_mcp73833_qfn_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: 128202fbbb0017fd5e69c9a51c671f136a532d4fef7c951d96f5597200bfdce9
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mcp73833_pcb_mcp73833_qfn_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mcp73833_pcb_mcp73833_qfn_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: a79e959c8fabde339918c8f2a9fc17b928b4c96f59fe5052d3c2a2f5cc2cd8d5
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_mcp73833_pcb_mcp73833_qfn_current\data\fp-lib-table

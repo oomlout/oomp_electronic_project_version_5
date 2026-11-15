@@ -1,0 +1,309 @@
+{
+  "count": 8,
+  "components": [
+    {
+      "reference": "CN1",
+      "fields": {
+        "reference": "CN1",
+        "value": "miniB",
+        "footprint": "USB-MINIB_LARGER",
+        "library_id": "kicad_file-eagle-import:USBMINIBLARGE",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "capacitor",
+          "package_size": null,
+          "value": "miniB",
+          "mpn": null
+        },
+        "reasons": [
+          "Component family was inferred, but package size was not."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_capacitor_0402_1_nano_farad",
+            "score": 0.079,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_capacitor_0402_1_pico_farad",
+            "score": 0.079,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_capacitor_0402_2_pico_farad",
+            "score": 0.079,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_capacitor_0402_3_pico_farad",
+            "score": 0.079,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_capacitor_0402_4_pico_farad",
+            "score": 0.079,
+            "reasons": [
+              "same component family"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/CN1"
+    },
+    {
+      "reference": "CN3",
+      "fields": {
+        "reference": "CN3",
+        "value": "JST-PH-3",
+        "footprint": "JSTPH3",
+        "library_id": "kicad_file-eagle-import:JST_3PIN",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "capacitor",
+          "package_size": null,
+          "value": "JST-PH-3",
+          "mpn": null
+        },
+        "reasons": [
+          "Component family was inferred, but package size was not."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_capacitor_0603_3_nano_farad",
+            "score": 0.1689,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_capacitor_0805_3_nano_farad",
+            "score": 0.1689,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_capacitor_0402_3_3_nano_farad",
+            "score": 0.1658,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_capacitor_0603_3_3_nano_farad",
+            "score": 0.1658,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_capacitor_0805_3_3_nano_farad",
+            "score": 0.1658,
+            "reasons": [
+              "same component family"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/CN3"
+    },
+    {
+      "reference": "IC2",
+      "fields": {
+        "reference": "IC2",
+        "value": "AT90USB162",
+        "footprint": "TQFP32-08",
+        "library_id": "kicad_file-eagle-import:ATMEGA32U2-TQFP",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "AT90USB162",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/IC2"
+    },
+    {
+      "reference": "ISP6",
+      "fields": {
+        "reference": "ISP6",
+        "value": "PINHD-2X3THM",
+        "footprint": "ISP6",
+        "library_id": "kicad_file-eagle-import:PINHD-2X3THM",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "PINHD-2X3THM",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/ISP6"
+    },
+    {
+      "reference": "T1",
+      "fields": {
+        "reference": "T1",
+        "value": "MMBT222",
+        "footprint": "SOT23-BEC",
+        "library_id": "kicad_file-eagle-import:-NPN-SOT23-BECMMBT2222ALT1",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "MMBT222",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/T1"
+    },
+    {
+      "reference": "T2",
+      "fields": {
+        "reference": "T2",
+        "value": "MMBT222",
+        "footprint": "SOT23-BEC",
+        "library_id": "kicad_file-eagle-import:-NPN-SOT23-BECMMBT2222ALT1",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "MMBT222",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/T2"
+    },
+    {
+      "reference": "T3",
+      "fields": {
+        "reference": "T3",
+        "value": "MMBT222",
+        "footprint": "SOT23-BEC",
+        "library_id": "kicad_file-eagle-import:-NPN-SOT23-BECMMBT2222ALT1",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "MMBT222",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/T3"
+    },
+    {
+      "reference": "X3",
+      "fields": {
+        "reference": "X3",
+        "value": "16MHz",
+        "footprint": "NX5032",
+        "library_id": "kicad_file-eagle-import:XTALNX5032",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "16MHz",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/X3"
+    }
+  ]
+}

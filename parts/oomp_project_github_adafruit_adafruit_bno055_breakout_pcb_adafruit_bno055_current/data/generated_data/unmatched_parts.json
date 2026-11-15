@@ -1,0 +1,99 @@
+{
+  "count": 2,
+  "components": [
+    {
+      "reference": "U1",
+      "fields": {
+        "reference": "U1",
+        "value": "MIC5225-3.3",
+        "footprint": "SOT23-5",
+        "library_id": "kicad_file-eagle-import:VREG_SOT23-5",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "MIC5225-3.3",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/U1"
+    },
+    {
+      "reference": "Y1",
+      "fields": {
+        "reference": "Y1",
+        "value": "32.768kHz",
+        "footprint": "CRYSTAL_8X3.8",
+        "library_id": "kicad_file-eagle-import:CRYSTAL8.0X3.8",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "crystal",
+          "package_size": null,
+          "value": "32.768kHz",
+          "mpn": null
+        },
+        "reasons": [
+          "Component family was inferred, but package size was not."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_crystal_3215_surface_mount_2_pin_32_768_khz_12_5_pf",
+            "score": 0.1478,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_crystal_5032_surface_mount_2_pin_8_mhz_20_pf",
+            "score": 0.1306,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_crystal_dt_26_through_hole_2_pin_32_768_khz_12_5_pf_50000_ohm_esr",
+            "score": 0.1241,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_crystal_3225_surface_mount_4_pin_16_mhz_20_pf",
+            "score": 0.0956,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_crystal_hc_49s_smd_surface_mount_2_pin_8_mhz_20_pf_70_ohm_esr",
+            "score": 0.0952,
+            "reasons": [
+              "same component family"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/Y1"
+    }
+  ]
+}

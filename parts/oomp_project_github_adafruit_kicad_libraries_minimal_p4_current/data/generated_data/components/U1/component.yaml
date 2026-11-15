@@ -1,0 +1,1560 @@
+reference: U1
+schematic:
+  available: true
+  units:
+  - reference: U1
+    source_file: data/kicad_file.kicad_sch
+    uuid: 15cbccdb-8903-4da2-9e7f-d39c9d881a6f
+    library_id: Regulator_Switching:TLV62569DBV
+    unit: 1
+    body_style: 1
+    position:
+      x: 195.58
+      y: 45.72
+      rotation: 0.0
+      mirror: null
+      units: mm
+    properties:
+      Reference: U1
+      Value: TLV62569DBV
+      Footprint: Package_TO_SOT_SMD:SOT-23-5
+      Datasheet: http://www.ti.com/lit/ds/symlink/tlv62569.pdf
+      Description: High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 2A, SOT-23-5
+    in_bom: true
+    on_board: true
+    in_position_files: true
+    dnp: false
+    pins:
+    - number: '1'
+      name: EN
+      electrical_type: input
+      graphic_style: line
+      local_position:
+        x: -7.62
+        y: 0.0
+        rotation: 0.0
+      length: 2.54
+      position:
+        x: 187.96
+        y: 45.72
+      net: EN_DCDC
+      net_aliases:
+      - EN_DCDC
+      net_scope: sheet
+      no_connect: false
+      connected_to:
+      - reference: U2
+        pin_number: '79'
+        pin_name: EN_DCDC
+    - number: '2'
+      name: GND
+      electrical_type: power_in
+      graphic_style: line
+      local_position:
+        x: 0.0
+        y: -7.62
+        rotation: 90.0
+      length: 2.54
+      position:
+        x: 195.58
+        y: 53.34
+      net: GND
+      net_aliases:
+      - GND
+      net_scope: global
+      no_connect: false
+      connected_to:
+      - reference: '#PWR03'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR04'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR05'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR06'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR07'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR08'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR09'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR012'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR014'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR016'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR018'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR019'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR021'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR023'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR024'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR025'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR026'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR027'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR029'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR030'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR031'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR033'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR034'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR038'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR039'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR040'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR041'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR044'
+        pin_number: '1'
+        pin_name: ''
+      - reference: C1
+        pin_number: '2'
+        pin_name: ''
+      - reference: C3
+        pin_number: '2'
+        pin_name: ''
+      - reference: C4
+        pin_number: '1'
+        pin_name: ''
+      - reference: C5
+        pin_number: '2'
+        pin_name: ''
+      - reference: C6
+        pin_number: '2'
+        pin_name: ''
+      - reference: C7
+        pin_number: '2'
+        pin_name: ''
+      - reference: C8
+        pin_number: '2'
+        pin_name: ''
+      - reference: C9
+        pin_number: '2'
+        pin_name: ''
+      - reference: C11
+        pin_number: '2'
+        pin_name: ''
+      - reference: C12
+        pin_number: '2'
+        pin_name: ''
+      - reference: C13
+        pin_number: '2'
+        pin_name: ''
+      - reference: C14
+        pin_number: '2'
+        pin_name: ''
+      - reference: C15
+        pin_number: '2'
+        pin_name: ''
+      - reference: C16
+        pin_number: '2'
+        pin_name: ''
+      - reference: C17
+        pin_number: '2'
+        pin_name: ''
+      - reference: C18
+        pin_number: '2'
+        pin_name: ''
+      - reference: C20
+        pin_number: '2'
+        pin_name: ''
+      - reference: C21
+        pin_number: '2'
+        pin_name: ''
+      - reference: C23
+        pin_number: '2'
+        pin_name: ''
+      - reference: C24
+        pin_number: '2'
+        pin_name: ''
+      - reference: C25
+        pin_number: '2'
+        pin_name: ''
+      - reference: C26
+        pin_number: '2'
+        pin_name: ''
+      - reference: C27
+        pin_number: '2'
+        pin_name: ''
+      - reference: C28
+        pin_number: '2'
+        pin_name: ''
+      - reference: C29
+        pin_number: '2'
+        pin_name: ''
+      - reference: C30
+        pin_number: '2'
+        pin_name: ''
+      - reference: C31
+        pin_number: '2'
+        pin_name: ''
+      - reference: C32
+        pin_number: '2'
+        pin_name: ''
+      - reference: C33
+        pin_number: '2'
+        pin_name: ''
+      - reference: C40
+        pin_number: '2'
+        pin_name: ''
+      - reference: C41
+        pin_number: '2'
+        pin_name: ''
+      - reference: C42
+        pin_number: '2'
+        pin_name: ''
+      - reference: R2
+        pin_number: '1'
+        pin_name: ''
+      - reference: U2
+        pin_number: '105'
+        pin_name: GND
+      - reference: U3
+        pin_number: '4'
+        pin_name: GND
+      - reference: Y1
+        pin_number: '2'
+        pin_name: G
+      - reference: Y1
+        pin_number: '4'
+        pin_name: G
+    - number: '3'
+      name: SW
+      electrical_type: power_out
+      graphic_style: line
+      local_position:
+        x: 7.62
+        y: 2.54
+        rotation: 180.0
+      length: 2.54
+      position:
+        x: 203.2
+        y: 43.18
+      net: null
+      net_aliases: []
+      net_scope: sheet
+      no_connect: false
+      connected_to:
+      - reference: L1
+        pin_number: '1'
+        pin_name: ''
+    - number: '4'
+      name: VIN
+      electrical_type: power_in
+      graphic_style: line
+      local_position:
+        x: -7.62
+        y: 2.54
+        rotation: 0.0
+      length: 2.54
+      position:
+        x: 187.96
+        y: 43.18
+      net: +3.3V
+      net_aliases:
+      - +3.3V
+      net_scope: global
+      no_connect: false
+      connected_to:
+      - reference: '#PWR01'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR02'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR010'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR011'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR013'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR017'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR020'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR022'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR028'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR032'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR037'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR045'
+        pin_number: '1'
+        pin_name: ''
+      - reference: C1
+        pin_number: '1'
+        pin_name: ''
+      - reference: C6
+        pin_number: '1'
+        pin_name: ''
+      - reference: C7
+        pin_number: '1'
+        pin_name: ''
+      - reference: C9
+        pin_number: '1'
+        pin_name: ''
+      - reference: C11
+        pin_number: '1'
+        pin_name: ''
+      - reference: C12
+        pin_number: '1'
+        pin_name: ''
+      - reference: C13
+        pin_number: '1'
+        pin_name: ''
+      - reference: C14
+        pin_number: '1'
+        pin_name: ''
+      - reference: C16
+        pin_number: '1'
+        pin_name: ''
+      - reference: C20
+        pin_number: '1'
+        pin_name: ''
+      - reference: C21
+        pin_number: '1'
+        pin_name: ''
+      - reference: C23
+        pin_number: '1'
+        pin_name: ''
+      - reference: C24
+        pin_number: '1'
+        pin_name: ''
+      - reference: C40
+        pin_number: '1'
+        pin_name: ''
+      - reference: C41
+        pin_number: '1'
+        pin_name: ''
+      - reference: C42
+        pin_number: '1'
+        pin_name: ''
+      - reference: R200
+        pin_number: '2'
+        pin_name: ''
+      - reference: U2
+        pin_number: '21'
+        pin_name: VDD_IO_0
+      - reference: U2
+        pin_number: '51'
+        pin_name: VDD_USBPHY
+      - reference: U2
+        pin_number: '62'
+        pin_name: VDD_IO_4
+      - reference: U2
+        pin_number: '75'
+        pin_name: VDD_LDO
+      - reference: U2
+        pin_number: '77'
+        pin_name: VDD_DCDCC
+      - reference: U2
+        pin_number: '85'
+        pin_name: VDD_IO_5
+      - reference: U2
+        pin_number: '96'
+        pin_name: VDD_IO_6
+      - reference: U2
+        pin_number: '101'
+        pin_name: VDD_ANA
+      - reference: U2
+        pin_number: '102'
+        pin_name: VDD_BAT
+      - reference: U2
+        pin_number: '9'
+        pin_name: VDD_LP
+    - number: '5'
+      name: FB
+      electrical_type: input
+      graphic_style: line
+      local_position:
+        x: 7.62
+        y: 0.0
+        rotation: 180.0
+      length: 2.54
+      position:
+        x: 203.2
+        y: 45.72
+      net: FB_DCDC
+      net_aliases:
+      - FB_DCDC
+      net_scope: sheet
+      no_connect: false
+      connected_to:
+      - reference: C2
+        pin_number: '2'
+        pin_name: ''
+      - reference: R1
+        pin_number: '1'
+        pin_name: ''
+      - reference: R2
+        pin_number: '2'
+        pin_name: ''
+      - reference: U2
+        pin_number: '78'
+        pin_name: FB_DCDC
+    size:
+      local_graphics:
+        measurement: symbol graphics only; excludes pins, properties, and text
+        units: mm
+        available: true
+        min:
+          x: -5.207
+          y: -5.207
+        max:
+          x: 5.207
+          y: 5.207
+        width: 10.414
+        height: 10.414
+        center:
+          x: 0.0
+          y: 0.0
+      placed_graphics:
+        measurement: axis-aligned bounds after schematic placement, rotation, and mirroring
+        units: mm
+        available: true
+        min:
+          x: 190.373
+          y: 40.513
+        max:
+          x: 200.787
+          y: 50.927
+        width: 10.414
+        height: 10.414
+        center:
+          x: 195.58
+          y: 45.72
+    warnings: []
+  connected_components:
+  - reference: '#PWR01'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR02'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR03'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR04'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR05'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR06'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR07'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR08'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR09'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR010'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR011'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR012'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR013'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR014'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR016'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR017'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR018'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR019'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR020'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR021'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR022'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR023'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR024'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR025'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR026'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR027'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR028'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR029'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR030'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR031'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR032'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR033'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR034'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR037'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR038'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR039'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR040'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR041'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR044'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR045'
+    pin_number: '1'
+    pin_name: ''
+  - reference: C1
+    pin_number: '1'
+    pin_name: ''
+  - reference: C1
+    pin_number: '2'
+    pin_name: ''
+  - reference: C2
+    pin_number: '2'
+    pin_name: ''
+  - reference: C3
+    pin_number: '2'
+    pin_name: ''
+  - reference: C4
+    pin_number: '1'
+    pin_name: ''
+  - reference: C5
+    pin_number: '2'
+    pin_name: ''
+  - reference: C6
+    pin_number: '1'
+    pin_name: ''
+  - reference: C6
+    pin_number: '2'
+    pin_name: ''
+  - reference: C7
+    pin_number: '1'
+    pin_name: ''
+  - reference: C7
+    pin_number: '2'
+    pin_name: ''
+  - reference: C8
+    pin_number: '2'
+    pin_name: ''
+  - reference: C9
+    pin_number: '1'
+    pin_name: ''
+  - reference: C9
+    pin_number: '2'
+    pin_name: ''
+  - reference: C11
+    pin_number: '1'
+    pin_name: ''
+  - reference: C11
+    pin_number: '2'
+    pin_name: ''
+  - reference: C12
+    pin_number: '1'
+    pin_name: ''
+  - reference: C12
+    pin_number: '2'
+    pin_name: ''
+  - reference: C13
+    pin_number: '1'
+    pin_name: ''
+  - reference: C13
+    pin_number: '2'
+    pin_name: ''
+  - reference: C14
+    pin_number: '1'
+    pin_name: ''
+  - reference: C14
+    pin_number: '2'
+    pin_name: ''
+  - reference: C15
+    pin_number: '2'
+    pin_name: ''
+  - reference: C16
+    pin_number: '1'
+    pin_name: ''
+  - reference: C16
+    pin_number: '2'
+    pin_name: ''
+  - reference: C17
+    pin_number: '2'
+    pin_name: ''
+  - reference: C18
+    pin_number: '2'
+    pin_name: ''
+  - reference: C20
+    pin_number: '1'
+    pin_name: ''
+  - reference: C20
+    pin_number: '2'
+    pin_name: ''
+  - reference: C21
+    pin_number: '1'
+    pin_name: ''
+  - reference: C21
+    pin_number: '2'
+    pin_name: ''
+  - reference: C23
+    pin_number: '1'
+    pin_name: ''
+  - reference: C23
+    pin_number: '2'
+    pin_name: ''
+  - reference: C24
+    pin_number: '1'
+    pin_name: ''
+  - reference: C24
+    pin_number: '2'
+    pin_name: ''
+  - reference: C25
+    pin_number: '2'
+    pin_name: ''
+  - reference: C26
+    pin_number: '2'
+    pin_name: ''
+  - reference: C27
+    pin_number: '2'
+    pin_name: ''
+  - reference: C28
+    pin_number: '2'
+    pin_name: ''
+  - reference: C29
+    pin_number: '2'
+    pin_name: ''
+  - reference: C30
+    pin_number: '2'
+    pin_name: ''
+  - reference: C31
+    pin_number: '2'
+    pin_name: ''
+  - reference: C32
+    pin_number: '2'
+    pin_name: ''
+  - reference: C33
+    pin_number: '2'
+    pin_name: ''
+  - reference: C40
+    pin_number: '1'
+    pin_name: ''
+  - reference: C40
+    pin_number: '2'
+    pin_name: ''
+  - reference: C41
+    pin_number: '1'
+    pin_name: ''
+  - reference: C41
+    pin_number: '2'
+    pin_name: ''
+  - reference: C42
+    pin_number: '1'
+    pin_name: ''
+  - reference: C42
+    pin_number: '2'
+    pin_name: ''
+  - reference: L1
+    pin_number: '1'
+    pin_name: ''
+  - reference: R1
+    pin_number: '1'
+    pin_name: ''
+  - reference: R2
+    pin_number: '1'
+    pin_name: ''
+  - reference: R2
+    pin_number: '2'
+    pin_name: ''
+  - reference: R200
+    pin_number: '2'
+    pin_name: ''
+  - reference: U2
+    pin_number: '101'
+    pin_name: VDD_ANA
+  - reference: U2
+    pin_number: '102'
+    pin_name: VDD_BAT
+  - reference: U2
+    pin_number: '105'
+    pin_name: GND
+  - reference: U2
+    pin_number: '21'
+    pin_name: VDD_IO_0
+  - reference: U2
+    pin_number: '51'
+    pin_name: VDD_USBPHY
+  - reference: U2
+    pin_number: '62'
+    pin_name: VDD_IO_4
+  - reference: U2
+    pin_number: '75'
+    pin_name: VDD_LDO
+  - reference: U2
+    pin_number: '77'
+    pin_name: VDD_DCDCC
+  - reference: U2
+    pin_number: '78'
+    pin_name: FB_DCDC
+  - reference: U2
+    pin_number: '79'
+    pin_name: EN_DCDC
+  - reference: U2
+    pin_number: '85'
+    pin_name: VDD_IO_5
+  - reference: U2
+    pin_number: '9'
+    pin_name: VDD_LP
+  - reference: U2
+    pin_number: '96'
+    pin_name: VDD_IO_6
+  - reference: U3
+    pin_number: '4'
+    pin_name: GND
+  - reference: Y1
+    pin_number: '2'
+    pin_name: G
+  - reference: Y1
+    pin_number: '4'
+    pin_name: G
+pcb:
+  reference: U1
+  value: TLV62569DBV
+  source_file: data/kicad_file.kicad_pcb
+  uuid: 6d655d5f-933e-46ad-a4f2-990afe218690
+  library_id: Package_TO_SOT_SMD:SOT-23-5
+  layer: F.Cu
+  side: front
+  position:
+    x: 166.37
+    y: 81.28
+    rotation: -180.0
+    rotation_kicad: 180.0
+    units: mm
+  properties:
+    Reference: U1
+    Value: TLV62569DBV
+    Datasheet: http://www.ti.com/lit/ds/symlink/tlv62569.pdf
+    Description: High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 2A, SOT-23-5
+    LCSC: C141836
+    ki_fp_filters: SOT?23*
+  attributes:
+  - smd
+  exclude_from_bom: false
+  exclude_from_position_files: false
+  pads:
+  - number: '1'
+    type: smd
+    shape: roundrect
+    local_position:
+      x: -1.1375
+      y: -0.95
+      rotation: 180.0
+    position:
+      x: 167.5075
+      y: 82.23
+    placed_rotation: 0.0
+    size:
+      x: 1.325
+      y: 0.6
+      units: mm
+    drill:
+      available: false
+      shape: null
+      x: null
+      y: null
+      diameter: null
+      units: mm
+    layers:
+    - F.Cu
+    - F.Mask
+    - F.Paste
+    net: /Minimal P4 V3/EN_DCDC
+    net_number: null
+    pin_function: EN_1
+    pin_type: input
+    bounds:
+      local:
+        measurement: pad bounds in footprint-local coordinates
+        units: mm
+        available: true
+        min:
+          x: -1.8
+          y: -1.25
+        max:
+          x: -0.475
+          y: -0.65
+        width: 1.325
+        height: 0.6
+        center:
+          x: -1.1375
+          y: -0.95
+      placed:
+        measurement: pad bounds after footprint placement and rotation
+        units: mm
+        available: true
+        min:
+          x: 166.845
+          y: 81.93
+        max:
+          x: 168.17
+          y: 82.53
+        width: 1.325
+        height: 0.6
+        center:
+          x: 167.5075
+          y: 82.23
+    plating: null
+    is_mounting_hole: false
+    connected_to:
+    - reference: U2
+      pad_number: '79'
+  - number: '2'
+    type: smd
+    shape: roundrect
+    local_position:
+      x: -1.1375
+      y: 0.0
+      rotation: 180.0
+    position:
+      x: 167.5075
+      y: 81.28
+    placed_rotation: 0.0
+    size:
+      x: 1.325
+      y: 0.6
+      units: mm
+    drill:
+      available: false
+      shape: null
+      x: null
+      y: null
+      diameter: null
+      units: mm
+    layers:
+    - F.Cu
+    - F.Mask
+    - F.Paste
+    net: GND
+    net_number: null
+    pin_function: GND_2
+    pin_type: power_in
+    bounds:
+      local:
+        measurement: pad bounds in footprint-local coordinates
+        units: mm
+        available: true
+        min:
+          x: -1.8
+          y: -0.3
+        max:
+          x: -0.475
+          y: 0.3
+        width: 1.325
+        height: 0.6
+        center:
+          x: -1.1375
+          y: 0.0
+      placed:
+        measurement: pad bounds after footprint placement and rotation
+        units: mm
+        available: true
+        min:
+          x: 166.845
+          y: 80.98
+        max:
+          x: 168.17
+          y: 81.58
+        width: 1.325
+        height: 0.6
+        center:
+          x: 167.5075
+          y: 81.28
+    plating: null
+    is_mounting_hole: false
+    connected_to:
+    - reference: C1
+      pad_number: '2'
+    - reference: C3
+      pad_number: '2'
+    - reference: C4
+      pad_number: '1'
+    - reference: C5
+      pad_number: '2'
+    - reference: C6
+      pad_number: '2'
+    - reference: C7
+      pad_number: '2'
+    - reference: C8
+      pad_number: '2'
+    - reference: C9
+      pad_number: '2'
+    - reference: C11
+      pad_number: '2'
+    - reference: C12
+      pad_number: '2'
+    - reference: C13
+      pad_number: '2'
+    - reference: C14
+      pad_number: '2'
+    - reference: C15
+      pad_number: '2'
+    - reference: C16
+      pad_number: '2'
+    - reference: C17
+      pad_number: '2'
+    - reference: C18
+      pad_number: '2'
+    - reference: C20
+      pad_number: '2'
+    - reference: C21
+      pad_number: '2'
+    - reference: C23
+      pad_number: '2'
+    - reference: C24
+      pad_number: '2'
+    - reference: C25
+      pad_number: '2'
+    - reference: C26
+      pad_number: '2'
+    - reference: C27
+      pad_number: '2'
+    - reference: C28
+      pad_number: '2'
+    - reference: C29
+      pad_number: '2'
+    - reference: C30
+      pad_number: '2'
+    - reference: C31
+      pad_number: '2'
+    - reference: C32
+      pad_number: '2'
+    - reference: C33
+      pad_number: '2'
+    - reference: C40
+      pad_number: '2'
+    - reference: C41
+      pad_number: '2'
+    - reference: C42
+      pad_number: '2'
+    - reference: R2
+      pad_number: '1'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U3
+      pad_number: '4'
+    - reference: Y1
+      pad_number: '2'
+    - reference: Y1
+      pad_number: '4'
+  - number: '3'
+    type: smd
+    shape: roundrect
+    local_position:
+      x: -1.1375
+      y: 0.95
+      rotation: 180.0
+    position:
+      x: 167.5075
+      y: 80.33
+    placed_rotation: 0.0
+    size:
+      x: 1.325
+      y: 0.6
+      units: mm
+    drill:
+      available: false
+      shape: null
+      x: null
+      y: null
+      diameter: null
+      units: mm
+    layers:
+    - F.Cu
+    - F.Mask
+    - F.Paste
+    net: Net-(U1-SW)
+    net_number: null
+    pin_function: SW_3
+    pin_type: power_out
+    bounds:
+      local:
+        measurement: pad bounds in footprint-local coordinates
+        units: mm
+        available: true
+        min:
+          x: -1.8
+          y: 0.65
+        max:
+          x: -0.475
+          y: 1.25
+        width: 1.325
+        height: 0.6
+        center:
+          x: -1.1375
+          y: 0.95
+      placed:
+        measurement: pad bounds after footprint placement and rotation
+        units: mm
+        available: true
+        min:
+          x: 166.845
+          y: 80.03
+        max:
+          x: 168.17
+          y: 80.63
+        width: 1.325
+        height: 0.6
+        center:
+          x: 167.5075
+          y: 80.33
+    plating: null
+    is_mounting_hole: false
+    connected_to:
+    - reference: L1
+      pad_number: '1'
+  - number: '4'
+    type: smd
+    shape: roundrect
+    local_position:
+      x: 1.1375
+      y: 0.95
+      rotation: 180.0
+    position:
+      x: 165.2325
+      y: 80.33
+    placed_rotation: 0.0
+    size:
+      x: 1.325
+      y: 0.6
+      units: mm
+    drill:
+      available: false
+      shape: null
+      x: null
+      y: null
+      diameter: null
+      units: mm
+    layers:
+    - F.Cu
+    - F.Mask
+    - F.Paste
+    net: +3.3V
+    net_number: null
+    pin_function: VIN_4
+    pin_type: power_in
+    bounds:
+      local:
+        measurement: pad bounds in footprint-local coordinates
+        units: mm
+        available: true
+        min:
+          x: 0.475
+          y: 0.65
+        max:
+          x: 1.8
+          y: 1.25
+        width: 1.325
+        height: 0.6
+        center:
+          x: 1.1375
+          y: 0.95
+      placed:
+        measurement: pad bounds after footprint placement and rotation
+        units: mm
+        available: true
+        min:
+          x: 164.57
+          y: 80.03
+        max:
+          x: 165.895
+          y: 80.63
+        width: 1.325
+        height: 0.6
+        center:
+          x: 165.2325
+          y: 80.33
+    plating: null
+    is_mounting_hole: false
+    connected_to:
+    - reference: C1
+      pad_number: '1'
+    - reference: C6
+      pad_number: '1'
+    - reference: C7
+      pad_number: '1'
+    - reference: C9
+      pad_number: '1'
+    - reference: C11
+      pad_number: '1'
+    - reference: C12
+      pad_number: '1'
+    - reference: C13
+      pad_number: '1'
+    - reference: C14
+      pad_number: '1'
+    - reference: C16
+      pad_number: '1'
+    - reference: C20
+      pad_number: '1'
+    - reference: C21
+      pad_number: '1'
+    - reference: C23
+      pad_number: '1'
+    - reference: C24
+      pad_number: '1'
+    - reference: C40
+      pad_number: '1'
+    - reference: C41
+      pad_number: '1'
+    - reference: C42
+      pad_number: '1'
+    - reference: R200
+      pad_number: '2'
+    - reference: U2
+      pad_number: '9'
+    - reference: U2
+      pad_number: '21'
+    - reference: U2
+      pad_number: '51'
+    - reference: U2
+      pad_number: '62'
+    - reference: U2
+      pad_number: '75'
+    - reference: U2
+      pad_number: '77'
+    - reference: U2
+      pad_number: '85'
+    - reference: U2
+      pad_number: '96'
+    - reference: U2
+      pad_number: '101'
+    - reference: U2
+      pad_number: '102'
+  - number: '5'
+    type: smd
+    shape: roundrect
+    local_position:
+      x: 1.1375
+      y: -0.95
+      rotation: 180.0
+    position:
+      x: 165.2325
+      y: 82.23
+    placed_rotation: 0.0
+    size:
+      x: 1.325
+      y: 0.6
+      units: mm
+    drill:
+      available: false
+      shape: null
+      x: null
+      y: null
+      diameter: null
+      units: mm
+    layers:
+    - F.Cu
+    - F.Mask
+    - F.Paste
+    net: /Minimal P4 V3/FB_DCDC
+    net_number: null
+    pin_function: FB_5
+    pin_type: input
+    bounds:
+      local:
+        measurement: pad bounds in footprint-local coordinates
+        units: mm
+        available: true
+        min:
+          x: 0.475
+          y: -1.25
+        max:
+          x: 1.8
+          y: -0.65
+        width: 1.325
+        height: 0.6
+        center:
+          x: 1.1375
+          y: -0.95
+      placed:
+        measurement: pad bounds after footprint placement and rotation
+        units: mm
+        available: true
+        min:
+          x: 164.57
+          y: 81.93
+        max:
+          x: 165.895
+          y: 82.53
+        width: 1.325
+        height: 0.6
+        center:
+          x: 165.2325
+          y: 82.23
+    plating: null
+    is_mounting_hole: false
+    connected_to:
+    - reference: C2
+      pad_number: '2'
+    - reference: R1
+      pad_number: '1'
+    - reference: R2
+      pad_number: '2'
+    - reference: U2
+      pad_number: '78'
+  mounting_holes: []
+  is_mounting_hole: false
+  size:
+    pads_local:
+      measurement: all footprint pads in footprint-local coordinates
+      units: mm
+      available: true
+      min:
+        x: -1.8
+        y: -1.25
+      max:
+        x: 1.8
+        y: 1.25
+      width: 3.6
+      height: 2.5
+      center:
+        x: 0.0
+        y: 0.0
+    pads_placed:
+      measurement: all pads after PCB placement and rotation
+      units: mm
+      available: true
+      min:
+        x: 164.57
+        y: 80.03
+      max:
+        x: 168.17
+        y: 82.53
+      width: 3.6
+      height: 2.5
+      center:
+        x: 166.37
+        y: 81.28
+    courtyard_local:
+      measurement: F.CrtYd and B.CrtYd graphics; text excluded
+      units: mm
+      available: true
+      min:
+        x: -2.075
+        y: -1.725
+      max:
+        x: 2.075
+        y: 1.725
+      width: 4.15
+      height: 3.45
+      center:
+        x: 0.0
+        y: 0.0
+    courtyard_placed:
+      measurement: courtyard after PCB placement and rotation
+      units: mm
+      available: true
+      min:
+        x: 164.295
+        y: 79.555
+      max:
+        x: 168.445
+        y: 83.005
+      width: 4.15
+      height: 3.45
+      center:
+        x: 166.37
+        y: 81.28
+    fabrication_local:
+      measurement: F.Fab and B.Fab graphics; text excluded
+      units: mm
+      available: true
+      min:
+        x: -0.85
+        y: -1.5
+      max:
+        x: 0.85
+        y: 1.5
+      width: 1.7
+      height: 3.0
+      center:
+        x: 0.0
+        y: 0.0
+    fabrication_placed:
+      measurement: fabrication graphics after placement
+      units: mm
+      available: true
+      min:
+        x: 165.52
+        y: 79.78
+      max:
+        x: 167.22
+        y: 82.78
+      width: 1.7
+      height: 3.0
+      center:
+        x: 166.37
+        y: 81.28
+    silkscreen_local:
+      measurement: F.SilkS and B.SilkS graphics; text excluded
+      units: mm
+      available: true
+      min:
+        x: -1.75
+        y: -1.9
+      max:
+        x: 0.97
+        y: 1.62
+      width: 2.72
+      height: 3.52
+      center:
+        x: -0.39
+        y: -0.14
+    silkscreen_placed:
+      measurement: silkscreen graphics after placement
+      units: mm
+      available: true
+      min:
+        x: 165.4
+        y: 79.66
+      max:
+        x: 168.12
+        y: 83.18
+      width: 2.72
+      height: 3.52
+      center:
+        x: 166.76
+        y: 81.42
+    overall_local:
+      measurement: all non-text footprint graphics and pads
+      units: mm
+      available: true
+      min:
+        x: -2.075
+        y: -1.9
+      max:
+        x: 2.075
+        y: 1.725
+      width: 4.15
+      height: 3.625
+      center:
+        x: 0.0
+        y: -0.0875
+    overall_placed:
+      measurement: all non-text footprint graphics and pads after placement
+      units: mm
+      available: true
+      min:
+        x: 164.295
+        y: 79.555
+      max:
+        x: 168.445
+        y: 83.18
+      width: 4.15
+      height: 3.625
+      center:
+        x: 166.37
+        y: 81.3675
+  connected_components:
+  - C1
+  - C2
+  - C3
+  - C4
+  - C5
+  - C6
+  - C7
+  - C8
+  - C9
+  - C11
+  - C12
+  - C13
+  - C14
+  - C15
+  - C16
+  - C17
+  - C18
+  - C20
+  - C21
+  - C23
+  - C24
+  - C25
+  - C26
+  - C27
+  - C28
+  - C29
+  - C30
+  - C31
+  - C32
+  - C33
+  - C40
+  - C41
+  - C42
+  - L1
+  - R1
+  - R2
+  - R200
+  - U2
+  - U3
+  - Y1
+connectivity_cross_check:
+  available: true
+  policy: Named schematic nets are compared with PCB pad nets using matching pin/pad numbers; root-sheet local labels also
+    allow KiCad's leading '/' prefix.
+  comparisons:
+  - pin_or_pad_number: '1'
+    schematic_nets:
+    - EN_DCDC
+    pcb_nets:
+    - /Minimal P4 V3/EN_DCDC
+    status: disagree
+  - pin_or_pad_number: '2'
+    schematic_nets:
+    - GND
+    pcb_nets:
+    - GND
+    status: agree
+  - pin_or_pad_number: '3'
+    schematic_nets: []
+    pcb_nets:
+    - Net-(U1-SW)
+    status: incomplete
+  - pin_or_pad_number: '4'
+    schematic_nets:
+    - +3.3V
+    pcb_nets:
+    - +3.3V
+    status: agree
+  - pin_or_pad_number: '5'
+    schematic_nets:
+    - FB_DCDC
+    pcb_nets:
+    - /Minimal P4 V3/FB_DCDC
+    status: disagree
+  agree_count: 2
+  disagree_count: 2
+  incomplete_count: 1
+oomp:
+  status: unmatched
+  accepted: false
+  oomp_id: null
+  confidence: 0.0
+  proposed_oomp_id: null
+  inferred:
+    kind: null
+    package_size: null
+    value: TLV62569DBV
+    mpn: null
+  reasons:
+  - No supported OOMP component family could be inferred.
+  candidates: []
+category: power_management
+category_source: unmatched_kicad_hint
+category_name: Power management
+generated_directory: components/U1

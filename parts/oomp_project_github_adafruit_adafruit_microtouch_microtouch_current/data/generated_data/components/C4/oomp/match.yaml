@@ -1,0 +1,43 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: electronic_capacitor_3216_10_micro_farad
+inferred:
+  kind: capacitor
+  package_size: '3216'
+  value: 10uF
+  mpn: null
+reasons:
+- The exact normalized component is not present in the OOMP parts directory.
+candidates:
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_10_micro_farad_10_volt_avx_taja106k010rnej
+  score: 0.9825
+  reasons:
+  - same component family
+  - same package size
+  - same normalized value
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_6_8_micro_farad_16_volt_avx_taja685k016rnej
+  score: 0.8634
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+  score: 0.757
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt_avx_taja475k016rnej
+  score: 0.7511
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_20_volt_avx_taja475k020rnej
+  score: 0.7511
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value

@@ -1,0 +1,13 @@
+status: matched
+accepted: true
+oomp_id: electronic_connector_header_1_27_mm_pitch_surface_mount_10_pin_socket_header_female_5x2_1_27_mm_smd
+confidence: 1.0
+proposed_oomp_id: electronic_connector_header_1_27_mm_pitch_surface_mount_10_pin_socket_header_female_5x2_1_27_mm_smd
+inferred:
+  kind: null
+  package_size: null
+  value: HEADER_FEMALE_5x2_1.27mm_SMD
+  mpn: null
+reasons:
+- Exact OOMP ID constructed from component type, package size, and normalized value.
+candidates: []

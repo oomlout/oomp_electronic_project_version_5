@@ -1,0 +1,210 @@
+{
+  "count": 3,
+  "components": [
+    {
+      "reference": "FB1",
+      "fields": {
+        "reference": "FB1",
+        "value": "FERRITE",
+        "footprint": "0805",
+        "library_id": "kicad_file-eagle-import:FERRITE0805",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "ferrite_bead",
+          "package_size": "0805",
+          "value": "FERRITE",
+          "mpn": null
+        },
+        "reasons": [
+          "The component value could not be normalized into an OOMP ID."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_220_ohm_2_amp_murata_blm21pg221sn1d",
+            "score": 0.199,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_100_ohm_800_milliamp_sunlord_gz2012d101tf",
+            "score": 0.1936,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_120_ohm_800_milliamp_sunlord_gz2012d121tf",
+            "score": 0.1936,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_600_ohm_500_milliamp_sunlord_gz2012d601tf",
+            "score": 0.1936,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_15_ohm_1_5_amp_tdk_mmz2012r150at000",
+            "score": 0.1909,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/FB1"
+    },
+    {
+      "reference": "FB2",
+      "fields": {
+        "reference": "FB2",
+        "value": "FERRITE",
+        "footprint": "0805",
+        "library_id": "kicad_file-eagle-import:FERRITE0805",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "ferrite_bead",
+          "package_size": "0805",
+          "value": "FERRITE",
+          "mpn": null
+        },
+        "reasons": [
+          "The component value could not be normalized into an OOMP ID."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_220_ohm_2_amp_murata_blm21pg221sn1d",
+            "score": 0.199,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_100_ohm_800_milliamp_sunlord_gz2012d101tf",
+            "score": 0.1936,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_120_ohm_800_milliamp_sunlord_gz2012d121tf",
+            "score": 0.1936,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_600_ohm_500_milliamp_sunlord_gz2012d601tf",
+            "score": 0.1936,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_15_ohm_1_5_amp_tdk_mmz2012r150at000",
+            "score": 0.1909,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/FB2"
+    },
+    {
+      "reference": "Q1",
+      "fields": {
+        "reference": "Q1",
+        "value": "CMA-4544PF-W",
+        "footprint": "9.7ELECTRET",
+        "library_id": "kicad_file-eagle-import:ELECTRET",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "transistor",
+          "package_size": null,
+          "value": "CMA-4544PF-W",
+          "mpn": null
+        },
+        "reasons": [
+          "Component family was inferred, but package size was not."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_transistor_sot_23_bipolar_npn",
+            "score": 0.1079,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_transistor_sot_23_bipolar_pnp",
+            "score": 0.1079,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_transistor_to_3pn_mosfet_n_channel_enhancement_mode_900_volt_9_amp_onsemi_fqa9n90c_f109",
+            "score": 0.0965,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_transistor_to_251_mosfet_n_channel_enhancement_mode_100_volt_9_4_amp_infineon_technologies_irfu120npbf",
+            "score": 0.0948,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_transistor_to_252_mosfet_n_channel_enhancement_mode_100_volt_9_4_amp_infineon_technologies_irfr120ntrpbf",
+            "score": 0.0941,
+            "reasons": [
+              "same component family"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/Q1"
+    }
+  ]
+}

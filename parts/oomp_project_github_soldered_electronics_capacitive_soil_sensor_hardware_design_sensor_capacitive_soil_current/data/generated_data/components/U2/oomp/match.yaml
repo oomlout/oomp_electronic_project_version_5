@@ -1,0 +1,13 @@
+status: matched
+accepted: true
+oomp_id: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+confidence: 1.0
+proposed_oomp_id: electronic_ic_msop_8_amplifier_operational_amplifier_sg_micro_sgm358yms_tr
+inferred:
+  kind: null
+  package_size: null
+  value: SGM358YMS/TR
+  mpn: null
+reasons:
+- Exact OOMP ID constructed from component type, package size, and normalized value.
+candidates: []

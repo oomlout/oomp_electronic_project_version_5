@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: IRLR024NTRPBF
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_to_252_mosfet_n_channel_enhancement_mode_55_volt_17_amp_infineon_technologies_irlr024ntrpbf
+  score: 0.1609
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_23_mosfet_n_channel_enhancement_mode
+  score: 0.1279
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_363_6_mosfet_n_channel_dual
+  score: 0.1237
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_252_mosfet_n_channel_enhancement_mode_55_volt_17_amp_infineon_technologies_irfr024ntrpbf
+  score: 0.1232
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_252_mosfet_p_channel_enhancement_mode_55_volt_11_amp_infineon_technologies_irfr9024ntrpbf
+  score: 0.1227
+  reasons:
+  - same component family

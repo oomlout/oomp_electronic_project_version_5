@@ -1,0 +1,212 @@
+bip_39_2_word_array:
+- orange
+- piece
+bip_39_2_word_no_space: orangepiece
+bip_39_2_word_space: orange piece
+bip_39_2_word_underscore: orange_piece
+bip_39_3_word_array:
+- orange
+- piece
+- arch
+bip_39_3_word_no_space: orangepiecearch
+bip_39_3_word_space: orange piece arch
+bip_39_3_word_underscore: orange_piece_arch
+bip_39_full_array:
+- orange
+- piece
+- arch
+- old
+- embody
+- split
+- problem
+- meadow
+- impulse
+- foil
+- kit
+- corn
+bip_39_full_no_space: orangepiecearcholdembodysplitproblemmeadowimpulsefoilkitcorn
+bip_39_full_space: orange piece arch old embody split problem meadow impulse foil
+  kit corn
+bip_39_full_underscore: orange_piece_arch_old_embody_split_problem_meadow_impulse_foil_kit_corn
+directory: parts/oomp_project_github_sparkfun_spark_fun_tpl5110_nano_power_timer_spark_fun_tpl5110_nano_power_switch_current
+distributors: []
+id: oomp_project_github_sparkfun_spark_fun_tpl5110_nano_power_timer_spark_fun_tpl5110_nano_power_switch_current
+id_no_class: oomp_project_github_sparkfun_spark_fun_tpl5110_nano_power_timer_spark_fun_tpl5110_nano_power_switch_current
+id_no_size: oomp_project_github_sparkfun_spark_fun_tpl5110_nano_power_timer_spark_fun_tpl5110_nano_power_switch_current
+id_no_type: oomp_project_github_sparkfun_spark_fun_tpl5110_nano_power_timer_spark_fun_tpl5110_nano_power_switch_current
+link_github: https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_sparkfun_spark_fun_tpl5110_nano_power_timer_spark_fun_tpl5110_nano_power_switch_current
+link_main: https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_sparkfun_spark_fun_tpl5110_nano_power_timer_spark_fun_tpl5110_nano_power_switch_current
+link_redirect: https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_sparkfun_spark_fun_tpl5110_nano_power_timer_spark_fun_tpl5110_nano_power_switch_current
+manufacturers: []
+md5: 9bd48c2c4d0487a46adc4d722b4deb98
+md5_10: 9bd48c2c4d
+md5_10_upper: 9BD48C2C4D
+md5_5: 9bd48
+md5_5_upper: 9BD48
+md5_6: 9bd48c
+md5_6_alpha: 62w0c
+md5_6_alpha_upper: 62W0C
+md5_6_upper: 9BD48C
+name: Oomp Project Github Sparkfun Spark Fun Tpl5110 Nano Power Timer Spark Fun Tpl5110
+  Nano Power Switch Current
+name_no_class: Oomp Project Github Sparkfun Spark Fun Tpl5110 Nano Power Timer Spark
+  Fun Tpl5110 Nano Power Switch Current
+name_no_size: Oomp Project Github Sparkfun Spark Fun Tpl5110 Nano Power Timer Spark
+  Fun Tpl5110 Nano Power Switch Current
+name_no_type: Oomp Project Github Sparkfun Spark Fun Tpl5110 Nano Power Timer Spark
+  Fun Tpl5110 Nano Power Switch Current
+name_proper: Project sparkfun/SparkFun_TPL5110_Nano_Power_Timer Spark Fun TPL5110
+  Nano Power Switch current
+name_readable: Project sparkfun/SparkFun_TPL5110_Nano_Power_Timer Spark Fun TPL5110
+  Nano Power Switch current
+name_short: Project sparkfun/SparkFun_TPL5110_Nano_Power_Timer Spark Fun TPL5110 Nano
+  Power Switch current
+name_space: oomp project github sparkfun spark fun tpl5110 nano power timer spark
+  fun tpl5110 nano power switch current
+name_upper: OOMP PROJECT GITHUB SPARKFUN SPARK FUN TPL5110 NANO POWER TIMER SPARK
+  FUN TPL5110 NANO POWER SWITCH CURRENT
+oomp_key: oomp_oomp_project_github_sparkfun_spark_fun_tpl5110_nano_power_timer_spark_fun_tpl5110_nano_power_switch_current
+production_board_source: ''
+production_exclude_references: []
+production_lcsc_overrides: {}
+production_oomp_metadata_board: ''
+production_position_offsets_mm: {}
+production_rotation_offsets: {}
+project_board: spark_fun_tpl5110_nano_power_switch
+project_board_name: Spark Fun TPL5110 Nano Power Switch
+project_board_url: https://github.com/sparkfun/SparkFun_TPL5110_Nano_Power_Timer/blob/master/Hardware/SparkFun_TPL5110_Nano_Power_Switch.brd
+project_file_basename: SparkFun_TPL5110_Nano_Power_Switch
+project_file_extensions:
+- .kicad_pcb
+- .kicad_sch
+- .kicad_pro
+project_file_folder: Hardware
+project_file_path: Hardware/SparkFun_TPL5110_Nano_Power_Switch
+project_file_path_original: ''
+project_git_ref: master
+project_git_url: https://github.com/sparkfun/SparkFun_TPL5110_Nano_Power_Timer.git
+project_github_repository: SparkFun_TPL5110_Nano_Power_Timer
+project_github_url: https://github.com/sparkfun/SparkFun_TPL5110_Nano_Power_Timer
+project_github_user: sparkfun
+project_match_blocked: {}
+project_match_overrides: {}
+project_review_notes: []
+project_source_format: eagle
+project_sparse_checkout: true
+project_version: current
+regenerate_pngs: false
+taxonomy_1: oomp
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oomp
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oom
+taxonomy_1_length_4: oomp
+taxonomy_1_length_5: oomp
+taxonomy_1_upper: OOMP
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOM
+taxonomy_1_upper_length_4: OOMP
+taxonomy_1_upper_length_5: OOMP
+taxonomy_2: project
+taxonomy_2_capital: Project
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pr
+taxonomy_2_length_3: pro
+taxonomy_2_length_4: proj
+taxonomy_2_length_5: proje
+taxonomy_2_upper: PROJECT
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PR
+taxonomy_2_upper_length_3: PRO
+taxonomy_2_upper_length_4: PROJ
+taxonomy_2_upper_length_5: PROJE
+taxonomy_3: github
+taxonomy_3_capital: Github
+taxonomy_3_first_letter: g
+taxonomy_3_first_letter_upper: G
+taxonomy_3_length_1: g
+taxonomy_3_length_2: gi
+taxonomy_3_length_3: git
+taxonomy_3_length_4: gith
+taxonomy_3_length_5: githu
+taxonomy_3_upper: GITHUB
+taxonomy_3_upper_length_1: G
+taxonomy_3_upper_length_2: GI
+taxonomy_3_upper_length_3: GIT
+taxonomy_3_upper_length_4: GITH
+taxonomy_3_upper_length_5: GITHU
+taxonomy_4: sparkfun
+taxonomy_4_capital: Sparkfun
+taxonomy_4_first_letter: s
+taxonomy_4_first_letter_upper: S
+taxonomy_4_length_1: s
+taxonomy_4_length_2: sp
+taxonomy_4_length_3: spa
+taxonomy_4_length_4: spar
+taxonomy_4_length_5: spark
+taxonomy_4_upper: SPARKFUN
+taxonomy_4_upper_length_1: S
+taxonomy_4_upper_length_2: SP
+taxonomy_4_upper_length_3: SPA
+taxonomy_4_upper_length_4: SPAR
+taxonomy_4_upper_length_5: SPARK
+taxonomy_5: spark_fun_tpl5110_nano_power_timer
+taxonomy_5_capital: Spark Fun Tpl5110 Nano Power Timer
+taxonomy_5_first_letter: s
+taxonomy_5_first_letter_upper: S
+taxonomy_5_length_1: s
+taxonomy_5_length_2: sp
+taxonomy_5_length_3: spa
+taxonomy_5_length_4: spar
+taxonomy_5_length_5: spark
+taxonomy_5_upper: SPARK_FUN_TPL5110_NANO_POWER_TIMER
+taxonomy_5_upper_length_1: S
+taxonomy_5_upper_length_2: SP
+taxonomy_5_upper_length_3: SPA
+taxonomy_5_upper_length_4: SPAR
+taxonomy_5_upper_length_5: SPARK
+taxonomy_6: spark_fun_tpl5110_nano_power_switch
+taxonomy_6_capital: Spark Fun Tpl5110 Nano Power Switch
+taxonomy_6_first_letter: s
+taxonomy_6_first_letter_upper: S
+taxonomy_6_length_1: s
+taxonomy_6_length_2: sp
+taxonomy_6_length_3: spa
+taxonomy_6_length_4: spar
+taxonomy_6_length_5: spark
+taxonomy_6_upper: SPARK_FUN_TPL5110_NANO_POWER_SWITCH
+taxonomy_6_upper_length_1: S
+taxonomy_6_upper_length_2: SP
+taxonomy_6_upper_length_3: SPA
+taxonomy_6_upper_length_4: SPAR
+taxonomy_6_upper_length_5: SPARK
+taxonomy_7: current
+taxonomy_7_capital: Current
+taxonomy_7_first_letter: c
+taxonomy_7_first_letter_upper: C
+taxonomy_7_length_1: c
+taxonomy_7_length_2: cu
+taxonomy_7_length_3: cur
+taxonomy_7_length_4: curr
+taxonomy_7_length_5: curre
+taxonomy_7_upper: CURRENT
+taxonomy_7_upper_length_1: C
+taxonomy_7_upper_length_2: CU
+taxonomy_7_upper_length_3: CUR
+taxonomy_7_upper_length_4: CURR
+taxonomy_7_upper_length_5: CURRE
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: ''
+generation_command: python action_generate.py --filter oomp_project_github_sparkfun_spark_fun_tpl5110_nano_power_timer_spark_fun_tpl5110_nano_power_switch_current

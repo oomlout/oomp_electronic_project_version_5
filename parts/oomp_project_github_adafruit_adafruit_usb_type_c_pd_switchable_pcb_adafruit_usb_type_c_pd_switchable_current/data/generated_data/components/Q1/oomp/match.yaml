@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: AONR21307
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_20_volt_vishay_si2301cds_t1_ge3
+  score: 0.1336
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_23_mosfet_n_channel_enhancement_mode
+  score: 0.1305
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_220_mosfet_p_channel_enhancement_mode_100_volt_23_amp_infineon_technologies_irf9540npbf
+  score: 0.1291
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_220ab_mosfet_p_channel_enhancement_mode_55_volt_31_amp_infineon_technologies_irf5305pbf
+  score: 0.1291
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_251_mosfet_p_channel_enhancement_mode_100_volt_13_amp_infineon_technologies_irfu5410pbf
+  score: 0.1291
+  reasons:
+  - same component family

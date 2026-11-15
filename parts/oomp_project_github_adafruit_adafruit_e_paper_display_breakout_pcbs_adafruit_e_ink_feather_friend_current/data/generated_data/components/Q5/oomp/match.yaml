@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: IRLML0100
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_to_220_mosfet_n_channel_enhancement_mode_1000_volt_3_1_amp_vishay_intertech_irfbg30pbf
+  score: 0.096
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_3p_3_mosfet_n_channel_enhancement_mode_500_volt_28_4_amp_onsemi_fqa28n50
+  score: 0.0938
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_12_volt_4_3_amp_infineon_technologies_irlml6401trpbf
+  score: 0.0937
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_220_3_mosfet_n_channel_enhancement_mode_100_volt_127_amp_infineon_technologies_irfb4310zpbf
+  score: 0.0934
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_204_bipolar_pnp_140_volt_20_amp_onsemi_mj15004g
+  score: 0.093
+  reasons:
+  - same component family

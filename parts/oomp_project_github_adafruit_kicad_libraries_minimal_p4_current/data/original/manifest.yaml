@@ -1,0 +1,7 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: 745aad606ff444d9802ba9851fc5ff7be9edac1f30dc819cd07784ad825c8df0
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_kicad_libraries_minimal_p4_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: a716e9e5c19b68496e9cd2cf8dd871d270441f93705ebb0d240c548a638d6fd1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_kicad_libraries_minimal_p4_current\data\kicad_file.kicad_sch

@@ -1,0 +1,754 @@
+{
+  "reference": "R39",
+  "schematic": {
+    "available": true,
+    "units": [
+      {
+        "reference": "R39",
+        "source_file": "data/kicad_file.kicad_sch",
+        "uuid": "b51bc6af-40de-49c7-8555-ec90e82d1894",
+        "library_id": "Device:R_Small",
+        "unit": 1,
+        "body_style": 1,
+        "position": {
+          "x": 226.06,
+          "y": 144.78,
+          "rotation": 270.0,
+          "mirror": null,
+          "units": "mm"
+        },
+        "properties": {
+          "Reference": "R39",
+          "Value": "0",
+          "Footprint": "Resistor_SMD:R_0402_1005Metric",
+          "Datasheet": "",
+          "Description": "Resistor, small symbol"
+        },
+        "in_bom": true,
+        "on_board": true,
+        "in_position_files": true,
+        "dnp": false,
+        "pins": [
+          {
+            "number": "1",
+            "name": "",
+            "electrical_type": "passive",
+            "graphic_style": "line",
+            "local_position": {
+              "x": 0.0,
+              "y": 2.54,
+              "rotation": 270.0
+            },
+            "length": 0.762,
+            "position": {
+              "x": 228.6,
+              "y": 144.78
+            },
+            "net": "VDD_HP",
+            "net_aliases": [
+              "VDD_HP"
+            ],
+            "net_scope": "sheet",
+            "no_connect": false,
+            "connected_to": [
+              {
+                "reference": "C2",
+                "pin_number": "1",
+                "pin_name": ""
+              },
+              {
+                "reference": "C3",
+                "pin_number": "1",
+                "pin_name": ""
+              },
+              {
+                "reference": "C8",
+                "pin_number": "1",
+                "pin_name": ""
+              },
+              {
+                "reference": "C15",
+                "pin_number": "1",
+                "pin_name": ""
+              },
+              {
+                "reference": "C28",
+                "pin_number": "1",
+                "pin_name": ""
+              },
+              {
+                "reference": "C29",
+                "pin_number": "1",
+                "pin_name": ""
+              },
+              {
+                "reference": "L1",
+                "pin_number": "2",
+                "pin_name": ""
+              },
+              {
+                "reference": "R1",
+                "pin_number": "2",
+                "pin_name": ""
+              },
+              {
+                "reference": "U2",
+                "pin_number": "26",
+                "pin_name": "VDD_HP_0"
+              },
+              {
+                "reference": "U2",
+                "pin_number": "76",
+                "pin_name": "VDD_HP_2"
+              },
+              {
+                "reference": "U2",
+                "pin_number": "91",
+                "pin_name": "VDD_HP_3"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "",
+            "electrical_type": "passive",
+            "graphic_style": "line",
+            "local_position": {
+              "x": 0.0,
+              "y": -2.54,
+              "rotation": 90.0
+            },
+            "length": 0.762,
+            "position": {
+              "x": 223.52,
+              "y": 144.78
+            },
+            "net": null,
+            "net_aliases": [],
+            "net_scope": "sheet",
+            "no_connect": false,
+            "connected_to": [
+              {
+                "reference": "C25",
+                "pin_number": "1",
+                "pin_name": ""
+              },
+              {
+                "reference": "U2",
+                "pin_number": "54",
+                "pin_name": "VDD_HP_1"
+              }
+            ]
+          }
+        ],
+        "size": {
+          "local_graphics": {
+            "measurement": "symbol graphics only; excludes pins, properties, and text",
+            "units": "mm",
+            "available": true,
+            "min": {
+              "x": -0.8636,
+              "y": -1.8796
+            },
+            "max": {
+              "x": 0.8636,
+              "y": 1.8796
+            },
+            "width": 1.7272,
+            "height": 3.7592,
+            "center": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "placed_graphics": {
+            "measurement": "axis-aligned bounds after schematic placement, rotation, and mirroring",
+            "units": "mm",
+            "available": true,
+            "min": {
+              "x": 224.1804,
+              "y": 143.9164
+            },
+            "max": {
+              "x": 227.9396,
+              "y": 145.6436
+            },
+            "width": 3.7592,
+            "height": 1.7272,
+            "center": {
+              "x": 226.06,
+              "y": 144.78
+            }
+          }
+        },
+        "warnings": []
+      }
+    ],
+    "connected_components": [
+      {
+        "reference": "C2",
+        "pin_number": "1",
+        "pin_name": ""
+      },
+      {
+        "reference": "C3",
+        "pin_number": "1",
+        "pin_name": ""
+      },
+      {
+        "reference": "C8",
+        "pin_number": "1",
+        "pin_name": ""
+      },
+      {
+        "reference": "C15",
+        "pin_number": "1",
+        "pin_name": ""
+      },
+      {
+        "reference": "C25",
+        "pin_number": "1",
+        "pin_name": ""
+      },
+      {
+        "reference": "C28",
+        "pin_number": "1",
+        "pin_name": ""
+      },
+      {
+        "reference": "C29",
+        "pin_number": "1",
+        "pin_name": ""
+      },
+      {
+        "reference": "L1",
+        "pin_number": "2",
+        "pin_name": ""
+      },
+      {
+        "reference": "R1",
+        "pin_number": "2",
+        "pin_name": ""
+      },
+      {
+        "reference": "U2",
+        "pin_number": "26",
+        "pin_name": "VDD_HP_0"
+      },
+      {
+        "reference": "U2",
+        "pin_number": "54",
+        "pin_name": "VDD_HP_1"
+      },
+      {
+        "reference": "U2",
+        "pin_number": "76",
+        "pin_name": "VDD_HP_2"
+      },
+      {
+        "reference": "U2",
+        "pin_number": "91",
+        "pin_name": "VDD_HP_3"
+      }
+    ]
+  },
+  "pcb": {
+    "reference": "R39",
+    "value": "0",
+    "source_file": "data/kicad_file.kicad_pcb",
+    "uuid": "e8fe1d02-82dc-4df7-84c2-7c35608b23d0",
+    "library_id": "Resistor_SMD:R_0402_1005Metric",
+    "layer": "B.Cu",
+    "side": "back",
+    "position": {
+      "x": 181.1998,
+      "y": 79.003402,
+      "rotation": -90.0,
+      "rotation_kicad": 90.0,
+      "units": "mm"
+    },
+    "properties": {
+      "Reference": "R39",
+      "Value": "0",
+      "Datasheet": "",
+      "Description": "Resistor, small symbol",
+      "LCSC": "C17168",
+      "ki_fp_filters": "R_*"
+    },
+    "attributes": [
+      "smd"
+    ],
+    "exclude_from_bom": false,
+    "exclude_from_position_files": false,
+    "pads": [
+      {
+        "number": "1",
+        "type": "smd",
+        "shape": "roundrect",
+        "local_position": {
+          "x": -0.51,
+          "y": 0.0,
+          "rotation": 90.0
+        },
+        "position": {
+          "x": 181.1998,
+          "y": 79.513402
+        },
+        "placed_rotation": 0.0,
+        "size": {
+          "x": 0.54,
+          "y": 0.64,
+          "units": "mm"
+        },
+        "drill": {
+          "available": false,
+          "shape": null,
+          "x": null,
+          "y": null,
+          "diameter": null,
+          "units": "mm"
+        },
+        "layers": [
+          "B.Cu",
+          "B.Mask",
+          "B.Paste"
+        ],
+        "net": "/Minimal P4 V3/VDD_HP",
+        "net_number": null,
+        "pin_function": null,
+        "pin_type": "passive",
+        "bounds": {
+          "local": {
+            "measurement": "pad bounds in footprint-local coordinates",
+            "units": "mm",
+            "available": true,
+            "min": {
+              "x": -0.83,
+              "y": -0.27
+            },
+            "max": {
+              "x": -0.19,
+              "y": 0.27
+            },
+            "width": 0.64,
+            "height": 0.54,
+            "center": {
+              "x": -0.51,
+              "y": 0.0
+            }
+          },
+          "placed": {
+            "measurement": "pad bounds after footprint placement and rotation",
+            "units": "mm",
+            "available": true,
+            "min": {
+              "x": 180.9298,
+              "y": 79.193402
+            },
+            "max": {
+              "x": 181.4698,
+              "y": 79.833402
+            },
+            "width": 0.54,
+            "height": 0.64,
+            "center": {
+              "x": 181.1998,
+              "y": 79.513402
+            }
+          }
+        },
+        "plating": null,
+        "is_mounting_hole": false,
+        "connected_to": [
+          {
+            "reference": "C2",
+            "pad_number": "1"
+          },
+          {
+            "reference": "C3",
+            "pad_number": "1"
+          },
+          {
+            "reference": "C8",
+            "pad_number": "1"
+          },
+          {
+            "reference": "C15",
+            "pad_number": "1"
+          },
+          {
+            "reference": "C28",
+            "pad_number": "1"
+          },
+          {
+            "reference": "C29",
+            "pad_number": "1"
+          },
+          {
+            "reference": "L1",
+            "pad_number": "2"
+          },
+          {
+            "reference": "R1",
+            "pad_number": "2"
+          },
+          {
+            "reference": "U2",
+            "pad_number": "26"
+          },
+          {
+            "reference": "U2",
+            "pad_number": "76"
+          },
+          {
+            "reference": "U2",
+            "pad_number": "91"
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "type": "smd",
+        "shape": "roundrect",
+        "local_position": {
+          "x": 0.51,
+          "y": 0.0,
+          "rotation": 90.0
+        },
+        "position": {
+          "x": 181.1998,
+          "y": 78.493402
+        },
+        "placed_rotation": 0.0,
+        "size": {
+          "x": 0.54,
+          "y": 0.64,
+          "units": "mm"
+        },
+        "drill": {
+          "available": false,
+          "shape": null,
+          "x": null,
+          "y": null,
+          "diameter": null,
+          "units": "mm"
+        },
+        "layers": [
+          "B.Cu",
+          "B.Mask",
+          "B.Paste"
+        ],
+        "net": "Net-(U2-VDD_HP_1)",
+        "net_number": null,
+        "pin_function": null,
+        "pin_type": "passive",
+        "bounds": {
+          "local": {
+            "measurement": "pad bounds in footprint-local coordinates",
+            "units": "mm",
+            "available": true,
+            "min": {
+              "x": 0.19,
+              "y": -0.27
+            },
+            "max": {
+              "x": 0.83,
+              "y": 0.27
+            },
+            "width": 0.64,
+            "height": 0.54,
+            "center": {
+              "x": 0.51,
+              "y": 0.0
+            }
+          },
+          "placed": {
+            "measurement": "pad bounds after footprint placement and rotation",
+            "units": "mm",
+            "available": true,
+            "min": {
+              "x": 180.9298,
+              "y": 78.173402
+            },
+            "max": {
+              "x": 181.4698,
+              "y": 78.813402
+            },
+            "width": 0.54,
+            "height": 0.64,
+            "center": {
+              "x": 181.1998,
+              "y": 78.493402
+            }
+          }
+        },
+        "plating": null,
+        "is_mounting_hole": false,
+        "connected_to": [
+          {
+            "reference": "C25",
+            "pad_number": "1"
+          },
+          {
+            "reference": "U2",
+            "pad_number": "54"
+          }
+        ]
+      }
+    ],
+    "mounting_holes": [],
+    "is_mounting_hole": false,
+    "size": {
+      "pads_local": {
+        "measurement": "all footprint pads in footprint-local coordinates",
+        "units": "mm",
+        "available": true,
+        "min": {
+          "x": -0.83,
+          "y": -0.27
+        },
+        "max": {
+          "x": 0.83,
+          "y": 0.27
+        },
+        "width": 1.66,
+        "height": 0.54,
+        "center": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "pads_placed": {
+        "measurement": "all pads after PCB placement and rotation",
+        "units": "mm",
+        "available": true,
+        "min": {
+          "x": 180.9298,
+          "y": 78.173402
+        },
+        "max": {
+          "x": 181.4698,
+          "y": 79.833402
+        },
+        "width": 0.54,
+        "height": 1.66,
+        "center": {
+          "x": 181.1998,
+          "y": 79.003402
+        }
+      },
+      "courtyard_local": {
+        "measurement": "F.CrtYd and B.CrtYd graphics; text excluded",
+        "units": "mm",
+        "available": true,
+        "min": {
+          "x": -0.955,
+          "y": -0.495
+        },
+        "max": {
+          "x": 0.955,
+          "y": 0.495
+        },
+        "width": 1.91,
+        "height": 0.99,
+        "center": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "courtyard_placed": {
+        "measurement": "courtyard after PCB placement and rotation",
+        "units": "mm",
+        "available": true,
+        "min": {
+          "x": 180.7048,
+          "y": 78.048402
+        },
+        "max": {
+          "x": 181.6948,
+          "y": 79.958402
+        },
+        "width": 0.99,
+        "height": 1.91,
+        "center": {
+          "x": 181.1998,
+          "y": 79.003402
+        }
+      },
+      "fabrication_local": {
+        "measurement": "F.Fab and B.Fab graphics; text excluded",
+        "units": "mm",
+        "available": true,
+        "min": {
+          "x": -0.575,
+          "y": -0.32
+        },
+        "max": {
+          "x": 0.575,
+          "y": 0.32
+        },
+        "width": 1.15,
+        "height": 0.64,
+        "center": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "fabrication_placed": {
+        "measurement": "fabrication graphics after placement",
+        "units": "mm",
+        "available": true,
+        "min": {
+          "x": 180.8798,
+          "y": 78.428402
+        },
+        "max": {
+          "x": 181.5198,
+          "y": 79.578402
+        },
+        "width": 0.64,
+        "height": 1.15,
+        "center": {
+          "x": 181.1998,
+          "y": 79.003402
+        }
+      },
+      "silkscreen_local": {
+        "measurement": "F.SilkS and B.SilkS graphics; text excluded",
+        "units": "mm",
+        "available": true,
+        "min": {
+          "x": -0.213641,
+          "y": -0.44
+        },
+        "max": {
+          "x": 0.213641,
+          "y": 0.44
+        },
+        "width": 0.427282,
+        "height": 0.88,
+        "center": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "silkscreen_placed": {
+        "measurement": "silkscreen graphics after placement",
+        "units": "mm",
+        "available": true,
+        "min": {
+          "x": 180.7598,
+          "y": 78.789761
+        },
+        "max": {
+          "x": 181.6398,
+          "y": 79.217043
+        },
+        "width": 0.88,
+        "height": 0.427282,
+        "center": {
+          "x": 181.1998,
+          "y": 79.003402
+        }
+      },
+      "overall_local": {
+        "measurement": "all non-text footprint graphics and pads",
+        "units": "mm",
+        "available": true,
+        "min": {
+          "x": -0.955,
+          "y": -0.495
+        },
+        "max": {
+          "x": 0.955,
+          "y": 0.495
+        },
+        "width": 1.91,
+        "height": 0.99,
+        "center": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      "overall_placed": {
+        "measurement": "all non-text footprint graphics and pads after placement",
+        "units": "mm",
+        "available": true,
+        "min": {
+          "x": 180.7048,
+          "y": 78.048402
+        },
+        "max": {
+          "x": 181.6948,
+          "y": 79.958402
+        },
+        "width": 0.99,
+        "height": 1.91,
+        "center": {
+          "x": 181.1998,
+          "y": 79.003402
+        }
+      }
+    },
+    "connected_components": [
+      "C2",
+      "C3",
+      "C8",
+      "C15",
+      "C25",
+      "C28",
+      "C29",
+      "L1",
+      "R1",
+      "U2"
+    ]
+  },
+  "connectivity_cross_check": {
+    "available": true,
+    "policy": "Named schematic nets are compared with PCB pad nets using matching pin/pad numbers; root-sheet local labels also allow KiCad's leading '/' prefix.",
+    "comparisons": [
+      {
+        "pin_or_pad_number": "1",
+        "schematic_nets": [
+          "VDD_HP"
+        ],
+        "pcb_nets": [
+          "/Minimal P4 V3/VDD_HP"
+        ],
+        "status": "disagree"
+      },
+      {
+        "pin_or_pad_number": "2",
+        "schematic_nets": [],
+        "pcb_nets": [
+          "Net-(U2-VDD_HP_1)"
+        ],
+        "status": "incomplete"
+      }
+    ],
+    "agree_count": 0,
+    "disagree_count": 1,
+    "incomplete_count": 1
+  },
+  "oomp": {
+    "status": "matched",
+    "accepted": true,
+    "oomp_id": "electronic_resistor_0402_0_ohm",
+    "confidence": 1.0,
+    "proposed_oomp_id": "electronic_resistor_0402_0_ohm",
+    "inferred": {
+      "kind": "resistor",
+      "package_size": "0402",
+      "value": "0",
+      "mpn": null
+    },
+    "reasons": [
+      "Exact OOMP ID constructed from component type, package size, and normalized value."
+    ],
+    "candidates": []
+  },
+  "category": "resistor",
+  "category_source": "oomp_populate",
+  "category_name": "Resistor",
+  "generated_directory": "components/R39"
+}

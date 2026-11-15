@@ -1,0 +1,38 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: null
+  value: 0.1uF
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_capacitor_3216_avx_a_tantalum_100_nano_farad_35_volt_avx_taja104k035rnej
+  score: 0.7034
+  reasons:
+  - same component family
+  - nearby normalized value
+- oomp_id: electronic_capacitor_0402_1_nano_farad
+  score: 0.2863
+  reasons:
+  - same component family
+  - nearby normalized value
+- oomp_id: electronic_capacitor_0402_15_nano_farad
+  score: 0.286
+  reasons:
+  - same component family
+  - nearby normalized value
+- oomp_id: electronic_capacitor_0402_10_nano_farad
+  score: 0.2838
+  reasons:
+  - same component family
+  - nearby normalized value
+- oomp_id: electronic_capacitor_0402_22_nano_farad
+  score: 0.2837
+  reasons:
+  - same component family
+  - nearby normalized value

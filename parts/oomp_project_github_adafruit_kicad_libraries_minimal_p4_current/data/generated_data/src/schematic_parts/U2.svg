@@ -1,0 +1,403 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="61.0000 63.7708 117.6401 95.0192">
+<style>.sch-page { fill: var(--sch-page, #ffffff); }.sch-wire { fill: none; stroke: var(--net-color, var(--sch-ink, #171717)); stroke-linecap: round; }.sch-wire-hit { stroke: #000000; stroke-opacity: 0; stroke-width: 1.0; pointer-events: stroke; cursor: pointer; }.sch-pin-hit { fill: none; stroke: #000000; stroke-opacity: 0; stroke-width: 0.9; pointer-events: stroke; cursor: pointer; }.sch-junction { fill: var(--sch-ink, #171717); stroke: none; }.sch-no-connect { stroke: var(--sch-note, #b0543f); fill: none; stroke-width: 0.25; stroke-linecap: round; }.sch-pin { fill: none; stroke: var(--sch-ink, #171717); stroke-width: 0.3048; stroke-linecap: round; }.sch-pin-number { fill: var(--sch-ink, #171717); }.sch-pin-name { fill: var(--sch-ink, #171717); font-weight: 700; }.sch-ref { fill: var(--sch-ink, #171717); font-weight: 800; }.sch-value { fill: var(--sch-ink, #171717); }.sch-label { fill: var(--net-color, var(--sch-ink, #171717)); }.sch-label-pill { fill: var(--accent-soft, #ffe4db); fill-opacity: .55; stroke: var(--accent, #ff5c35); stroke-width: 0.2; }.sch-label-pill-text { fill: var(--accent, #ff5c35); font-weight: 600; }.sch-note { fill: none; stroke: var(--sch-note, #8a7f6a); }.sch-note-text { fill: var(--sch-note, #8a7f6a); }.sch-sheet-box { fill: var(--sch-page, #ffffff); stroke: var(--sch-ink, #171717); stroke-width: 0.254; }.sch-sheet-text { fill: var(--sch-ink, #171717); }.sch-missing { fill: none; stroke: var(--sch-note, #b0543f); stroke-width: 0.2; stroke-dasharray: 0.8 0.5; }.sch-filled-body { fill: var(--sch-body, #f0ede4); stroke: var(--sch-ink, #171717); }.sch-filled-page { fill: var(--sch-page, #ffffff); stroke: var(--sch-ink, #171717); }.sch-graphic { fill: none; stroke: var(--sch-ink, #171717); }.sch-ref, .sch-value, .sch-pin-number, .sch-pin-name, .sch-label, .sch-label-pill-text, .sch-note-text, .sch-sheet-text { font-family: 'Segoe UI', Arial, sans-serif; }</style>
+<g class="sch-symbol" data-reference="U2" data-value="" tabindex="0"
+ data-bounds="65.6900,74.5800,112.4600,84.5200"
+>
+<g transform="translate(120.6500 116.8400)">
+<path class="sch-graphic" stroke-width="0.3000" d="M-4.5252 -14.5008 L-4.7395 -14.2776 L-4.9415 -14.0450 L-5.1310 -13.8036 L-5.3078 -13.5539 L-5.4717 -13.2963 L-5.6225 -13.0315 L-5.7599 -12.7599 L-5.8838 -12.4820 L-5.9939 -12.1985 L-6.0901 -11.9096 L-6.1720 -11.6161 L-6.2395 -11.3184 L-6.2924 -11.0170 L-6.3305 -10.7125 L-6.3535 -10.4053 L-6.3612 -10.0960 L-6.3535 -9.7867 L-6.3305 -9.4795 L-6.2924 -9.1750 L-6.2395 -8.8736 L-6.1720 -8.5759 L-6.0901 -8.2824 L-5.9939 -7.9936 L-5.8838 -7.7100 L-5.7599 -7.4321 L-5.6225 -7.1605 L-5.4717 -6.8957 L-5.3078 -6.6381 L-5.1310 -6.3884 L-4.9415 -6.1470 L-4.7395 -5.9144 L-4.5252 -5.6912 L-4.3020 -5.4770 L-4.0694 -5.2750 L-3.8280 -5.0855 L-3.5783 -4.9087 L-3.3208 -4.7448 L-3.0559 -4.5940 L-2.7843 -4.4565 L-2.5065 -4.3326 L-2.2229 -4.2225 L-1.9341 -4.1264 L-1.6406 -4.0444 L-1.3428 -3.9769 L-1.0415 -3.9240 L-0.7369 -3.8860 L-0.4297 -3.8630 L-0.1204 -3.8553 L0.1889 -3.8630 L0.4960 -3.8860 L0.8006 -3.9240 L1.1020 -3.9769 L1.3997 -4.0444 L1.6932 -4.1264 L1.9820 -4.2225 L2.2656 -4.3326 L2.5435 -4.4565 L2.8151 -4.5940 L3.0799 -4.7448 L3.3374 -4.9087 L3.5871 -5.0855 L3.8286 -5.2750 L4.0611 -5.4770 L4.2843 -5.6912 L4.6426 -5.3330 L4.3980 -5.1039 L4.1433 -4.8884 L3.8791 -4.6866 L3.6061 -4.4988 L3.3247 -4.3252 L3.0356 -4.1660 L2.7394 -4.0215 L2.4365 -3.8919 L2.1276 -3.7774 L1.8132 -3.6783 L1.4939 -3.5947 L1.1704 -3.5269 L0.8431 -3.4752 L0.5126 -3.4397 L0.1795 -3.4206 L-0.1557 -3.4183 L-0.5004 -3.4270 L-0.8406 -3.4528 L-1.1759 -3.4953 L-1.5058 -3.5540 L-1.8300 -3.6286 L-2.1480 -3.7187 L-2.4594 -3.8237 L-2.7638 -3.9434 L-3.0608 -4.0772 L-3.3499 -4.2248 L-3.6308 -4.3857 L-3.9029 -4.5595 L-4.1660 -4.7459 L-4.4195 -4.9443 L-4.6630 -5.1545 L-4.8962 -5.3758 L-5.1186 -5.6081 L-5.3298 -5.8507 L-5.5294 -6.1033 L-5.7169 -6.3655 L-5.8919 -6.6369 L-6.0541 -6.9171 L-6.2029 -7.2055 L-6.3380 -7.5019 L-6.4590 -7.8058 L-6.5654 -8.1168 L-6.6568 -8.4344 L-6.7328 -8.7582 L-6.7930 -9.0879 L-6.8370 -9.4230 L-6.8642 -9.7631 L-6.8744 -10.1077 L-6.8671 -10.4411 L-6.8433 -10.7723 L-6.8032 -11.1006 L-6.7471 -11.4256 L-6.6752 -11.7466 L-6.5877 -12.0632 L-6.4848 -12.3747 L-6.3669 -12.6806 L-6.2340 -12.9804 L-6.0865 -13.2734 L-5.9246 -13.5592 L-5.7485 -13.8371 L-5.5585 -14.1066 L-5.3547 -14.3671 L-5.1374 -14.6181 L-4.9069 -14.8591 L-4.5252 -14.5008" />
+<path class="sch-graphic" stroke-width="0.3000" d="M-3.6305 -7.4286 L-3.5877 -7.4254 L-3.5453 -7.4201 L-3.5033 -7.4128 L-3.4618 -7.4034 L-3.4208 -7.3921 L-3.3806 -7.3787 L-3.3410 -7.3635 L-3.3022 -7.3463 L-3.2643 -7.3272 L-3.2274 -7.3063 L-3.1914 -7.2836 L-3.1565 -7.2591 L-3.1228 -7.2328 L-3.0902 -7.2048 L-3.0590 -7.1751 L-3.0293 -7.1438 L-3.0013 -7.1113 L-2.9750 -7.0776 L-2.9505 -7.0427 L-2.9277 -7.0067 L-2.9068 -6.9697 L-2.8878 -6.9318 L-2.8706 -6.8931 L-2.8553 -6.8535 L-2.8420 -6.8132 L-2.8306 -6.7723 L-2.8213 -6.7308 L-2.8139 -6.6888 L-2.8087 -6.6463 L-2.8055 -6.6035 L-2.8044 -6.5604 L-2.8069 -6.4950 L-2.8142 -6.4305 L-2.8261 -6.3673 L-2.8426 -6.3056 L-2.8635 -6.2455 L-2.8886 -6.1873 L-2.9178 -6.1313 L-2.9509 -6.0775 L-2.9879 -6.0263 L-3.0285 -5.9779 L-3.0726 -5.9324 L-3.1201 -5.8902 L-3.1709 -5.8513 L-3.2247 -5.8161 L-3.2814 -5.7847 L-3.3410 -5.7574 L-3.4024 -5.7346 L-3.4648 -5.7167 L-3.5277 -5.7035 L-3.5911 -5.6951 L-3.6546 -5.6914 L-3.7179 -5.6923 L-3.7809 -5.6979 L-3.8432 -5.7079 L-3.9046 -5.7225 L-3.9649 -5.7415 L-4.0238 -5.7649 L-4.0810 -5.7926 L-4.1364 -5.8246 L-4.1895 -5.8608 L-4.2402 -5.9012 L-4.2883 -5.9458 L-4.3328 -5.9938 L-4.3732 -6.0446 L-4.4095 -6.0977 L-4.4415 -6.1530 L-4.4692 -6.2102 L-4.4926 -6.2691 L-4.5116 -6.3294 L-4.5261 -6.3909 L-4.5362 -6.4532 L-4.5417 -6.5162 L-4.5427 -6.5795 L-4.5390 -6.6430 L-4.5305 -6.7063 L-4.5174 -6.7693 L-4.4995 -6.8316 L-4.4767 -6.8931 L-4.4635 -6.9232 L-4.4493 -6.9526 L-4.4341 -6.9814 L-4.4180 -7.0094 L-4.4008 -7.0367 L-4.3827 -7.0632 L-4.3637 -7.0890 L-4.3439 -7.1139 L-4.3232 -7.1381 L-4.3016 -7.1614 L-4.2793 -7.1839 L-4.2562 -7.2056 L-4.2323 -7.2263 L-4.2077 -7.2462 L-4.1825 -7.2651 L-4.1565 -7.2832 L-4.1300 -7.3002 L-4.1028 -7.3163 L-4.0751 -7.3314 L-4.0467 -7.3455 L-4.0179 -7.3586 L-3.9886 -7.3706 L-3.9588 -7.3816 L-3.9285 -7.3915 L-3.8978 -7.4003 L-3.8668 -7.4080 L-3.8353 -7.4145 L-3.8036 -7.4199 L-3.7715 -7.4241 L-3.7391 -7.4272 L-3.7065 -7.4290 L-3.6736 -7.4296 L-3.6305 -7.4286" />
+<path class="sch-graphic" stroke-width="0.3000" d="M-3.6180 -12.6264 L-3.5535 -12.6242 L-3.4891 -12.6206 L-3.4247 -12.6154 L-3.3605 -12.6088 L-3.2964 -12.6008 L-3.2324 -12.5913 L-3.1686 -12.5803 L-2.8758 -12.5285 L-2.5881 -12.4640 L-2.3057 -12.3871 L-2.0291 -12.2981 L-1.7583 -12.1973 L-1.4937 -12.0851 L-1.2356 -11.9618 L-0.9842 -11.8278 L-0.7399 -11.6832 L-0.5028 -11.5285 L-0.2734 -11.3639 L-0.0517 -11.1898 L0.1618 -11.0066 L0.3669 -10.8144 L0.5634 -10.6137 L0.7509 -10.4048 L0.9292 -10.1879 L1.0980 -9.9635 L1.2570 -9.7317 L1.4061 -9.4930 L1.5447 -9.2477 L1.6728 -8.9960 L1.7901 -8.7384 L1.8962 -8.4750 L1.9909 -8.2063 L2.0739 -7.9326 L2.1449 -7.6541 L2.2037 -7.3713 L2.2500 -7.0843 L2.2835 -6.7936 L2.3039 -6.4995 L2.3110 -6.2022 L2.3098 -6.0507 L2.3050 -5.8994 L2.2965 -5.7483 L2.2844 -5.5975 L2.2686 -5.4470 L2.2492 -5.2969 L2.2261 -5.1473 L2.1994 -4.9982 L2.0925 -4.9484 L1.9845 -4.9008 L1.8757 -4.8555 L1.7659 -4.8125 L1.6553 -4.7718 L1.5438 -4.7333 L1.4315 -4.6972 L1.3185 -4.6634 L0.2965 -4.9512 L0.3243 -5.0485 L0.3496 -5.1464 L0.3725 -5.2448 L0.3928 -5.3438 L0.4107 -5.4433 L0.4261 -5.5432 L0.4389 -5.6435 L0.4492 -5.7441 L0.4666 -5.9799 L0.4719 -6.2138 L0.4656 -6.4456 L0.4477 -6.6747 L0.4187 -6.9010 L0.3788 -7.1242 L0.3281 -7.3438 L0.2670 -7.5597 L0.1958 -7.7714 L0.1146 -7.9787 L0.0237 -8.1813 L-0.0765 -8.3788 L-0.1859 -8.5709 L-0.3042 -8.7574 L-0.4311 -8.9378 L-0.5665 -9.1120 L-0.7099 -9.2795 L-0.8612 -9.4401 L-1.0201 -9.5934 L-1.1864 -9.7391 L-1.3597 -9.8770 L-1.5399 -10.0067 L-1.7267 -10.1278 L-1.9199 -10.2401 L-2.1191 -10.3433 L-2.3241 -10.4370 L-2.5346 -10.5210 L-2.7505 -10.5948 L-2.9714 -10.6583 L-3.1971 -10.7111 L-3.4274 -10.7528 L-3.6619 -10.7831 L-3.6793 -10.7845 L-3.6967 -10.7851 L-3.7140 -10.7847 L-3.7313 -10.7835 L-3.7484 -10.7814 L-3.7653 -10.7785 L-3.7821 -10.7748 L-3.7987 -10.7702 L-3.8150 -10.7648 L-3.8310 -10.7586 L-3.8467 -10.7516 L-3.8621 -10.7438 L-3.8771 -10.7353 L-3.8917 -10.7260 L-3.9059 -10.7159 L-3.9196 -10.7051 L-3.9328 -10.6936 L-3.9453 -10.6815 L-3.9571 -10.6688 L-3.9683 -10.6556 L-3.9788 -10.6419 L-3.9885 -10.6278 L-3.9975 -10.6131 L-4.0058 -10.5981 L-4.0133 -10.5826 L-4.0201 -10.5668 L-4.0261 -10.5507 L-4.0312 -10.5343 L-4.0356 -10.5175 L-4.0391 -10.5006 L-4.0418 -10.4834 L-4.0436 -10.4660 L-4.0442 -10.4485 L-4.0440 -10.4311 L-4.0429 -10.4140 L-4.0410 -10.3970 L-4.0383 -10.3803 L-4.0349 -10.3638 L-4.0307 -10.3475 L-4.0258 -10.3316 L-4.0201 -10.3159 L-4.0137 -10.3006 L-4.0067 -10.2857 L-3.9990 -10.2711 L-3.9907 -10.2569 L-3.9817 -10.2431 L-3.9721 -10.2298 L-3.9619 -10.2169 L-3.9511 -10.2045 L-3.9398 -10.1925 L-3.9279 -10.1812 L-3.9156 -10.1703 L-3.9027 -10.1600 L-3.8893 -10.1503 L-3.8754 -10.1412 L-3.8611 -10.1328 L-3.8463 -10.1249 L-3.8312 -10.1178 L-3.8156 -10.1113 L-3.7997 -10.1056 L-3.7833 -10.1006 L-3.7667 -10.0963 L-3.7497 -10.0928 L-3.7324 -10.0901 L-3.5982 -10.0737 L-3.4649 -10.0526 L-3.3328 -10.0268 L-3.2018 -9.9964 L-3.0721 -9.9615 L-2.9438 -9.9222 L-2.8171 -9.8783 L-2.6921 -9.8301 L-2.5688 -9.7775 L-2.4474 -9.7206 L-2.3279 -9.6594 L-2.2106 -9.5941 L-2.0956 -9.5245 L-1.9828 -9.4509 L-1.8726 -9.3732 L-1.7649 -9.2914 L-1.5689 -9.1330 L-1.3849 -8.9636 L-1.2132 -8.7839 L-1.0540 -8.5945 L-0.9076 -8.3962 L-0.7744 -8.1897 L-0.6546 -7.9756 L-0.5486 -7.7546 L-0.4567 -7.5274 L-0.3791 -7.2946 L-0.3162 -7.0570 L-0.2682 -6.8153 L-0.2355 -6.5701 L-0.2184 -6.3221 L-0.2171 -6.0720 L-0.2320 -5.8204 L-0.2379 -5.8498 L-0.2474 -5.7618 L-0.2590 -5.6741 L-0.2725 -5.5868 L-0.2881 -5.4998 L-0.3056 -5.4133 L-0.3250 -5.3272 L-0.3464 -5.2417 L-0.3698 -5.1566 L-0.3951 -5.0721 L-0.4223 -4.9882 L-0.4514 -4.9049 L-0.4825 -4.8223 L-0.5154 -4.7404 L-0.5502 -4.6591 L-0.5869 -4.5787 L-0.6255 -4.4990 L-0.7594 -4.5091 L-0.8929 -4.5226 L-1.0260 -4.5396 L-1.1586 -4.5600 L-1.2906 -4.5837 L-1.4220 -4.6108 L-1.5527 -4.6413 L-1.6827 -4.6752 L-2.3874 -5.1275 L-2.3483 -5.1901 L-2.3116 -5.2539 L-2.2773 -5.3189 L-2.2455 -5.3849 L-2.2160 -5.4520 L-2.1890 -5.5200 L-2.1645 -5.5889 L-2.1425 -5.6587 L-2.1230 -5.7291 L-2.1060 -5.8003 L-2.0916 -5.8720 L-2.0797 -5.9443 L-2.0705 -6.0170 L-2.0639 -6.0902 L-2.0599 -6.1637 L-2.0585 -6.2374 L-2.0607 -6.3312 L-2.0669 -6.4240 L-2.0773 -6.5157 L-2.0916 -6.6063 L-2.1099 -6.6956 L-2.1319 -6.7836 L-2.1577 -6.8701 L-2.1872 -6.9551 L-2.2203 -7.0384 L-2.2568 -7.1199 L-2.2967 -7.1996 L-2.3400 -7.2774 L-2.3865 -7.3531 L-2.4362 -7.4267 L-2.4889 -7.4980 L-2.5446 -7.5669 L-2.6032 -7.6334 L-2.6646 -7.6974 L-2.7288 -7.7587 L-2.7956 -7.8172 L-2.8650 -7.8730 L-2.9368 -7.9257 L-3.0111 -7.9754 L-3.0877 -8.0220 L-3.1665 -8.0654 L-3.2474 -8.1053 L-3.3304 -8.1419 L-3.4154 -8.1749 L-3.5023 -8.2043 L-3.5910 -8.2299 L-3.6814 -8.2516 L-3.7735 -8.2695 L-3.8431 -8.2786 L-3.9125 -8.2887 L-3.9818 -8.2998 L-4.0509 -8.3118 L-4.1198 -8.3248 L-4.1886 -8.3387 L-4.2572 -8.3535 L-4.3255 -8.3693 L-4.4547 -8.4160 L-4.5798 -8.4702 L-4.7006 -8.5317 L-4.8168 -8.6002 L-4.9283 -8.6755 L-5.0346 -8.7572 L-5.1356 -8.8450 L-5.2310 -8.9388 L-5.3205 -9.0382 L-5.4038 -9.1430 L-5.4808 -9.2528 L-5.5510 -9.3675 L-5.6144 -9.4866 L-5.6705 -9.6100 L-5.7192 -9.7374 L-5.7601 -9.8685 L-5.7927 -10.0018 L-5.8169 -10.1360 L-5.8326 -10.2706 L-5.8399 -10.4054 L-5.8390 -10.5398 L-5.8299 -10.6736 L-5.8126 -10.8064 L-5.7874 -10.9378 L-5.7541 -11.0673 L-5.7131 -11.1948 L-5.6642 -11.3197 L-5.6077 -11.4417 L-5.5436 -11.5604 L-5.4719 -11.6755 L-5.3928 -11.7865 L-5.3063 -11.8932 L-5.2502 -11.9547 L-5.1920 -12.0140 L-5.1318 -12.0710 L-5.0696 -12.1256 L-5.0055 -12.1778 L-4.9396 -12.2275 L-4.8719 -12.2748 L-4.8026 -12.3195 L-4.7316 -12.3616 L-4.6592 -12.4011 L-4.5852 -12.4379 L-4.5099 -12.4720 L-4.4333 -12.5033 L-4.3555 -12.5319 L-4.2765 -12.5575 L-4.1963 -12.5803 L-4.1325 -12.5913 L-4.0686 -12.6008 L-4.0044 -12.6088 L-3.9402 -12.6154 L-3.8758 -12.6206 L-3.8114 -12.6242 L-3.7469 -12.6264 L-3.6824 -12.6271 L-3.6180 -12.6264" />
+<path class="sch-graphic" stroke-width="0.3000" d="M-2.4888 -15.0391 L-2.1257 -14.9638 L-1.7681 -14.8742 L-1.4164 -14.7707 L-1.0710 -14.6535 L-0.7320 -14.5230 L-0.3999 -14.3795 L-0.0750 -14.2232 L0.2426 -14.0546 L0.5523 -13.8739 L0.8540 -13.6814 L1.1474 -13.4774 L1.7076 -13.0362 L2.2307 -12.5528 L2.7140 -12.0298 L3.1552 -11.4695 L3.3592 -11.1762 L3.5517 -10.8745 L3.7324 -10.5647 L3.9011 -10.2472 L4.0573 -9.9222 L4.2008 -9.5901 L4.3313 -9.2512 L4.4485 -8.9057 L4.5520 -8.5540 L4.6416 -8.1965 L4.7169 -7.8333 L4.7777 -7.4649 L4.6820 -7.2953 L4.5810 -7.1291 L4.4747 -6.9663 L4.3632 -6.8070 L4.2466 -6.6514 L4.1251 -6.4997 L3.9986 -6.3518 L3.8674 -6.2080 L3.0275 -6.2080 L3.0176 -6.5755 L2.9895 -6.9381 L2.9436 -7.2955 L2.8803 -7.6471 L2.8001 -7.9925 L2.7035 -8.3313 L2.5908 -8.6631 L2.4626 -8.9873 L2.3193 -9.3035 L2.1612 -9.6113 L1.9890 -9.9103 L1.8030 -10.2000 L1.6037 -10.4799 L1.3915 -10.7496 L1.1669 -11.0086 L0.9303 -11.2566 L0.6821 -11.4930 L0.4229 -11.7174 L0.1530 -11.9294 L-0.1271 -12.1285 L-0.4169 -12.3142 L-0.7160 -12.4862 L-1.0239 -12.6440 L-1.3403 -12.7870 L-1.6646 -12.9150 L-1.9964 -13.0274 L-2.3353 -13.1237 L-2.6808 -13.2036 L-3.0325 -13.2666 L-3.3899 -13.3123 L-3.7525 -13.3401 L-4.1200 -13.3497 L-4.1200 -14.1895 L-3.9763 -14.3219 L-3.8282 -14.4491 L-3.6760 -14.5711 L-3.5198 -14.6879 L-3.3596 -14.7992 L-3.1958 -14.9051 L-3.0283 -15.0053 L-2.8573 -15.0998 L-2.4888 -15.0391" />
+<path class="sch-graphic" stroke-width="0.3000" d="M0.0716 -15.7459 L0.3596 -15.7254 L0.6435 -15.6907 L0.9229 -15.6421 L1.1975 -15.5800 L1.4668 -15.5048 L1.7305 -15.4167 L1.9883 -15.3162 L2.2398 -15.2037 L2.4847 -15.0794 L2.7225 -14.9437 L2.9530 -14.7970 L3.1757 -14.6397 L3.3903 -14.4721 L3.5964 -14.2945 L3.7938 -14.1074 L3.9819 -13.9110 L4.1606 -13.7058 L4.3293 -13.4920 L4.4878 -13.2701 L4.6357 -13.0404 L4.7726 -12.8033 L4.8981 -12.5591 L5.0120 -12.3082 L5.1138 -12.0509 L5.2032 -11.7876 L5.2799 -11.5187 L5.3434 -11.2445 L5.3934 -10.9653 L5.4296 -10.6816 L5.4516 -10.3937 L5.4590 -10.1019 L5.4548 -9.9773 L5.4517 -9.9103 L5.4473 -9.8524 L5.4417 -9.8005 L5.4349 -9.7519 L5.4268 -9.7037 L5.4173 -9.6529 L5.3943 -9.5322 L5.0185 -9.3971 L4.8209 -9.9121 L4.5958 -10.4122 L4.3441 -10.8965 L4.0667 -11.3641 L3.7645 -11.8142 L3.4385 -12.2458 L3.0894 -12.6580 L2.7183 -13.0499 L2.3260 -13.4207 L1.9135 -13.7693 L1.4815 -14.0949 L1.0312 -14.3967 L0.5632 -14.6736 L0.0787 -14.9248 L-0.4216 -15.1494 L-0.9368 -15.3465 L-0.8076 -15.7224 L-0.7349 -15.7321 L-0.6621 -15.7394 L-0.5892 -15.7446 L-0.5161 -15.7481 L-0.4428 -15.7502 L-0.3690 -15.7513 L-0.2203 -15.7517 L0.0716 -15.7459" />
+<rect class="sch-graphic sch-filled-page" stroke-width="0.3000" x="-54.6100" y="-41.9100" width="111.7600" height="83.8200" />
+<rect class="sch-graphic" stroke-width="0.3000" x="-15.2400" y="22.8600" width="38.1000" height="19.0500" />
+<text class="sch-value" x="120.6500" y="116.8400" font-size="2.5400" text-anchor="middle" dominant-baseline="central">ESP32-P4 V3</text>
+<text class="sch-value" x="124.2060" y="141.2240" font-size="1.2700" text-anchor="middle" dominant-baseline="central">MIPI DSI/CSI</text>
+<line class="sch-pin" x1="-57.1500" y1="-8.8900" x2="-54.6100" y2="-8.8900" />
+<line class="sch-pin" x1="-57.1500" y1="-6.3500" x2="-54.6100" y2="-6.3500" />
+<line class="sch-pin" x1="-57.1500" y1="-3.8100" x2="-54.6100" y2="-3.8100" />
+<line class="sch-pin" x1="-57.1500" y1="-1.2700" x2="-54.6100" y2="-1.2700" />
+<line class="sch-pin" x1="-57.1500" y1="1.2700" x2="-54.6100" y2="1.2700" />
+<line class="sch-pin" x1="-57.1500" y1="3.8100" x2="-54.6100" y2="3.8100" />
+<line class="sch-pin" x1="-57.1500" y1="6.3500" x2="-54.6100" y2="6.3500" />
+<line class="sch-pin" x1="-57.1500" y1="8.8900" x2="-54.6100" y2="8.8900" />
+<line class="sch-pin" x1="-57.1500" y1="11.4300" x2="-54.6100" y2="11.4300" />
+<line class="sch-pin" x1="-57.1500" y1="13.9700" x2="-54.6100" y2="13.9700" />
+<line class="sch-pin" x1="-57.1500" y1="16.5100" x2="-54.6100" y2="16.5100" />
+<line class="sch-pin" x1="-57.1500" y1="19.0500" x2="-54.6100" y2="19.0500" />
+<line class="sch-pin" x1="-57.1500" y1="21.5900" x2="-54.6100" y2="21.5900" />
+<line class="sch-pin" x1="-57.1500" y1="24.1300" x2="-54.6100" y2="24.1300" />
+<line class="sch-pin" x1="-57.1500" y1="26.6700" x2="-54.6100" y2="26.6700" />
+<line class="sch-pin" x1="-57.1500" y1="29.2100" x2="-54.6100" y2="29.2100" />
+<line class="sch-pin" x1="-57.1500" y1="31.7500" x2="-54.6100" y2="31.7500" />
+<line class="sch-pin" x1="-31.7500" y1="44.4500" x2="-31.7500" y2="41.9100" />
+<line class="sch-pin" x1="-29.2100" y1="44.4500" x2="-29.2100" y2="41.9100" />
+<line class="sch-pin" x1="-26.6700" y1="44.4500" x2="-26.6700" y2="41.9100" />
+<line class="sch-pin" x1="-24.1300" y1="44.4500" x2="-24.1300" y2="41.9100" />
+<line class="sch-pin" x1="-21.5900" y1="44.4500" x2="-21.5900" y2="41.9100" />
+<line class="sch-pin" x1="-19.0500" y1="44.4500" x2="-19.0500" y2="41.9100" />
+<line class="sch-pin" x1="-16.5100" y1="44.4500" x2="-16.5100" y2="41.9100" />
+<line class="sch-pin" x1="-13.9700" y1="44.4500" x2="-13.9700" y2="41.9100" />
+<line class="sch-pin" x1="-11.4300" y1="44.4500" x2="-11.4300" y2="41.9100" />
+<line class="sch-pin" x1="-8.8900" y1="44.4500" x2="-8.8900" y2="41.9100" />
+<line class="sch-pin" x1="-6.3500" y1="44.4500" x2="-6.3500" y2="41.9100" />
+<line class="sch-pin" x1="-3.8100" y1="44.4500" x2="-3.8100" y2="41.9100" />
+<line class="sch-pin" x1="-1.2700" y1="44.4500" x2="-1.2700" y2="41.9100" />
+<line class="sch-pin" x1="1.2700" y1="44.4500" x2="1.2700" y2="41.9100" />
+<line class="sch-pin" x1="3.8100" y1="44.4500" x2="3.8100" y2="41.9100" />
+<line class="sch-pin" x1="6.3500" y1="44.4500" x2="6.3500" y2="41.9100" />
+<line class="sch-pin" x1="8.8900" y1="44.4500" x2="8.8900" y2="41.9100" />
+<line class="sch-pin" x1="11.4300" y1="44.4500" x2="11.4300" y2="41.9100" />
+<line class="sch-pin" x1="13.9700" y1="44.4500" x2="13.9700" y2="41.9100" />
+<line class="sch-pin" x1="16.5100" y1="44.4500" x2="16.5100" y2="41.9100" />
+<line class="sch-pin" x1="19.0500" y1="44.4500" x2="19.0500" y2="41.9100" />
+<line class="sch-pin" x1="21.5900" y1="44.4500" x2="21.5900" y2="41.9100" />
+<line class="sch-pin" x1="24.1300" y1="44.4500" x2="24.1300" y2="41.9100" />
+<line class="sch-pin" x1="26.6700" y1="44.4500" x2="26.6700" y2="41.9100" />
+<line class="sch-pin" x1="29.2100" y1="44.4500" x2="29.2100" y2="41.9100" />
+<line class="sch-pin" x1="31.7500" y1="44.4500" x2="31.7500" y2="41.9100" />
+<line class="sch-pin" x1="59.6900" y1="30.4800" x2="57.1500" y2="30.4800" />
+<line class="sch-pin" x1="59.6900" y1="27.9400" x2="57.1500" y2="27.9400" />
+<line class="sch-pin" x1="59.6900" y1="25.4000" x2="57.1500" y2="25.4000" />
+<line class="sch-pin" x1="59.6900" y1="22.8600" x2="57.1500" y2="22.8600" />
+<line class="sch-pin" x1="59.6900" y1="20.3200" x2="57.1500" y2="20.3200" />
+<line class="sch-pin" x1="59.6900" y1="17.7800" x2="57.1500" y2="17.7800" />
+<line class="sch-pin" x1="59.6900" y1="15.2400" x2="57.1500" y2="15.2400" />
+<line class="sch-pin" x1="59.6900" y1="12.7000" x2="57.1500" y2="12.7000" />
+<line class="sch-pin" x1="59.6900" y1="10.1600" x2="57.1500" y2="10.1600" />
+<line class="sch-pin" x1="59.6900" y1="7.6200" x2="57.1500" y2="7.6200" />
+<line class="sch-pin" x1="59.6900" y1="5.0800" x2="57.1500" y2="5.0800" />
+<line class="sch-pin" x1="59.6900" y1="2.5400" x2="57.1500" y2="2.5400" />
+<line class="sch-pin" x1="59.6900" y1="-0.0000" x2="57.1500" y2="-0.0000" />
+<line class="sch-pin" x1="59.6900" y1="-2.5400" x2="57.1500" y2="-2.5400" />
+<line class="sch-pin" x1="59.6900" y1="-5.0800" x2="57.1500" y2="-5.0800" />
+<line class="sch-pin" x1="59.6900" y1="-7.6200" x2="57.1500" y2="-7.6200" />
+<line class="sch-pin" x1="59.6900" y1="-10.1600" x2="57.1500" y2="-10.1600" />
+<line class="sch-pin" x1="59.6900" y1="-12.7000" x2="57.1500" y2="-12.7000" />
+<line class="sch-pin" x1="59.6900" y1="-15.2400" x2="57.1500" y2="-15.2400" />
+<line class="sch-pin" x1="59.6900" y1="-17.7800" x2="57.1500" y2="-17.7800" />
+<line class="sch-pin" x1="59.6900" y1="-20.3200" x2="57.1500" y2="-20.3200" />
+<line class="sch-pin" x1="59.6900" y1="-22.8600" x2="57.1500" y2="-22.8600" />
+<line class="sch-pin" x1="59.6900" y1="-25.4000" x2="57.1500" y2="-25.4000" />
+<line class="sch-pin" x1="59.6900" y1="-27.9400" x2="57.1500" y2="-27.9400" />
+<line class="sch-pin" x1="59.6900" y1="-30.4800" x2="57.1500" y2="-30.4800" />
+<line class="sch-pin" x1="59.6900" y1="-33.0200" x2="57.1500" y2="-33.0200" />
+<line class="sch-pin" x1="31.7500" y1="-44.4500" x2="31.7500" y2="-41.9100" />
+<line class="sch-pin" x1="29.2100" y1="-44.4500" x2="29.2100" y2="-41.9100" />
+<line class="sch-pin" x1="26.6700" y1="-44.4500" x2="26.6700" y2="-41.9100" />
+<line class="sch-pin" x1="24.1300" y1="-44.4500" x2="24.1300" y2="-41.9100" />
+<line class="sch-pin" x1="21.5900" y1="-44.4500" x2="21.5900" y2="-41.9100" />
+<line class="sch-pin" x1="19.0500" y1="-44.4500" x2="19.0500" y2="-41.9100" />
+<line class="sch-pin" x1="16.5100" y1="-44.4500" x2="16.5100" y2="-41.9100" />
+<line class="sch-pin" x1="13.9700" y1="-44.4500" x2="13.9700" y2="-41.9100" />
+<line class="sch-pin" x1="11.4300" y1="-44.4500" x2="11.4300" y2="-41.9100" />
+<line class="sch-pin" x1="8.8900" y1="-44.4500" x2="8.8900" y2="-41.9100" />
+<line class="sch-pin" x1="6.3500" y1="-44.4500" x2="6.3500" y2="-41.9100" />
+<line class="sch-pin" x1="3.8100" y1="-44.4500" x2="3.8100" y2="-41.9100" />
+<line class="sch-pin" x1="1.2700" y1="-44.4500" x2="1.2700" y2="-41.9100" />
+<line class="sch-pin" x1="-1.2700" y1="-44.4500" x2="-1.2700" y2="-41.9100" />
+<line class="sch-pin" x1="-3.8100" y1="-44.4500" x2="-3.8100" y2="-41.9100" />
+<line class="sch-pin" x1="-6.3500" y1="-44.4500" x2="-6.3500" y2="-41.9100" />
+<line class="sch-pin" x1="-8.8900" y1="-44.4500" x2="-8.8900" y2="-41.9100" />
+<line class="sch-pin" x1="-11.4300" y1="-44.4500" x2="-11.4300" y2="-41.9100" />
+<line class="sch-pin" x1="-13.9700" y1="-44.4500" x2="-13.9700" y2="-41.9100" />
+<line class="sch-pin" x1="-16.5100" y1="-44.4500" x2="-16.5100" y2="-41.9100" />
+<line class="sch-pin" x1="-19.0500" y1="-44.4500" x2="-19.0500" y2="-41.9100" />
+<line class="sch-pin" x1="-21.5900" y1="-44.4500" x2="-21.5900" y2="-41.9100" />
+<line class="sch-pin" x1="-24.1300" y1="-44.4500" x2="-24.1300" y2="-41.9100" />
+<line class="sch-pin" x1="-26.6700" y1="-44.4500" x2="-26.6700" y2="-41.9100" />
+<line class="sch-pin" x1="-29.2100" y1="-44.4500" x2="-29.2100" y2="-41.9100" />
+<line class="sch-pin" x1="-31.7500" y1="-44.4500" x2="-31.7500" y2="-41.9100" />
+<line class="sch-pin" x1="45.7200" y1="44.4500" x2="45.7200" y2="41.9100" />
+<line class="sch-pin" x1="-57.1500" y1="-31.7500" x2="-54.6100" y2="-31.7500" />
+<line class="sch-pin" x1="-57.1500" y1="-29.2100" x2="-54.6100" y2="-29.2100" />
+<line class="sch-pin" x1="-57.1500" y1="-26.6700" x2="-54.6100" y2="-26.6700" />
+<line class="sch-pin" x1="-57.1500" y1="-24.1300" x2="-54.6100" y2="-24.1300" />
+<line class="sch-pin" x1="-57.1500" y1="-21.5900" x2="-54.6100" y2="-21.5900" />
+<line class="sch-pin" x1="-57.1500" y1="-19.0500" x2="-54.6100" y2="-19.0500" />
+<line class="sch-pin" x1="-57.1500" y1="-16.5100" x2="-54.6100" y2="-16.5100" />
+<line class="sch-pin" x1="-57.1500" y1="-13.9700" x2="-54.6100" y2="-13.9700" />
+<line class="sch-pin" x1="-57.1500" y1="-11.4300" x2="-54.6100" y2="-11.4300" />
+</g>
+<line class="sch-pin-hit" data-reference="U2" data-pin="10" data-net="GPIO9{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,107.9500" x1="63.5000" y1="107.9500" x2="66.0400" y2="107.9500" />
+<text class="sch-pin-number" x="64.2620" y="108.8000" font-size="1.4000" text-anchor="middle" dominant-baseline="central">10</text>
+<text class="sch-pin-name" x="66.7150" y="107.9500" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO9/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="11" data-net="GPIO10{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,110.4900" x1="63.5000" y1="110.4900" x2="66.0400" y2="110.4900" />
+<text class="sch-pin-number" x="64.2620" y="111.3400" font-size="1.4000" text-anchor="middle" dominant-baseline="central">11</text>
+<text class="sch-pin-name" x="66.7150" y="110.4900" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO10/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="12" data-net="GPIO11{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,113.0300" x1="63.5000" y1="113.0300" x2="66.0400" y2="113.0300" />
+<text class="sch-pin-number" x="64.2620" y="113.8800" font-size="1.4000" text-anchor="middle" dominant-baseline="central">12</text>
+<text class="sch-pin-name" x="66.7150" y="113.0300" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO11/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="13" data-net="GPIO12{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,115.5700" x1="63.5000" y1="115.5700" x2="66.0400" y2="115.5700" />
+<text class="sch-pin-number" x="64.2620" y="116.4200" font-size="1.4000" text-anchor="middle" dominant-baseline="central">13</text>
+<text class="sch-pin-name" x="66.7150" y="115.5700" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO12/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="14" data-net="GPIO13{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,118.1100" x1="63.5000" y1="118.1100" x2="66.0400" y2="118.1100" />
+<text class="sch-pin-number" x="64.2620" y="118.9600" font-size="1.4000" text-anchor="middle" dominant-baseline="central">14</text>
+<text class="sch-pin-name" x="66.7150" y="118.1100" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO13/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="15" data-net="GPIO14{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,120.6500" x1="63.5000" y1="120.6500" x2="66.0400" y2="120.6500" />
+<text class="sch-pin-number" x="64.2620" y="121.5000" font-size="1.4000" text-anchor="middle" dominant-baseline="central">15</text>
+<text class="sch-pin-name" x="66.7150" y="120.6500" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO14/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="16" data-net="GPIO15{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,123.1900" x1="63.5000" y1="123.1900" x2="66.0400" y2="123.1900" />
+<text class="sch-pin-number" x="64.2620" y="124.0400" font-size="1.4000" text-anchor="middle" dominant-baseline="central">16</text>
+<text class="sch-pin-name" x="66.7150" y="123.1900" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO15/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="17" data-net="GPIO16{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,125.7300" x1="63.5000" y1="125.7300" x2="66.0400" y2="125.7300" />
+<text class="sch-pin-number" x="64.2620" y="126.5800" font-size="1.4000" text-anchor="middle" dominant-baseline="central">17</text>
+<text class="sch-pin-name" x="66.7150" y="125.7300" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO16/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="18" data-net="GPIO17{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,128.2700" x1="63.5000" y1="128.2700" x2="66.0400" y2="128.2700" />
+<text class="sch-pin-number" x="64.2620" y="129.1200" font-size="1.4000" text-anchor="middle" dominant-baseline="central">18</text>
+<text class="sch-pin-name" x="66.7150" y="128.2700" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO17/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="19" data-net="GPIO18{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,130.8100" x1="63.5000" y1="130.8100" x2="66.0400" y2="130.8100" />
+<text class="sch-pin-number" x="64.2620" y="131.6600" font-size="1.4000" text-anchor="middle" dominant-baseline="central">19</text>
+<text class="sch-pin-name" x="66.7150" y="130.8100" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO18/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="20" data-net="GPIO19{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,133.3500" x1="63.5000" y1="133.3500" x2="66.0400" y2="133.3500" />
+<text class="sch-pin-number" x="64.2620" y="134.2000" font-size="1.4000" text-anchor="middle" dominant-baseline="central">20</text>
+<text class="sch-pin-name" x="66.7150" y="133.3500" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO19/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="21" data-net="+3.3V" data-run="kicad_file.kicad_sch:38.1000,135.8900" x1="63.5000" y1="135.8900" x2="66.0400" y2="135.8900" />
+<text class="sch-pin-number" x="64.2620" y="136.7400" font-size="1.4000" text-anchor="middle" dominant-baseline="central">21</text>
+<text class="sch-pin-name" x="66.7150" y="135.8900" font-size="1.5000" text-anchor="start" dominant-baseline="central">VDD_IO_0</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="22" data-net="GPIO20{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,138.4300" x1="63.5000" y1="138.4300" x2="66.0400" y2="138.4300" />
+<text class="sch-pin-number" x="64.2620" y="139.2800" font-size="1.4000" text-anchor="middle" dominant-baseline="central">22</text>
+<text class="sch-pin-name" x="66.7150" y="138.4300" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO20/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="23" data-net="GPIO21{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,140.9700" x1="63.5000" y1="140.9700" x2="66.0400" y2="140.9700" />
+<text class="sch-pin-number" x="64.2620" y="141.8200" font-size="1.4000" text-anchor="middle" dominant-baseline="central">23</text>
+<text class="sch-pin-name" x="66.7150" y="140.9700" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO21/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="24" data-net="GPIO22{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,143.5100" x1="63.5000" y1="143.5100" x2="66.0400" y2="143.5100" />
+<text class="sch-pin-number" x="64.2620" y="144.3600" font-size="1.4000" text-anchor="middle" dominant-baseline="central">24</text>
+<text class="sch-pin-name" x="66.7150" y="143.5100" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO22/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="25" data-net="GPIO23{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,146.0500" x1="63.5000" y1="146.0500" x2="66.0400" y2="146.0500" />
+<text class="sch-pin-number" x="64.2620" y="146.9000" font-size="1.4000" text-anchor="middle" dominant-baseline="central">25</text>
+<text class="sch-pin-name" x="66.7150" y="146.0500" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO23/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="26" data-net="VDD_HP" data-run="kicad_file.kicad_sch:35.5600,148.5900" x1="63.5000" y1="148.5900" x2="66.0400" y2="148.5900" />
+<text class="sch-pin-number" x="64.2620" y="149.4400" font-size="1.4000" text-anchor="middle" dominant-baseline="central">26</text>
+<text class="sch-pin-name" x="66.7150" y="148.5900" font-size="1.5000" text-anchor="start" dominant-baseline="central">VDD_HP_0</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="27" data-net="FLASH_CS" data-run="kicad_file.kicad_sch:88.9000,161.2900" x1="88.9000" y1="161.2900" x2="88.9000" y2="158.7500" />
+<text class="sch-pin-number" x="89.7500" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">27</text>
+<text class="sch-pin-name" x="88.9000" y="158.3750" font-size="1.5000" text-anchor="middle" dominant-baseline="central">FLASH_CS</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="28" data-net="FLASH_Q" data-run="kicad_file.kicad_sch:91.4400,161.2900" x1="91.4400" y1="161.2900" x2="91.4400" y2="158.7500" />
+<text class="sch-pin-number" x="92.2900" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">28</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="29" data-net="FLASH_WP" data-run="kicad_file.kicad_sch:93.9800,161.2900" x1="93.9800" y1="161.2900" x2="93.9800" y2="158.7500" />
+<text class="sch-pin-number" x="94.8300" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">29</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="30" data-net="VDD_FLASH" data-run="kicad_file.kicad_sch:87.6300,175.2600" x1="96.5200" y1="161.2900" x2="96.5200" y2="158.7500" />
+<text class="sch-pin-number" x="97.3700" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">30</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="31" data-net="FLASH_HOLD" data-run="kicad_file.kicad_sch:99.0600,161.2900" x1="99.0600" y1="161.2900" x2="99.0600" y2="158.7500" />
+<text class="sch-pin-number" x="99.9100" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">31</text>
+<text class="sch-pin-name" x="99.0600" y="158.3750" font-size="1.5000" text-anchor="middle" dominant-baseline="central">FLASH_HOLD</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="32" data-net="FLASH_CK" data-run="kicad_file.kicad_sch:101.6000,161.2900" x1="101.6000" y1="161.2900" x2="101.6000" y2="158.7500" />
+<text class="sch-pin-number" x="102.4500" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">32</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="33" data-net="FLASH_D" data-run="kicad_file.kicad_sch:104.1400,161.2900" x1="104.1400" y1="161.2900" x2="104.1400" y2="158.7500" />
+<text class="sch-pin-number" x="104.9900" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">33</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="34" data-run="kicad_file.kicad_sch:106.6800,161.2900" x1="106.6800" y1="161.2900" x2="106.6800" y2="158.7500" />
+<text class="sch-pin-number" x="107.5300" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">34</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="35" data-run="kicad_file.kicad_sch:109.2200,161.2900" x1="109.2200" y1="161.2900" x2="109.2200" y2="158.7500" />
+<text class="sch-pin-number" x="110.0700" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">35</text>
+<text class="sch-pin-name" x="109.2200" y="158.3750" font-size="1.5000" text-anchor="middle" dominant-baseline="central">DSI_DATAP1</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="36" data-run="kicad_file.kicad_sch:111.7600,161.2900" x1="111.7600" y1="161.2900" x2="111.7600" y2="158.7500" />
+<text class="sch-pin-number" x="112.6100" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">36</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="37" data-run="kicad_file.kicad_sch:114.3000,161.2900" x1="114.3000" y1="161.2900" x2="114.3000" y2="158.7500" />
+<text class="sch-pin-number" x="115.1500" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">37</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="38" data-run="kicad_file.kicad_sch:116.8400,161.2900" x1="116.8400" y1="161.2900" x2="116.8400" y2="158.7500" />
+<text class="sch-pin-number" x="117.6900" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">38</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="39" data-run="kicad_file.kicad_sch:119.3800,161.2900" x1="119.3800" y1="161.2900" x2="119.3800" y2="158.7500" />
+<text class="sch-pin-number" x="120.2300" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">39</text>
+<text class="sch-pin-name" x="119.3800" y="158.3750" font-size="1.5000" text-anchor="middle" dominant-baseline="central">DSI_DATAP0</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="40" data-run="kicad_file.kicad_sch:121.9200,161.2900" x1="121.9200" y1="161.2900" x2="121.9200" y2="158.7500" />
+<text class="sch-pin-number" x="122.7700" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">40</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="41" data-run="kicad_file.kicad_sch:124.4600,161.2900" x1="124.4600" y1="161.2900" x2="124.4600" y2="158.7500" />
+<text class="sch-pin-number" x="125.3100" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">41</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="42" data-run="kicad_file.kicad_sch:127.0000,161.2900" x1="127.0000" y1="161.2900" x2="127.0000" y2="158.7500" />
+<text class="sch-pin-number" x="127.8500" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">42</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="43" data-run="kicad_file.kicad_sch:129.5400,161.2900" x1="129.5400" y1="161.2900" x2="129.5400" y2="158.7500" />
+<text class="sch-pin-number" x="130.3900" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">43</text>
+<text class="sch-pin-name" x="129.5400" y="158.3750" font-size="1.5000" text-anchor="middle" dominant-baseline="central">CSI_DATAP0</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="44" data-run="kicad_file.kicad_sch:132.0800,161.2900" x1="132.0800" y1="161.2900" x2="132.0800" y2="158.7500" />
+<text class="sch-pin-number" x="132.9300" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">44</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="45" data-run="kicad_file.kicad_sch:134.6200,161.2900" x1="134.6200" y1="161.2900" x2="134.6200" y2="158.7500" />
+<text class="sch-pin-number" x="135.4700" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">45</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="46" data-run="kicad_file.kicad_sch:137.1600,161.2900" x1="137.1600" y1="161.2900" x2="137.1600" y2="158.7500" />
+<text class="sch-pin-number" x="138.0100" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">46</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="47" data-run="kicad_file.kicad_sch:139.7000,161.2900" x1="139.7000" y1="161.2900" x2="139.7000" y2="158.7500" />
+<text class="sch-pin-number" x="140.5500" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">47</text>
+<text class="sch-pin-name" x="139.7000" y="158.3750" font-size="1.5000" text-anchor="middle" dominant-baseline="central">CSI_DATAP1</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="48" data-run="kicad_file.kicad_sch:142.2400,161.2900" x1="142.2400" y1="161.2900" x2="142.2400" y2="158.7500" />
+<text class="sch-pin-number" x="143.0900" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">48</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="49" data-net="HS_USB_D-" data-run="kicad_file.kicad_sch:144.7800,161.2900" x1="144.7800" y1="161.2900" x2="144.7800" y2="158.7500" />
+<text class="sch-pin-number" x="145.6300" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">49</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="50" data-net="HS_USB_D+" data-run="kicad_file.kicad_sch:147.3200,161.2900" x1="147.3200" y1="161.2900" x2="147.3200" y2="158.7500" />
+<text class="sch-pin-number" x="148.1700" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">50</text>
+<text class="sch-pin-name" x="147.3200" y="158.3750" font-size="1.5000" text-anchor="middle" dominant-baseline="central">USB-DP</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="51" data-net="+3.3V" data-run="kicad_file.kicad_sch:140.9700,184.1500" x1="149.8600" y1="161.2900" x2="149.8600" y2="158.7500" />
+<text class="sch-pin-number" x="150.7100" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">51</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="52" data-net="GPIO24{slash}ADC{slash}USB_JTAG_DM" data-run="kicad_file.kicad_sch:152.4000,161.2900" x1="152.4000" y1="161.2900" x2="152.4000" y2="158.7500" />
+<text class="sch-pin-number" x="153.2500" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">52</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="53" data-net="GPIO25{slash}ADC{slash}USB_JTAG_DP" data-run="kicad_file.kicad_sch:180.3400,147.3200" x1="180.3400" y1="147.3200" x2="177.8000" y2="147.3200" />
+<text class="sch-pin-number" x="179.5780" y="146.4700" font-size="1.4000" text-anchor="middle" dominant-baseline="central">53</text>
+<text class="sch-pin-name" x="177.1250" y="147.3200" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO25/ADC/USB</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="54" data-run="kicad_file.kicad_sch:180.3400,144.7800" x1="180.3400" y1="144.7800" x2="177.8000" y2="144.7800" />
+<text class="sch-pin-number" x="179.5780" y="143.9300" font-size="1.4000" text-anchor="middle" dominant-baseline="central">54</text>
+<text class="sch-pin-name" x="177.1250" y="144.7800" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDD_HP_1</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="55" data-net="GPIO26{slash}ADC{slash}USB" data-run="kicad_file.kicad_sch:180.3400,142.2400" x1="180.3400" y1="142.2400" x2="177.8000" y2="142.2400" />
+<text class="sch-pin-number" x="179.5780" y="141.3900" font-size="1.4000" text-anchor="middle" dominant-baseline="central">55</text>
+<text class="sch-pin-name" x="177.1250" y="142.2400" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO26/ADC/USB</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="56" data-net="GPIO27{slash}ADC{slash}USB" data-run="kicad_file.kicad_sch:180.3400,139.7000" x1="180.3400" y1="139.7000" x2="177.8000" y2="139.7000" />
+<text class="sch-pin-number" x="179.5780" y="138.8500" font-size="1.4000" text-anchor="middle" dominant-baseline="central">56</text>
+<text class="sch-pin-name" x="177.1250" y="139.7000" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO27/ADC/USB</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="57" data-net="GPIO28" data-run="kicad_file.kicad_sch:180.3400,137.1600" x1="180.3400" y1="137.1600" x2="177.8000" y2="137.1600" />
+<text class="sch-pin-number" x="179.5780" y="136.3100" font-size="1.4000" text-anchor="middle" dominant-baseline="central">57</text>
+<text class="sch-pin-name" x="177.1250" y="137.1600" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO28</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="58" data-net="GPIO29" data-run="kicad_file.kicad_sch:180.3400,134.6200" x1="180.3400" y1="134.6200" x2="177.8000" y2="134.6200" />
+<text class="sch-pin-number" x="179.5780" y="133.7700" font-size="1.4000" text-anchor="middle" dominant-baseline="central">58</text>
+<text class="sch-pin-name" x="177.1250" y="134.6200" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO29</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="59" data-run="kicad_file.kicad_sch:180.3400,111.7600" x1="180.3400" y1="132.0800" x2="177.8000" y2="132.0800" />
+<text class="sch-pin-number" x="179.5780" y="131.2300" font-size="1.4000" text-anchor="middle" dominant-baseline="central">59</text>
+<text class="sch-pin-name" x="177.1250" y="132.0800" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDD_PSRAM_0</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="60" data-net="GPIO30" data-run="kicad_file.kicad_sch:180.3400,129.5400" x1="180.3400" y1="129.5400" x2="177.8000" y2="129.5400" />
+<text class="sch-pin-number" x="179.5780" y="128.6900" font-size="1.4000" text-anchor="middle" dominant-baseline="central">60</text>
+<text class="sch-pin-name" x="177.1250" y="129.5400" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO30</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="61" data-net="GPIO31" data-run="kicad_file.kicad_sch:180.3400,127.0000" x1="180.3400" y1="127.0000" x2="177.8000" y2="127.0000" />
+<text class="sch-pin-number" x="179.5780" y="126.1500" font-size="1.4000" text-anchor="middle" dominant-baseline="central">61</text>
+<text class="sch-pin-name" x="177.1250" y="127.0000" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO31</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="62" data-net="+3.3V" data-run="kicad_file.kicad_sch:180.3400,124.4600" x1="180.3400" y1="124.4600" x2="177.8000" y2="124.4600" />
+<text class="sch-pin-number" x="179.5780" y="123.6100" font-size="1.4000" text-anchor="middle" dominant-baseline="central">62</text>
+<text class="sch-pin-name" x="177.1250" y="124.4600" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDD_IO_4</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="63" data-net="GPIO32" data-run="kicad_file.kicad_sch:180.3400,121.9200" x1="180.3400" y1="121.9200" x2="177.8000" y2="121.9200" />
+<text class="sch-pin-number" x="179.5780" y="121.0700" font-size="1.4000" text-anchor="middle" dominant-baseline="central">63</text>
+<text class="sch-pin-name" x="177.1250" y="121.9200" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO32</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="64" data-net="GPIO33" data-run="kicad_file.kicad_sch:180.3400,119.3800" x1="180.3400" y1="119.3800" x2="177.8000" y2="119.3800" />
+<text class="sch-pin-number" x="179.5780" y="118.5300" font-size="1.4000" text-anchor="middle" dominant-baseline="central">64</text>
+<text class="sch-pin-name" x="177.1250" y="119.3800" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO33</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="65" data-net="GPIO34" data-run="kicad_file.kicad_sch:180.3400,116.8400" x1="180.3400" y1="116.8400" x2="177.8000" y2="116.8400" />
+<text class="sch-pin-number" x="179.5780" y="115.9900" font-size="1.4000" text-anchor="middle" dominant-baseline="central">65</text>
+<text class="sch-pin-name" x="177.1250" y="116.8400" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO34</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="66" data-net="GPIO35_BOOT_PULLUP" data-run="kicad_file.kicad_sch:180.3400,114.3000" x1="180.3400" y1="114.3000" x2="177.8000" y2="114.3000" />
+<text class="sch-pin-number" x="179.5780" y="113.4500" font-size="1.4000" text-anchor="middle" dominant-baseline="central">66</text>
+<text class="sch-pin-name" x="177.1250" y="114.3000" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO35</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="67" data-run="kicad_file.kicad_sch:180.3400,111.7600" x1="180.3400" y1="111.7600" x2="177.8000" y2="111.7600" />
+<text class="sch-pin-number" x="179.5780" y="110.9100" font-size="1.4000" text-anchor="middle" dominant-baseline="central">67</text>
+<text class="sch-pin-name" x="177.1250" y="111.7600" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDD_PSRAM_1</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="68" data-net="GPIO36_PULLUP" data-run="kicad_file.kicad_sch:180.3400,109.2200" x1="180.3400" y1="109.2200" x2="177.8000" y2="109.2200" />
+<text class="sch-pin-number" x="179.5780" y="108.3700" font-size="1.4000" text-anchor="middle" dominant-baseline="central">68</text>
+<text class="sch-pin-name" x="177.1250" y="109.2200" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO36</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="69" data-net="GPIO37{slash}UART0_TXD" data-run="kicad_file.kicad_sch:180.3400,106.6800" x1="180.3400" y1="106.6800" x2="177.8000" y2="106.6800" />
+<text class="sch-pin-number" x="179.5780" y="105.8300" font-size="1.4000" text-anchor="middle" dominant-baseline="central">69</text>
+<text class="sch-pin-name" x="177.1250" y="106.6800" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO37</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="70" data-net="GPIO38{slash}UART0_RXD" data-run="kicad_file.kicad_sch:180.3400,104.1400" x1="180.3400" y1="104.1400" x2="177.8000" y2="104.1400" />
+<text class="sch-pin-number" x="179.5780" y="103.2900" font-size="1.4000" text-anchor="middle" dominant-baseline="central">70</text>
+<text class="sch-pin-name" x="177.1250" y="104.1400" font-size="1.5000" text-anchor="end" dominant-baseline="central">GPIO38</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="71" data-run="kicad_file.kicad_sch:180.3400,101.6000" x1="180.3400" y1="101.6000" x2="177.8000" y2="101.6000" />
+<text class="sch-pin-number" x="179.5780" y="100.7500" font-size="1.4000" text-anchor="middle" dominant-baseline="central">71</text>
+<text class="sch-pin-name" x="177.1250" y="101.6000" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDDO_FLASH</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="72" data-run="kicad_file.kicad_sch:180.3400,99.0600" x1="180.3400" y1="99.0600" x2="177.8000" y2="99.0600" />
+<text class="sch-pin-number" x="179.5780" y="98.2100" font-size="1.4000" text-anchor="middle" dominant-baseline="central">72</text>
+<text class="sch-pin-name" x="177.1250" y="99.0600" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDDO_PSRAM</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="73" data-run="kicad_file.kicad_sch:180.3400,96.5200" x1="180.3400" y1="96.5200" x2="177.8000" y2="96.5200" />
+<text class="sch-pin-number" x="179.5780" y="95.6700" font-size="1.4000" text-anchor="middle" dominant-baseline="central">73</text>
+<text class="sch-pin-name" x="177.1250" y="96.5200" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDDO_3</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="74" data-run="kicad_file.kicad_sch:180.3400,93.9800" x1="180.3400" y1="93.9800" x2="177.8000" y2="93.9800" />
+<text class="sch-pin-number" x="179.5780" y="93.1300" font-size="1.4000" text-anchor="middle" dominant-baseline="central">74</text>
+<text class="sch-pin-name" x="177.1250" y="93.9800" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDDO_4</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="75" data-net="+3.3V" data-run="kicad_file.kicad_sch:180.3400,91.4400" x1="180.3400" y1="91.4400" x2="177.8000" y2="91.4400" />
+<text class="sch-pin-number" x="179.5780" y="90.5900" font-size="1.4000" text-anchor="middle" dominant-baseline="central">75</text>
+<text class="sch-pin-name" x="177.1250" y="91.4400" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDD_LDO</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="76" data-net="VDD_HP" data-run="kicad_file.kicad_sch:180.3400,88.9000" x1="180.3400" y1="88.9000" x2="177.8000" y2="88.9000" />
+<text class="sch-pin-number" x="179.5780" y="88.0500" font-size="1.4000" text-anchor="middle" dominant-baseline="central">76</text>
+<text class="sch-pin-name" x="177.1250" y="88.9000" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDD_HP_2</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="77" data-net="+3.3V" data-run="kicad_file.kicad_sch:180.3400,86.3600" x1="180.3400" y1="86.3600" x2="177.8000" y2="86.3600" />
+<text class="sch-pin-number" x="179.5780" y="85.5100" font-size="1.4000" text-anchor="middle" dominant-baseline="central">77</text>
+<text class="sch-pin-name" x="177.1250" y="86.3600" font-size="1.5000" text-anchor="end" dominant-baseline="central">VDD_DCDCC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="78" data-net="FB_DCDC" data-run="kicad_file.kicad_sch:180.3400,83.8200" x1="180.3400" y1="83.8200" x2="177.8000" y2="83.8200" />
+<text class="sch-pin-number" x="179.5780" y="82.9700" font-size="1.4000" text-anchor="middle" dominant-baseline="central">78</text>
+<text class="sch-pin-name" x="177.1250" y="83.8200" font-size="1.5000" text-anchor="end" dominant-baseline="central">FB_DCDC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="79" data-net="EN_DCDC" data-run="kicad_file.kicad_sch:152.4000,72.3900" x1="152.4000" y1="72.3900" x2="152.4000" y2="74.9300" />
+<text class="sch-pin-number" x="151.5500" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">79</text>
+<text class="sch-pin-name" x="152.4000" y="76.1300" font-size="1.5000" text-anchor="middle" dominant-baseline="central">EN_DCDC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="80" data-net="GPIO39" data-run="kicad_file.kicad_sch:149.8600,72.3900" x1="149.8600" y1="72.3900" x2="149.8600" y2="74.9300" />
+<text class="sch-pin-number" x="149.0100" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">80</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="81" data-net="GPIO40" data-run="kicad_file.kicad_sch:147.3200,72.3900" x1="147.3200" y1="72.3900" x2="147.3200" y2="74.9300" />
+<text class="sch-pin-number" x="146.4700" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">81</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="82" data-net="GPIO41" data-run="kicad_file.kicad_sch:144.7800,72.3900" x1="144.7800" y1="72.3900" x2="144.7800" y2="74.9300" />
+<text class="sch-pin-number" x="143.9300" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">82</text>
+<text class="sch-pin-name" x="144.7800" y="76.1300" font-size="1.5000" text-anchor="middle" dominant-baseline="central">GPIO41</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="83" data-net="GPIO42" data-run="kicad_file.kicad_sch:142.2400,72.3900" x1="142.2400" y1="72.3900" x2="142.2400" y2="74.9300" />
+<text class="sch-pin-number" x="141.3900" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">83</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="84" data-net="GPIO43" data-run="kicad_file.kicad_sch:139.7000,72.3900" x1="139.7000" y1="72.3900" x2="139.7000" y2="74.9300" />
+<text class="sch-pin-number" x="138.8500" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">84</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="85" data-net="+3.3V" data-run="kicad_file.kicad_sch:137.1600,45.7200" x1="137.1600" y1="72.3900" x2="137.1600" y2="74.9300" />
+<text class="sch-pin-number" x="136.3100" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">85</text>
+<text class="sch-pin-name" x="137.1600" y="76.1300" font-size="1.5000" text-anchor="middle" dominant-baseline="central">VDD_IO_5</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="86" data-net="GPIO44" data-run="kicad_file.kicad_sch:134.6200,72.3900" x1="134.6200" y1="72.3900" x2="134.6200" y2="74.9300" />
+<text class="sch-pin-number" x="133.7700" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">86</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="87" data-net="GPIO45" data-run="kicad_file.kicad_sch:132.0800,72.3900" x1="132.0800" y1="72.3900" x2="132.0800" y2="74.9300" />
+<text class="sch-pin-number" x="131.2300" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">87</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="88" data-net="GPIO46" data-run="kicad_file.kicad_sch:129.5400,72.3900" x1="129.5400" y1="72.3900" x2="129.5400" y2="74.9300" />
+<text class="sch-pin-number" x="128.6900" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">88</text>
+<text class="sch-pin-name" x="129.5400" y="76.1300" font-size="1.5000" text-anchor="middle" dominant-baseline="central">GPIO46</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="89" data-net="GPIO47" data-run="kicad_file.kicad_sch:127.0000,72.3900" x1="127.0000" y1="72.3900" x2="127.0000" y2="74.9300" />
+<text class="sch-pin-number" x="126.1500" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">89</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="90" data-net="GPIO48" data-run="kicad_file.kicad_sch:124.4600,72.3900" x1="124.4600" y1="72.3900" x2="124.4600" y2="74.9300" />
+<text class="sch-pin-number" x="123.6100" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">90</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="91" data-net="VDD_HP" data-run="kicad_file.kicad_sch:121.9200,45.7200" x1="121.9200" y1="72.3900" x2="121.9200" y2="74.9300" />
+<text class="sch-pin-number" x="121.0700" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">91</text>
+<text class="sch-pin-name" x="121.9200" y="76.1300" font-size="1.5000" text-anchor="middle" dominant-baseline="central">VDD_HP_3</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="92" data-net="GPIO49{slash}ADC" data-run="kicad_file.kicad_sch:119.3800,72.3900" x1="119.3800" y1="72.3900" x2="119.3800" y2="74.9300" />
+<text class="sch-pin-number" x="118.5300" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">92</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="93" data-net="GPIO50{slash}ADC" data-run="kicad_file.kicad_sch:116.8400,72.3900" x1="116.8400" y1="72.3900" x2="116.8400" y2="74.9300" />
+<text class="sch-pin-number" x="115.9900" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">93</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="94" data-net="GPIO51{slash}ADC" data-run="kicad_file.kicad_sch:114.3000,72.3900" x1="114.3000" y1="72.3900" x2="114.3000" y2="74.9300" />
+<text class="sch-pin-number" x="113.4500" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">94</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="95" data-net="GPIO52{slash}ADC" data-run="kicad_file.kicad_sch:111.7600,72.3900" x1="111.7600" y1="72.3900" x2="111.7600" y2="74.9300" />
+<text class="sch-pin-number" x="110.9100" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">95</text>
+<text class="sch-pin-name" x="111.7600" y="76.1300" font-size="1.5000" text-anchor="middle" dominant-baseline="central">GPIO52/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="96" data-net="+3.3V" data-run="kicad_file.kicad_sch:109.2200,45.7200" x1="109.2200" y1="72.3900" x2="109.2200" y2="74.9300" />
+<text class="sch-pin-number" x="108.3700" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">96</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="97" data-net="GPIO53{slash}ADC" data-run="kicad_file.kicad_sch:106.6800,72.3900" x1="106.6800" y1="72.3900" x2="106.6800" y2="74.9300" />
+<text class="sch-pin-number" x="105.8300" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">97</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="98" data-net="GPIO54{slash}ADC" data-run="kicad_file.kicad_sch:104.1400,72.3900" x1="104.1400" y1="72.3900" x2="104.1400" y2="74.9300" />
+<text class="sch-pin-number" x="103.2900" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">98</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="99" data-run="kicad_file.kicad_sch:101.6000,57.1500" x1="101.6000" y1="72.3900" x2="101.6000" y2="74.9300" />
+<text class="sch-pin-number" x="100.7500" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">99</text>
+<text class="sch-pin-name" x="101.6000" y="76.1300" font-size="1.5000" text-anchor="middle" dominant-baseline="central">XTAL_N</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="100" data-run="kicad_file.kicad_sch:99.0600,57.1500" x1="99.0600" y1="72.3900" x2="99.0600" y2="74.9300" />
+<text class="sch-pin-number" x="98.2100" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">100</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="101" data-net="+3.3V" data-run="kicad_file.kicad_sch:80.0100,36.8300" x1="96.5200" y1="72.3900" x2="96.5200" y2="74.9300" />
+<text class="sch-pin-number" x="95.6700" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">101</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="102" data-net="+3.3V" data-run="kicad_file.kicad_sch:64.7700,49.5300" x1="93.9800" y1="72.3900" x2="93.9800" y2="74.9300" />
+<text class="sch-pin-number" x="93.1300" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">102</text>
+<text class="sch-pin-name" x="93.9800" y="76.1300" font-size="1.5000" text-anchor="middle" dominant-baseline="central">VDD_BAT</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="103" data-net="CHIP_PU" data-run="kicad_file.kicad_sch:52.0700,66.0400" x1="91.4400" y1="72.3900" x2="91.4400" y2="74.9300" />
+<text class="sch-pin-number" x="90.5900" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">103</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="104" data-net="GPIO0{slash}ADC" data-run="kicad_file.kicad_sch:88.9000,72.3900" x1="88.9000" y1="72.3900" x2="88.9000" y2="74.9300" />
+<text class="sch-pin-number" x="88.0500" y="73.1520" font-size="1.4000" text-anchor="middle" dominant-baseline="central">104</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="105" data-net="GND" data-run="kicad_file.kicad_sch:166.3700,161.2900" x1="166.3700" y1="161.2900" x2="166.3700" y2="158.7500" />
+<text class="sch-pin-number" x="167.2200" y="160.5280" font-size="1.4000" text-anchor="middle" dominant-baseline="central">105</text>
+<text class="sch-pin-name" x="166.3700" y="158.3750" font-size="1.5000" text-anchor="middle" dominant-baseline="central">GND</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="1" data-net="GPIO1{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,85.0900" x1="63.5000" y1="85.0900" x2="66.0400" y2="85.0900" />
+<text class="sch-pin-number" x="64.2620" y="85.9400" font-size="1.4000" text-anchor="middle" dominant-baseline="central">1</text>
+<text class="sch-pin-name" x="66.7150" y="85.0900" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO1/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="2" data-net="GPIO2{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,87.6300" x1="63.5000" y1="87.6300" x2="66.0400" y2="87.6300" />
+<text class="sch-pin-number" x="64.2620" y="88.4800" font-size="1.4000" text-anchor="middle" dominant-baseline="central">2</text>
+<text class="sch-pin-name" x="66.7150" y="87.6300" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO2/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="3" data-net="GPIO3{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,90.1700" x1="63.5000" y1="90.1700" x2="66.0400" y2="90.1700" />
+<text class="sch-pin-number" x="64.2620" y="91.0200" font-size="1.4000" text-anchor="middle" dominant-baseline="central">3</text>
+<text class="sch-pin-name" x="66.7150" y="90.1700" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO3/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="4" data-net="GPIO4{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,92.7100" x1="63.5000" y1="92.7100" x2="66.0400" y2="92.7100" />
+<text class="sch-pin-number" x="64.2620" y="93.5600" font-size="1.4000" text-anchor="middle" dominant-baseline="central">4</text>
+<text class="sch-pin-name" x="66.7150" y="92.7100" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO4/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="5" data-net="GPIO5{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,95.2500" x1="63.5000" y1="95.2500" x2="66.0400" y2="95.2500" />
+<text class="sch-pin-number" x="64.2620" y="96.1000" font-size="1.4000" text-anchor="middle" dominant-baseline="central">5</text>
+<text class="sch-pin-name" x="66.7150" y="95.2500" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO5/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="6" data-net="GPIO6{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,97.7900" x1="63.5000" y1="97.7900" x2="66.0400" y2="97.7900" />
+<text class="sch-pin-number" x="64.2620" y="98.6400" font-size="1.4000" text-anchor="middle" dominant-baseline="central">6</text>
+<text class="sch-pin-name" x="66.7150" y="97.7900" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO6/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="7" data-net="GPIO7{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,100.3300" x1="63.5000" y1="100.3300" x2="66.0400" y2="100.3300" />
+<text class="sch-pin-number" x="64.2620" y="101.1800" font-size="1.4000" text-anchor="middle" dominant-baseline="central">7</text>
+<text class="sch-pin-name" x="66.7150" y="100.3300" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO7/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="8" data-net="GPIO8{slash}ADC" data-run="kicad_file.kicad_sch:63.5000,102.8700" x1="63.5000" y1="102.8700" x2="66.0400" y2="102.8700" />
+<text class="sch-pin-number" x="64.2620" y="103.7200" font-size="1.4000" text-anchor="middle" dominant-baseline="central">8</text>
+<text class="sch-pin-name" x="66.7150" y="102.8700" font-size="1.5000" text-anchor="start" dominant-baseline="central">GPIO8/ADC</text>
+<line class="sch-pin-hit" data-reference="U2" data-pin="9" data-net="+3.3V" data-run="kicad_file.kicad_sch:27.9400,105.4100" x1="63.5000" y1="105.4100" x2="66.0400" y2="105.4100" />
+<text class="sch-pin-number" x="64.2620" y="106.2600" font-size="1.4000" text-anchor="middle" dominant-baseline="central">9</text>
+<text class="sch-pin-name" x="66.7150" y="105.4100" font-size="1.5000" text-anchor="start" dominant-baseline="central">VDD_LP</text>
+<text class="sch-ref" x="121.9200" y="72.8300" font-size="3.6000" text-anchor="middle" dominant-baseline="central">U2</text>
+<text class="sch-value" x="121.9200" y="68.2508" font-size="2.8800" text-anchor="middle" dominant-baseline="central"></text>
+</g>
+</svg>

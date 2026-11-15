@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: 03b75f65d4276e8f0e6c4356abd0749745cbb936384469f7436b8180a39ac32e
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: 2f94c5676b7e5f14db235971ed8a5253e04a711bad7a4823b83b106edd222487
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: b2b1e357bbd8e51affd21fa521f7ac3c727d6e20b9c1f18bd457926cc54cce26
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: c8d6f60c5458fe8134434e67e976545deacb81335d015998d56cd5bc8ec7c24c
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: a0c51bdcb142086934ba10546f3c3b98f35eb93e39edee3d4e2e33e8670ce2a3
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: 2455467b367c982c0ab55865f57524373a31000a93f68bec373b655b1d6f742d
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_n_rf52_bluefruit_feather_pcb_adafruit_n_rf52840_bluefruit_feather_express_current\data\fp-lib-table

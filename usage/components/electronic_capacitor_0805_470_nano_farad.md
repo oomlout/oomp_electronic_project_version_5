@@ -1,0 +1,14 @@
+# electronic_capacitor_0805_470_nano_farad
+
+## Used in projects
+
+| Project | Quantity | References | Explore |
+| --- | ---: | --- | --- |
+| [Project adafruit/Adafruit-9-DOF-and-10-DOF-PCBs Adafuit 10 DOF current](https://github.com/adafruit/Adafruit-9-DOF-and-10-DOF-PCBs/blob/master/Adafuit_10DOF.brd) | 1 | C2 | [Board explorer](https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_adafruit_9_dof_and_10_dof_pcbs_adafuit_10_dof_current/board_explorer.html) · [OOMP project](https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_9_dof_and_10_dof_pcbs_adafuit_10_dof_current) |
+| [Project adafruit/Adafruit-9-DOF-and-10-DOF-PCBs Adafuit 9 DOF current](https://github.com/adafruit/Adafruit-9-DOF-and-10-DOF-PCBs/blob/master/Adafuit_9DOF.brd) | 1 | C2 | [Board explorer](https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_adafruit_9_dof_and_10_dof_pcbs_adafuit_9_dof_current/board_explorer.html) · [OOMP project](https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_9_dof_and_10_dof_pcbs_adafuit_9_dof_current) |
+| [Project adafruit/Adafruit-MAX9814-AGC-Microphone-PCB Adafruit MAX9814 current](https://github.com/adafruit/Adafruit-MAX9814-AGC-Microphone-PCB/blob/master/Adafruit%20MAX9814.brd) | 1 | C8 | [Board explorer](https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_adafruit_max9814_agc_microphone_pcb_adafruit_max9814_current/board_explorer.html) · [OOMP project](https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_max9814_agc_microphone_pcb_adafruit_max9814_current) |
+| [Project adafruit/Adafruit-Si4713-PCB Adafruit Si471x PCB current](https://github.com/adafruit/Adafruit-Si4713-PCB/blob/master/Adafruit%20Si471x%20PCB.brd) | 2 | C2, C3 | [Board explorer](https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_adafruit_si4713_pcb_adafruit_si471x_pcb_current/board_explorer.html) · [OOMP project](https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_si4713_pcb_adafruit_si471x_pcb_current) |
+| [Project adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB Adafruit Si5351 A current](https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB/blob/master/Adafruit%20Si5351A.brd) | 2 | C1, C2 | [Board explorer](https://oomlout.github.io/oomp_electronic_project_version_5/parts/oomp_project_github_adafruit_adafruit_si5351_a_clock_generator_breakout_pcb_adafruit_si5351_a_current/board_explorer.html) · [OOMP project](https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_si5351_a_clock_generator_breakout_pcb_adafruit_si5351_a_current) |
+
+
+

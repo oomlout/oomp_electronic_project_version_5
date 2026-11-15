@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: DMG3415UFY
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_12_volt_4_3_amp_infineon_technologies_irlml6401trpbf
+  score: 0.1466
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_30_volt_3_amp_infineon_technologies_irlml5203trpbf
+  score: 0.1466
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_20_volt_3_7_amp_infineon_technologies_irlml6402trpbf
+  score: 0.141
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_252_mosfet_p_channel_enhancement_mode_200_volt_3_6_amp_vishay_intertech_irfr9220trpbf
+  score: 0.1305
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_30_volt_alpha_omega_semicon_ao3401a
+  score: 0.1275
+  reasons:
+  - same component family

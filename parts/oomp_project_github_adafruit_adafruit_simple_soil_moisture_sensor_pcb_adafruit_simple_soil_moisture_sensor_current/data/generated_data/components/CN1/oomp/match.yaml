@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: null
+  value: JST_SH3
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_capacitor_0402_3_pico_farad
+  score: 0.09
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0603_1_nano_farad
+  score: 0.09
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0603_2_nano_farad
+  score: 0.09
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0603_2_pico_farad
+  score: 0.09
+  reasons:
+  - same component family
+- oomp_id: electronic_capacitor_0603_3_nano_farad
+  score: 0.09
+  reasons:
+  - same component family

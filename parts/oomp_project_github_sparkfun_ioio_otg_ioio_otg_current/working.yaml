@@ -1,0 +1,203 @@
+bip_39_2_word_array:
+- behind
+- scene
+bip_39_2_word_no_space: behindscene
+bip_39_2_word_space: behind scene
+bip_39_2_word_underscore: behind_scene
+bip_39_3_word_array:
+- behind
+- scene
+- naive
+bip_39_3_word_no_space: behindscenenaive
+bip_39_3_word_space: behind scene naive
+bip_39_3_word_underscore: behind_scene_naive
+bip_39_full_array:
+- behind
+- scene
+- naive
+- position
+- umbrella
+- ugly
+- expand
+- multiply
+- tide
+- dwarf
+- simple
+- emerge
+bip_39_full_no_space: behindscenenaivepositionumbrellauglyexpandmultiplytidedwarfsimpleemerge
+bip_39_full_space: behind scene naive position umbrella ugly expand multiply tide
+  dwarf simple emerge
+bip_39_full_underscore: behind_scene_naive_position_umbrella_ugly_expand_multiply_tide_dwarf_simple_emerge
+directory: parts/oomp_project_github_sparkfun_ioio_otg_ioio_otg_current
+distributors: []
+id: oomp_project_github_sparkfun_ioio_otg_ioio_otg_current
+id_no_class: oomp_project_github_sparkfun_ioio_otg_ioio_otg_current
+id_no_size: oomp_project_github_sparkfun_ioio_otg_ioio_otg_current
+id_no_type: oomp_project_github_sparkfun_ioio_otg_ioio_otg_current
+link_github: https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_sparkfun_ioio_otg_ioio_otg_current
+link_main: https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_sparkfun_ioio_otg_ioio_otg_current
+link_redirect: https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/parts/oomp_project_github_sparkfun_ioio_otg_ioio_otg_current
+manufacturers: []
+md5: 1498124ad43ec3d8140c8be1c8972424
+md5_10: 1498124ad4
+md5_10_upper: 1498124AD4
+md5_5: '14981'
+md5_5_upper: '14981'
+md5_6: '149812'
+md5_6_alpha: sxea
+md5_6_alpha_upper: SXEA
+md5_6_upper: '149812'
+name: Oomp Project Github Sparkfun Ioio Otg Ioio Otg Current
+name_no_class: Oomp Project Github Sparkfun Ioio Otg Ioio Otg Current
+name_no_size: Oomp Project Github Sparkfun Ioio Otg Ioio Otg Current
+name_no_type: Oomp Project Github Sparkfun Ioio Otg Ioio Otg Current
+name_proper: Project sparkfun/IOIO-OTG IOIO OTG current
+name_readable: Project sparkfun/IOIO-OTG IOIO OTG current
+name_short: Project sparkfun/IOIO-OTG IOIO OTG current
+name_space: oomp project github sparkfun ioio otg ioio otg current
+name_upper: OOMP PROJECT GITHUB SPARKFUN IOIO OTG IOIO OTG CURRENT
+oomp_key: oomp_oomp_project_github_sparkfun_ioio_otg_ioio_otg_current
+production_board_source: ''
+production_exclude_references: []
+production_lcsc_overrides: {}
+production_oomp_metadata_board: ''
+production_position_offsets_mm: {}
+production_rotation_offsets: {}
+project_board: ioio_otg
+project_board_name: IOIO OTG
+project_board_url: https://github.com/sparkfun/IOIO-OTG/blob/master/Hardware/IOIO-OTG.brd
+project_file_basename: IOIO-OTG
+project_file_extensions:
+- .kicad_pcb
+- .kicad_sch
+- .kicad_pro
+project_file_folder: Hardware
+project_file_path: Hardware/IOIO-OTG
+project_file_path_original: ''
+project_git_ref: master
+project_git_url: https://github.com/sparkfun/IOIO-OTG.git
+project_github_repository: IOIO-OTG
+project_github_url: https://github.com/sparkfun/IOIO-OTG
+project_github_user: sparkfun
+project_match_blocked: {}
+project_match_overrides: {}
+project_review_notes: []
+project_source_format: eagle
+project_sparse_checkout: true
+project_version: current
+regenerate_pngs: false
+taxonomy_1: oomp
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oomp
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oom
+taxonomy_1_length_4: oomp
+taxonomy_1_length_5: oomp
+taxonomy_1_upper: OOMP
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOM
+taxonomy_1_upper_length_4: OOMP
+taxonomy_1_upper_length_5: OOMP
+taxonomy_2: project
+taxonomy_2_capital: Project
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pr
+taxonomy_2_length_3: pro
+taxonomy_2_length_4: proj
+taxonomy_2_length_5: proje
+taxonomy_2_upper: PROJECT
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PR
+taxonomy_2_upper_length_3: PRO
+taxonomy_2_upper_length_4: PROJ
+taxonomy_2_upper_length_5: PROJE
+taxonomy_3: github
+taxonomy_3_capital: Github
+taxonomy_3_first_letter: g
+taxonomy_3_first_letter_upper: G
+taxonomy_3_length_1: g
+taxonomy_3_length_2: gi
+taxonomy_3_length_3: git
+taxonomy_3_length_4: gith
+taxonomy_3_length_5: githu
+taxonomy_3_upper: GITHUB
+taxonomy_3_upper_length_1: G
+taxonomy_3_upper_length_2: GI
+taxonomy_3_upper_length_3: GIT
+taxonomy_3_upper_length_4: GITH
+taxonomy_3_upper_length_5: GITHU
+taxonomy_4: sparkfun
+taxonomy_4_capital: Sparkfun
+taxonomy_4_first_letter: s
+taxonomy_4_first_letter_upper: S
+taxonomy_4_length_1: s
+taxonomy_4_length_2: sp
+taxonomy_4_length_3: spa
+taxonomy_4_length_4: spar
+taxonomy_4_length_5: spark
+taxonomy_4_upper: SPARKFUN
+taxonomy_4_upper_length_1: S
+taxonomy_4_upper_length_2: SP
+taxonomy_4_upper_length_3: SPA
+taxonomy_4_upper_length_4: SPAR
+taxonomy_4_upper_length_5: SPARK
+taxonomy_5: ioio_otg
+taxonomy_5_capital: Ioio Otg
+taxonomy_5_first_letter: i
+taxonomy_5_first_letter_upper: I
+taxonomy_5_length_1: i
+taxonomy_5_length_2: io
+taxonomy_5_length_3: ioi
+taxonomy_5_length_4: ioio
+taxonomy_5_length_5: ioio_
+taxonomy_5_upper: IOIO_OTG
+taxonomy_5_upper_length_1: I
+taxonomy_5_upper_length_2: IO
+taxonomy_5_upper_length_3: IOI
+taxonomy_5_upper_length_4: IOIO
+taxonomy_5_upper_length_5: IOIO_
+taxonomy_6: ioio_otg
+taxonomy_6_capital: Ioio Otg
+taxonomy_6_first_letter: i
+taxonomy_6_first_letter_upper: I
+taxonomy_6_length_1: i
+taxonomy_6_length_2: io
+taxonomy_6_length_3: ioi
+taxonomy_6_length_4: ioio
+taxonomy_6_length_5: ioio_
+taxonomy_6_upper: IOIO_OTG
+taxonomy_6_upper_length_1: I
+taxonomy_6_upper_length_2: IO
+taxonomy_6_upper_length_3: IOI
+taxonomy_6_upper_length_4: IOIO
+taxonomy_6_upper_length_5: IOIO_
+taxonomy_7: current
+taxonomy_7_capital: Current
+taxonomy_7_first_letter: c
+taxonomy_7_first_letter_upper: C
+taxonomy_7_length_1: c
+taxonomy_7_length_2: cu
+taxonomy_7_length_3: cur
+taxonomy_7_length_4: curr
+taxonomy_7_length_5: curre
+taxonomy_7_upper: CURRENT
+taxonomy_7_upper_length_1: C
+taxonomy_7_upper_length_2: CU
+taxonomy_7_upper_length_3: CUR
+taxonomy_7_upper_length_4: CURR
+taxonomy_7_upper_length_5: CURRE
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: ''
+generation_command: python action_generate.py --filter oomp_project_github_sparkfun_ioio_otg_ioio_otg_current

@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: '2222'
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_sot_23_bipolar_npn
+  score: 0.1088
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_204_bipolar_npn_250_volt_16_amp_onsemi_mj15024g
+  score: 0.0926
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_204_bipolar_npn_darlington_120_volt_50_amp_onsemi_mj11032g
+  score: 0.086
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_23_bipolar_npn_25_volt_1_5_amp_jsmsemi_ss8050
+  score: 0.0806
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_23_bipolar_npn_40_volt_600_milliamp_jiangsu_changjing_electronics_technology_co_ltd_mmbt2222a_1p
+  score: 0.0722
+  reasons:
+  - same component family

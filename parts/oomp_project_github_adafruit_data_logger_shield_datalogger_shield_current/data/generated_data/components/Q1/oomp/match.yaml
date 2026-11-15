@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: 32.768Khz
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_sot_363_6_mosfet_n_channel_dual
+  score: 0.0834
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_251_mosfet_n_channel_enhancement_mode_55_volt_17_amp_infineon_technologies_irlu024npbf
+  score: 0.0799
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_252_mosfet_n_channel_enhancement_mode_55_volt_17_amp_infineon_technologies_irfr024ntrpbf
+  score: 0.0795
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_252_mosfet_n_channel_enhancement_mode_55_volt_17_amp_infineon_technologies_irlr024ntrpbf
+  score: 0.0795
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_252_mosfet_n_channel_enhancement_mode_100_volt_17_amp_infineon_technologies_irlr3410trpbf
+  score: 0.0793
+  reasons:
+  - same component family

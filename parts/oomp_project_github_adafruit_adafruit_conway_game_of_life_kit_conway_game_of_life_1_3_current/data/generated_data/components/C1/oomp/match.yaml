@@ -1,0 +1,38 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: null
+  value: 100uF
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_capacitor_8_mm_diameter_12_mm_tall_electrolytic_100_micro_farad_50_volt
+  score: 0.7046
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_8_mm_diameter_12_mm_tall_electrolytic_100_micro_farad_63_volt
+  score: 0.7046
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_10_mm_diameter_17_mm_tall_electrolytic_100_micro_farad_100_volt
+  score: 0.7045
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_18_mm_diameter_30_mm_tall_electrolytic_100_micro_farad_400_volt
+  score: 0.7045
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_3528_avx_b_tantalum_100_micro_farad_10_volt_avx_tajb107m010rnej
+  score: 0.7045
+  reasons:
+  - same component family
+  - same normalized value

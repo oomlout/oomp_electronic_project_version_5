@@ -1,0 +1,550 @@
+available: true
+units:
+- reference: C3
+  source_file: data/kicad_file.kicad_sch
+  uuid: c7775950-5dc9-481f-b1dc-60f1b9f160cb
+  library_id: Device:C_Small
+  unit: 1
+  body_style: 1
+  position:
+    x: 245.11
+    y: 41.91
+    rotation: 0.0
+    mirror: null
+    units: mm
+  properties:
+    Reference: C3
+    Value: 22uF
+    Footprint: Capacitor_SMD:C_0603_1608Metric
+    Datasheet: ''
+    Description: Unpolarized capacitor, small symbol
+  in_bom: true
+  on_board: true
+  in_position_files: true
+  dnp: false
+  pins:
+  - number: '1'
+    name: ''
+    electrical_type: passive
+    graphic_style: line
+    local_position:
+      x: 0.0
+      y: 2.54
+      rotation: 270.0
+    length: 2.032
+    position:
+      x: 245.11
+      y: 39.37
+    net: VDD_HP
+    net_aliases:
+    - VDD_HP
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C2
+      pin_number: '1'
+      pin_name: ''
+    - reference: C8
+      pin_number: '1'
+      pin_name: ''
+    - reference: C15
+      pin_number: '1'
+      pin_name: ''
+    - reference: C28
+      pin_number: '1'
+      pin_name: ''
+    - reference: C29
+      pin_number: '1'
+      pin_name: ''
+    - reference: L1
+      pin_number: '2'
+      pin_name: ''
+    - reference: R1
+      pin_number: '2'
+      pin_name: ''
+    - reference: R39
+      pin_number: '1'
+      pin_name: ''
+    - reference: U2
+      pin_number: '26'
+      pin_name: VDD_HP_0
+    - reference: U2
+      pin_number: '76'
+      pin_name: VDD_HP_2
+    - reference: U2
+      pin_number: '91'
+      pin_name: VDD_HP_3
+  - number: '2'
+    name: ''
+    electrical_type: passive
+    graphic_style: line
+    local_position:
+      x: 0.0
+      y: -2.54
+      rotation: 90.0
+    length: 2.032
+    position:
+      x: 245.11
+      y: 44.45
+    net: GND
+    net_aliases:
+    - GND
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR03'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR04'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR05'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR06'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR07'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR08'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR09'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR012'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR014'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR016'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR018'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR019'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR021'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR023'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR024'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR025'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR026'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR027'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR029'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR030'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR031'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR033'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR034'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR038'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR039'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR040'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR041'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR044'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '2'
+      pin_name: ''
+    - reference: C4
+      pin_number: '1'
+      pin_name: ''
+    - reference: C5
+      pin_number: '2'
+      pin_name: ''
+    - reference: C6
+      pin_number: '2'
+      pin_name: ''
+    - reference: C7
+      pin_number: '2'
+      pin_name: ''
+    - reference: C8
+      pin_number: '2'
+      pin_name: ''
+    - reference: C9
+      pin_number: '2'
+      pin_name: ''
+    - reference: C11
+      pin_number: '2'
+      pin_name: ''
+    - reference: C12
+      pin_number: '2'
+      pin_name: ''
+    - reference: C13
+      pin_number: '2'
+      pin_name: ''
+    - reference: C14
+      pin_number: '2'
+      pin_name: ''
+    - reference: C15
+      pin_number: '2'
+      pin_name: ''
+    - reference: C16
+      pin_number: '2'
+      pin_name: ''
+    - reference: C17
+      pin_number: '2'
+      pin_name: ''
+    - reference: C18
+      pin_number: '2'
+      pin_name: ''
+    - reference: C20
+      pin_number: '2'
+      pin_name: ''
+    - reference: C21
+      pin_number: '2'
+      pin_name: ''
+    - reference: C23
+      pin_number: '2'
+      pin_name: ''
+    - reference: C24
+      pin_number: '2'
+      pin_name: ''
+    - reference: C25
+      pin_number: '2'
+      pin_name: ''
+    - reference: C26
+      pin_number: '2'
+      pin_name: ''
+    - reference: C27
+      pin_number: '2'
+      pin_name: ''
+    - reference: C28
+      pin_number: '2'
+      pin_name: ''
+    - reference: C29
+      pin_number: '2'
+      pin_name: ''
+    - reference: C30
+      pin_number: '2'
+      pin_name: ''
+    - reference: C31
+      pin_number: '2'
+      pin_name: ''
+    - reference: C32
+      pin_number: '2'
+      pin_name: ''
+    - reference: C33
+      pin_number: '2'
+      pin_name: ''
+    - reference: C40
+      pin_number: '2'
+      pin_name: ''
+    - reference: C41
+      pin_number: '2'
+      pin_name: ''
+    - reference: C42
+      pin_number: '2'
+      pin_name: ''
+    - reference: R2
+      pin_number: '1'
+      pin_name: ''
+    - reference: U1
+      pin_number: '2'
+      pin_name: GND
+    - reference: U2
+      pin_number: '105'
+      pin_name: GND
+    - reference: U3
+      pin_number: '4'
+      pin_name: GND
+    - reference: Y1
+      pin_number: '2'
+      pin_name: G
+    - reference: Y1
+      pin_number: '4'
+      pin_name: G
+  size:
+    local_graphics:
+      measurement: symbol graphics only; excludes pins, properties, and text
+      units: mm
+      available: true
+      min:
+        x: -1.6891
+        y: -0.6731
+      max:
+        x: 1.6891
+        y: 0.6604
+      width: 3.3782
+      height: 1.3335
+      center:
+        x: 0.0
+        y: -0.00635
+    placed_graphics:
+      measurement: axis-aligned bounds after schematic placement, rotation, and mirroring
+      units: mm
+      available: true
+      min:
+        x: 243.4209
+        y: 41.2496
+      max:
+        x: 246.7991
+        y: 42.5831
+      width: 3.3782
+      height: 1.3335
+      center:
+        x: 245.11
+        y: 41.91635
+  warnings: []
+connected_components:
+- reference: '#PWR03'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR04'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR05'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR06'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR07'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR08'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR09'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR012'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR014'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR016'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR018'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR019'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR021'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR023'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR024'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR025'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR026'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR027'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR029'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR030'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR031'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR033'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR034'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR038'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR039'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR040'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR041'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR044'
+  pin_number: '1'
+  pin_name: ''
+- reference: C1
+  pin_number: '2'
+  pin_name: ''
+- reference: C2
+  pin_number: '1'
+  pin_name: ''
+- reference: C4
+  pin_number: '1'
+  pin_name: ''
+- reference: C5
+  pin_number: '2'
+  pin_name: ''
+- reference: C6
+  pin_number: '2'
+  pin_name: ''
+- reference: C7
+  pin_number: '2'
+  pin_name: ''
+- reference: C8
+  pin_number: '1'
+  pin_name: ''
+- reference: C8
+  pin_number: '2'
+  pin_name: ''
+- reference: C9
+  pin_number: '2'
+  pin_name: ''
+- reference: C11
+  pin_number: '2'
+  pin_name: ''
+- reference: C12
+  pin_number: '2'
+  pin_name: ''
+- reference: C13
+  pin_number: '2'
+  pin_name: ''
+- reference: C14
+  pin_number: '2'
+  pin_name: ''
+- reference: C15
+  pin_number: '1'
+  pin_name: ''
+- reference: C15
+  pin_number: '2'
+  pin_name: ''
+- reference: C16
+  pin_number: '2'
+  pin_name: ''
+- reference: C17
+  pin_number: '2'
+  pin_name: ''
+- reference: C18
+  pin_number: '2'
+  pin_name: ''
+- reference: C20
+  pin_number: '2'
+  pin_name: ''
+- reference: C21
+  pin_number: '2'
+  pin_name: ''
+- reference: C23
+  pin_number: '2'
+  pin_name: ''
+- reference: C24
+  pin_number: '2'
+  pin_name: ''
+- reference: C25
+  pin_number: '2'
+  pin_name: ''
+- reference: C26
+  pin_number: '2'
+  pin_name: ''
+- reference: C27
+  pin_number: '2'
+  pin_name: ''
+- reference: C28
+  pin_number: '1'
+  pin_name: ''
+- reference: C28
+  pin_number: '2'
+  pin_name: ''
+- reference: C29
+  pin_number: '1'
+  pin_name: ''
+- reference: C29
+  pin_number: '2'
+  pin_name: ''
+- reference: C30
+  pin_number: '2'
+  pin_name: ''
+- reference: C31
+  pin_number: '2'
+  pin_name: ''
+- reference: C32
+  pin_number: '2'
+  pin_name: ''
+- reference: C33
+  pin_number: '2'
+  pin_name: ''
+- reference: C40
+  pin_number: '2'
+  pin_name: ''
+- reference: C41
+  pin_number: '2'
+  pin_name: ''
+- reference: C42
+  pin_number: '2'
+  pin_name: ''
+- reference: L1
+  pin_number: '2'
+  pin_name: ''
+- reference: R1
+  pin_number: '2'
+  pin_name: ''
+- reference: R2
+  pin_number: '1'
+  pin_name: ''
+- reference: R39
+  pin_number: '1'
+  pin_name: ''
+- reference: U1
+  pin_number: '2'
+  pin_name: GND
+- reference: U2
+  pin_number: '105'
+  pin_name: GND
+- reference: U2
+  pin_number: '26'
+  pin_name: VDD_HP_0
+- reference: U2
+  pin_number: '76'
+  pin_name: VDD_HP_2
+- reference: U2
+  pin_number: '91'
+  pin_name: VDD_HP_3
+- reference: U3
+  pin_number: '4'
+  pin_name: GND
+- reference: Y1
+  pin_number: '2'
+  pin_name: G
+- reference: Y1
+  pin_number: '4'
+  pin_name: G

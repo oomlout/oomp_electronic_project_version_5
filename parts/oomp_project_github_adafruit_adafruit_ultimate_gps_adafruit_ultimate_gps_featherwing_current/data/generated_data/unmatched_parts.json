@@ -1,0 +1,285 @@
+{
+  "count": 7,
+  "components": [
+    {
+      "reference": "B1",
+      "fields": {
+        "reference": "B1",
+        "value": "CR1220",
+        "footprint": "CR1220-2",
+        "library_id": "kicad_file-eagle-import:BATTERYCR1220_2",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "CR1220",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/B1"
+    },
+    {
+      "reference": "FB1",
+      "fields": {
+        "reference": "FB1",
+        "value": "Ferrite",
+        "footprint": "0805-NO",
+        "library_id": "kicad_file-eagle-import:FERRITE-0805NO",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "ferrite_bead",
+          "package_size": "0805",
+          "value": "Ferrite",
+          "mpn": null
+        },
+        "reasons": [
+          "The component value could not be normalized into an OOMP ID."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_220_ohm_2_amp_murata_blm21pg221sn1d",
+            "score": 0.1909,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_100_ohm_800_milliamp_sunlord_gz2012d101tf",
+            "score": 0.1855,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_120_ohm_800_milliamp_sunlord_gz2012d121tf",
+            "score": 0.1855,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_600_ohm_500_milliamp_sunlord_gz2012d601tf",
+            "score": 0.1855,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          },
+          {
+            "oomp_id": "electronic_ferrite_bead_0805_15_ohm_1_5_amp_tdk_mmz2012r150at000",
+            "score": 0.1837,
+            "reasons": [
+              "same component family",
+              "same package size"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/FB1"
+    },
+    {
+      "reference": "MS1",
+      "fields": {
+        "reference": "MS1",
+        "value": "FEATHERWING",
+        "footprint": "FEATHERWING",
+        "library_id": "kicad_file-eagle-import:FEATHERWING",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "FEATHERWING",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/MS1"
+    },
+    {
+      "reference": "Q1",
+      "fields": {
+        "reference": "Q1",
+        "value": "DMG3415U-7",
+        "footprint": "SOT23-WIDE",
+        "library_id": "kicad_file-eagle-import:MOSFET-PWIDE",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "transistor",
+          "package_size": null,
+          "value": "DMG3415U-7",
+          "mpn": null
+        },
+        "reasons": [
+          "Component family was inferred, but package size was not."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_transistor_to_247ac_mosfet_n_channel_enhancement_mode_500_volt_8_7_amp_vishay_intertech_irfp450pbf",
+            "score": 0.1015,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_transistor_to_220ab_mosfet_n_channel_enhancement_mode_100_volt_9_7_amp_infineon_technologies_irf520npbf",
+            "score": 0.1006,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_20_volt_3_7_amp_infineon_technologies_irlml6402trpbf",
+            "score": 0.1004,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_transistor_so_8_mosfet_p_channel_enhancement_mode_20_volt_6_7_amp_infineon_technologies_irf7404trpbf",
+            "score": 0.0954,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_transistor_to_247ac_mosfet_n_channel_enhancement_mode_900_volt_6_7_amp_infineon_technologies_irfpf50pbf",
+            "score": 0.0949,
+            "reasons": [
+              "same component family"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/Q1"
+    },
+    {
+      "reference": "SW1",
+      "fields": {
+        "reference": "SW1",
+        "value": "KMR2",
+        "footprint": "BTN_KMR2_4.6X2.8",
+        "library_id": "kicad_file-eagle-import:SWITCH_TACT_SMT4.6X2.8",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "KMR2",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/SW1"
+    },
+    {
+      "reference": "U1",
+      "fields": {
+        "reference": "U1",
+        "value": "FGPMMOPA6H",
+        "footprint": "FGPMMOPA6H",
+        "library_id": "kicad_file-eagle-import:GPS_FGPMMOPA6H",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "FGPMMOPA6H",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/U1"
+    },
+    {
+      "reference": "X1",
+      "fields": {
+        "reference": "X1",
+        "value": "uFL",
+        "footprint": "U.FL",
+        "library_id": "kicad_file-eagle-import:ANTENNA_U.FL",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "uFL",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/X1"
+    }
+  ]
+}

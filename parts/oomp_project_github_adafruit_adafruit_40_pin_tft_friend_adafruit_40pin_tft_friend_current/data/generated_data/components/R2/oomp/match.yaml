@@ -1,0 +1,43 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: electronic_resistor_0805_6_ohm
+inferred:
+  kind: resistor
+  package_size: 0805
+  value: 6Ω
+  mpn: null
+reasons:
+- The exact normalized component is not present in the OOMP parts directory.
+candidates:
+- oomp_id: electronic_resistor_0805_5_1_ohm
+  score: 0.9474
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_resistor_0805_4_99_ohm
+  score: 0.94
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_resistor_0805_4_7_ohm
+  score: 0.9225
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_resistor_0805_8_2_ohm
+  score: 0.9018
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value
+- oomp_id: electronic_resistor_0805_3_9_ohm
+  score: 0.8658
+  reasons:
+  - same component family
+  - same package size
+  - nearby normalized value

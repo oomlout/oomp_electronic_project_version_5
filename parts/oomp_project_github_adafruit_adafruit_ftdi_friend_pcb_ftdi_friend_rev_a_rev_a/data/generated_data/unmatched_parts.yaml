@@ -1,0 +1,121 @@
+count: 3
+components:
+- reference: C1
+  fields:
+    reference: C1
+    value: 10uF
+    footprint: A_3216-18R
+    library_id: kicad_file-eagle-import:CPOL-USA/3216-18R
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: electronic_capacitor_3216_10_micro_farad
+    inferred:
+      kind: capacitor
+      package_size: '3216'
+      value: 10uF
+      mpn: null
+    reasons:
+    - The exact normalized component is not present in the OOMP parts directory.
+    candidates:
+    - oomp_id: electronic_capacitor_3216_avx_a_tantalum_10_micro_farad_10_volt_avx_taja106k010rnej
+      score: 0.9825
+      reasons:
+      - same component family
+      - same package size
+      - same normalized value
+    - oomp_id: electronic_capacitor_3216_avx_a_tantalum_6_8_micro_farad_16_volt_avx_taja685k016rnej
+      score: 0.8634
+      reasons:
+      - same component family
+      - same package size
+      - nearby normalized value
+    - oomp_id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
+      score: 0.757
+      reasons:
+      - same component family
+      - same package size
+      - nearby normalized value
+    - oomp_id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt_avx_taja475k016rnej
+      score: 0.7511
+      reasons:
+      - same component family
+      - same package size
+      - nearby normalized value
+    - oomp_id: electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_20_volt_avx_taja475k020rnej
+      score: 0.7511
+      reasons:
+      - same component family
+      - same package size
+      - nearby normalized value
+  generated_directory: components/C1
+- reference: CN1
+  fields:
+    reference: CN1
+    value: MINIB
+    footprint: USB-MINIB
+    library_id: kicad_file-eagle-import:USBMINIB
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: capacitor
+      package_size: null
+      value: MINIB
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_capacitor_0402_1_nano_farad
+      score: 0.0826
+      reasons:
+      - same component family
+    - oomp_id: electronic_capacitor_0402_1_pico_farad
+      score: 0.0826
+      reasons:
+      - same component family
+    - oomp_id: electronic_capacitor_0402_2_pico_farad
+      score: 0.0826
+      reasons:
+      - same component family
+    - oomp_id: electronic_capacitor_0402_3_pico_farad
+      score: 0.0826
+      reasons:
+      - same component family
+    - oomp_id: electronic_capacitor_0402_4_pico_farad
+      score: 0.0826
+      reasons:
+      - same component family
+  generated_directory: components/CN1
+- reference: IC1
+  fields:
+    reference: IC1
+    value: FT232RL
+    footprint: SSOP28
+    library_id: kicad_file-eagle-import:FT232RL
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: FT232RL
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/IC1

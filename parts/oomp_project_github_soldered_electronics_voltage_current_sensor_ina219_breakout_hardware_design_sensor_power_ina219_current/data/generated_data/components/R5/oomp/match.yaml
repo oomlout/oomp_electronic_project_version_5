@@ -1,0 +1,13 @@
+status: matched
+accepted: true
+oomp_id: electronic_resistor_1210_0_1_ohm
+confidence: 1.0
+proposed_oomp_id: electronic_resistor_1210_0_1_ohm
+inferred:
+  kind: resistor
+  package_size: '1210'
+  value: 0R1
+  mpn: null
+reasons:
+- Exact OOMP ID constructed from component type, package size, and normalized value.
+candidates: []

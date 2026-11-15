@@ -1,0 +1,164 @@
+{
+  "count": 3,
+  "components": [
+    {
+      "reference": "IC5",
+      "fields": {
+        "reference": "IC5",
+        "value": "APX803",
+        "footprint": "SOT23",
+        "library_id": "kicad_file-eagle-import:AXP083-SAG",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": null,
+          "package_size": null,
+          "value": "APX803",
+          "mpn": null
+        },
+        "reasons": [
+          "No supported OOMP component family could be inferred."
+        ],
+        "candidates": []
+      },
+      "generated_directory": "components/IC5"
+    },
+    {
+      "reference": "LCD1",
+      "fields": {
+        "reference": "LCD1",
+        "value": "OLED 128x32",
+        "footprint": "UG-2832HSWEG02_WRAPUNDER",
+        "library_id": "kicad_file-eagle-import:DISP_OLED_UG-2832HSWEG02",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "led",
+          "package_size": null,
+          "value": "OLED 128x32",
+          "mpn": null
+        },
+        "reasons": [
+          "Component family was inferred, but package size was not."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_led_1206",
+            "score": 0.2133,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_led_1205_rgb",
+            "score": 0.1905,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_led_1206_red",
+            "score": 0.1905,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_led_0201",
+            "score": 0.19,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_led_0402",
+            "score": 0.19,
+            "reasons": [
+              "same component family"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/LCD1"
+    },
+    {
+      "reference": "RPI1",
+      "fields": {
+        "reference": "RPI1",
+        "value": "RASPBERRYPI_2X3",
+        "footprint": "RASPBERRYPI_2X3_THMSMT",
+        "library_id": "kicad_file-eagle-import:RASPBERRYPI_2X3",
+        "mpn": "",
+        "manufacturer": ""
+      },
+      "match": {
+        "status": "unmatched",
+        "accepted": false,
+        "oomp_id": null,
+        "confidence": 0.0,
+        "proposed_oomp_id": null,
+        "inferred": {
+          "kind": "resistor",
+          "package_size": null,
+          "value": "RASPBERRYPI_2X3",
+          "mpn": null
+        },
+        "reasons": [
+          "Component family was inferred, but package size was not."
+        ],
+        "candidates": [
+          {
+            "oomp_id": "electronic_resistor_0201_33_ohm",
+            "score": 0.1455,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_0201_39_ohm",
+            "score": 0.1455,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_0402_33_ohm",
+            "score": 0.1455,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_0402_36_ohm",
+            "score": 0.1455,
+            "reasons": [
+              "same component family"
+            ]
+          },
+          {
+            "oomp_id": "electronic_resistor_0402_39_ohm",
+            "score": 0.1455,
+            "reasons": [
+              "same component family"
+            ]
+          }
+        ]
+      },
+      "generated_directory": "components/RPI1"
+    }
+  ]
+}

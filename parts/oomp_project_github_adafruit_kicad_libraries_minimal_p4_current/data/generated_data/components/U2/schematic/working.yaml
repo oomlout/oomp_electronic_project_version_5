@@ -1,0 +1,3980 @@
+available: true
+units:
+- reference: U2
+  source_file: data/kicad_file.kicad_sch
+  uuid: d134a0e0-c2cd-411e-afd7-5b00a888dd6a
+  library_id: Espressif:ESP32-P4
+  unit: 1
+  body_style: 1
+  position:
+    x: 120.65
+    y: 116.84
+    rotation: 0.0
+    mirror: null
+    units: mm
+  properties:
+    Reference: U2
+    Value: ''
+    Footprint: Espressif:ESP32-P4
+    Datasheet: ''
+    Description: High-performance MCU with one RISC-V 32-bit dual-core microprocessor and one single-core microprocessor
+  in_bom: true
+  on_board: true
+  in_position_files: true
+  dnp: false
+  pins:
+  - number: '10'
+    name: GPIO9/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 8.89
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 107.95
+    net: GPIO9{slash}ADC
+    net_aliases:
+    - GPIO9{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '11'
+    name: GPIO10/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 6.35
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 110.49
+    net: GPIO10{slash}ADC
+    net_aliases:
+    - GPIO10{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '12'
+    name: GPIO11/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 3.81
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 113.03
+    net: GPIO11{slash}ADC
+    net_aliases:
+    - GPIO11{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '13'
+    name: GPIO12/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 1.27
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 115.57
+    net: GPIO12{slash}ADC
+    net_aliases:
+    - GPIO12{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '14'
+    name: GPIO13/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -1.27
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 118.11
+    net: GPIO13{slash}ADC
+    net_aliases:
+    - GPIO13{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '15'
+    name: GPIO14/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -3.81
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 120.65
+    net: GPIO14{slash}ADC
+    net_aliases:
+    - GPIO14{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '16'
+    name: GPIO15/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -6.35
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 123.19
+    net: GPIO15{slash}ADC
+    net_aliases:
+    - GPIO15{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '17'
+    name: GPIO16/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -8.89
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 125.73
+    net: GPIO16{slash}ADC
+    net_aliases:
+    - GPIO16{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '18'
+    name: GPIO17/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -11.43
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 128.27
+    net: GPIO17{slash}ADC
+    net_aliases:
+    - GPIO17{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '19'
+    name: GPIO18/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -13.97
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 130.81
+    net: GPIO18{slash}ADC
+    net_aliases:
+    - GPIO18{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '20'
+    name: GPIO19/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -16.51
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 133.35
+    net: GPIO19{slash}ADC
+    net_aliases:
+    - GPIO19{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '21'
+    name: VDD_IO_0
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -19.05
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 135.89
+    net: +3.3V
+    net_aliases:
+    - +3.3V
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR01'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR02'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR010'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR011'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR013'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR017'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR020'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR022'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR028'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR032'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR037'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR045'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '1'
+      pin_name: ''
+    - reference: C6
+      pin_number: '1'
+      pin_name: ''
+    - reference: C7
+      pin_number: '1'
+      pin_name: ''
+    - reference: C9
+      pin_number: '1'
+      pin_name: ''
+    - reference: C11
+      pin_number: '1'
+      pin_name: ''
+    - reference: C12
+      pin_number: '1'
+      pin_name: ''
+    - reference: C13
+      pin_number: '1'
+      pin_name: ''
+    - reference: C14
+      pin_number: '1'
+      pin_name: ''
+    - reference: C16
+      pin_number: '1'
+      pin_name: ''
+    - reference: C20
+      pin_number: '1'
+      pin_name: ''
+    - reference: C21
+      pin_number: '1'
+      pin_name: ''
+    - reference: C23
+      pin_number: '1'
+      pin_name: ''
+    - reference: C24
+      pin_number: '1'
+      pin_name: ''
+    - reference: C40
+      pin_number: '1'
+      pin_name: ''
+    - reference: C41
+      pin_number: '1'
+      pin_name: ''
+    - reference: C42
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '4'
+      pin_name: VIN
+    - reference: U2
+      pin_number: '51'
+      pin_name: VDD_USBPHY
+    - reference: U2
+      pin_number: '62'
+      pin_name: VDD_IO_4
+    - reference: U2
+      pin_number: '75'
+      pin_name: VDD_LDO
+    - reference: U2
+      pin_number: '77'
+      pin_name: VDD_DCDCC
+    - reference: U2
+      pin_number: '85'
+      pin_name: VDD_IO_5
+    - reference: U2
+      pin_number: '96'
+      pin_name: VDD_IO_6
+    - reference: U2
+      pin_number: '101'
+      pin_name: VDD_ANA
+    - reference: U2
+      pin_number: '102'
+      pin_name: VDD_BAT
+    - reference: U2
+      pin_number: '9'
+      pin_name: VDD_LP
+  - number: '22'
+    name: GPIO20/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -21.59
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 138.43
+    net: GPIO20{slash}ADC
+    net_aliases:
+    - GPIO20{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '23'
+    name: GPIO21/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -24.13
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 140.97
+    net: GPIO21{slash}ADC
+    net_aliases:
+    - GPIO21{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '24'
+    name: GPIO22/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -26.67
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 143.51
+    net: GPIO22{slash}ADC
+    net_aliases:
+    - GPIO22{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '25'
+    name: GPIO23/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -29.21
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 146.05
+    net: GPIO23{slash}ADC
+    net_aliases:
+    - GPIO23{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '26'
+    name: VDD_HP_0
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: -31.75
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 148.59
+    net: VDD_HP
+    net_aliases:
+    - VDD_HP
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C2
+      pin_number: '1'
+      pin_name: ''
+    - reference: C3
+      pin_number: '1'
+      pin_name: ''
+    - reference: C8
+      pin_number: '1'
+      pin_name: ''
+    - reference: C15
+      pin_number: '1'
+      pin_name: ''
+    - reference: C28
+      pin_number: '1'
+      pin_name: ''
+    - reference: C29
+      pin_number: '1'
+      pin_name: ''
+    - reference: L1
+      pin_number: '2'
+      pin_name: ''
+    - reference: R1
+      pin_number: '2'
+      pin_name: ''
+    - reference: R39
+      pin_number: '1'
+      pin_name: ''
+    - reference: U2
+      pin_number: '76'
+      pin_name: VDD_HP_2
+    - reference: U2
+      pin_number: '91'
+      pin_name: VDD_HP_3
+  - number: '27'
+    name: FLASH_CS
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -31.75
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 88.9
+      y: 161.29
+    net: FLASH_CS
+    net_aliases:
+    - FLASH_CS
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: R28
+      pin_number: '1'
+      pin_name: ''
+    - reference: U3
+      pin_number: '1'
+      pin_name: ~{CS}
+  - number: '28'
+    name: FLASH_Q
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -29.21
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 91.44
+      y: 161.29
+    net: FLASH_Q
+    net_aliases:
+    - FLASH_Q
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: U3
+      pin_number: '2'
+      pin_name: DO/IO_{1}
+  - number: '29'
+    name: FLASH_WP
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -26.67
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 93.98
+      y: 161.29
+    net: FLASH_WP
+    net_aliases:
+    - FLASH_WP
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: U3
+      pin_number: '3'
+      pin_name: ~{WP}/IO_{2}
+  - number: '30'
+    name: VDD_FLASH_IO
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: -24.13
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 96.52
+      y: 161.29
+    net: VDD_FLASH
+    net_aliases:
+    - VDD_FLASH
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C17
+      pin_number: '1'
+      pin_name: ''
+    - reference: C30
+      pin_number: '1'
+      pin_name: ''
+    - reference: C31
+      pin_number: '1'
+      pin_name: ''
+    - reference: C32
+      pin_number: '1'
+      pin_name: ''
+    - reference: R28
+      pin_number: '2'
+      pin_name: ''
+    - reference: U2
+      pin_number: '71'
+      pin_name: VDDO_FLASH
+    - reference: U3
+      pin_number: '8'
+      pin_name: VCC
+  - number: '31'
+    name: FLASH_HOLD
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -21.59
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 99.06
+      y: 161.29
+    net: FLASH_HOLD
+    net_aliases:
+    - FLASH_HOLD
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: U3
+      pin_number: '7'
+      pin_name: ~{HOLD}/~{RESET}/IO_{3}
+  - number: '32'
+    name: FLASH_CK
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -19.05
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 101.6
+      y: 161.29
+    net: FLASH_CK
+    net_aliases:
+    - FLASH_CK
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: U3
+      pin_number: '6'
+      pin_name: CLK
+  - number: '33'
+    name: FLASH_D
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -16.51
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 104.14
+      y: 161.29
+    net: FLASH_D
+    net_aliases:
+    - FLASH_D
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: U3
+      pin_number: '5'
+      pin_name: DI/IO_{0}
+  - number: '34'
+    name: DSI_REXT
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -13.97
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 106.68
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '35'
+    name: DSI_DATAP1
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -11.43
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 109.22
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '36'
+    name: DSI_DATAN1
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -8.89
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 111.76
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '37'
+    name: DSI_CLKN
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -6.35
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 114.3
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '38'
+    name: DSI_CLKP
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -3.81
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 116.84
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '39'
+    name: DSI_DATAP0
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -1.27
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 119.38
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '40'
+    name: DSI_DATAN0
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 1.27
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 121.92
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '41'
+    name: VDD_MIPI_DPHY
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 3.81
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 124.46
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '42'
+    name: CSI_DATAN0
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 6.35
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 127.0
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '43'
+    name: CSI_DATAP0
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 8.89
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 129.54
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '44'
+    name: CSI_CLKP
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 11.43
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 132.08
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '45'
+    name: CSI_CLKN
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 13.97
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 134.62
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '46'
+    name: CSI_DATAN1
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 16.51
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 137.16
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '47'
+    name: CSI_DATAP1
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 19.05
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 139.7
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '48'
+    name: CSI_REXT
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 21.59
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 142.24
+      y: 161.29
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '49'
+    name: USB-DM
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 24.13
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 144.78
+      y: 161.29
+    net: HS_USB_D-
+    net_aliases:
+    - HS_USB_D-
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '50'
+    name: USB-DP
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 26.67
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 147.32
+      y: 161.29
+    net: HS_USB_D+
+    net_aliases:
+    - HS_USB_D+
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '51'
+    name: VDD_USBPHY
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 29.21
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 149.86
+      y: 161.29
+    net: +3.3V
+    net_aliases:
+    - +3.3V
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR01'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR02'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR010'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR011'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR013'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR017'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR020'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR022'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR028'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR032'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR037'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR045'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '1'
+      pin_name: ''
+    - reference: C6
+      pin_number: '1'
+      pin_name: ''
+    - reference: C7
+      pin_number: '1'
+      pin_name: ''
+    - reference: C9
+      pin_number: '1'
+      pin_name: ''
+    - reference: C11
+      pin_number: '1'
+      pin_name: ''
+    - reference: C12
+      pin_number: '1'
+      pin_name: ''
+    - reference: C13
+      pin_number: '1'
+      pin_name: ''
+    - reference: C14
+      pin_number: '1'
+      pin_name: ''
+    - reference: C16
+      pin_number: '1'
+      pin_name: ''
+    - reference: C20
+      pin_number: '1'
+      pin_name: ''
+    - reference: C21
+      pin_number: '1'
+      pin_name: ''
+    - reference: C23
+      pin_number: '1'
+      pin_name: ''
+    - reference: C24
+      pin_number: '1'
+      pin_name: ''
+    - reference: C40
+      pin_number: '1'
+      pin_name: ''
+    - reference: C41
+      pin_number: '1'
+      pin_name: ''
+    - reference: C42
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '4'
+      pin_name: VIN
+    - reference: U2
+      pin_number: '21'
+      pin_name: VDD_IO_0
+    - reference: U2
+      pin_number: '62'
+      pin_name: VDD_IO_4
+    - reference: U2
+      pin_number: '75'
+      pin_name: VDD_LDO
+    - reference: U2
+      pin_number: '77'
+      pin_name: VDD_DCDCC
+    - reference: U2
+      pin_number: '85'
+      pin_name: VDD_IO_5
+    - reference: U2
+      pin_number: '96'
+      pin_name: VDD_IO_6
+    - reference: U2
+      pin_number: '101'
+      pin_name: VDD_ANA
+    - reference: U2
+      pin_number: '102'
+      pin_name: VDD_BAT
+    - reference: U2
+      pin_number: '9'
+      pin_name: VDD_LP
+  - number: '52'
+    name: GPIO24/ADC/USB
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 31.75
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 152.4
+      y: 161.29
+    net: GPIO24{slash}ADC{slash}USB_JTAG_DM
+    net_aliases:
+    - GPIO24{slash}ADC{slash}USB_JTAG_DM
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '53'
+    name: GPIO25/ADC/USB
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -30.48
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 147.32
+    net: GPIO25{slash}ADC{slash}USB_JTAG_DP
+    net_aliases:
+    - GPIO25{slash}ADC{slash}USB_JTAG_DP
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '54'
+    name: VDD_HP_1
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -27.94
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 144.78
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C25
+      pin_number: '1'
+      pin_name: ''
+    - reference: R39
+      pin_number: '2'
+      pin_name: ''
+  - number: '55'
+    name: GPIO26/ADC/USB
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -25.4
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 142.24
+    net: GPIO26{slash}ADC{slash}USB
+    net_aliases:
+    - GPIO26{slash}ADC{slash}USB
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '56'
+    name: GPIO27/ADC/USB
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -22.86
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 139.7
+    net: GPIO27{slash}ADC{slash}USB
+    net_aliases:
+    - GPIO27{slash}ADC{slash}USB
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '57'
+    name: GPIO28
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -20.32
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 137.16
+    net: GPIO28
+    net_aliases:
+    - GPIO28
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '58'
+    name: GPIO29
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -17.78
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 134.62
+    net: GPIO29
+    net_aliases:
+    - GPIO29
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '59'
+    name: VDD_PSRAM_0
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -15.24
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 132.08
+    net: VDDO_PSRAM
+    net_aliases:
+    - VDDO_PSRAM
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C18
+      pin_number: '1'
+      pin_name: ''
+    - reference: C26
+      pin_number: '1'
+      pin_name: ''
+    - reference: C27
+      pin_number: '1'
+      pin_name: ''
+    - reference: U2
+      pin_number: '67'
+      pin_name: VDD_PSRAM_1
+    - reference: U2
+      pin_number: '72'
+      pin_name: VDDO_PSRAM
+  - number: '60'
+    name: GPIO30
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -12.7
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 129.54
+    net: GPIO30
+    net_aliases:
+    - GPIO30
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '61'
+    name: GPIO31
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -10.16
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 127.0
+    net: GPIO31
+    net_aliases:
+    - GPIO31
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '62'
+    name: VDD_IO_4
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -7.62
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 124.46
+    net: +3.3V
+    net_aliases:
+    - +3.3V
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR01'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR02'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR010'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR011'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR013'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR017'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR020'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR022'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR028'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR032'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR037'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR045'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '1'
+      pin_name: ''
+    - reference: C6
+      pin_number: '1'
+      pin_name: ''
+    - reference: C7
+      pin_number: '1'
+      pin_name: ''
+    - reference: C9
+      pin_number: '1'
+      pin_name: ''
+    - reference: C11
+      pin_number: '1'
+      pin_name: ''
+    - reference: C12
+      pin_number: '1'
+      pin_name: ''
+    - reference: C13
+      pin_number: '1'
+      pin_name: ''
+    - reference: C14
+      pin_number: '1'
+      pin_name: ''
+    - reference: C16
+      pin_number: '1'
+      pin_name: ''
+    - reference: C20
+      pin_number: '1'
+      pin_name: ''
+    - reference: C21
+      pin_number: '1'
+      pin_name: ''
+    - reference: C23
+      pin_number: '1'
+      pin_name: ''
+    - reference: C24
+      pin_number: '1'
+      pin_name: ''
+    - reference: C40
+      pin_number: '1'
+      pin_name: ''
+    - reference: C41
+      pin_number: '1'
+      pin_name: ''
+    - reference: C42
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '4'
+      pin_name: VIN
+    - reference: U2
+      pin_number: '21'
+      pin_name: VDD_IO_0
+    - reference: U2
+      pin_number: '51'
+      pin_name: VDD_USBPHY
+    - reference: U2
+      pin_number: '75'
+      pin_name: VDD_LDO
+    - reference: U2
+      pin_number: '77'
+      pin_name: VDD_DCDCC
+    - reference: U2
+      pin_number: '85'
+      pin_name: VDD_IO_5
+    - reference: U2
+      pin_number: '96'
+      pin_name: VDD_IO_6
+    - reference: U2
+      pin_number: '101'
+      pin_name: VDD_ANA
+    - reference: U2
+      pin_number: '102'
+      pin_name: VDD_BAT
+    - reference: U2
+      pin_number: '9'
+      pin_name: VDD_LP
+  - number: '63'
+    name: GPIO32
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -5.08
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 121.92
+    net: GPIO32
+    net_aliases:
+    - GPIO32
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '64'
+    name: GPIO33
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: -2.54
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 119.38
+    net: GPIO33
+    net_aliases:
+    - GPIO33
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '65'
+    name: GPIO34
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 0.0
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 116.84
+    net: GPIO34
+    net_aliases:
+    - GPIO34
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '66'
+    name: GPIO35
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 2.54
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 114.3
+    net: GPIO35_BOOT_PULLUP
+    net_aliases:
+    - GPIO35_BOOT_PULLUP
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '67'
+    name: VDD_PSRAM_1
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 5.08
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 111.76
+    net: VDDO_PSRAM
+    net_aliases:
+    - VDDO_PSRAM
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C18
+      pin_number: '1'
+      pin_name: ''
+    - reference: C26
+      pin_number: '1'
+      pin_name: ''
+    - reference: C27
+      pin_number: '1'
+      pin_name: ''
+    - reference: U2
+      pin_number: '59'
+      pin_name: VDD_PSRAM_0
+    - reference: U2
+      pin_number: '72'
+      pin_name: VDDO_PSRAM
+  - number: '68'
+    name: GPIO36
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 7.62
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 109.22
+    net: GPIO36_PULLUP
+    net_aliases:
+    - GPIO36_PULLUP
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '69'
+    name: GPIO37
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 10.16
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 106.68
+    net: GPIO37{slash}UART0_TXD
+    net_aliases:
+    - GPIO37{slash}UART0_TXD
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '70'
+    name: GPIO38
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 12.7
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 104.14
+    net: GPIO38{slash}UART0_RXD
+    net_aliases:
+    - GPIO38{slash}UART0_RXD
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '71'
+    name: VDDO_FLASH
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 15.24
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 101.6
+    net: VDD_FLASH
+    net_aliases:
+    - VDD_FLASH
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C17
+      pin_number: '1'
+      pin_name: ''
+    - reference: C30
+      pin_number: '1'
+      pin_name: ''
+    - reference: C31
+      pin_number: '1'
+      pin_name: ''
+    - reference: C32
+      pin_number: '1'
+      pin_name: ''
+    - reference: R28
+      pin_number: '2'
+      pin_name: ''
+    - reference: U2
+      pin_number: '30'
+      pin_name: VDD_FLASH_IO
+    - reference: U3
+      pin_number: '8'
+      pin_name: VCC
+  - number: '72'
+    name: VDDO_PSRAM
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 17.78
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 99.06
+    net: VDDO_PSRAM
+    net_aliases:
+    - VDDO_PSRAM
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C18
+      pin_number: '1'
+      pin_name: ''
+    - reference: C26
+      pin_number: '1'
+      pin_name: ''
+    - reference: C27
+      pin_number: '1'
+      pin_name: ''
+    - reference: U2
+      pin_number: '59'
+      pin_name: VDD_PSRAM_0
+    - reference: U2
+      pin_number: '67'
+      pin_name: VDD_PSRAM_1
+  - number: '73'
+    name: VDDO_3
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 20.32
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 96.52
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '74'
+    name: VDDO_4
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 22.86
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 93.98
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: true
+    connected_to: []
+  - number: '75'
+    name: VDD_LDO
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 25.4
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 91.44
+    net: +3.3V
+    net_aliases:
+    - +3.3V
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR01'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR02'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR010'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR011'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR013'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR017'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR020'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR022'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR028'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR032'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR037'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR045'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '1'
+      pin_name: ''
+    - reference: C6
+      pin_number: '1'
+      pin_name: ''
+    - reference: C7
+      pin_number: '1'
+      pin_name: ''
+    - reference: C9
+      pin_number: '1'
+      pin_name: ''
+    - reference: C11
+      pin_number: '1'
+      pin_name: ''
+    - reference: C12
+      pin_number: '1'
+      pin_name: ''
+    - reference: C13
+      pin_number: '1'
+      pin_name: ''
+    - reference: C14
+      pin_number: '1'
+      pin_name: ''
+    - reference: C16
+      pin_number: '1'
+      pin_name: ''
+    - reference: C20
+      pin_number: '1'
+      pin_name: ''
+    - reference: C21
+      pin_number: '1'
+      pin_name: ''
+    - reference: C23
+      pin_number: '1'
+      pin_name: ''
+    - reference: C24
+      pin_number: '1'
+      pin_name: ''
+    - reference: C40
+      pin_number: '1'
+      pin_name: ''
+    - reference: C41
+      pin_number: '1'
+      pin_name: ''
+    - reference: C42
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '4'
+      pin_name: VIN
+    - reference: U2
+      pin_number: '21'
+      pin_name: VDD_IO_0
+    - reference: U2
+      pin_number: '51'
+      pin_name: VDD_USBPHY
+    - reference: U2
+      pin_number: '62'
+      pin_name: VDD_IO_4
+    - reference: U2
+      pin_number: '77'
+      pin_name: VDD_DCDCC
+    - reference: U2
+      pin_number: '85'
+      pin_name: VDD_IO_5
+    - reference: U2
+      pin_number: '96'
+      pin_name: VDD_IO_6
+    - reference: U2
+      pin_number: '101'
+      pin_name: VDD_ANA
+    - reference: U2
+      pin_number: '102'
+      pin_name: VDD_BAT
+    - reference: U2
+      pin_number: '9'
+      pin_name: VDD_LP
+  - number: '76'
+    name: VDD_HP_2
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 27.94
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 88.9
+    net: VDD_HP
+    net_aliases:
+    - VDD_HP
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C2
+      pin_number: '1'
+      pin_name: ''
+    - reference: C3
+      pin_number: '1'
+      pin_name: ''
+    - reference: C8
+      pin_number: '1'
+      pin_name: ''
+    - reference: C15
+      pin_number: '1'
+      pin_name: ''
+    - reference: C28
+      pin_number: '1'
+      pin_name: ''
+    - reference: C29
+      pin_number: '1'
+      pin_name: ''
+    - reference: L1
+      pin_number: '2'
+      pin_name: ''
+    - reference: R1
+      pin_number: '2'
+      pin_name: ''
+    - reference: R39
+      pin_number: '1'
+      pin_name: ''
+    - reference: U2
+      pin_number: '26'
+      pin_name: VDD_HP_0
+    - reference: U2
+      pin_number: '91'
+      pin_name: VDD_HP_3
+  - number: '77'
+    name: VDD_DCDCC
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 30.48
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 86.36
+    net: +3.3V
+    net_aliases:
+    - +3.3V
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR01'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR02'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR010'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR011'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR013'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR017'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR020'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR022'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR028'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR032'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR037'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR045'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '1'
+      pin_name: ''
+    - reference: C6
+      pin_number: '1'
+      pin_name: ''
+    - reference: C7
+      pin_number: '1'
+      pin_name: ''
+    - reference: C9
+      pin_number: '1'
+      pin_name: ''
+    - reference: C11
+      pin_number: '1'
+      pin_name: ''
+    - reference: C12
+      pin_number: '1'
+      pin_name: ''
+    - reference: C13
+      pin_number: '1'
+      pin_name: ''
+    - reference: C14
+      pin_number: '1'
+      pin_name: ''
+    - reference: C16
+      pin_number: '1'
+      pin_name: ''
+    - reference: C20
+      pin_number: '1'
+      pin_name: ''
+    - reference: C21
+      pin_number: '1'
+      pin_name: ''
+    - reference: C23
+      pin_number: '1'
+      pin_name: ''
+    - reference: C24
+      pin_number: '1'
+      pin_name: ''
+    - reference: C40
+      pin_number: '1'
+      pin_name: ''
+    - reference: C41
+      pin_number: '1'
+      pin_name: ''
+    - reference: C42
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '4'
+      pin_name: VIN
+    - reference: U2
+      pin_number: '21'
+      pin_name: VDD_IO_0
+    - reference: U2
+      pin_number: '51'
+      pin_name: VDD_USBPHY
+    - reference: U2
+      pin_number: '62'
+      pin_name: VDD_IO_4
+    - reference: U2
+      pin_number: '75'
+      pin_name: VDD_LDO
+    - reference: U2
+      pin_number: '85'
+      pin_name: VDD_IO_5
+    - reference: U2
+      pin_number: '96'
+      pin_name: VDD_IO_6
+    - reference: U2
+      pin_number: '101'
+      pin_name: VDD_ANA
+    - reference: U2
+      pin_number: '102'
+      pin_name: VDD_BAT
+    - reference: U2
+      pin_number: '9'
+      pin_name: VDD_LP
+  - number: '78'
+    name: FB_DCDC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 59.69
+      y: 33.02
+      rotation: 180.0
+    length: 2.54
+    position:
+      x: 180.34
+      y: 83.82
+    net: FB_DCDC
+    net_aliases:
+    - FB_DCDC
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C2
+      pin_number: '2'
+      pin_name: ''
+    - reference: R1
+      pin_number: '1'
+      pin_name: ''
+    - reference: R2
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '5'
+      pin_name: FB
+  - number: '79'
+    name: EN_DCDC
+    electrical_type: output
+    graphic_style: line
+    local_position:
+      x: 31.75
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 152.4
+      y: 72.39
+    net: EN_DCDC
+    net_aliases:
+    - EN_DCDC
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: U1
+      pin_number: '1'
+      pin_name: EN
+  - number: '80'
+    name: GPIO39
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 29.21
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 149.86
+      y: 72.39
+    net: GPIO39
+    net_aliases:
+    - GPIO39
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '81'
+    name: GPIO40
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 26.67
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 147.32
+      y: 72.39
+    net: GPIO40
+    net_aliases:
+    - GPIO40
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '82'
+    name: GPIO41
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 24.13
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 144.78
+      y: 72.39
+    net: GPIO41
+    net_aliases:
+    - GPIO41
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '83'
+    name: GPIO42
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 21.59
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 142.24
+      y: 72.39
+    net: GPIO42
+    net_aliases:
+    - GPIO42
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '84'
+    name: GPIO43
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 19.05
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 139.7
+      y: 72.39
+    net: GPIO43
+    net_aliases:
+    - GPIO43
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '85'
+    name: VDD_IO_5
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 16.51
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 137.16
+      y: 72.39
+    net: +3.3V
+    net_aliases:
+    - +3.3V
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR01'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR02'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR010'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR011'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR013'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR017'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR020'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR022'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR028'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR032'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR037'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR045'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '1'
+      pin_name: ''
+    - reference: C6
+      pin_number: '1'
+      pin_name: ''
+    - reference: C7
+      pin_number: '1'
+      pin_name: ''
+    - reference: C9
+      pin_number: '1'
+      pin_name: ''
+    - reference: C11
+      pin_number: '1'
+      pin_name: ''
+    - reference: C12
+      pin_number: '1'
+      pin_name: ''
+    - reference: C13
+      pin_number: '1'
+      pin_name: ''
+    - reference: C14
+      pin_number: '1'
+      pin_name: ''
+    - reference: C16
+      pin_number: '1'
+      pin_name: ''
+    - reference: C20
+      pin_number: '1'
+      pin_name: ''
+    - reference: C21
+      pin_number: '1'
+      pin_name: ''
+    - reference: C23
+      pin_number: '1'
+      pin_name: ''
+    - reference: C24
+      pin_number: '1'
+      pin_name: ''
+    - reference: C40
+      pin_number: '1'
+      pin_name: ''
+    - reference: C41
+      pin_number: '1'
+      pin_name: ''
+    - reference: C42
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '4'
+      pin_name: VIN
+    - reference: U2
+      pin_number: '21'
+      pin_name: VDD_IO_0
+    - reference: U2
+      pin_number: '51'
+      pin_name: VDD_USBPHY
+    - reference: U2
+      pin_number: '62'
+      pin_name: VDD_IO_4
+    - reference: U2
+      pin_number: '75'
+      pin_name: VDD_LDO
+    - reference: U2
+      pin_number: '77'
+      pin_name: VDD_DCDCC
+    - reference: U2
+      pin_number: '96'
+      pin_name: VDD_IO_6
+    - reference: U2
+      pin_number: '101'
+      pin_name: VDD_ANA
+    - reference: U2
+      pin_number: '102'
+      pin_name: VDD_BAT
+    - reference: U2
+      pin_number: '9'
+      pin_name: VDD_LP
+  - number: '86'
+    name: GPIO44
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 13.97
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 134.62
+      y: 72.39
+    net: GPIO44
+    net_aliases:
+    - GPIO44
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '87'
+    name: GPIO45
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 11.43
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 132.08
+      y: 72.39
+    net: GPIO45
+    net_aliases:
+    - GPIO45
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '88'
+    name: GPIO46
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 8.89
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 129.54
+      y: 72.39
+    net: GPIO46
+    net_aliases:
+    - GPIO46
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '89'
+    name: GPIO47
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 6.35
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 127.0
+      y: 72.39
+    net: GPIO47
+    net_aliases:
+    - GPIO47
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '90'
+    name: GPIO48
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: 3.81
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 124.46
+      y: 72.39
+    net: GPIO48
+    net_aliases:
+    - GPIO48
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '91'
+    name: VDD_HP_3
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 1.27
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 121.92
+      y: 72.39
+    net: VDD_HP
+    net_aliases:
+    - VDD_HP
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C2
+      pin_number: '1'
+      pin_name: ''
+    - reference: C3
+      pin_number: '1'
+      pin_name: ''
+    - reference: C8
+      pin_number: '1'
+      pin_name: ''
+    - reference: C15
+      pin_number: '1'
+      pin_name: ''
+    - reference: C28
+      pin_number: '1'
+      pin_name: ''
+    - reference: C29
+      pin_number: '1'
+      pin_name: ''
+    - reference: L1
+      pin_number: '2'
+      pin_name: ''
+    - reference: R1
+      pin_number: '2'
+      pin_name: ''
+    - reference: R39
+      pin_number: '1'
+      pin_name: ''
+    - reference: U2
+      pin_number: '26'
+      pin_name: VDD_HP_0
+    - reference: U2
+      pin_number: '76'
+      pin_name: VDD_HP_2
+  - number: '92'
+    name: GPIO49/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -1.27
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 119.38
+      y: 72.39
+    net: GPIO49{slash}ADC
+    net_aliases:
+    - GPIO49{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '93'
+    name: GPIO50/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -3.81
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 116.84
+      y: 72.39
+    net: GPIO50{slash}ADC
+    net_aliases:
+    - GPIO50{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '94'
+    name: GPIO51/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -6.35
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 114.3
+      y: 72.39
+    net: GPIO51{slash}ADC
+    net_aliases:
+    - GPIO51{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '95'
+    name: GPIO52/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -8.89
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 111.76
+      y: 72.39
+    net: GPIO52{slash}ADC
+    net_aliases:
+    - GPIO52{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '96'
+    name: VDD_IO_6
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: -11.43
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 109.22
+      y: 72.39
+    net: +3.3V
+    net_aliases:
+    - +3.3V
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR01'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR02'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR010'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR011'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR013'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR017'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR020'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR022'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR028'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR032'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR037'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR045'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '1'
+      pin_name: ''
+    - reference: C6
+      pin_number: '1'
+      pin_name: ''
+    - reference: C7
+      pin_number: '1'
+      pin_name: ''
+    - reference: C9
+      pin_number: '1'
+      pin_name: ''
+    - reference: C11
+      pin_number: '1'
+      pin_name: ''
+    - reference: C12
+      pin_number: '1'
+      pin_name: ''
+    - reference: C13
+      pin_number: '1'
+      pin_name: ''
+    - reference: C14
+      pin_number: '1'
+      pin_name: ''
+    - reference: C16
+      pin_number: '1'
+      pin_name: ''
+    - reference: C20
+      pin_number: '1'
+      pin_name: ''
+    - reference: C21
+      pin_number: '1'
+      pin_name: ''
+    - reference: C23
+      pin_number: '1'
+      pin_name: ''
+    - reference: C24
+      pin_number: '1'
+      pin_name: ''
+    - reference: C40
+      pin_number: '1'
+      pin_name: ''
+    - reference: C41
+      pin_number: '1'
+      pin_name: ''
+    - reference: C42
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '4'
+      pin_name: VIN
+    - reference: U2
+      pin_number: '21'
+      pin_name: VDD_IO_0
+    - reference: U2
+      pin_number: '51'
+      pin_name: VDD_USBPHY
+    - reference: U2
+      pin_number: '62'
+      pin_name: VDD_IO_4
+    - reference: U2
+      pin_number: '75'
+      pin_name: VDD_LDO
+    - reference: U2
+      pin_number: '77'
+      pin_name: VDD_DCDCC
+    - reference: U2
+      pin_number: '85'
+      pin_name: VDD_IO_5
+    - reference: U2
+      pin_number: '101'
+      pin_name: VDD_ANA
+    - reference: U2
+      pin_number: '102'
+      pin_name: VDD_BAT
+    - reference: U2
+      pin_number: '9'
+      pin_name: VDD_LP
+  - number: '97'
+    name: GPIO53/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -13.97
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 106.68
+      y: 72.39
+    net: GPIO53{slash}ADC
+    net_aliases:
+    - GPIO53{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '98'
+    name: GPIO54/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -16.51
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 104.14
+      y: 72.39
+    net: GPIO54{slash}ADC
+    net_aliases:
+    - GPIO54{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '99'
+    name: XTAL_N
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -19.05
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 101.6
+      y: 72.39
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: R4
+      pin_number: '1'
+      pin_name: ''
+  - number: '100'
+    name: XTAL_P
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -21.59
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 99.06
+      y: 72.39
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: R3
+      pin_number: '1'
+      pin_name: ''
+  - number: '101'
+    name: VDD_ANA
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -24.13
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 96.52
+      y: 72.39
+    net: +3.3V
+    net_aliases:
+    - +3.3V
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR01'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR02'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR010'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR011'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR013'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR017'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR020'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR022'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR028'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR032'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR037'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR045'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '1'
+      pin_name: ''
+    - reference: C6
+      pin_number: '1'
+      pin_name: ''
+    - reference: C7
+      pin_number: '1'
+      pin_name: ''
+    - reference: C9
+      pin_number: '1'
+      pin_name: ''
+    - reference: C11
+      pin_number: '1'
+      pin_name: ''
+    - reference: C12
+      pin_number: '1'
+      pin_name: ''
+    - reference: C13
+      pin_number: '1'
+      pin_name: ''
+    - reference: C14
+      pin_number: '1'
+      pin_name: ''
+    - reference: C16
+      pin_number: '1'
+      pin_name: ''
+    - reference: C20
+      pin_number: '1'
+      pin_name: ''
+    - reference: C21
+      pin_number: '1'
+      pin_name: ''
+    - reference: C23
+      pin_number: '1'
+      pin_name: ''
+    - reference: C24
+      pin_number: '1'
+      pin_name: ''
+    - reference: C40
+      pin_number: '1'
+      pin_name: ''
+    - reference: C41
+      pin_number: '1'
+      pin_name: ''
+    - reference: C42
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '4'
+      pin_name: VIN
+    - reference: U2
+      pin_number: '21'
+      pin_name: VDD_IO_0
+    - reference: U2
+      pin_number: '51'
+      pin_name: VDD_USBPHY
+    - reference: U2
+      pin_number: '62'
+      pin_name: VDD_IO_4
+    - reference: U2
+      pin_number: '75'
+      pin_name: VDD_LDO
+    - reference: U2
+      pin_number: '77'
+      pin_name: VDD_DCDCC
+    - reference: U2
+      pin_number: '85'
+      pin_name: VDD_IO_5
+    - reference: U2
+      pin_number: '96'
+      pin_name: VDD_IO_6
+    - reference: U2
+      pin_number: '102'
+      pin_name: VDD_BAT
+    - reference: U2
+      pin_number: '9'
+      pin_name: VDD_LP
+  - number: '102'
+    name: VDD_BAT
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -26.67
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 93.98
+      y: 72.39
+    net: +3.3V
+    net_aliases:
+    - +3.3V
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR01'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR02'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR010'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR011'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR013'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR017'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR020'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR022'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR028'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR032'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR037'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR045'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '1'
+      pin_name: ''
+    - reference: C6
+      pin_number: '1'
+      pin_name: ''
+    - reference: C7
+      pin_number: '1'
+      pin_name: ''
+    - reference: C9
+      pin_number: '1'
+      pin_name: ''
+    - reference: C11
+      pin_number: '1'
+      pin_name: ''
+    - reference: C12
+      pin_number: '1'
+      pin_name: ''
+    - reference: C13
+      pin_number: '1'
+      pin_name: ''
+    - reference: C14
+      pin_number: '1'
+      pin_name: ''
+    - reference: C16
+      pin_number: '1'
+      pin_name: ''
+    - reference: C20
+      pin_number: '1'
+      pin_name: ''
+    - reference: C21
+      pin_number: '1'
+      pin_name: ''
+    - reference: C23
+      pin_number: '1'
+      pin_name: ''
+    - reference: C24
+      pin_number: '1'
+      pin_name: ''
+    - reference: C40
+      pin_number: '1'
+      pin_name: ''
+    - reference: C41
+      pin_number: '1'
+      pin_name: ''
+    - reference: C42
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '4'
+      pin_name: VIN
+    - reference: U2
+      pin_number: '21'
+      pin_name: VDD_IO_0
+    - reference: U2
+      pin_number: '51'
+      pin_name: VDD_USBPHY
+    - reference: U2
+      pin_number: '62'
+      pin_name: VDD_IO_4
+    - reference: U2
+      pin_number: '75'
+      pin_name: VDD_LDO
+    - reference: U2
+      pin_number: '77'
+      pin_name: VDD_DCDCC
+    - reference: U2
+      pin_number: '85'
+      pin_name: VDD_IO_5
+    - reference: U2
+      pin_number: '96'
+      pin_name: VDD_IO_6
+    - reference: U2
+      pin_number: '101'
+      pin_name: VDD_ANA
+    - reference: U2
+      pin_number: '9'
+      pin_name: VDD_LP
+  - number: '103'
+    name: CHIP_PU
+    electrical_type: input
+    graphic_style: line
+    local_position:
+      x: -29.21
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 91.44
+      y: 72.39
+    net: CHIP_PU
+    net_aliases:
+    - CHIP_PU
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C33
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '1'
+      pin_name: ''
+  - number: '104'
+    name: GPIO0/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -31.75
+      y: 44.45
+      rotation: 270.0
+    length: 2.54
+    position:
+      x: 88.9
+      y: 72.39
+    net: GPIO0{slash}ADC
+    net_aliases:
+    - GPIO0{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '105'
+    name: GND
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: 45.72
+      y: -44.45
+      rotation: 90.0
+    length: 2.54
+    position:
+      x: 166.37
+      y: 161.29
+    net: GND
+    net_aliases:
+    - GND
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR03'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR04'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR05'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR06'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR07'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR08'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR09'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR012'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR014'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR016'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR018'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR019'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR021'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR023'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR024'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR025'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR026'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR027'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR029'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR030'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR031'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR033'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR034'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR038'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR039'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR040'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR041'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR044'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '2'
+      pin_name: ''
+    - reference: C3
+      pin_number: '2'
+      pin_name: ''
+    - reference: C4
+      pin_number: '1'
+      pin_name: ''
+    - reference: C5
+      pin_number: '2'
+      pin_name: ''
+    - reference: C6
+      pin_number: '2'
+      pin_name: ''
+    - reference: C7
+      pin_number: '2'
+      pin_name: ''
+    - reference: C8
+      pin_number: '2'
+      pin_name: ''
+    - reference: C9
+      pin_number: '2'
+      pin_name: ''
+    - reference: C11
+      pin_number: '2'
+      pin_name: ''
+    - reference: C12
+      pin_number: '2'
+      pin_name: ''
+    - reference: C13
+      pin_number: '2'
+      pin_name: ''
+    - reference: C14
+      pin_number: '2'
+      pin_name: ''
+    - reference: C15
+      pin_number: '2'
+      pin_name: ''
+    - reference: C16
+      pin_number: '2'
+      pin_name: ''
+    - reference: C17
+      pin_number: '2'
+      pin_name: ''
+    - reference: C18
+      pin_number: '2'
+      pin_name: ''
+    - reference: C20
+      pin_number: '2'
+      pin_name: ''
+    - reference: C21
+      pin_number: '2'
+      pin_name: ''
+    - reference: C23
+      pin_number: '2'
+      pin_name: ''
+    - reference: C24
+      pin_number: '2'
+      pin_name: ''
+    - reference: C25
+      pin_number: '2'
+      pin_name: ''
+    - reference: C26
+      pin_number: '2'
+      pin_name: ''
+    - reference: C27
+      pin_number: '2'
+      pin_name: ''
+    - reference: C28
+      pin_number: '2'
+      pin_name: ''
+    - reference: C29
+      pin_number: '2'
+      pin_name: ''
+    - reference: C30
+      pin_number: '2'
+      pin_name: ''
+    - reference: C31
+      pin_number: '2'
+      pin_name: ''
+    - reference: C32
+      pin_number: '2'
+      pin_name: ''
+    - reference: C33
+      pin_number: '2'
+      pin_name: ''
+    - reference: C40
+      pin_number: '2'
+      pin_name: ''
+    - reference: C41
+      pin_number: '2'
+      pin_name: ''
+    - reference: C42
+      pin_number: '2'
+      pin_name: ''
+    - reference: R2
+      pin_number: '1'
+      pin_name: ''
+    - reference: U1
+      pin_number: '2'
+      pin_name: GND
+    - reference: U3
+      pin_number: '4'
+      pin_name: GND
+    - reference: Y1
+      pin_number: '2'
+      pin_name: G
+    - reference: Y1
+      pin_number: '4'
+      pin_name: G
+  - number: '1'
+    name: GPIO1/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 31.75
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 85.09
+    net: GPIO1{slash}ADC
+    net_aliases:
+    - GPIO1{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '2'
+    name: GPIO2/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 29.21
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 87.63
+    net: GPIO2{slash}ADC
+    net_aliases:
+    - GPIO2{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '3'
+    name: GPIO3/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 26.67
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 90.17
+    net: GPIO3{slash}ADC
+    net_aliases:
+    - GPIO3{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '4'
+    name: GPIO4/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 24.13
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 92.71
+    net: GPIO4{slash}ADC
+    net_aliases:
+    - GPIO4{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '5'
+    name: GPIO5/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 21.59
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 95.25
+    net: GPIO5{slash}ADC
+    net_aliases:
+    - GPIO5{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '6'
+    name: GPIO6/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 19.05
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 97.79
+    net: GPIO6{slash}ADC
+    net_aliases:
+    - GPIO6{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '7'
+    name: GPIO7/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 16.51
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 100.33
+    net: GPIO7{slash}ADC
+    net_aliases:
+    - GPIO7{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '8'
+    name: GPIO8/ADC
+    electrical_type: bidirectional
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 13.97
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 102.87
+    net: GPIO8{slash}ADC
+    net_aliases:
+    - GPIO8{slash}ADC
+    net_scope: sheet
+    no_connect: false
+    connected_to: []
+  - number: '9'
+    name: VDD_LP
+    electrical_type: power_in
+    graphic_style: line
+    local_position:
+      x: -57.15
+      y: 11.43
+      rotation: 0.0
+    length: 2.54
+    position:
+      x: 63.5
+      y: 105.41
+    net: +3.3V
+    net_aliases:
+    - +3.3V
+    net_scope: global
+    no_connect: false
+    connected_to:
+    - reference: '#PWR01'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR02'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR010'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR011'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR013'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR017'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR020'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR022'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR028'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR032'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR037'
+      pin_number: '1'
+      pin_name: ''
+    - reference: '#PWR045'
+      pin_number: '1'
+      pin_name: ''
+    - reference: C1
+      pin_number: '1'
+      pin_name: ''
+    - reference: C6
+      pin_number: '1'
+      pin_name: ''
+    - reference: C7
+      pin_number: '1'
+      pin_name: ''
+    - reference: C9
+      pin_number: '1'
+      pin_name: ''
+    - reference: C11
+      pin_number: '1'
+      pin_name: ''
+    - reference: C12
+      pin_number: '1'
+      pin_name: ''
+    - reference: C13
+      pin_number: '1'
+      pin_name: ''
+    - reference: C14
+      pin_number: '1'
+      pin_name: ''
+    - reference: C16
+      pin_number: '1'
+      pin_name: ''
+    - reference: C20
+      pin_number: '1'
+      pin_name: ''
+    - reference: C21
+      pin_number: '1'
+      pin_name: ''
+    - reference: C23
+      pin_number: '1'
+      pin_name: ''
+    - reference: C24
+      pin_number: '1'
+      pin_name: ''
+    - reference: C40
+      pin_number: '1'
+      pin_name: ''
+    - reference: C41
+      pin_number: '1'
+      pin_name: ''
+    - reference: C42
+      pin_number: '1'
+      pin_name: ''
+    - reference: R200
+      pin_number: '2'
+      pin_name: ''
+    - reference: U1
+      pin_number: '4'
+      pin_name: VIN
+    - reference: U2
+      pin_number: '21'
+      pin_name: VDD_IO_0
+    - reference: U2
+      pin_number: '51'
+      pin_name: VDD_USBPHY
+    - reference: U2
+      pin_number: '62'
+      pin_name: VDD_IO_4
+    - reference: U2
+      pin_number: '75'
+      pin_name: VDD_LDO
+    - reference: U2
+      pin_number: '77'
+      pin_name: VDD_DCDCC
+    - reference: U2
+      pin_number: '85'
+      pin_name: VDD_IO_5
+    - reference: U2
+      pin_number: '96'
+      pin_name: VDD_IO_6
+    - reference: U2
+      pin_number: '101'
+      pin_name: VDD_ANA
+    - reference: U2
+      pin_number: '102'
+      pin_name: VDD_BAT
+  size:
+    local_graphics:
+      measurement: symbol graphics only; excludes pins, properties, and text
+      units: mm
+      available: true
+      min:
+        x: -54.61
+        y: -41.91
+      max:
+        x: 57.15
+        y: 41.91
+      width: 111.76
+      height: 83.82
+      center:
+        x: 1.27
+        y: 0.0
+    placed_graphics:
+      measurement: axis-aligned bounds after schematic placement, rotation, and mirroring
+      units: mm
+      available: true
+      min:
+        x: 66.04
+        y: 74.93
+      max:
+        x: 177.8
+        y: 158.75
+      width: 111.76
+      height: 83.82
+      center:
+        x: 121.92
+        y: 116.84
+  warnings: []
+connected_components:
+- reference: '#PWR01'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR02'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR03'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR04'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR05'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR06'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR07'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR08'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR09'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR010'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR011'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR012'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR013'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR014'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR016'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR017'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR018'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR019'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR020'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR021'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR022'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR023'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR024'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR025'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR026'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR027'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR028'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR029'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR030'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR031'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR032'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR033'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR034'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR037'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR038'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR039'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR040'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR041'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR044'
+  pin_number: '1'
+  pin_name: ''
+- reference: '#PWR045'
+  pin_number: '1'
+  pin_name: ''
+- reference: C1
+  pin_number: '1'
+  pin_name: ''
+- reference: C1
+  pin_number: '2'
+  pin_name: ''
+- reference: C2
+  pin_number: '1'
+  pin_name: ''
+- reference: C2
+  pin_number: '2'
+  pin_name: ''
+- reference: C3
+  pin_number: '1'
+  pin_name: ''
+- reference: C3
+  pin_number: '2'
+  pin_name: ''
+- reference: C4
+  pin_number: '1'
+  pin_name: ''
+- reference: C5
+  pin_number: '2'
+  pin_name: ''
+- reference: C6
+  pin_number: '1'
+  pin_name: ''
+- reference: C6
+  pin_number: '2'
+  pin_name: ''
+- reference: C7
+  pin_number: '1'
+  pin_name: ''
+- reference: C7
+  pin_number: '2'
+  pin_name: ''
+- reference: C8
+  pin_number: '1'
+  pin_name: ''
+- reference: C8
+  pin_number: '2'
+  pin_name: ''
+- reference: C9
+  pin_number: '1'
+  pin_name: ''
+- reference: C9
+  pin_number: '2'
+  pin_name: ''
+- reference: C11
+  pin_number: '1'
+  pin_name: ''
+- reference: C11
+  pin_number: '2'
+  pin_name: ''
+- reference: C12
+  pin_number: '1'
+  pin_name: ''
+- reference: C12
+  pin_number: '2'
+  pin_name: ''
+- reference: C13
+  pin_number: '1'
+  pin_name: ''
+- reference: C13
+  pin_number: '2'
+  pin_name: ''
+- reference: C14
+  pin_number: '1'
+  pin_name: ''
+- reference: C14
+  pin_number: '2'
+  pin_name: ''
+- reference: C15
+  pin_number: '1'
+  pin_name: ''
+- reference: C15
+  pin_number: '2'
+  pin_name: ''
+- reference: C16
+  pin_number: '1'
+  pin_name: ''
+- reference: C16
+  pin_number: '2'
+  pin_name: ''
+- reference: C17
+  pin_number: '1'
+  pin_name: ''
+- reference: C17
+  pin_number: '2'
+  pin_name: ''
+- reference: C18
+  pin_number: '1'
+  pin_name: ''
+- reference: C18
+  pin_number: '2'
+  pin_name: ''
+- reference: C20
+  pin_number: '1'
+  pin_name: ''
+- reference: C20
+  pin_number: '2'
+  pin_name: ''
+- reference: C21
+  pin_number: '1'
+  pin_name: ''
+- reference: C21
+  pin_number: '2'
+  pin_name: ''
+- reference: C23
+  pin_number: '1'
+  pin_name: ''
+- reference: C23
+  pin_number: '2'
+  pin_name: ''
+- reference: C24
+  pin_number: '1'
+  pin_name: ''
+- reference: C24
+  pin_number: '2'
+  pin_name: ''
+- reference: C25
+  pin_number: '1'
+  pin_name: ''
+- reference: C25
+  pin_number: '2'
+  pin_name: ''
+- reference: C26
+  pin_number: '1'
+  pin_name: ''
+- reference: C26
+  pin_number: '2'
+  pin_name: ''
+- reference: C27
+  pin_number: '1'
+  pin_name: ''
+- reference: C27
+  pin_number: '2'
+  pin_name: ''
+- reference: C28
+  pin_number: '1'
+  pin_name: ''
+- reference: C28
+  pin_number: '2'
+  pin_name: ''
+- reference: C29
+  pin_number: '1'
+  pin_name: ''
+- reference: C29
+  pin_number: '2'
+  pin_name: ''
+- reference: C30
+  pin_number: '1'
+  pin_name: ''
+- reference: C30
+  pin_number: '2'
+  pin_name: ''
+- reference: C31
+  pin_number: '1'
+  pin_name: ''
+- reference: C31
+  pin_number: '2'
+  pin_name: ''
+- reference: C32
+  pin_number: '1'
+  pin_name: ''
+- reference: C32
+  pin_number: '2'
+  pin_name: ''
+- reference: C33
+  pin_number: '1'
+  pin_name: ''
+- reference: C33
+  pin_number: '2'
+  pin_name: ''
+- reference: C40
+  pin_number: '1'
+  pin_name: ''
+- reference: C40
+  pin_number: '2'
+  pin_name: ''
+- reference: C41
+  pin_number: '1'
+  pin_name: ''
+- reference: C41
+  pin_number: '2'
+  pin_name: ''
+- reference: C42
+  pin_number: '1'
+  pin_name: ''
+- reference: C42
+  pin_number: '2'
+  pin_name: ''
+- reference: L1
+  pin_number: '2'
+  pin_name: ''
+- reference: R1
+  pin_number: '1'
+  pin_name: ''
+- reference: R1
+  pin_number: '2'
+  pin_name: ''
+- reference: R2
+  pin_number: '1'
+  pin_name: ''
+- reference: R2
+  pin_number: '2'
+  pin_name: ''
+- reference: R3
+  pin_number: '1'
+  pin_name: ''
+- reference: R4
+  pin_number: '1'
+  pin_name: ''
+- reference: R28
+  pin_number: '1'
+  pin_name: ''
+- reference: R28
+  pin_number: '2'
+  pin_name: ''
+- reference: R39
+  pin_number: '1'
+  pin_name: ''
+- reference: R39
+  pin_number: '2'
+  pin_name: ''
+- reference: R200
+  pin_number: '1'
+  pin_name: ''
+- reference: R200
+  pin_number: '2'
+  pin_name: ''
+- reference: U1
+  pin_number: '1'
+  pin_name: EN
+- reference: U1
+  pin_number: '2'
+  pin_name: GND
+- reference: U1
+  pin_number: '4'
+  pin_name: VIN
+- reference: U1
+  pin_number: '5'
+  pin_name: FB
+- reference: U2
+  pin_number: '101'
+  pin_name: VDD_ANA
+- reference: U2
+  pin_number: '102'
+  pin_name: VDD_BAT
+- reference: U2
+  pin_number: '21'
+  pin_name: VDD_IO_0
+- reference: U2
+  pin_number: '26'
+  pin_name: VDD_HP_0
+- reference: U2
+  pin_number: '30'
+  pin_name: VDD_FLASH_IO
+- reference: U2
+  pin_number: '51'
+  pin_name: VDD_USBPHY
+- reference: U2
+  pin_number: '59'
+  pin_name: VDD_PSRAM_0
+- reference: U2
+  pin_number: '62'
+  pin_name: VDD_IO_4
+- reference: U2
+  pin_number: '67'
+  pin_name: VDD_PSRAM_1
+- reference: U2
+  pin_number: '71'
+  pin_name: VDDO_FLASH
+- reference: U2
+  pin_number: '72'
+  pin_name: VDDO_PSRAM
+- reference: U2
+  pin_number: '75'
+  pin_name: VDD_LDO
+- reference: U2
+  pin_number: '76'
+  pin_name: VDD_HP_2
+- reference: U2
+  pin_number: '77'
+  pin_name: VDD_DCDCC
+- reference: U2
+  pin_number: '85'
+  pin_name: VDD_IO_5
+- reference: U2
+  pin_number: '9'
+  pin_name: VDD_LP
+- reference: U2
+  pin_number: '91'
+  pin_name: VDD_HP_3
+- reference: U2
+  pin_number: '96'
+  pin_name: VDD_IO_6
+- reference: U3
+  pin_number: '1'
+  pin_name: ~{CS}
+- reference: U3
+  pin_number: '2'
+  pin_name: DO/IO_{1}
+- reference: U3
+  pin_number: '3'
+  pin_name: ~{WP}/IO_{2}
+- reference: U3
+  pin_number: '4'
+  pin_name: GND
+- reference: U3
+  pin_number: '5'
+  pin_name: DI/IO_{0}
+- reference: U3
+  pin_number: '6'
+  pin_name: CLK
+- reference: U3
+  pin_number: '7'
+  pin_name: ~{HOLD}/~{RESET}/IO_{3}
+- reference: U3
+  pin_number: '8'
+  pin_name: VCC
+- reference: Y1
+  pin_number: '2'
+  pin_name: G
+- reference: Y1
+  pin_number: '4'
+  pin_name: G

@@ -1,0 +1,31 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>OOMP component project usage</title>
+<h1>Used in projects</h1>
+<p><a href="https://github.com/oomlout/oomp_electronic_project_version_5/tree/main/navigation">Project catalogue</a></p>
+<p id="component"></p><p id="coverage">Loading saved usage…</p><ul id="projects"></ul>
+<script>
+async function show() {
+  const id=decodeURIComponent(location.hash.slice(1));
+  document.getElementById('projects').replaceChildren();
+  document.getElementById('component').textContent=id || 'Choose a component from the electronics catalogue.';
+  const response=await fetch('index.json');
+  if(!response.ok) throw new Error('Saved usage could not be loaded.');
+  const data=await response.json(), rows=data.usage[id]||[];
+  document.getElementById('coverage').textContent=(rows.length?'':'No confirmed usage recorded. ')+
+    (data.unavailable_projects.length?'Coverage is incomplete: '+data.unavailable_projects.length+' projects have no extracted data. ':'')+
+    (data.migration_note||'');
+  for(const row of rows) {
+    const li=document.createElement('li'), a=document.createElement('a');
+    a.href=row.oomp_url; a.textContent=row.name+' ('+row.quantity+')'+
+      (row.extraction_available===false?' — previous extraction; current data unavailable':'');
+    li.append(a); document.getElementById('projects').append(li);
+  }
+}
+function refresh() {
+  show().catch(error=>document.getElementById('coverage').textContent=
+    error.message+' For local viewing, serve this repository over HTTP or browse usage/components on GitHub.');
+}
+window.addEventListener('hashchange',refresh);
+refresh();
+</script>

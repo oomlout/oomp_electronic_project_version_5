@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: '32.768'
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_to_252_bipolar_pnp_80_volt_8_amp_onsemi_mjd45h11g
+  score: 0.0864
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_251_bipolar_npn_80_volt_8_amp_onsemi_mjd44h11_1g
+  score: 0.0831
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_251_bipolar_pnp_80_volt_8_amp_onsemi_mjd45h11_1g
+  score: 0.0831
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_263_mosfet_p_channel_enhancement_mode_200_volt_6_8_amp_vishay_intertech_irf9640strlpbf
+  score: 0.0781
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_523_mosfet_p_channel_enhancement_mode_20_volt_2_8_amp_cbi_bc2301t_2_8a
+  score: 0.0756
+  reasons:
+  - same component family

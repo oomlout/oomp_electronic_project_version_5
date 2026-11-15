@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="94.0000 132.0000 34.0000 34.0000">
+<defs>
+<style>
+.page { fill: var(--brd-page, #FFFFFF); }
+.board { fill: var(--brd-board-fill, #FFFFFF); stroke: var(--brd-board-outline, #000000); stroke-width: 0.35; }
+.edge-cut { fill: none; stroke: var(--brd-board-outline, #000000); stroke-width: 0.25; }
+.component { fill: var(--brd-component-fill, #FFFFFF); stroke: var(--brd-component-outline, #000000); stroke-width: 0.18; }
+.mechanical-pad { fill: var(--brd-page, #FFFFFF); stroke: var(--brd-component-outline, #000000); stroke-width: 0.18; }
+.mounting-hole { fill: var(--brd-page, #FFFFFF); stroke: var(--brd-component-outline, #000000); stroke-width: 0.22; }
+.reference { fill: var(--brd-text, #000000); font-family: Arial, sans-serif; font-size: 0.72px; text-anchor: middle; paint-order: stroke; stroke: var(--brd-plate, #FFFFFF); stroke-width: 0.35px; }
+.indicator-plate { fill: var(--brd-plate, #FFFFFF); fill-opacity: .55; }
+.indicator-text { fill: var(--brd-plate-text, #000000); }
+</style>
+</defs>
+<rect class="page" x="94.0000" y="132.0000" width="34.0000" height="34.0000" />
+<rect class="board" x="100.0000" y="138.0000" width="22.0000" height="22.0000" rx="1.0" />
+<polyline class="edge-cut" points="121.0000,160.0000 101.0000,160.0000" />
+<polyline class="edge-cut" points="100.0000,159.0000 100.0000,139.0000" />
+<polyline class="edge-cut" points="122.0000,139.0000 122.0000,159.0000" />
+<polyline class="edge-cut" points="101.0000,138.0000 121.0000,138.0000" />
+<polyline class="edge-cut" points="100.0000,139.0000 100.0086,138.8695 100.0341,138.7412 100.0761,138.6173 100.1340,138.5000 100.2066,138.3912 100.2929,138.2929 100.3912,138.2066 100.5000,138.1340 100.6173,138.0761 100.7412,138.0341 100.8695,138.0086 101.0000,138.0000" />
+<polyline class="edge-cut" points="122.0000,159.0000 121.9914,159.1305 121.9659,159.2588 121.9239,159.3827 121.8660,159.5000 121.7934,159.6088 121.7071,159.7071 121.6088,159.7934 121.5000,159.8660 121.3827,159.9239 121.2588,159.9659 121.1305,159.9914 121.0000,160.0000" />
+<polyline class="edge-cut" points="121.0000,138.0000 121.1305,138.0086 121.2588,138.0341 121.3827,138.0761 121.5000,138.1340 121.6088,138.2066 121.7071,138.2929 121.7934,138.3912 121.8660,138.5000 121.9239,138.6173 121.9659,138.7412 121.9914,138.8695 122.0000,139.0000" />
+<polyline class="edge-cut" points="101.0000,160.0000 100.8695,159.9914 100.7412,159.9659 100.6173,159.9239 100.5000,159.8660 100.3912,159.7934 100.2929,159.7071 100.2066,159.6088 100.1340,159.5000 100.0761,159.3827 100.0341,159.2588 100.0086,159.1305 100.0000,159.0000" />
+<g class="board-component" data-reference="K1" data-oomp-id="electronic_connector_header_2_54_mm_pitch_through_hole_6_pin" tabindex="0" transform="translate(108.2000 158.5000) rotate(-180.0000)">
+<g transform="translate(0.0000 0.0000) rotate(-90)"><svg x="-1.2500" y="-7.6200" width="2.5000" height="15.2400" viewBox="0 0 2.5000 15.2400" preserveAspectRatio="xMidYMid meet"><rect x="0.0100" y="0.0000" width="2.4800" height="15.2400"  fill="none" stroke="none" />
+  <polygon points="0.2500,0.0200 2.2500,0.0200 2.5000,0.2700 2.5000,2.2700 2.2500,2.5200 0.2500,2.5200 0.0000,2.2700 0.0000,0.2700"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0582" />
+  <rect x="0.7500" y="0.7700" width="1.0000" height="1.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0224" />
+  <polygon points="0.2500,2.5600 2.2500,2.5600 2.5000,2.8100 2.5000,4.8100 2.2500,5.0600 0.2500,5.0600 0.0000,4.8100 0.0000,2.8100"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0582" />
+  <rect x="0.7500" y="3.3100" width="1.0000" height="1.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0224" />
+  <polygon points="0.2500,5.1000 2.2500,5.1000 2.5000,5.3500 2.5000,7.3500 2.2500,7.6000 0.2500,7.6000 0.0000,7.3500 0.0000,5.3500"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0582" />
+  <rect x="0.7500" y="5.8500" width="1.0000" height="1.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0224" />
+  <polygon points="0.2500,7.6400 2.2500,7.6400 2.5000,7.8900 2.5000,9.8900 2.2500,10.1400 0.2500,10.1400 0.0000,9.8900 0.0000,7.8900"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0582" />
+  <rect x="0.7500" y="8.3900" width="1.0000" height="1.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0224" />
+  <polygon points="0.2500,10.1800 2.2500,10.1800 2.5000,10.4300 2.5000,12.4300 2.2500,12.6800 0.2500,12.6800 0.0000,12.4300 0.0000,10.4300"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0582" />
+  <rect x="0.7500" y="10.9300" width="1.0000" height="1.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0224" />
+  <polygon points="0.2500,12.7200 2.2500,12.7200 2.5000,12.9700 2.5000,14.9700 2.2500,15.2200 0.2500,15.2200 0.0000,14.9700 0.0000,12.9700"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0582" />
+  <rect x="0.7500" y="13.4700" width="1.0000" height="1.0000"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0224" />
+  <rect x="0.9300" y="0.9500" width="0.6400" height="0.6400"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0358" class="pad" />
+  <rect x="0.9300" y="3.4900" width="0.6400" height="0.6400"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0358" class="pad" />
+  <rect x="0.9300" y="6.0300" width="0.6400" height="0.6400"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0358" class="pad" />
+  <rect x="0.9300" y="8.5700" width="0.6400" height="0.6400"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0358" class="pad" />
+  <rect x="0.9300" y="11.1100" width="0.6400" height="0.6400"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0358" class="pad" />
+  <rect x="0.9300" y="13.6500" width="0.6400" height="0.6400"  fill="#FFFFFF" stroke="#000000" stroke-width="0.0358" class="pad" /></svg></g>
+</g>
+<circle class="mounting-hole" cx="119.0000" cy="141.0000" r="1.6000" />
+<circle class="mounting-hole" cx="119.0000" cy="157.0000" r="1.6000" />
+<g class="indicator" transform="translate(108.2000 158.5000)"><rect class="indicator-plate" x="-2.4250" y="-0.8948" width="4.8499" height="1.5031" rx="0.0864" stroke="none" /><text class="indicator-text" x="0" y="-0.2756" font-family="Arial, sans-serif" font-size="0.7200" font-weight="bold" text-anchor="middle">K1</text><text class="indicator-text" x="0" y="0.4176" font-family="Arial, sans-serif" font-size="0.4752" text-anchor="middle">HEADER_MALE_6X1</text></g>
+</svg>

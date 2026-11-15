@@ -1,0 +1,32 @@
+{
+  "files": {
+    "kicad_file.kicad_pcb": {
+      "sha256": "ad6065f9915d67100748fe833a6bd9bbf6b39afe23182b9e67a1fff94869f13f",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_led_sequin_pcb_adafruit_led_sequin_current\\data\\kicad_file.kicad_pcb"
+    },
+    "kicad_file.kicad_sch": {
+      "sha256": "c53a6c1831fa32c98a1a8e19c5698fb341b2ce187280fcfbff8f6cde02c4bc2f",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_led_sequin_pcb_adafruit_led_sequin_current\\data\\kicad_file.kicad_sch"
+    },
+    "kicad_file.kicad_pro": {
+      "sha256": "11ed7fc823d356a9426120ca7cba9932a22d3fa22c69b758b5ff5c4b4168eb37",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_led_sequin_pcb_adafruit_led_sequin_current\\data\\kicad_file.kicad_pro"
+    },
+    "source_eagle.brd": {
+      "sha256": "4a2e38a0fe980f5407fb0b3abe77db24594821e2e3fdd31b8f15b237dfcd6eaa",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_led_sequin_pcb_adafruit_led_sequin_current\\data\\source_eagle.brd"
+    },
+    "source_eagle.sch": {
+      "sha256": "447ed21e96e41a6c05aff656eced24079e1e878e94194b2a5106ebf5b0b35d8c",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_led_sequin_pcb_adafruit_led_sequin_current\\data\\source_eagle.sch"
+    },
+    "sym-lib-table": {
+      "sha256": "69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_led_sequin_pcb_adafruit_led_sequin_current\\data\\sym-lib-table"
+    },
+    "fp-lib-table": {
+      "sha256": "14cad0f78a3a88f510f04b89345de45ca0aa0e6d1817c5f39d5abbf581d7035c",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_led_sequin_pcb_adafruit_led_sequin_current\\data\\fp-lib-table"
+    }
+  }
+}

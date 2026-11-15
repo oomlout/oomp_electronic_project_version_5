@@ -1,0 +1,975 @@
+reference: C33
+schematic:
+  available: true
+  units:
+  - reference: C33
+    source_file: data/kicad_file.kicad_sch
+    uuid: de2269c2-e469-46e0-9478-3680f9898e42
+    library_id: Device:C_Small
+    unit: 1
+    body_style: 1
+    position:
+      x: 57.15
+      y: 69.85
+      rotation: 0.0
+      mirror: null
+      units: mm
+    properties:
+      Reference: C33
+      Value: 0.1uF
+      Footprint: Capacitor_SMD:C_0402_1005Metric
+      Datasheet: ''
+      Description: Unpolarized capacitor, small symbol
+    in_bom: true
+    on_board: true
+    in_position_files: true
+    dnp: false
+    pins:
+    - number: '1'
+      name: ''
+      electrical_type: passive
+      graphic_style: line
+      local_position:
+        x: 0.0
+        y: 2.54
+        rotation: 270.0
+      length: 2.032
+      position:
+        x: 57.15
+        y: 67.31
+      net: CHIP_PU
+      net_aliases:
+      - CHIP_PU
+      net_scope: sheet
+      no_connect: false
+      connected_to:
+      - reference: R200
+        pin_number: '1'
+        pin_name: ''
+      - reference: U2
+        pin_number: '103'
+        pin_name: CHIP_PU
+    - number: '2'
+      name: ''
+      electrical_type: passive
+      graphic_style: line
+      local_position:
+        x: 0.0
+        y: -2.54
+        rotation: 90.0
+      length: 2.032
+      position:
+        x: 57.15
+        y: 72.39
+      net: GND
+      net_aliases:
+      - GND
+      net_scope: global
+      no_connect: false
+      connected_to:
+      - reference: '#PWR03'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR04'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR05'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR06'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR07'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR08'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR09'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR012'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR014'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR016'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR018'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR019'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR021'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR023'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR024'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR025'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR026'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR027'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR029'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR030'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR031'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR033'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR034'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR038'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR039'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR040'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR041'
+        pin_number: '1'
+        pin_name: ''
+      - reference: '#PWR044'
+        pin_number: '1'
+        pin_name: ''
+      - reference: C1
+        pin_number: '2'
+        pin_name: ''
+      - reference: C3
+        pin_number: '2'
+        pin_name: ''
+      - reference: C4
+        pin_number: '1'
+        pin_name: ''
+      - reference: C5
+        pin_number: '2'
+        pin_name: ''
+      - reference: C6
+        pin_number: '2'
+        pin_name: ''
+      - reference: C7
+        pin_number: '2'
+        pin_name: ''
+      - reference: C8
+        pin_number: '2'
+        pin_name: ''
+      - reference: C9
+        pin_number: '2'
+        pin_name: ''
+      - reference: C11
+        pin_number: '2'
+        pin_name: ''
+      - reference: C12
+        pin_number: '2'
+        pin_name: ''
+      - reference: C13
+        pin_number: '2'
+        pin_name: ''
+      - reference: C14
+        pin_number: '2'
+        pin_name: ''
+      - reference: C15
+        pin_number: '2'
+        pin_name: ''
+      - reference: C16
+        pin_number: '2'
+        pin_name: ''
+      - reference: C17
+        pin_number: '2'
+        pin_name: ''
+      - reference: C18
+        pin_number: '2'
+        pin_name: ''
+      - reference: C20
+        pin_number: '2'
+        pin_name: ''
+      - reference: C21
+        pin_number: '2'
+        pin_name: ''
+      - reference: C23
+        pin_number: '2'
+        pin_name: ''
+      - reference: C24
+        pin_number: '2'
+        pin_name: ''
+      - reference: C25
+        pin_number: '2'
+        pin_name: ''
+      - reference: C26
+        pin_number: '2'
+        pin_name: ''
+      - reference: C27
+        pin_number: '2'
+        pin_name: ''
+      - reference: C28
+        pin_number: '2'
+        pin_name: ''
+      - reference: C29
+        pin_number: '2'
+        pin_name: ''
+      - reference: C30
+        pin_number: '2'
+        pin_name: ''
+      - reference: C31
+        pin_number: '2'
+        pin_name: ''
+      - reference: C32
+        pin_number: '2'
+        pin_name: ''
+      - reference: C40
+        pin_number: '2'
+        pin_name: ''
+      - reference: C41
+        pin_number: '2'
+        pin_name: ''
+      - reference: C42
+        pin_number: '2'
+        pin_name: ''
+      - reference: R2
+        pin_number: '1'
+        pin_name: ''
+      - reference: U1
+        pin_number: '2'
+        pin_name: GND
+      - reference: U2
+        pin_number: '105'
+        pin_name: GND
+      - reference: U3
+        pin_number: '4'
+        pin_name: GND
+      - reference: Y1
+        pin_number: '2'
+        pin_name: G
+      - reference: Y1
+        pin_number: '4'
+        pin_name: G
+    size:
+      local_graphics:
+        measurement: symbol graphics only; excludes pins, properties, and text
+        units: mm
+        available: true
+        min:
+          x: -1.6891
+          y: -0.6731
+        max:
+          x: 1.6891
+          y: 0.6604
+        width: 3.3782
+        height: 1.3335
+        center:
+          x: 0.0
+          y: -0.00635
+      placed_graphics:
+        measurement: axis-aligned bounds after schematic placement, rotation, and mirroring
+        units: mm
+        available: true
+        min:
+          x: 55.4609
+          y: 69.1896
+        max:
+          x: 58.8391
+          y: 70.5231
+        width: 3.3782
+        height: 1.3335
+        center:
+          x: 57.15
+          y: 69.85635
+    warnings: []
+  connected_components:
+  - reference: '#PWR03'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR04'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR05'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR06'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR07'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR08'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR09'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR012'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR014'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR016'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR018'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR019'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR021'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR023'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR024'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR025'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR026'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR027'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR029'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR030'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR031'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR033'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR034'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR038'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR039'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR040'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR041'
+    pin_number: '1'
+    pin_name: ''
+  - reference: '#PWR044'
+    pin_number: '1'
+    pin_name: ''
+  - reference: C1
+    pin_number: '2'
+    pin_name: ''
+  - reference: C3
+    pin_number: '2'
+    pin_name: ''
+  - reference: C4
+    pin_number: '1'
+    pin_name: ''
+  - reference: C5
+    pin_number: '2'
+    pin_name: ''
+  - reference: C6
+    pin_number: '2'
+    pin_name: ''
+  - reference: C7
+    pin_number: '2'
+    pin_name: ''
+  - reference: C8
+    pin_number: '2'
+    pin_name: ''
+  - reference: C9
+    pin_number: '2'
+    pin_name: ''
+  - reference: C11
+    pin_number: '2'
+    pin_name: ''
+  - reference: C12
+    pin_number: '2'
+    pin_name: ''
+  - reference: C13
+    pin_number: '2'
+    pin_name: ''
+  - reference: C14
+    pin_number: '2'
+    pin_name: ''
+  - reference: C15
+    pin_number: '2'
+    pin_name: ''
+  - reference: C16
+    pin_number: '2'
+    pin_name: ''
+  - reference: C17
+    pin_number: '2'
+    pin_name: ''
+  - reference: C18
+    pin_number: '2'
+    pin_name: ''
+  - reference: C20
+    pin_number: '2'
+    pin_name: ''
+  - reference: C21
+    pin_number: '2'
+    pin_name: ''
+  - reference: C23
+    pin_number: '2'
+    pin_name: ''
+  - reference: C24
+    pin_number: '2'
+    pin_name: ''
+  - reference: C25
+    pin_number: '2'
+    pin_name: ''
+  - reference: C26
+    pin_number: '2'
+    pin_name: ''
+  - reference: C27
+    pin_number: '2'
+    pin_name: ''
+  - reference: C28
+    pin_number: '2'
+    pin_name: ''
+  - reference: C29
+    pin_number: '2'
+    pin_name: ''
+  - reference: C30
+    pin_number: '2'
+    pin_name: ''
+  - reference: C31
+    pin_number: '2'
+    pin_name: ''
+  - reference: C32
+    pin_number: '2'
+    pin_name: ''
+  - reference: C40
+    pin_number: '2'
+    pin_name: ''
+  - reference: C41
+    pin_number: '2'
+    pin_name: ''
+  - reference: C42
+    pin_number: '2'
+    pin_name: ''
+  - reference: R2
+    pin_number: '1'
+    pin_name: ''
+  - reference: R200
+    pin_number: '1'
+    pin_name: ''
+  - reference: U1
+    pin_number: '2'
+    pin_name: GND
+  - reference: U2
+    pin_number: '103'
+    pin_name: CHIP_PU
+  - reference: U2
+    pin_number: '105'
+    pin_name: GND
+  - reference: U3
+    pin_number: '4'
+    pin_name: GND
+  - reference: Y1
+    pin_number: '2'
+    pin_name: G
+  - reference: Y1
+    pin_number: '4'
+    pin_name: G
+pcb:
+  reference: C33
+  value: 0.1uF
+  source_file: data/kicad_file.kicad_pcb
+  uuid: 995664e6-da28-4ac0-ad35-1ff5f9a103f1
+  library_id: Capacitor_SMD:C_0402_1005Metric
+  layer: B.Cu
+  side: back
+  position:
+    x: 171.6854
+    y: 89.003002
+    rotation: 0.0
+    rotation_kicad: 0.0
+    units: mm
+  properties:
+    Reference: C33
+    Value: 0.1uF
+    Datasheet: ''
+    Description: Unpolarized capacitor, small symbol
+    LCSC: C1525
+    ki_fp_filters: C_*
+  attributes:
+  - smd
+  exclude_from_bom: false
+  exclude_from_position_files: false
+  pads:
+  - number: '1'
+    type: smd
+    shape: roundrect
+    local_position:
+      x: -0.48
+      y: 0.0
+      rotation: 0.0
+    position:
+      x: 171.2054
+      y: 89.003002
+    placed_rotation: 0.0
+    size:
+      x: 0.56
+      y: 0.62
+      units: mm
+    drill:
+      available: false
+      shape: null
+      x: null
+      y: null
+      diameter: null
+      units: mm
+    layers:
+    - B.Cu
+    - B.Mask
+    - B.Paste
+    net: /RESET
+    net_number: null
+    pin_function: null
+    pin_type: passive
+    bounds:
+      local:
+        measurement: pad bounds in footprint-local coordinates
+        units: mm
+        available: true
+        min:
+          x: -0.76
+          y: -0.31
+        max:
+          x: -0.2
+          y: 0.31
+        width: 0.56
+        height: 0.62
+        center:
+          x: -0.48
+          y: 0.0
+      placed:
+        measurement: pad bounds after footprint placement and rotation
+        units: mm
+        available: true
+        min:
+          x: 170.9254
+          y: 88.693002
+        max:
+          x: 171.4854
+          y: 89.313002
+        width: 0.56
+        height: 0.62
+        center:
+          x: 171.2054
+          y: 89.003002
+    plating: null
+    is_mounting_hole: false
+    connected_to:
+    - reference: R200
+      pad_number: '1'
+    - reference: U2
+      pad_number: '103'
+  - number: '2'
+    type: smd
+    shape: roundrect
+    local_position:
+      x: 0.48
+      y: 0.0
+      rotation: 0.0
+    position:
+      x: 172.1654
+      y: 89.003002
+    placed_rotation: 0.0
+    size:
+      x: 0.56
+      y: 0.62
+      units: mm
+    drill:
+      available: false
+      shape: null
+      x: null
+      y: null
+      diameter: null
+      units: mm
+    layers:
+    - B.Cu
+    - B.Mask
+    - B.Paste
+    net: GND
+    net_number: null
+    pin_function: null
+    pin_type: passive
+    bounds:
+      local:
+        measurement: pad bounds in footprint-local coordinates
+        units: mm
+        available: true
+        min:
+          x: 0.2
+          y: -0.31
+        max:
+          x: 0.76
+          y: 0.31
+        width: 0.56
+        height: 0.62
+        center:
+          x: 0.48
+          y: 0.0
+      placed:
+        measurement: pad bounds after footprint placement and rotation
+        units: mm
+        available: true
+        min:
+          x: 171.8854
+          y: 88.693002
+        max:
+          x: 172.4454
+          y: 89.313002
+        width: 0.56
+        height: 0.62
+        center:
+          x: 172.1654
+          y: 89.003002
+    plating: null
+    is_mounting_hole: false
+    connected_to:
+    - reference: C1
+      pad_number: '2'
+    - reference: C3
+      pad_number: '2'
+    - reference: C4
+      pad_number: '1'
+    - reference: C5
+      pad_number: '2'
+    - reference: C6
+      pad_number: '2'
+    - reference: C7
+      pad_number: '2'
+    - reference: C8
+      pad_number: '2'
+    - reference: C9
+      pad_number: '2'
+    - reference: C11
+      pad_number: '2'
+    - reference: C12
+      pad_number: '2'
+    - reference: C13
+      pad_number: '2'
+    - reference: C14
+      pad_number: '2'
+    - reference: C15
+      pad_number: '2'
+    - reference: C16
+      pad_number: '2'
+    - reference: C17
+      pad_number: '2'
+    - reference: C18
+      pad_number: '2'
+    - reference: C20
+      pad_number: '2'
+    - reference: C21
+      pad_number: '2'
+    - reference: C23
+      pad_number: '2'
+    - reference: C24
+      pad_number: '2'
+    - reference: C25
+      pad_number: '2'
+    - reference: C26
+      pad_number: '2'
+    - reference: C27
+      pad_number: '2'
+    - reference: C28
+      pad_number: '2'
+    - reference: C29
+      pad_number: '2'
+    - reference: C30
+      pad_number: '2'
+    - reference: C31
+      pad_number: '2'
+    - reference: C32
+      pad_number: '2'
+    - reference: C40
+      pad_number: '2'
+    - reference: C41
+      pad_number: '2'
+    - reference: C42
+      pad_number: '2'
+    - reference: R2
+      pad_number: '1'
+    - reference: U1
+      pad_number: '2'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U2
+      pad_number: '105'
+    - reference: U3
+      pad_number: '4'
+    - reference: Y1
+      pad_number: '2'
+    - reference: Y1
+      pad_number: '4'
+  mounting_holes: []
+  is_mounting_hole: false
+  size:
+    pads_local:
+      measurement: all footprint pads in footprint-local coordinates
+      units: mm
+      available: true
+      min:
+        x: -0.76
+        y: -0.31
+      max:
+        x: 0.76
+        y: 0.31
+      width: 1.52
+      height: 0.62
+      center:
+        x: 0.0
+        y: 0.0
+    pads_placed:
+      measurement: all pads after PCB placement and rotation
+      units: mm
+      available: true
+      min:
+        x: 170.9254
+        y: 88.693002
+      max:
+        x: 172.4454
+        y: 89.313002
+      width: 1.52
+      height: 0.62
+      center:
+        x: 171.6854
+        y: 89.003002
+    courtyard_local:
+      measurement: F.CrtYd and B.CrtYd graphics; text excluded
+      units: mm
+      available: true
+      min:
+        x: -0.935
+        y: -0.485
+      max:
+        x: 0.935
+        y: 0.485
+      width: 1.87
+      height: 0.97
+      center:
+        x: 0.0
+        y: 0.0
+    courtyard_placed:
+      measurement: courtyard after PCB placement and rotation
+      units: mm
+      available: true
+      min:
+        x: 170.7504
+        y: 88.518002
+      max:
+        x: 172.6204
+        y: 89.488002
+      width: 1.87
+      height: 0.97
+      center:
+        x: 171.6854
+        y: 89.003002
+    fabrication_local:
+      measurement: F.Fab and B.Fab graphics; text excluded
+      units: mm
+      available: true
+      min:
+        x: -0.55
+        y: -0.3
+      max:
+        x: 0.55
+        y: 0.3
+      width: 1.1
+      height: 0.6
+      center:
+        x: 0.0
+        y: 0.0
+    fabrication_placed:
+      measurement: fabrication graphics after placement
+      units: mm
+      available: true
+      min:
+        x: 171.1354
+        y: 88.703002
+      max:
+        x: 172.2354
+        y: 89.303002
+      width: 1.1
+      height: 0.6
+      center:
+        x: 171.6854
+        y: 89.003002
+    silkscreen_local:
+      measurement: F.SilkS and B.SilkS graphics; text excluded
+      units: mm
+      available: true
+      min:
+        x: -0.167836
+        y: -0.42
+      max:
+        x: 0.167836
+        y: 0.42
+      width: 0.335672
+      height: 0.84
+      center:
+        x: 0.0
+        y: 0.0
+    silkscreen_placed:
+      measurement: silkscreen graphics after placement
+      units: mm
+      available: true
+      min:
+        x: 171.517564
+        y: 88.583002
+      max:
+        x: 171.853236
+        y: 89.423002
+      width: 0.335672
+      height: 0.84
+      center:
+        x: 171.6854
+        y: 89.003002
+    overall_local:
+      measurement: all non-text footprint graphics and pads
+      units: mm
+      available: true
+      min:
+        x: -0.935
+        y: -0.485
+      max:
+        x: 0.935
+        y: 0.485
+      width: 1.87
+      height: 0.97
+      center:
+        x: 0.0
+        y: 0.0
+    overall_placed:
+      measurement: all non-text footprint graphics and pads after placement
+      units: mm
+      available: true
+      min:
+        x: 170.7504
+        y: 88.518002
+      max:
+        x: 172.6204
+        y: 89.488002
+      width: 1.87
+      height: 0.97
+      center:
+        x: 171.6854
+        y: 89.003002
+  connected_components:
+  - C1
+  - C3
+  - C4
+  - C5
+  - C6
+  - C7
+  - C8
+  - C9
+  - C11
+  - C12
+  - C13
+  - C14
+  - C15
+  - C16
+  - C17
+  - C18
+  - C20
+  - C21
+  - C23
+  - C24
+  - C25
+  - C26
+  - C27
+  - C28
+  - C29
+  - C30
+  - C31
+  - C32
+  - C40
+  - C41
+  - C42
+  - R2
+  - R200
+  - U1
+  - U2
+  - U3
+  - Y1
+connectivity_cross_check:
+  available: true
+  policy: Named schematic nets are compared with PCB pad nets using matching pin/pad numbers; root-sheet local labels also
+    allow KiCad's leading '/' prefix.
+  comparisons:
+  - pin_or_pad_number: '1'
+    schematic_nets:
+    - CHIP_PU
+    pcb_nets:
+    - /RESET
+    status: disagree
+  - pin_or_pad_number: '2'
+    schematic_nets:
+    - GND
+    pcb_nets:
+    - GND
+    status: agree
+  agree_count: 1
+  disagree_count: 1
+  incomplete_count: 0
+oomp:
+  status: matched
+  accepted: true
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  confidence: 1.0
+  proposed_oomp_id: electronic_capacitor_0402_100_nano_farad
+  inferred:
+    kind: capacitor
+    package_size: '0402'
+    value: 0.1uF
+    mpn: null
+  reasons:
+  - Exact OOMP ID constructed from component type, package size, and normalized value.
+  candidates: []
+category: capacitor
+category_source: oomp_populate
+category_name: Capacitor
+generated_directory: components/C33

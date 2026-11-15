@@ -1,0 +1,38 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: null
+  value: 47uF/25V
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_capacitor_7343_avx_d_tantalum_47_micro_farad_25_volt_avx_tajd476k025rnej
+  score: 0.7077
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_7343_avx_e_tantalum_47_micro_farad_35_volt_avx_taje476k035rnej
+  score: 0.7066
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_47_micro_farad_35_volt
+  score: 0.7065
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_47_micro_farad_50_volt
+  score: 0.7065
+  reasons:
+  - same component family
+  - same normalized value
+- oomp_id: electronic_capacitor_5_mm_diameter_5_4_mm_tall_electrolytic_47_micro_farad_16_volt
+  score: 0.7056
+  reasons:
+  - same component family
+  - same normalized value

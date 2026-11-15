@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: PFET
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_sot_23_bipolar_npn_25_volt_1_5_amp_jsmsemi_ss8050
+  score: 0.0909
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_252_mosfet_n_channel_enhancement_mode_600_volt_1_9_amp_onsemi_fqd2n60ctm
+  score: 0.0827
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_363_6_mosfet_n_channel_dual
+  score: 0.0802
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_220_mosfet_n_channel_enhancement_mode_1000_volt_3_1_amp_vishay_intertech_irfbg30pbf
+  score: 0.0778
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_220ab_mosfet_n_channel_enhancement_mode_800_volt_1_8_amp_vishay_intertech_irfbe20pbf
+  score: 0.0777
+  reasons:
+  - same component family

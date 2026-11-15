@@ -1,0 +1,137 @@
+"""Roboclick run_python action: extract a KiCad project and build its README bundle."""
+
+import argparse
+import json
+import sys
+from pathlib import Path
+
+REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
+repository_root_text = str(REPOSITORY_ROOT)
+if repository_root_text in sys.path:
+    sys.path.remove(repository_root_text)
+sys.path.insert(0, repository_root_text)
+
+import yaml
+from kicad_agents.run_error_report import log_run_error
+from kicad_agents.kicad_processing_agent import process_project
+from kicad_agents.project_summary_agent import generate_project_summary, _make_board_png
+from kicad_agents.project_html_agent import generate_board_explorer
+from kicad_agents.project_review_agent import write_lcsc_review
+from kicad_agents.browser_research_agent import write_browser_research_queue
+from project_config import component_parts
+
+
+def _as_boolean(value):
+    if isinstance(value, bool):
+        return value
+    return str(value).strip().lower() in ["1", "true", "yes", "on"]
+
+
+def _project_sources_ready(part_directory):
+    """Gate downstream compilation when canonical KiCad source files are missing."""
+    data_directory = part_directory / "data"
+    # A KiCad board can be distributed without a schematic. The project
+    # processor can still extract the PCB, placements, footprints, and board
+    # explorer, so only the PCB is required at this gate.
+    required = [data_directory / "kicad_file.kicad_pcb"]
+    missing = [path.name for path in required if not path.is_file()]
+    if missing:
+        message = (
+            f"Skipping project_readme_action for {part_directory.name}: missing required source file(s): "
+            + ", ".join(missing)
+        )
+        log_run_error("project_readme_action", RuntimeError(message))
+        print(message)
+        return False
+
+    upstream_error = data_directory / "error.txt"
+    if upstream_error.is_file():
+        message = (
+            f"Skipping project_readme_action for {part_directory.name}: upstream fetch error marker exists "
+            f"({upstream_error})."
+        )
+        log_run_error("project_readme_action", RuntimeError(message))
+        print(message)
+        return False
+    return True
+
+
+def compile_project_part(details):
+    part_directory = Path(details["directory"]).resolve()
+    if not _project_sources_ready(part_directory):
+        raise RuntimeError(f"Missing or failed upstream project inputs: {part_directory}")
+    parts_directory_value = details.get("parts_directory", "parts")
+    parts_directory = component_parts(parts_directory_value)
+    output_directory = part_directory / "data" / "generated_data"
+    output_directory.mkdir(parents=True, exist_ok=True)
+    regenerate_pngs = _as_boolean(details.get("regenerate_pngs", False))
+
+    part_metadata = {}
+    working_yaml = part_directory / "working.yaml"
+    if working_yaml.is_file():
+        loaded_metadata = yaml.safe_load(working_yaml.read_text(encoding="utf-8")) or {}
+        if isinstance(loaded_metadata, dict):
+            part_metadata.update(loaded_metadata)
+    part_metadata.update(details)
+
+    match_overrides = details.get("project_match_overrides", {})
+    match_override_data = {
+        "matches": match_overrides if isinstance(match_overrides, dict) else {},
+        "blocked": part_metadata.get("project_match_blocked", {}),
+        "review_notes": part_metadata.get("project_review_notes", []),
+        "help": "Project definitions live in project_data; reusable component identities live in kicad_agents/oomp_matching_agent.py.",
+    }
+    with (output_directory / "match_overrides.yaml").open("w", encoding="utf-8") as output_file:
+        yaml.safe_dump(match_override_data, output_file, sort_keys=False, allow_unicode=True)
+
+    project_data, output_directory = process_project(
+        part_directory,
+        parts_directory,
+        output_directory=output_directory,
+    )
+    if project_data is None:
+        raise RuntimeError(f"Project extraction failed: {part_directory}")
+    write_lcsc_review(project_data, output_directory)
+    write_browser_research_queue(project_data, output_directory)
+    summary_data = generate_project_summary(
+        part_directory,
+        parts_directory=parts_directory,
+        output_directory=output_directory,
+        project_data=project_data,
+        part_metadata=part_metadata,
+        readme_output=part_directory / "README.md",
+        regenerate_pngs=regenerate_pngs,
+    )
+    for basename in ('board', 'board_pins', 'board_bottom', 'board_pins_bottom', 'board_mechanical'):
+        svg = output_directory / 'src' / f'{basename}.svg'
+        if svg.is_file():
+            preview = _make_board_png(svg, svg.with_name(f'{basename}_300.png'),
+                                      maximum_dimension=300, regenerate_pngs=regenerate_pngs)
+            if not preview.get('available'):
+                raise RuntimeError(f'Preview rendering failed: {svg}')
+    explorer_path = generate_board_explorer(
+        part_directory,
+        project_data,
+        summary_data,
+        output_directory=output_directory,
+    )
+    print(f"compiled {summary_data['project']['display_name']}")
+    print(f"README: {part_directory / 'README.md'}")
+    print(f"assets: {output_directory / 'src'}")
+    print(f"explorer: {explorer_path}")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Compile an OOMP project part README.")
+    parser.add_argument("--kwargs", required=True, help="JSON action details supplied by Roboclick")
+    arguments = parser.parse_args()
+    details = json.loads(arguments.kwargs)
+    try:
+        compile_project_part(details)
+    except Exception as error:
+        log_run_error("project_readme_action", error)
+        raise
+
+
+if __name__ == "__main__":
+    main()

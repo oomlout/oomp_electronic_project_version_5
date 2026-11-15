@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: diode
+  package_size: null
+  value: DISP_LCD_GENERIC_SPI_1.69_WRAPUNDER
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_diode_rectifier_r_1_mdd_microdiode_semiconductor_1a7g
+  score: 0.1626
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_zener_do_27_onsemi_1n5339brlg
+  score: 0.1505
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_zener_do_27_onsemi_1n5338brlg
+  score: 0.1419
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_zener_do_27_onsemi_1n5350brlg
+  score: 0.1419
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_switching_dual_series_sot_23_nexperia_bav99_215
+  score: 0.1391
+  reasons:
+  - same component family

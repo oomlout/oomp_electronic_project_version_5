@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: 5805115365e041efcb9edbc7b4c9aae807d2805ddf892996507d746ad29eae74
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_key_snap_apart_pcb_neo_key_5x6_ortho_snap_apart_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: 7cc8aaf2012c43ff9f8b355bd37b503d7f4fd703f4a54664207f303b81915630
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_key_snap_apart_pcb_neo_key_5x6_ortho_snap_apart_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: 98c2976bc4ec658d8648e5585944f2d53f1988d7f4cdc923552a56b6b68cc06d
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_key_snap_apart_pcb_neo_key_5x6_ortho_snap_apart_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: 1a5222214ec531551117deb5ca0a019bf6c90abde0cffbe96ff99082461a119c
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_key_snap_apart_pcb_neo_key_5x6_ortho_snap_apart_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: a77dd090966110954db27922b1c8ccc90dca68ac9b71d6fd711f7cc1b7c51228
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_key_snap_apart_pcb_neo_key_5x6_ortho_snap_apart_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_key_snap_apart_pcb_neo_key_5x6_ortho_snap_apart_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: 19cf08e006a4525ebd9d28fce6f47682e35cf0fe2e697710d2fc4dbcf4830639
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_neo_key_snap_apart_pcb_neo_key_5x6_ortho_snap_apart_current\data\fp-lib-table

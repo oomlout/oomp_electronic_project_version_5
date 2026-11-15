@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: transistor
+  package_size: null
+  value: mmbt2222
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_transistor_to_3p_3_mosfet_n_channel_enhancement_mode_500_volt_28_4_amp_onsemi_fqa28n50
+  score: 0.0875
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_252_mosfet_p_channel_enhancement_mode_200_volt_3_6_amp_vishay_intertech_irfr9220trpbf
+  score: 0.0838
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_sot_89_3_bipolar_pnp_50_volt_2_amp_jiangsu_changjing_electronics_technology_co_ltd_2sa1213_range_120_240
+  score: 0.0778
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_220ab_mosfet_n_channel_enhancement_mode_200_volt_9_3_amp_infineon_technologies_irf630npbf
+  score: 0.0771
+  reasons:
+  - same component family
+- oomp_id: electronic_transistor_to_220_3_mosfet_n_channel_enhancement_mode_100_volt_127_amp_infineon_technologies_irfb4310zpbf
+  score: 0.0767
+  reasons:
+  - same component family

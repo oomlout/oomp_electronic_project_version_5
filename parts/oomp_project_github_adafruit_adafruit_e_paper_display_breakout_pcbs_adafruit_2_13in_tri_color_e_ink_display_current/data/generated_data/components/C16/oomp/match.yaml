@@ -1,0 +1,38 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: 0805
+  value: VSH2
+  mpn: null
+reasons:
+- The component value could not be normalized into an OOMP ID.
+candidates:
+- oomp_id: electronic_capacitor_0805_2_nano_farad
+  score: 0.1033
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_2_pico_farad
+  score: 0.1033
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_12_nano_farad
+  score: 0.1029
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_12_pico_farad
+  score: 0.1029
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_20_nano_farad
+  score: 0.1029
+  reasons:
+  - same component family
+  - same package size

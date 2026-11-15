@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: resistor
+  package_size: null
+  value: MAX98357A
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_resistor_1206_820000_ohm_ralec_rtt068203ftp
+  score: 0.0851
+  reasons:
+  - same component family
+- oomp_id: electronic_resistor_0603_2_7_ohm_ralec_rtt032r70ftp
+  score: 0.0849
+  reasons:
+  - same component family
+- oomp_id: electronic_resistor_1206_680_ohm_ralec_rtt066800ftp
+  score: 0.0756
+  reasons:
+  - same component family
+- oomp_id: electronic_resistor_1206_1300_ohm_ralec_rtt061301ftp
+  score: 0.0751
+  reasons:
+  - same component family
+- oomp_id: electronic_resistor_1206_56000_ohm_ralec_rtt065602ftp
+  score: 0.0745
+  reasons:
+  - same component family

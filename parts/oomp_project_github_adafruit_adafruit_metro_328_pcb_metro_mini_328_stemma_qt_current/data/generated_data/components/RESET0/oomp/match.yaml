@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: resistor
+  package_size: null
+  value: KMR2
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_resistor_array_4_x_0402_convex_0_ohm_8_pin
+  score: 0.1051
+  reasons:
+  - same component family
+- oomp_id: electronic_resistor_array_4_x_0402_convex_3_ohm_8_pin
+  score: 0.1051
+  reasons:
+  - same component family
+- oomp_id: electronic_resistor_array_4_x_0603_convex_0_ohm_8_pin
+  score: 0.1051
+  reasons:
+  - same component family
+- oomp_id: electronic_resistor_array_4_x_0402_convex_20_ohm_8_pin
+  score: 0.1049
+  reasons:
+  - same component family
+- oomp_id: electronic_resistor_array_4_x_0402_convex_27_ohm_8_pin
+  score: 0.1049
+  reasons:
+  - same component family

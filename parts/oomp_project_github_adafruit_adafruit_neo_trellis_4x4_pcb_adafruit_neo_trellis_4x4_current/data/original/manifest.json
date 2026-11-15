@@ -1,0 +1,32 @@
+{
+  "files": {
+    "kicad_file.kicad_pcb": {
+      "sha256": "f1fe5ecbda3b91fdf133b534674f148435e463ee29de690990097b0eb2aa721b",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_neo_trellis_4x4_pcb_adafruit_neo_trellis_4x4_current\\data\\kicad_file.kicad_pcb"
+    },
+    "kicad_file.kicad_sch": {
+      "sha256": "9bc57536202e4c1f23a57e9ecda8d643ee5a66833a5f3aec8bdbdbbd1300e1b6",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_neo_trellis_4x4_pcb_adafruit_neo_trellis_4x4_current\\data\\kicad_file.kicad_sch"
+    },
+    "kicad_file.kicad_pro": {
+      "sha256": "b4e2df1e4fbb3433acfca1201e535db1b5971f90e459716f23b48dfeb9de739b",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_neo_trellis_4x4_pcb_adafruit_neo_trellis_4x4_current\\data\\kicad_file.kicad_pro"
+    },
+    "source_eagle.brd": {
+      "sha256": "67afc54f90a5654b5f6cd72aa57cae5c9e5b6ae15619b15cd79474ba64dea81b",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_neo_trellis_4x4_pcb_adafruit_neo_trellis_4x4_current\\data\\source_eagle.brd"
+    },
+    "source_eagle.sch": {
+      "sha256": "1c6155204735545b6494fe086e00380fa0579c73e102482fa48e642e96625973",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_neo_trellis_4x4_pcb_adafruit_neo_trellis_4x4_current\\data\\source_eagle.sch"
+    },
+    "sym-lib-table": {
+      "sha256": "69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_neo_trellis_4x4_pcb_adafruit_neo_trellis_4x4_current\\data\\sym-lib-table"
+    },
+    "fp-lib-table": {
+      "sha256": "2ef7189f664f454b003523c46c57d0118e35e1214e34b8a525fb35a14d8ffd11",
+      "source": "C:\\gh\\oomp_electronic_version_5\\parts\\oomp_project_github_adafruit_adafruit_neo_trellis_4x4_pcb_adafruit_neo_trellis_4x4_current\\data\\fp-lib-table"
+    }
+  }
+}

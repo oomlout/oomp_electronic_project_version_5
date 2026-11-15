@@ -1,0 +1,335 @@
+count: 11
+components:
+- reference: D4
+  fields:
+    reference: D4
+    value: MBR120
+    footprint: SOD-123
+    library_id: kicad_file-eagle-import:DIODE-SCHOTTKYSOD-123
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: electronic_diode_schottky_sod_123
+    inferred:
+      kind: diode
+      package_size: null
+      value: MBR120
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_diode_schottky_sod_123_ss14
+      score: 0.4879
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_schottky_sod_323_bat54w
+      score: 0.4068
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_schottky_sod_523_1ss400
+      score: 0.4068
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_switching_sod_123_onsemi_1n4148w
+      score: 0.389
+      reasons:
+      - same component family
+    - oomp_id: electronic_diode_switching_sod_123_st_semtech_1n4148w
+      score: 0.3672
+      reasons:
+      - same component family
+  generated_directory: components/D4
+- reference: IC1
+  fields:
+    reference: IC1
+    value: CP2104
+    footprint: QFN24_4MM_SMSC
+    library_id: kicad_file-eagle-import:CP2104
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: CP2104
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/IC1
+- reference: Q1
+  fields:
+    reference: Q1
+    value: mmbt2222
+    footprint: SOT23-3
+    library_id: kicad_file-eagle-import:TRANSISTOR_NPNSOT23-3
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: transistor
+      package_size: null
+      value: mmbt2222
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_transistor_to_3p_3_mosfet_n_channel_enhancement_mode_500_volt_28_4_amp_onsemi_fqa28n50
+      score: 0.0875
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_252_mosfet_p_channel_enhancement_mode_200_volt_3_6_amp_vishay_intertech_irfr9220trpbf
+      score: 0.0838
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_sot_89_3_bipolar_pnp_50_volt_2_amp_jiangsu_changjing_electronics_technology_co_ltd_2sa1213_range_120_240
+      score: 0.0778
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_220ab_mosfet_n_channel_enhancement_mode_200_volt_9_3_amp_infineon_technologies_irf630npbf
+      score: 0.0771
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_220_3_mosfet_n_channel_enhancement_mode_100_volt_127_amp_infineon_technologies_irfb4310zpbf
+      score: 0.0767
+      reasons:
+      - same component family
+  generated_directory: components/Q1
+- reference: Q2
+  fields:
+    reference: Q2
+    value: mmbt2222
+    footprint: SOT23-3
+    library_id: kicad_file-eagle-import:TRANSISTOR_NPNSOT23-3
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: transistor
+      package_size: null
+      value: mmbt2222
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_transistor_to_3p_3_mosfet_n_channel_enhancement_mode_500_volt_28_4_amp_onsemi_fqa28n50
+      score: 0.0875
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_252_mosfet_p_channel_enhancement_mode_200_volt_3_6_amp_vishay_intertech_irfr9220trpbf
+      score: 0.0838
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_sot_89_3_bipolar_pnp_50_volt_2_amp_jiangsu_changjing_electronics_technology_co_ltd_2sa1213_range_120_240
+      score: 0.0778
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_220ab_mosfet_n_channel_enhancement_mode_200_volt_9_3_amp_infineon_technologies_irf630npbf
+      score: 0.0771
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_220_3_mosfet_n_channel_enhancement_mode_100_volt_127_amp_infineon_technologies_irfb4310zpbf
+      score: 0.0767
+      reasons:
+      - same component family
+  generated_directory: components/Q2
+- reference: Q3
+  fields:
+    reference: Q3
+    value: DMG3415U
+    footprint: SOT23-R
+    library_id: kicad_file-eagle-import:MOSFET-P
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: transistor
+      package_size: null
+      value: DMG3415U
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_30_volt_alpha_omega_semicon_ao3401a
+      score: 0.1283
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_so_8_mosfet_p_channel_enhancement_mode_30_volt_10_amp_infineon_technologies_irf7416trpbf
+      score: 0.1144
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_220ab_mosfet_p_channel_enhancement_mode_55_volt_31_amp_infineon_technologies_irf5305pbf
+      score: 0.1139
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_220ab_mosfet_p_channel_enhancement_mode_55_volt_74_amp_infineon_technologies_irf4905pbf
+      score: 0.1139
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_251_mosfet_p_channel_enhancement_mode_100_volt_13_amp_infineon_technologies_irfu5410pbf
+      score: 0.1139
+      reasons:
+      - same component family
+  generated_directory: components/Q3
+- reference: SW2
+  fields:
+    reference: SW2
+    value: KMR2
+    footprint: BTN_KMR2_4.6X2.8
+    library_id: kicad_file-eagle-import:SWITCH_TACT_SMT4.6X2.8
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: KMR2
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/SW2
+- reference: U2
+  fields:
+    reference: U2
+    value: AP2112-3.3
+    footprint: SOT23-5
+    library_id: kicad_file-eagle-import:VREG_SOT23-5
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: AP2112-3.3
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/U2
+- reference: U3
+  fields:
+    reference: U3
+    value: MCP73831T-2ACI/OT
+    footprint: SOT23-5
+    library_id: kicad_file-eagle-import:MCP73831/2
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: MCP73831T-2ACI/OT
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/U3
+- reference: X1
+  fields:
+    reference: X1
+    value: JSTPH
+    footprint: JSTPH2
+    library_id: kicad_file-eagle-import:CON_JST_PH_2PIN
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: JSTPH
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/X1
+- reference: X2
+  fields:
+    reference: X2
+    value: ESP32_WROOM32_SKINNY
+    footprint: WROOM32_SKINNY
+    library_id: kicad_file-eagle-import:ESP32_WROOM32_SKINNY
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: ESP32_WROOM32_SKINNY
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/X2
+- reference: X4
+  fields:
+    reference: X4
+    value: '20329'
+    footprint: 4UCONN_20329_V2
+    library_id: kicad_file-eagle-import:USB_MICRO_20329_V2
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: '20329'
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/X4

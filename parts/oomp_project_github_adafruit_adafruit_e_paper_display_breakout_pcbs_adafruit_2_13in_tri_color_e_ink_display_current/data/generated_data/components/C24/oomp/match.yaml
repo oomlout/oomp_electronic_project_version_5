@@ -1,0 +1,38 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: capacitor
+  package_size: 0805
+  value: .1uF
+  mpn: null
+reasons:
+- The component value could not be normalized into an OOMP ID.
+candidates:
+- oomp_id: electronic_capacitor_0805_1_nano_farad
+  score: 0.1208
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_1_pico_farad
+  score: 0.1208
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_10_nano_farad
+  score: 0.12
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_12_nano_farad
+  score: 0.12
+  reasons:
+  - same component family
+  - same package size
+- oomp_id: electronic_capacitor_0805_12_pico_farad
+  score: 0.12
+  reasons:
+  - same component family
+  - same package size

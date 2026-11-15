@@ -1,0 +1,348 @@
+count: 12
+components:
+- reference: C4
+  fields:
+    reference: C4
+    value: 47uF/16v
+    footprint: PANASONIC_C
+    library_id: kicad_file-eagle-import:CAP_ELECTROLYTICPANASONIC_C
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: capacitor
+      package_size: null
+      value: 47uF/16v
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_capacitor_5_mm_diameter_5_4_mm_tall_electrolytic_47_micro_farad_16_volt
+      score: 0.7078
+      reasons:
+      - same component family
+      - same normalized value
+    - oomp_id: electronic_capacitor_6032_avx_c_tantalum_47_micro_farad_16_volt_avx_tajc476k016rnej
+      score: 0.7077
+      reasons:
+      - same component family
+      - same normalized value
+    - oomp_id: electronic_capacitor_7343_avx_d_tantalum_47_micro_farad_16_volt_avx_tajd476k016rnej
+      score: 0.7077
+      reasons:
+      - same component family
+      - same normalized value
+    - oomp_id: electronic_capacitor_3216_avx_a_tantalum_47_micro_farad_6_3_volt_avx_taja476k006rnej
+      score: 0.7065
+      reasons:
+      - same component family
+      - same normalized value
+    - oomp_id: electronic_capacitor_3528_avx_b_tantalum_47_micro_farad_6_3_volt_avx_tajb476k006rnej
+      score: 0.7065
+      reasons:
+      - same component family
+      - same normalized value
+  generated_directory: components/C4
+- reference: C5
+  fields:
+    reference: C5
+    value: 47uF+/16v
+    footprint: PANASONIC_C
+    library_id: kicad_file-eagle-import:CAP_ELECTROLYTICPANASONIC_C
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: capacitor
+      package_size: null
+      value: 47uF+/16v
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_capacitor_5_mm_diameter_5_4_mm_tall_electrolytic_47_micro_farad_16_volt
+      score: 0.7078
+      reasons:
+      - same component family
+      - same normalized value
+    - oomp_id: electronic_capacitor_6032_avx_c_tantalum_47_micro_farad_16_volt_avx_tajc476k016rnej
+      score: 0.7077
+      reasons:
+      - same component family
+      - same normalized value
+    - oomp_id: electronic_capacitor_7343_avx_d_tantalum_47_micro_farad_16_volt_avx_tajd476k016rnej
+      score: 0.7077
+      reasons:
+      - same component family
+      - same normalized value
+    - oomp_id: electronic_capacitor_3216_avx_a_tantalum_47_micro_farad_6_3_volt_avx_taja476k006rnej
+      score: 0.7065
+      reasons:
+      - same component family
+      - same normalized value
+    - oomp_id: electronic_capacitor_3528_avx_b_tantalum_47_micro_farad_6_3_volt_avx_tajb476k006rnej
+      score: 0.7065
+      reasons:
+      - same component family
+      - same normalized value
+  generated_directory: components/C5
+- reference: IC1
+  fields:
+    reference: IC1
+    value: TB6612FNG
+    footprint: SSOP24
+    library_id: kicad_file-eagle-import:TB6612FNG
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: TB6612FNG
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/IC1
+- reference: IC3
+  fields:
+    reference: IC3
+    value: TB6612FNG
+    footprint: SSOP24
+    library_id: kicad_file-eagle-import:TB6612FNG
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: TB6612FNG
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/IC3
+- reference: MS1
+  fields:
+    reference: MS1
+    value: FEATHERWING
+    footprint: FEATHERWING
+    library_id: kicad_file-eagle-import:FEATHERWING
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: FEATHERWING
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/MS1
+- reference: Q1
+  fields:
+    reference: Q1
+    value: AON7401
+    footprint: POWERDI3333
+    library_id: kicad_file-eagle-import:MOSFET-P-POWERDI3333
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: transistor
+      package_size: null
+      value: AON7401
+      mpn: null
+    reasons:
+    - Component family was inferred, but package size was not.
+    candidates:
+    - oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_30_volt_alpha_omega_semicon_ao3401a
+      score: 0.1262
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_sot_23_mosfet_p_channel_enhancement_mode_20_volt_vishay_si2301cds_t1_ge3
+      score: 0.1206
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_247ac_mosfet_p_channel_enhancement_mode_200_volt_12_amp_vishay_intertech_irfp9240pbf
+      score: 0.1188
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_so_8_mosfet_p_channel_enhancement_mode_30_volt_10_amp_infineon_technologies_irf7416trpbf
+      score: 0.1186
+      reasons:
+      - same component family
+    - oomp_id: electronic_transistor_to_220ab_mosfet_p_channel_enhancement_mode_55_volt_74_amp_infineon_technologies_irf4905pbf
+      score: 0.118
+      reasons:
+      - same component family
+  generated_directory: components/Q1
+- reference: SW1
+  fields:
+    reference: SW1
+    value: SWITCH_TACT_SMT4.6X2.8
+    footprint: BTN_KMR2_4.6X2.8
+    library_id: kicad_file-eagle-import:SWITCH_TACT_SMT4.6X2.8
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: SWITCH_TACT_SMT4.6X2.8
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/SW1
+- reference: U2
+  fields:
+    reference: U2
+    value: PCA9685
+    footprint: TSSOP28
+    library_id: kicad_file-eagle-import:PCA9685
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: PCA9685
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/U2
+- reference: X1
+  fields:
+    reference: X1
+    value: TERMBLOCK_1X2
+    footprint: TERMBLOCK_1X2-3.5MM
+    library_id: kicad_file-eagle-import:TERMBLOCK_1X2
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: TERMBLOCK_1X2
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/X1
+- reference: X2
+  fields:
+    reference: X2
+    value: TERMBLOCK_1X2
+    footprint: TERMBLOCK_1X2-3.5MM
+    library_id: kicad_file-eagle-import:TERMBLOCK_1X2
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: TERMBLOCK_1X2
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/X2
+- reference: X4
+  fields:
+    reference: X4
+    value: TERMBLOCK_1X2
+    footprint: TERMBLOCK_1X2-3.5MM
+    library_id: kicad_file-eagle-import:TERMBLOCK_1X2
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: TERMBLOCK_1X2
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/X4
+- reference: X6
+  fields:
+    reference: X6
+    value: TERMBLOCK_1X2
+    footprint: TERMBLOCK_1X2-3.5MM
+    library_id: kicad_file-eagle-import:TERMBLOCK_1X2
+    mpn: ''
+    manufacturer: ''
+  match:
+    status: unmatched
+    accepted: false
+    oomp_id: null
+    confidence: 0.0
+    proposed_oomp_id: null
+    inferred:
+      kind: null
+      package_size: null
+      value: TERMBLOCK_1X2
+      mpn: null
+    reasons:
+    - No supported OOMP component family could be inferred.
+    candidates: []
+  generated_directory: components/X6

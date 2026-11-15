@@ -1,0 +1,32 @@
+Project data fetch failed.
+Error type: RuntimeError
+Error message: KiCad CLI is required to import Eagle projects. Install a KiCad version that provides `kicad-cli import`.
+Repository URL: https://github.com/adafruit/DS1307-breakout-board.git
+Repository name: DS1307-breakout-board
+Source folder: 
+Source basename: DS1307 Rev B
+Extensions: ['.kicad_pcb', '.kicad_sch', '.kicad_pro']
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\gh\oomp_electronic_version_5\kicad_agents\project_git_action.py", line 152, in _convert_eagle_project
+    completed = subprocess.run(command, capture_output=True, text=True)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaron\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaron\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\aaron\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\gh\oomp_electronic_version_5\kicad_agents\project_git_action.py", line 260, in refresh_project_files
+    _convert_eagle_project(
+  File "C:\gh\oomp_electronic_version_5\kicad_agents\project_git_action.py", line 154, in _convert_eagle_project
+    raise RuntimeError(
+RuntimeError: KiCad CLI is required to import Eagle projects. Install a KiCad version that provides `kicad-cli import`.

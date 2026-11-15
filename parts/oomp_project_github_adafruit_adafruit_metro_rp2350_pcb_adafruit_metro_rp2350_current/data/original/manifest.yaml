@@ -1,0 +1,22 @@
+files:
+  kicad_file.kicad_pcb:
+    sha256: e9fa8ed0874090fa500e81fc6c89f68a5d44b44c3970810b7ab629077482fbb4
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_metro_rp2350_pcb_adafruit_metro_rp2350_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: d855453ce849e2f523326580391c4844c6ef81c19ae54e98739c2a27540a63a8
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_metro_rp2350_pcb_adafruit_metro_rp2350_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: 9ef687dda3ee2ee91f25fdc762ed86925ee548b59c00493688e8f9abe11f3ced
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_metro_rp2350_pcb_adafruit_metro_rp2350_current\data\kicad_file.kicad_pro
+  source_eagle.brd:
+    sha256: 7759466a3c70ffb6a16bf487c26b05eb005a2e7982f765d8a882b9d2fc232b8f
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_metro_rp2350_pcb_adafruit_metro_rp2350_current\data\source_eagle.brd
+  source_eagle.sch:
+    sha256: 57975fdcc20e271edc7a605631d0e7ce52e283e5bae750ff44dd644776993aff
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_metro_rp2350_pcb_adafruit_metro_rp2350_current\data\source_eagle.sch
+  sym-lib-table:
+    sha256: 69492a516881267746d18d3bf6b3511aeb712a5aa24fd87c4bd7fa28692bb9e1
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_metro_rp2350_pcb_adafruit_metro_rp2350_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: 5a878a07e43fb088032f7c6fc5fbe7e9bc814c57aff802ddcaa9128a4aebbf80
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_adafruit_adafruit_metro_rp2350_pcb_adafruit_metro_rp2350_current\data\fp-lib-table

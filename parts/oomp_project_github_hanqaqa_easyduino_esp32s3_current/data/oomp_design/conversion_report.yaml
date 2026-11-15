@@ -1,0 +1,737 @@
+format_version: 1
+kicad_version: '10'
+originals:
+  kicad_file.kicad_pcb:
+    sha256: 933e02f88c326e69afa4d13fa50beed2170495428de00b191609f7a8b6d92ad0
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_hanqaqa_easyduino_esp32s3_current\data\kicad_file.kicad_pcb
+  kicad_file.kicad_sch:
+    sha256: eca45e2d26f4c0265dbb5cc840f3e996e65fc543bace5e1c9fd8aac7b321b8b2
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_hanqaqa_easyduino_esp32s3_current\data\kicad_file.kicad_sch
+  kicad_file.kicad_pro:
+    sha256: 013dc3400769f6fcefdc0f6d1ea8515dca9b9a15eee4c9386e0a22190aa4d9b7
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_hanqaqa_easyduino_esp32s3_current\data\kicad_file.kicad_pro
+  References.kicad_sch:
+    sha256: d03509e254c6eb90952d92c72990a8f260069545b1c0055362809eb63e9983e5
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_hanqaqa_easyduino_esp32s3_current\data\kicad_file_sheets\References.kicad_sch
+  sym-lib-table:
+    sha256: 8f4d2e69e64bbd60d8a700e1bede4e54248f2e12142588ca67471c0d577e0e74
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_hanqaqa_easyduino_esp32s3_current\data\sym-lib-table
+  fp-lib-table:
+    sha256: ca28d750ca294eab98c7df3fe641ef8becc91ceb80b013d77ed4ebb2f1dac77e
+    source: C:\gh\oomp_electronic_version_5\parts\oomp_project_github_hanqaqa_easyduino_esp32s3_current\data\fp-lib-table
+output_sha256:
+  Easyduino_ESP32S3.kicad_pcb: a8070024edc703204f98a20282022962df71db4199d72a0eb500fdc26978442c
+  Easyduino_ESP32S3.kicad_sch: 6f3471de704eeb3506821e42e827ec061d54cc9b38bc416e4e0dee5eaecbf184
+  Easyduino_ESP32S3.kicad_pro: 013dc3400769f6fcefdc0f6d1ea8515dca9b9a15eee4c9386e0a22190aa4d9b7
+  References.kicad_sch: 8806959db409d638a434d44a76c134d74ef676ae1532101da8058db177629cc9
+  sym-lib-table: 23a7026c3531971c1b7dfd9d5d31683548283847e292c2d7f04438b6cf951861
+  fp-lib-table: 59296c733dba872a213313d50135520c09c39fc60a82bed157d48dc5cf2a5a40
+summary:
+  footprints_converted: 0
+  footprints_skipped: 35
+  symbols_converted: 11
+  symbols_skipped: 66
+footprints:
+- reference: D3
+  source: Diode_SMD:D_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_diode_schottky_0402
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: D4
+  source: LED_SMD:LED_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_led_0402_blue
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: R2
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: C4
+  source: Capacitor_SMD:C_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: R9
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_2400_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: C2
+  source: Capacitor_SMD:C_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: R3
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: C3
+  source: Capacitor_SMD:C_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: D1
+  source: LED_SMD:LED_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_led_0402_blue
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: D2
+  source: Diode_SMD:D_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_diode_schottky_0402
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: R4
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_10000_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: C6
+  source: Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I
+  status: skipped
+  oomp_id: electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  reason: Source is not an available official master for this OOMP part.
+- reference: U1
+  source: Espressif:ESP32-S3-WROOM-1
+  status: skipped
+  oomp_id: electronic_ic_esp32_s3_wroom_1_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_s3_wroom_1_n8
+  reason: Source is not an available official master for this OOMP part.
+- reference: R1
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_10000_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: U5
+  source: Package_TO_SOT_SMD:SOT-223-3_TabPin2
+  status: skipped
+  oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: C5
+  source: Capacitor_SMD:C_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: R7
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: SW2
+  source: Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK
+  status: skipped
+  oomp_id: electronic_switch_tactile_surface_mount_xunpu_ts_1088_ar02016
+  reason: Source is not an available official master for this OOMP part.
+- reference: U3
+  source: Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm
+  status: skipped
+  oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: C8
+  source: Capacitor_SMD:C_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: SW1
+  source: Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK
+  status: skipped
+  oomp_id: electronic_switch_tactile_surface_mount_xunpu_ts_1088_ar02016
+  reason: Source is not an available official master for this OOMP part.
+- reference: R10
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_10000_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: R5
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_10000_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: R11
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: C9
+  source: Capacitor_SMD:C_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: C1
+  source: Capacitor_SMD:C_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_capacitor_0402_1_micro_farad
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: Q1
+  source: Package_TO_SOT_SMD:SOT-23W
+  status: skipped
+  oomp_id: electronic_transistor_sot_23_bipolar_npn
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: C10
+  source: Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I
+  status: skipped
+  oomp_id: electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  reason: Source is not an available official master for this OOMP part.
+- reference: C7
+  source: Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I
+  status: skipped
+  oomp_id: electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  reason: Source is not an available official master for this OOMP part.
+- reference: U2
+  source: Espressif:ESP32-S3-DevKitC
+  status: skipped
+  reason: No approved OOMP match.
+- reference: R8
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: J2
+  source: Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV
+  status: skipped
+  oomp_id: electronic_connector_usb_c_surface_mount_16_pin_shou_han_type_c_16pin_2md_073
+  reason: Source is not an available official master for this OOMP part.
+- reference: R6
+  source: Resistor_SMD:R_0402_1005Metric
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+- reference: J1
+  source: Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV
+  status: skipped
+  oomp_id: electronic_connector_usb_c_surface_mount_16_pin_shou_han_type_c_16pin_2md_073
+  reason: Source is not an available official master for this OOMP part.
+- reference: Q2
+  source: Package_TO_SOT_SMD:SOT-23W
+  status: skipped
+  oomp_id: electronic_transistor_sot_23_bipolar_npn
+  reason: KiCad pcbnew Python is unavailable (C:\Program Files\KiCad\10\bin\python.exe);
+    footprint identity and annotation conversion was skipped.
+symbols:
+- references:
+  - D1
+  source: Device:LED
+  status: converted
+  oomp_id: electronic_led_0402_blue
+  target: OOMP:electronic_led_0402_blue
+  file: kicad_file.kicad_sch
+- references:
+  - Q1
+  source: Device:Q_NPN_BCE
+  status: skipped
+  oomp_id: electronic_transistor_sot_23_bipolar_npn
+  reason: OOMP symbol master unavailable.
+  file: kicad_file.kicad_sch
+- references:
+  - U5
+  source: Regulator_Linear:AMS1117-3.3
+  status: converted
+  oomp_id: electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+  target: OOMP:electronic_ic_sot_223_3_power_management_linear_voltage_regulator_3_3_volt_advanced_monolithic_systems_ams1117_3_3
+  file: kicad_file.kicad_sch
+- references:
+  - R9
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_2400_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR036'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR06'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - R2
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - R4
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_10000_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - SW2
+  source: Switch:SW_Push
+  status: converted
+  oomp_id: electronic_switch_tactile_surface_mount_xunpu_ts_1088_ar02016
+  target: OOMP:electronic_switch_tactile_surface_mount_xunpu_ts_1088_ar02016
+  file: kicad_file.kicad_sch
+- references:
+  - C5
+  source: Device:C
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR04'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - R7
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - R8
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR023'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR029'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR016'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR025'
+  source: power:+3.3V
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - R1
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_10000_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR09'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR044'
+  source: power:VBUS
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - D2
+  source: Device:D_Schottky
+  status: converted
+  oomp_id: electronic_diode_schottky_0402
+  target: OOMP:electronic_diode_schottky_0402
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR026'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR037'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR039'
+  source: power:VBUS
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - SW1
+  source: Switch:SW_Push
+  status: converted
+  oomp_id: electronic_switch_tactile_surface_mount_xunpu_ts_1088_ar02016
+  target: OOMP:electronic_switch_tactile_surface_mount_xunpu_ts_1088_ar02016
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR07'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR024'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR035'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR019'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - C7
+  source: Device:C_Polarized
+  status: converted
+  oomp_id: electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  target: OOMP:electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR032'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - U3
+  source: Interface_USB:CP2102N-Axx-xQFN28
+  status: converted
+  oomp_id: electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+  target: OOMP:electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102n_a01_gqfn28r
+  file: kicad_file.kicad_sch
+- references:
+  - U2
+  source: Espressif:ESP32-S3-DevKitC
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - R5
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_10000_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR043'
+  source: power:VBUS
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - D4
+  source: Device:LED
+  status: converted
+  oomp_id: electronic_led_0402_blue
+  target: OOMP:electronic_led_0402_blue
+  file: kicad_file.kicad_sch
+- references:
+  - R6
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - C3
+  source: Device:C
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR041'
+  source: power:VBUS
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR017'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR01'
+  source: power:+3.3V
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR010'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR040'
+  source: power:VBUS
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR012'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR022'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - J2
+  source: Connector:USB_C_Receptacle_USB2.0
+  status: skipped
+  oomp_id: electronic_connector_usb_c_surface_mount_16_pin_shou_han_type_c_16pin_2md_073
+  reason: Source is not a known official KiCad symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - C4
+  source: Device:C
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR05'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - C2
+  source: Device:C
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR021'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - J1
+  source: Connector:USB_C_Receptacle_USB2.0
+  status: skipped
+  oomp_id: electronic_connector_usb_c_surface_mount_16_pin_shou_han_type_c_16pin_2md_073
+  reason: Source is not a known official KiCad symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - C6
+  source: Device:C_Polarized
+  status: converted
+  oomp_id: electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  target: OOMP:electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR08'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR042'
+  source: power:VBUS
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#FLG03'
+  source: power:PWR_FLAG
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR031'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - C9
+  source: Device:C
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR038'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR018'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR014'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - R3
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR011'
+  source: power:+3.3V
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - C10
+  source: Device:C_Polarized
+  status: converted
+  oomp_id: electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  target: OOMP:electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR013'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - C8
+  source: Device:C
+  status: skipped
+  oomp_id: electronic_capacitor_0402_100_nano_farad
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - U1
+  source: Espressif:ESP32-S3-WROOM-1
+  status: skipped
+  oomp_id: electronic_ic_esp32_s3_wroom_1_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_s3_wroom_1_n8
+  reason: Source is not a known official KiCad symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - R10
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_10000_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - R11
+  source: Device:R
+  status: skipped
+  oomp_id: electronic_resistor_0402_5100_ohm
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR030'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - C1
+  source: Device:C
+  status: skipped
+  oomp_id: electronic_capacitor_0402_1_micro_farad
+  reason: OOMP canonical symbol differs in graphics, pins or units.
+  file: kicad_file.kicad_sch
+- references:
+  - D3
+  source: Device:D_Schottky
+  status: converted
+  oomp_id: electronic_diode_schottky_0402
+  target: OOMP:electronic_diode_schottky_0402
+  file: kicad_file.kicad_sch
+- references:
+  - '#FLG02'
+  source: power:PWR_FLAG
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR015'
+  source: power:+3.3V
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - Q2
+  source: Device:Q_NPN_BCE
+  status: skipped
+  oomp_id: electronic_transistor_sot_23_bipolar_npn
+  reason: OOMP symbol master unavailable.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR020'
+  source: power:GND
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#PWR02'
+  source: power:+3.3V
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+- references:
+  - '#FLG01'
+  source: power:PWR_FLAG
+  status: skipped
+  reason: No single approved OOMP part for every instance of this symbol.
+  file: kicad_file.kicad_sch
+validation:
+  status: passed
+  pcb_invariants: unchanged except approved IDs and added annotations
+  netlist_components: 35
+  netlist_nets: 77
+  netlist_comparison: component values/UUIDs and named-net pin memberships match exactly

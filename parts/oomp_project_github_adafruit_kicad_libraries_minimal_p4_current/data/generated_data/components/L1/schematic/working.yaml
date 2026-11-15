@@ -1,0 +1,165 @@
+available: true
+units:
+- reference: L1
+  source_file: data/kicad_file.kicad_sch
+  uuid: 5111175a-d300-42bb-b350-293d90595359
+  library_id: Device:L_Small
+  unit: 1
+  body_style: 1
+  position:
+    x: 212.09
+    y: 39.37
+    rotation: 90.0
+    mirror: null
+    units: mm
+  properties:
+    Reference: L1
+    Value: 2.2uH
+    Footprint: Inductor_SMD:L_1008_2520Metric
+    Datasheet: ''
+    Description: Inductor, small symbol
+  in_bom: true
+  on_board: true
+  in_position_files: true
+  dnp: false
+  pins:
+  - number: '1'
+    name: ''
+    electrical_type: passive
+    graphic_style: line
+    local_position:
+      x: 0.0
+      y: 2.54
+      rotation: 270.0
+    length: 0.508
+    position:
+      x: 209.55
+      y: 39.37
+    net: null
+    net_aliases: []
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: U1
+      pin_number: '3'
+      pin_name: SW
+  - number: '2'
+    name: ''
+    electrical_type: passive
+    graphic_style: line
+    local_position:
+      x: 0.0
+      y: -2.54
+      rotation: 90.0
+    length: 0.508
+    position:
+      x: 214.63
+      y: 39.37
+    net: VDD_HP
+    net_aliases:
+    - VDD_HP
+    net_scope: sheet
+    no_connect: false
+    connected_to:
+    - reference: C2
+      pin_number: '1'
+      pin_name: ''
+    - reference: C3
+      pin_number: '1'
+      pin_name: ''
+    - reference: C8
+      pin_number: '1'
+      pin_name: ''
+    - reference: C15
+      pin_number: '1'
+      pin_name: ''
+    - reference: C28
+      pin_number: '1'
+      pin_name: ''
+    - reference: C29
+      pin_number: '1'
+      pin_name: ''
+    - reference: R1
+      pin_number: '2'
+      pin_name: ''
+    - reference: R39
+      pin_number: '1'
+      pin_name: ''
+    - reference: U2
+      pin_number: '26'
+      pin_name: VDD_HP_0
+    - reference: U2
+      pin_number: '76'
+      pin_name: VDD_HP_2
+    - reference: U2
+      pin_number: '91'
+      pin_name: VDD_HP_3
+  size:
+    local_graphics:
+      measurement: symbol graphics only; excludes pins, properties, and text
+      units: mm
+      available: true
+      min:
+        x: 0.0
+        y: -2.032
+      max:
+        x: 0.5058
+        y: 2.032
+      width: 0.5058
+      height: 4.064
+      center:
+        x: 0.2529
+        y: 0.0
+    placed_graphics:
+      measurement: axis-aligned bounds after schematic placement, rotation, and mirroring
+      units: mm
+      available: true
+      min:
+        x: 210.058
+        y: 38.8642
+      max:
+        x: 214.122
+        y: 39.37
+      width: 4.064
+      height: 0.5058
+      center:
+        x: 212.09
+        y: 39.1171
+  warnings: []
+connected_components:
+- reference: C2
+  pin_number: '1'
+  pin_name: ''
+- reference: C3
+  pin_number: '1'
+  pin_name: ''
+- reference: C8
+  pin_number: '1'
+  pin_name: ''
+- reference: C15
+  pin_number: '1'
+  pin_name: ''
+- reference: C28
+  pin_number: '1'
+  pin_name: ''
+- reference: C29
+  pin_number: '1'
+  pin_name: ''
+- reference: R1
+  pin_number: '2'
+  pin_name: ''
+- reference: R39
+  pin_number: '1'
+  pin_name: ''
+- reference: U1
+  pin_number: '3'
+  pin_name: SW
+- reference: U2
+  pin_number: '26'
+  pin_name: VDD_HP_0
+- reference: U2
+  pin_number: '76'
+  pin_name: VDD_HP_2
+- reference: U2
+  pin_number: '91'
+  pin_name: VDD_HP_3

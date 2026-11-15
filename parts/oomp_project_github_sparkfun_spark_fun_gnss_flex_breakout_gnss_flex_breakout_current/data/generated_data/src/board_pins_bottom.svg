@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="109.5700 67.6600 75.5000 62.8000">
+<defs>
+<style>
+.page { fill: var(--brd-page, #FFFFFF); }
+.board { fill: var(--brd-board-fill, #FFFFFF); stroke: var(--brd-board-outline, #000000); stroke-width: 0.35; }
+.edge-cut { fill: none; stroke: var(--brd-board-outline, #000000); stroke-width: 0.25; }
+.component { fill: var(--brd-component-fill, #FFFFFF); stroke: var(--brd-component-outline, #000000); stroke-width: 0.18; }
+.mechanical-pad { fill: var(--brd-page, #FFFFFF); stroke: var(--brd-component-outline, #000000); stroke-width: 0.18; }
+.mounting-hole { fill: var(--brd-page, #FFFFFF); stroke: var(--brd-component-outline, #000000); stroke-width: 0.22; }
+.reference { fill: var(--brd-text, #000000); font-family: Arial, sans-serif; font-size: 0.72px; text-anchor: middle; paint-order: stroke; stroke: var(--brd-plate, #FFFFFF); stroke-width: 0.35px; }
+.indicator-plate { fill: var(--brd-plate, #FFFFFF); fill-opacity: .55; }
+.indicator-text { fill: var(--brd-plate-text, #000000); }
+</style>
+</defs>
+<rect class="page" x="109.5700" y="67.6600" width="75.5000" height="62.8000" />
+<rect class="board" x="115.5700" y="73.6600" width="63.5000" height="50.8000" rx="1.0" />
+<polyline class="edge-cut" points="179.0700,124.4600 179.0700,73.6600 115.5700,73.6600 115.5700,124.4600 179.0700,124.4600" />
+<circle class="mounting-hole" cx="174.1650" cy="101.8850" r="0.3250" />
+<circle class="mounting-hole" cx="174.1650" cy="107.6650" r="0.3250" />
+<circle class="mounting-hole" cx="174.1650" cy="90.4550" r="0.3250" />
+<circle class="mounting-hole" cx="174.1650" cy="96.2350" r="0.3250" />
+<circle class="mounting-hole" cx="162.8200" cy="91.0600" r="0.6000" />
+<circle class="mounting-hole" cx="162.8200" cy="107.0600" r="0.6000" />
+<circle class="mounting-hole" cx="126.8200" cy="91.0600" r="0.6000" />
+<circle class="mounting-hole" cx="126.8200" cy="107.0600" r="0.6000" />
+<circle class="mounting-hole" cx="176.5300" cy="76.2000" r="1.5500" />
+<circle class="mounting-hole" cx="176.5300" cy="121.9200" r="1.5500" />
+<circle class="mounting-hole" cx="118.1100" cy="76.2000" r="1.5500" />
+<circle class="mounting-hole" cx="118.1100" cy="121.9200" r="1.5500" />
+<circle class="mounting-hole" cx="164.3200" cy="84.5600" r="1.5500" />
+<circle class="mounting-hole" cx="164.3200" cy="113.5600" r="1.5500" />
+<circle class="mounting-hole" cx="125.3200" cy="84.5600" r="1.5500" />
+<circle class="mounting-hole" cx="125.3200" cy="113.5600" r="1.5500" />
+</svg>

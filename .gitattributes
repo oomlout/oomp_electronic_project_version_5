@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Migrated artifacts and dependency manifests use byte-level provenance hashes.
+# Preserve their exact bytes on Windows and Linux checkouts.
+parts/** -text
+parts_source/** -text
+project_data/** -text
+component_catalog/** -text

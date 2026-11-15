@@ -1,0 +1,33 @@
+status: unmatched
+accepted: false
+oomp_id: null
+confidence: 0.0
+proposed_oomp_id: null
+inferred:
+  kind: diode
+  package_size: null
+  value: SWITCH_TACT_SMT_6MMSMALL
+  mpn: null
+reasons:
+- Component family was inferred, but package size was not.
+candidates:
+- oomp_id: electronic_diode_tvs_smb_brightking_p6smb6_8ca_tr13
+  score: 0.1596
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_switching_sod_123_st_semtech_1n4148w
+  score: 0.1564
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_tvs_smb_hongjiacheng_smbj6_5ca
+  score: 0.1491
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_schottky_sod_123_ss14
+  score: 0.1449
+  reasons:
+  - same component family
+- oomp_id: electronic_diode_switching_sod_323_onsemi_1n4148ws
+  score: 0.1447
+  reasons:
+  - same component family
